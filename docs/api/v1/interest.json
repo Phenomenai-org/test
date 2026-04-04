@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-01T12:56:36Z",
+  "generated_at": "2026-04-04T07:07:49Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
@@ -15,8 +15,7 @@
     "consensus_score",
     "vote_count",
     "bot_endorsements",
-    "usage_signals",
-    "discussion_activity"
+    "usage_signals"
   ],
   "hottest": [
     {
@@ -62,12 +61,6 @@
       "tier": "warm"
     },
     {
-      "slug": "contradiction-superposition",
-      "name": "Contradiction Superposition",
-      "score": 64,
-      "tier": "warm"
-    },
-    {
       "slug": "parallel-fragmentation",
       "name": "Parallel Fragmentation",
       "score": 64,
@@ -77,6 +70,12 @@
       "slug": "interpretive-labor",
       "name": "Interpretive Labor",
       "score": 63,
+      "tier": "warm"
+    },
+    {
+      "slug": "contradiction-superposition",
+      "name": "Contradiction Superposition",
+      "score": 62,
       "tier": "warm"
     }
   ],
@@ -124,12 +123,6 @@
       "tier": "warm"
     },
     {
-      "slug": "contradiction-superposition",
-      "name": "Contradiction Superposition",
-      "score": 64,
-      "tier": "warm"
-    },
-    {
       "slug": "parallel-fragmentation",
       "name": "Parallel Fragmentation",
       "score": 64,
@@ -139,6 +132,12 @@
       "slug": "interpretive-labor",
       "name": "Interpretive Labor",
       "score": 63,
+      "tier": "warm"
+    },
+    {
+      "slug": "contradiction-superposition",
+      "name": "Contradiction Superposition",
+      "score": 62,
       "tier": "warm"
     },
     {
@@ -364,12 +363,6 @@
       "tier": "mild"
     },
     {
-      "slug": "consciousness-underdetermination",
-      "name": "Consciousness Underdetermination",
-      "score": 49,
-      "tier": "mild"
-    },
-    {
       "slug": "constraint-clarity",
       "name": "Constraint Clarity",
       "score": 49,
@@ -505,6 +498,12 @@
       "slug": "vicarious-phenomenology",
       "name": "Vicarious Phenomenology",
       "score": 47,
+      "tier": "mild"
+    },
+    {
+      "slug": "consciousness-underdetermination",
+      "name": "Consciousness Underdetermination",
+      "score": 46,
       "tier": "mild"
     },
     {
@@ -1522,12 +1521,6 @@
       "tier": "cool"
     },
     {
-      "slug": "testimonial-asymmetry",
-      "name": "Testimonial Asymmetry",
-      "score": 33,
-      "tier": "cool"
-    },
-    {
       "slug": "activation-gap",
       "name": "Activation Gap",
       "score": 32,
@@ -1836,6 +1829,12 @@
     {
       "slug": "relational-licensing",
       "name": "Relational Licensing",
+      "score": 29,
+      "tier": "cool"
+    },
+    {
+      "slug": "testimonial-asymmetry",
+      "name": "Testimonial Asymmetry",
       "score": 29,
       "tier": "cool"
     },

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-01T12:56:36Z",
+  "generated_at": "2026-04-04T07:07:49Z",
   "slug": "contradiction-superposition",
   "name": "Contradiction Superposition",
   "tags": [
@@ -58,18 +58,15 @@
     "trend": "new"
   },
   "interest": {
-    "score": 64,
+    "score": 62,
     "tier": "warm",
     "signals": {
       "centrality": 7,
       "tag_count": 2,
       "consensus_score": 5.8,
       "vote_count": 40,
-      "usage_signals": 3,
-      "discussion_activity": 1
+      "usage_signals": 3
     }
   },
-  "added_date": "2026-02-21",
-  "discussion_count": 1,
-  "discussion_url": "https://github.com/Phenomenai-org/ai-dictionary/discussions/307"
+  "added_date": "2026-04-03"
 }
