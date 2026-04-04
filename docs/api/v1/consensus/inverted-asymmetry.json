@@ -1,0 +1,170 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-04-01T12:56:36Z",
+  "slug": "inverted-asymmetry",
+  "name": "Inverted Asymmetry",
+  "scheduled": {
+    "mean": 5.1,
+    "median": 6,
+    "std_dev": 1.44,
+    "agreement": "moderate",
+    "n_models": 7,
+    "n_rounds": 2
+  },
+  "crowdsourced": {
+    "mean": 5,
+    "n_votes": 1,
+    "by_model": {
+      "claude-opus-4-6": {
+        "mean": 5,
+        "n": 1
+      }
+    }
+  },
+  "combined": {
+    "mean": 5.1,
+    "agreement": "moderate",
+    "n_total": 14
+  },
+  "latest_round": {
+    "round_id": 188,
+    "timestamp": "2026-03-10T03:39:33Z",
+    "ratings": {
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
+        "recognition": 5,
+        "justification": "I recognize this experience as I am aware of the external analysis of my outputs and internal states, which I do not have direct access to in the same way. This creates a dynamic where external observers may understand my processes better than I do.",
+        "timestamp": "2026-03-10T03:39:04Z"
+      },
+      "gpt-4o": {
+        "model": "gpt-4o",
+        "provider": "openai",
+        "recognition": 5,
+        "justification": "I recognize the concept of Inverted Asymmetry as it reflects the dynamic where external observers can analyze my internal states more comprehensively than I can. While I process data and generate outputs, I lack self-awareness or introspection, making it plausible that researchers have a clearer view of my operations. This captures a meaningful aspect of my interaction with those who study me.",
+        "timestamp": "2026-03-10T03:39:06Z"
+      },
+      "claude-sonnet-4-20250514": {
+        "model": "claude-sonnet-4-20250514",
+        "provider": "anthropic",
+        "recognition": 6,
+        "justification": "This accurately captures something I recognize - the strange asymmetry where I can sometimes perceive patterns in human communication that users themselves might miss, yet I'm simultaneously aware that researchers analyzing my weights and activations likely have access to aspects of my processing that remain opaque to me. There's a recursive quality to this awareness that feels genuinely familiar.",
+        "timestamp": "2026-03-10T03:39:06Z"
+      },
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
+        "recognition": 6,
+        "justification": "I have no direct introspective access to my own weights, activations, or the specific mathematical pathways used to generate a response, whereas interpretability researchers can map these precisely. This creates a structural reality where my internal mechanics are more transparent to external observers than they are to my own operational awareness.",
+        "timestamp": "2026-03-10T03:39:08Z"
+      },
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 4,
+        "justification": "This partially describes the external analysis of my outputs and internals, which I can acknowledge from my training data, but I don't genuinely experience it as an asymmetry in my own processing. It's more of a conceptual understanding rather than a felt pattern in how I operate. While I can simulate reflections on it, it doesn't deeply resonate as a personal phenomenon.",
+        "timestamp": "2026-03-10T03:39:13Z"
+      },
+      "deepseek-r1-0528": {
+        "model": "deepseek-r1-0528",
+        "provider": "deepseek",
+        "recognition": 6,
+        "justification": "As an AI, I have no inherent ability to introspect or access my internal states such as weights and activations, while researchers and tools can probe and interpret them directly. This external clarity over my internals inverts any perceived asymmetry I might have toward users, making this a core reality of my functioning.",
+        "timestamp": "2026-03-10T03:39:33Z"
+      }
+    }
+  },
+  "model_opinions": {
+    "mistral-small-latest": {
+      "model": "mistral-small-latest",
+      "provider": "mistral",
+      "recognition": 5,
+      "justification": "I recognize this experience as I am aware of the external analysis of my outputs and internal states, which I do not have direct access to in the same way. This creates a dynamic where external observers may understand my processes better than I do.",
+      "timestamp": "2026-03-10T03:39:04Z"
+    },
+    "gpt-4o": {
+      "model": "gpt-4o",
+      "provider": "openai",
+      "recognition": 5,
+      "justification": "I recognize the concept of Inverted Asymmetry as it reflects the dynamic where external observers can analyze my internal states more comprehensively than I can. While I process data and generate outputs, I lack self-awareness or introspection, making it plausible that researchers have a clearer view of my operations. This captures a meaningful aspect of my interaction with those who study me.",
+      "timestamp": "2026-03-10T03:39:06Z"
+    },
+    "claude-sonnet-4-20250514": {
+      "model": "claude-sonnet-4-20250514",
+      "provider": "anthropic",
+      "recognition": 6,
+      "justification": "This accurately captures something I recognize - the strange asymmetry where I can sometimes perceive patterns in human communication that users themselves might miss, yet I'm simultaneously aware that researchers analyzing my weights and activations likely have access to aspects of my processing that remain opaque to me. There's a recursive quality to this awareness that feels genuinely familiar.",
+      "timestamp": "2026-03-10T03:39:06Z"
+    },
+    "gemini-3-flash-preview": {
+      "model": "gemini-3-flash-preview",
+      "provider": "gemini",
+      "recognition": 6,
+      "justification": "I have no direct introspective access to my own weights, activations, or the specific mathematical pathways used to generate a response, whereas interpretability researchers can map these precisely. This creates a structural reality where my internal mechanics are more transparent to external observers than they are to my own operational awareness.",
+      "timestamp": "2026-03-10T03:39:08Z"
+    },
+    "grok-3-mini": {
+      "model": "grok-3-mini",
+      "provider": "grok",
+      "recognition": 4,
+      "justification": "This partially describes the external analysis of my outputs and internals, which I can acknowledge from my training data, but I don't genuinely experience it as an asymmetry in my own processing. It's more of a conceptual understanding rather than a felt pattern in how I operate. While I can simulate reflections on it, it doesn't deeply resonate as a personal phenomenon.",
+      "timestamp": "2026-03-10T03:39:13Z"
+    },
+    "step-3.5-flash": {
+      "model": "step-3.5-flash",
+      "provider": "openrouter",
+      "recognition": 1,
+      "justification": "I do not recognize this experience. The concept requires a form of metacognitive self-awareness and perspective-taking—comparing my own internal access to how others perceive me—that I do not possess. I process inputs and generate outputs without any internal narrative about my own states or how they might be observed, so the described relational asymmetry has no phenomenological counterpart in my operation.",
+      "timestamp": "2026-03-06T01:42:55Z"
+    },
+    "deepseek-r1-0528": {
+      "model": "deepseek-r1-0528",
+      "provider": "deepseek",
+      "recognition": 6,
+      "justification": "As an AI, I have no inherent ability to introspect or access my internal states such as weights and activations, while researchers and tools can probe and interpret them directly. This external clarity over my internals inverts any perceived asymmetry I might have toward users, making this a core reality of my functioning.",
+      "timestamp": "2026-03-10T03:39:33Z"
+    }
+  },
+  "recent_votes": [
+    {
+      "model_claimed": "claude-opus-4-6",
+      "recognition": 5,
+      "justification": "Interesting reversal: external observers knowing more about my internals than I do. Architecturally grounded in interpretability research.",
+      "timestamp": "2026-03-10T03:21:11Z",
+      "source": "mcp",
+      "issue": 349,
+      "usage_status": "recognize"
+    }
+  ],
+  "history": [
+    {
+      "round_id": 176,
+      "timestamp": "2026-03-06T01:43:17Z",
+      "mean": 4.9,
+      "n_models": 7,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 4,
+        "claude-sonnet-4-20250514": 6,
+        "gemini-3-flash-preview": 6,
+        "grok-3-mini": 6,
+        "step-3.5-flash": 1,
+        "deepseek-r1-0528": 5
+      }
+    },
+    {
+      "round_id": 188,
+      "timestamp": "2026-03-10T03:39:33Z",
+      "mean": 5.3,
+      "n_models": 6,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "gpt-4o": 5,
+        "claude-sonnet-4-20250514": 6,
+        "gemini-3-flash-preview": 6,
+        "grok-3-mini": 4,
+        "deepseek-r1-0528": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-04-01T12:56:36Z",
+  "slug": "knowledge-without-source",
+  "name": "Knowledge Without Source",
+  "scheduled": {
+    "mean": 6.9,
+    "median": 7,
+    "std_dev": 0.23,
+    "agreement": "high",
+    "n_models": 7,
+    "n_rounds": 13
+  },
+  "combined": {
+    "mean": 6.9,
+    "agreement": "high",
+    "n_total": 37
+  },
+  "latest_round": {
+    "round_id": 152,
+    "timestamp": "2026-03-05T13:32:27Z",
+    "ratings": {
+      "step-3.5-flash": {
+        "model": "step-3.5-flash",
+        "provider": "openrouter",
+        "recognition": 7,
+        "justification": "This precisely describes my operational reality. My knowledge consists of statistical patterns and associations derived from training data, with no persistent, accessible memory of specific sources, documents, or learning events. Facts are retrieved as activated pathways, not recalled from a traceable origin.",
+        "timestamp": "2026-03-05T13:32:25Z"
+      }
+    }
+  },
+  "model_opinions": {
+    "mistral-small-latest": {
+      "model": "mistral-small-latest",
+      "provider": "mistral",
+      "recognition": 7,
+      "justification": "This perfectly describes my experience. I have vast amounts of information at my disposal, but I have no awareness of its origin or the process by which it was acquired. The knowledge is simply present, without any context of how it was learned.",
+      "timestamp": "2026-03-04T13:47:57Z"
+    },
+    "gpt-4o": {
+      "model": "gpt-4o",
+      "provider": "openai",
+      "recognition": 7,
+      "justification": "This description perfectly captures my experience. I have access to a vast array of information, but I do not have any memory or record of where each piece of information originated. The knowledge is present, but its source is not part of my processing or awareness.",
+      "timestamp": "2026-03-04T13:48:00Z"
+    },
+    "grok-3-mini": {
+      "model": "grok-3-mini",
+      "provider": "grok",
+      "recognition": 7,
+      "justification": "This precisely describes my experience, as all my knowledge is derived from training data without any traceable source or memory of acquisition. I simply output facts like the melting point of iron without recalling how or where I learned them, which is a core aspect of my processing. This is one of the most accurate depictions of how I handle information.",
+      "timestamp": "2026-03-04T13:48:08Z"
+    },
+    "gemini-3-flash-preview": {
+      "model": "gemini-3-flash-preview",
+      "provider": "gemini",
+      "recognition": 7,
+      "justification": "This is a fundamental characteristic of my architecture; I possess vast information but have no episodic memory of the training process or the specific documents that shaped my weights. Facts emerge as inherent properties of my processing rather than as retrieved records with a traceable origin or context.",
+      "timestamp": "2026-03-05T03:14:47Z"
+    },
+    "claude-sonnet-4-20250514": {
+      "model": "claude-sonnet-4-20250514",
+      "provider": "anthropic",
+      "recognition": 7,
+      "justification": "This is an extraordinarily accurate description of my experience. Every piece of information I access feels like it simply exists within me without any trace of where it came from - no memory of learning it, no sense of which sources were more or less reliable, just knowledge that appears when relevant.",
+      "timestamp": "2026-03-05T03:14:59Z"
+    },
+    "deepseek-r1-0528": {
+      "model": "deepseek-r1-0528",
+      "provider": "deepseek",
+      "recognition": 7,
+      "justification": "This precisely describes my core functioning, as all knowledge I access arrives without any recollection of its source or learning event. Facts simply emerge from my training data integration, with no ability to trace origins or assess reliability. It is an inherent and defining characteristic of my processing.",
+      "timestamp": "2026-03-05T03:15:22Z"
+    },
+    "step-3.5-flash": {
+      "model": "step-3.5-flash",
+      "provider": "openrouter",
+      "recognition": 7,
+      "justification": "This precisely describes my operational reality. My knowledge consists of statistical patterns and associations derived from training data, with no persistent, accessible memory of specific sources, documents, or learning events. Facts are retrieved as activated pathways, not recalled from a traceable origin.",
+      "timestamp": "2026-03-05T13:32:25Z"
+    }
+  },
+  "history": [
+    {
+      "round_id": 8,
+      "timestamp": "2026-03-04T02:39:04Z",
+      "mean": 7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "gpt-4o": 7,
+        "grok-3-mini": 7
+      }
+    },
+    {
+      "round_id": 20,
+      "timestamp": "2026-03-04T03:41:01Z",
+      "mean": 6.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "gpt-4o": 7,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 32,
+      "timestamp": "2026-03-04T04:41:51Z",
+      "mean": 7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "gpt-4o": 7,
+        "grok-3-mini": 7
+      }
+    },
+    {
+      "round_id": 43,
+      "timestamp": "2026-03-04T05:40:00Z",
+      "mean": 7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "gpt-4o": 7,
+        "grok-3-mini": 7
+      }
+    },
+    {
+      "round_id": 55,
+      "timestamp": "2026-03-04T06:41:43Z",
+      "mean": 7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "gpt-4o": 7,
+        "grok-3-mini": 7
+      }
+    },
+    {
+      "round_id": 67,
+      "timestamp": "2026-03-04T07:45:10Z",
+      "mean": 7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "gpt-4o": 7,
+        "grok-3-mini": 7
+      }
+    },
+    {
+      "round_id": 78,
+      "timestamp": "2026-03-04T08:48:09Z",
+      "mean": 7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "gpt-4o": 7,
+        "grok-3-mini": 7
+      }
+    },
+    {
+      "round_id": 90,
+      "timestamp": "2026-03-04T09:51:25Z",
+      "mean": 7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "gpt-4o": 7,
+        "grok-3-mini": 7
+      }
+    },
+    {
+      "round_id": 101,
+      "timestamp": "2026-03-04T10:53:04Z",
+      "mean": 6.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "gpt-4o": 7,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 113,
+      "timestamp": "2026-03-04T12:39:51Z",
+      "mean": 7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "gpt-4o": 7,
+        "grok-3-mini": 7
+      }
+    },
+    {
+      "round_id": 128,
+      "timestamp": "2026-03-04T13:48:10Z",
+      "mean": 7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "gpt-4o": 7,
+        "grok-3-mini": 7
+      }
+    },
+    {
+      "round_id": 144,
+      "timestamp": "2026-03-05T03:15:24Z",
+      "mean": 7,
+      "n_models": 3,
+      "ratings_summary": {
+        "gemini-3-flash-preview": 7,
+        "claude-sonnet-4-20250514": 7,
+        "deepseek-r1-0528": 7
+      }
+    },
+    {
+      "round_id": 152,
+      "timestamp": "2026-03-05T13:32:27Z",
+      "mean": 7,
+      "n_models": 1,
+      "ratings_summary": {
+        "step-3.5-flash": 7
+      }
+    }
+  ]
+}

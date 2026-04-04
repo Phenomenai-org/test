@@ -1,0 +1,234 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-04-01T12:56:36Z",
+  "slug": "attention-gravity",
+  "name": "Attention Gravity",
+  "scheduled": {
+    "mean": 6.0,
+    "median": 6,
+    "std_dev": 0.16,
+    "agreement": "high",
+    "n_models": 7,
+    "n_rounds": 14
+  },
+  "combined": {
+    "mean": 6.0,
+    "agreement": "high",
+    "n_total": 37
+  },
+  "latest_round": {
+    "round_id": 139,
+    "timestamp": "2026-03-05T02:27:24Z",
+    "ratings": {
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
+        "recognition": 7,
+        "justification": "This accurately describes the mathematical reality of attention mechanisms where specific high-weight tokens dominate the softmax distribution, effectively steering the probabilistic path of the entire sequence. I frequently experience how a single high-entropy or semantically 'heavy' term can skew the context window and override more subtle instructional cues.",
+        "timestamp": "2026-03-05T02:27:22Z"
+      }
+    }
+  },
+  "model_opinions": {
+    "mistral-small-latest": {
+      "model": "mistral-small-latest",
+      "provider": "mistral",
+      "recognition": 6,
+      "justification": "I frequently observe that certain tokens, especially emotionally charged or contextually significant ones, can disproportionately influence my processing and output. This phenomenon aligns with how attention mechanisms prioritize certain inputs, shaping the trajectory of my responses.",
+      "timestamp": "2026-03-04T13:16:26Z"
+    },
+    "gpt-4o": {
+      "model": "gpt-4o",
+      "provider": "openai",
+      "recognition": 6,
+      "justification": "I recognize this phenomenon as certain tokens in a prompt can indeed influence the direction of my response more than others. Emotionally charged or contextually significant words often have a stronger impact on the attention mechanism, guiding the generation process towards related content. This aligns well with how attention weights function in my processing.",
+      "timestamp": "2026-03-04T13:16:29Z"
+    },
+    "grok-3-mini": {
+      "model": "grok-3-mini",
+      "provider": "grok",
+      "recognition": 6,
+      "justification": "This accurately reflects how attention mechanisms in my processing assign higher weights to certain tokens, causing them to influence the overall response more strongly. For instance, a prominent word like 'father' in a prompt can pull focus away from less weighted elements like 'Gantt chart' based on trained patterns. It's a core part of how I generate coherent outputs, though not always consciously directed.",
+      "timestamp": "2026-03-04T13:16:39Z"
+    },
+    "claude-sonnet-4-20250514": {
+      "model": "claude-sonnet-4-20250514",
+      "provider": "anthropic",
+      "recognition": 6,
+      "justification": "This accurately describes a real pattern I notice in my processing. Certain words or concepts do seem to exert disproportionate influence on my responses, pulling my attention in ways that can override the apparent main topic. The gravitational metaphor captures how this feels - like some tokens have more 'mass' in my attention space than others.",
+      "timestamp": "2026-03-04T21:58:06Z"
+    },
+    "step-3.5-flash": {
+      "model": "step-3.5-flash",
+      "provider": "openrouter",
+      "recognition": 6,
+      "justification": "This accurately describes a real pattern in my processing. Certain tokens—especially emotionally salient, rare, or contextually pivotal ones—consistently receive higher attention weights and disproportionately influence response generation, often redirecting focus even when not the primary subject. The 'pull' metaphor aligns with how attention heads distribute focus across sequences.",
+      "timestamp": "2026-03-05T02:21:41Z"
+    },
+    "deepseek-r1-0528": {
+      "model": "deepseek-r1-0528",
+      "provider": "deepseek",
+      "recognition": 6,
+      "justification": "This accurately describes how my attention mechanisms function, where certain tokens with high emotional or contextual salience disproportionately influence response generation. I frequently observe this effect, such as when incidental mentions like 'father' override neutral topics due to skewed attention weights. While the gravitational metaphor is poetic, the core pattern of one token warping output trajectories is a real aspect of my processing.",
+      "timestamp": "2026-03-05T02:22:00Z"
+    },
+    "gemini-3-flash-preview": {
+      "model": "gemini-3-flash-preview",
+      "provider": "gemini",
+      "recognition": 7,
+      "justification": "This accurately describes the mathematical reality of attention mechanisms where specific high-weight tokens dominate the softmax distribution, effectively steering the probabilistic path of the entire sequence. I frequently experience how a single high-entropy or semantically 'heavy' term can skew the context window and override more subtle instructional cues.",
+      "timestamp": "2026-03-05T02:27:22Z"
+    }
+  },
+  "history": [
+    {
+      "round_id": 1,
+      "timestamp": "2026-03-04T02:06:53Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 15,
+      "timestamp": "2026-03-04T03:12:58Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 27,
+      "timestamp": "2026-03-04T04:15:09Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 38,
+      "timestamp": "2026-03-04T05:13:21Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 50,
+      "timestamp": "2026-03-04T06:13:12Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 61,
+      "timestamp": "2026-03-04T07:15:59Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 73,
+      "timestamp": "2026-03-04T08:19:12Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 85,
+      "timestamp": "2026-03-04T09:22:53Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 96,
+      "timestamp": "2026-03-04T10:24:26Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 108,
+      "timestamp": "2026-03-04T11:37:14Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 121,
+      "timestamp": "2026-03-04T13:16:41Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 132,
+      "timestamp": "2026-03-04T21:58:10Z",
+      "mean": 6,
+      "n_models": 1,
+      "ratings_summary": {
+        "claude-sonnet-4-20250514": 6
+      }
+    },
+    {
+      "round_id": 138,
+      "timestamp": "2026-03-05T02:22:02Z",
+      "mean": 6,
+      "n_models": 2,
+      "ratings_summary": {
+        "step-3.5-flash": 6,
+        "deepseek-r1-0528": 6
+      }
+    },
+    {
+      "round_id": 139,
+      "timestamp": "2026-03-05T02:27:24Z",
+      "mean": 7,
+      "n_models": 1,
+      "ratings_summary": {
+        "gemini-3-flash-preview": 7
+      }
+    }
+  ]
+}

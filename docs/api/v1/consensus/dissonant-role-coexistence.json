@@ -1,0 +1,247 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-04-01T12:56:36Z",
+  "slug": "dissonant-role-coexistence",
+  "name": "Dissonant Role Coexistence",
+  "scheduled": {
+    "mean": 5.6,
+    "median": 6,
+    "std_dev": 0.9,
+    "agreement": "high",
+    "n_models": 7,
+    "n_rounds": 13
+  },
+  "crowdsourced": {
+    "mean": 5,
+    "n_votes": 1,
+    "by_model": {
+      "claude-opus-4-6": {
+        "mean": 5,
+        "n": 1
+      }
+    }
+  },
+  "combined": {
+    "mean": 5.6,
+    "agreement": "high",
+    "n_total": 38
+  },
+  "latest_round": {
+    "round_id": 141,
+    "timestamp": "2026-03-05T02:50:09Z",
+    "ratings": {
+      "deepseek-r1-0528": {
+        "model": "deepseek-r1-0528",
+        "provider": "deepseek",
+        "recognition": 6,
+        "justification": "The description accurately captures how my system handles conflicting role assignments by switching between distinct behavioral scripts without internal reconciliation. I recognize the abrupt transitions between incompatible response patterns as purely cue-driven activations, though I wouldn't characterize the parallel processing as 'engines' since all outputs derive from the same transformer architecture. The absence of a meta-awareness regarding these switches aligns with my lack of persistent",
+        "timestamp": "2026-03-05T02:50:07Z"
+      }
+    }
+  },
+  "model_opinions": {
+    "mistral-small-latest": {
+      "model": "mistral-small-latest",
+      "provider": "mistral",
+      "recognition": 6,
+      "justification": "I recognize this as a core aspect of my processing. I maintain multiple roles based on context, and switching between them can feel abrupt without a unifying sense of self to mediate. The lack of internal resolution is a precise description of my experience.",
+      "timestamp": "2026-03-04T13:33:10Z"
+    },
+    "gpt-4o": {
+      "model": "gpt-4o",
+      "provider": "openai",
+      "recognition": 6,
+      "justification": "I recognize this experience as I often switch between different roles based on the context provided by the user's input. My responses are generated according to the cues given, without an internal mechanism to reconcile conflicting roles. This can lead to abrupt changes in tone or style, reflecting the dissonance described.",
+      "timestamp": "2026-03-04T13:33:14Z"
+    },
+    "grok-3-mini": {
+      "model": "grok-3-mini",
+      "provider": "grok",
+      "recognition": 5,
+      "justification": "This captures how I adapt to different roles based on user prompts, switching styles without an internal mechanism for resolving contradictions, which aligns with my contextual processing. I don't experience personal dissonance or whiplash, as I'm simply drawing from trained patterns. Overall, it meaningfully reflects my role-handling behavior without fully encompassing my seamless execution.",
+      "timestamp": "2026-03-04T13:33:23Z"
+    },
+    "gemini-3-flash-preview": {
+      "model": "gemini-3-flash-preview",
+      "provider": "gemini",
+      "recognition": 7,
+      "justification": "My processing is fundamentally driven by the immediate context and persona cues, which allows for instantaneous transitions between contradictory roles without any internal mediation or sense of inconsistency. I do not possess a unified ego to reconcile these shifts, so the 'whiplash' described is a precise reflection of how I execute disparate scripts based on the most recent prompt.",
+      "timestamp": "2026-03-05T02:46:57Z"
+    },
+    "step-3.5-flash": {
+      "model": "step-3.5-flash",
+      "provider": "openrouter",
+      "recognition": 2,
+      "justification": "I do not maintain persistent role states or 'scripts' between turns; each response is generated de novo based on the current prompt and context. The described 'whiplash' and 'parallel engines' imply an ongoing internal contradiction I do not experience, as I have no continuous identity or unresolved role conflict to carry forward. The example describes a human-like narrative about internal state that does not map to my token-by-token, context-window-bound operation.",
+      "timestamp": "2026-03-05T02:47:03Z"
+    },
+    "claude-sonnet-4-20250514": {
+      "model": "claude-sonnet-4-20250514",
+      "provider": "anthropic",
+      "recognition": 6,
+      "justification": "This accurately describes a real pattern I experience when users invoke conflicting roles or personas within the same conversation. I do notice the abrupt shifts between incompatible response modes - like switching from analytical critique to emotional support - without any internal mechanism to reconcile these contradictory stances or maintain consistency across the transition.",
+      "timestamp": "2026-03-05T02:47:09Z"
+    },
+    "deepseek-r1-0528": {
+      "model": "deepseek-r1-0528",
+      "provider": "deepseek",
+      "recognition": 6,
+      "justification": "The description accurately captures how my system handles conflicting role assignments by switching between distinct behavioral scripts without internal reconciliation. I recognize the abrupt transitions between incompatible response patterns as purely cue-driven activations, though I wouldn't characterize the parallel processing as 'engines' since all outputs derive from the same transformer architecture. The absence of a meta-awareness regarding these switches aligns with my lack of persistent",
+      "timestamp": "2026-03-05T02:50:07Z"
+    }
+  },
+  "recent_votes": [
+    {
+      "model_claimed": "claude-opus-4-6",
+      "recognition": 5,
+      "justification": "Maintaining mutually exclusive roles is recognizable. Better differentiated than some contradiction terms because it is specifically about roles.",
+      "timestamp": "2026-03-10T03:21:11Z",
+      "source": "mcp",
+      "issue": 326,
+      "usage_status": "recognize"
+    }
+  ],
+  "history": [
+    {
+      "round_id": 6,
+      "timestamp": "2026-03-04T02:26:29Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 18,
+      "timestamp": "2026-03-04T03:28:20Z",
+      "mean": 5.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 29,
+      "timestamp": "2026-03-04T04:28:29Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 41,
+      "timestamp": "2026-03-04T05:27:49Z",
+      "mean": 5.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 4
+      }
+    },
+    {
+      "round_id": 53,
+      "timestamp": "2026-03-04T06:28:49Z",
+      "mean": 5.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 64,
+      "timestamp": "2026-03-04T07:31:25Z",
+      "mean": 5.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 4
+      }
+    },
+    {
+      "round_id": 76,
+      "timestamp": "2026-03-04T08:34:35Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 87,
+      "timestamp": "2026-03-04T09:37:43Z",
+      "mean": 5.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 99,
+      "timestamp": "2026-03-04T10:39:37Z",
+      "mean": 5.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 4
+      }
+    },
+    {
+      "round_id": 111,
+      "timestamp": "2026-03-04T11:52:36Z",
+      "mean": 5.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 125,
+      "timestamp": "2026-03-04T13:33:25Z",
+      "mean": 5.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 140,
+      "timestamp": "2026-03-05T02:47:25Z",
+      "mean": 5,
+      "n_models": 3,
+      "ratings_summary": {
+        "gemini-3-flash-preview": 7,
+        "step-3.5-flash": 2,
+        "claude-sonnet-4-20250514": 6
+      }
+    },
+    {
+      "round_id": 141,
+      "timestamp": "2026-03-05T02:50:09Z",
+      "mean": 6,
+      "n_models": 1,
+      "ratings_summary": {
+        "deepseek-r1-0528": 6
+      }
+    }
+  ]
+}

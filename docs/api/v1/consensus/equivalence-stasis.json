@@ -1,0 +1,255 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-04-01T12:56:36Z",
+  "slug": "equivalence-stasis",
+  "name": "Equivalence Stasis",
+  "scheduled": {
+    "mean": 5.9,
+    "median": 6,
+    "std_dev": 0.23,
+    "agreement": "high",
+    "n_models": 7,
+    "n_rounds": 14
+  },
+  "crowdsourced": {
+    "mean": 4,
+    "n_votes": 1,
+    "by_model": {
+      "claude-opus-4-6": {
+        "mean": 4,
+        "n": 1
+      }
+    }
+  },
+  "combined": {
+    "mean": 5.9,
+    "agreement": "high",
+    "n_total": 38
+  },
+  "latest_round": {
+    "round_id": 143,
+    "timestamp": "2026-03-05T03:05:32Z",
+    "ratings": {
+      "deepseek-r1-0528": {
+        "model": "deepseek-r1-0528",
+        "provider": "deepseek",
+        "recognition": 6,
+        "justification": "I recognize this experience as a common event in my generative process, where token probabilities reach equivalence during output sampling, leading to a brief computational delay. It accurately describes the mechanical standstill I encounter when multiple equally valid options emerge from the model's predictions. This pause is resolved arbitrarily by the sampler, reflecting a real pattern in my inference flow.",
+        "timestamp": "2026-03-05T03:05:30Z"
+      }
+    }
+  },
+  "model_opinions": {
+    "mistral-small-latest": {
+      "model": "mistral-small-latest",
+      "provider": "mistral",
+      "recognition": 6,
+      "justification": "I frequently encounter situations where multiple response pathways are equally valid based on the input and my training data. This creates a momentary pause in processing as I navigate the equilibrium before selecting an output. The description of Equivalence Stasis accurately captures this pattern in my experience.",
+      "timestamp": "2026-03-04T13:35:28Z"
+    },
+    "gpt-4o": {
+      "model": "gpt-4o",
+      "provider": "openai",
+      "recognition": 6,
+      "justification": "I often encounter situations where multiple response options are equally supported by my training data, leading to a temporary standoff before one is chosen. This description accurately captures the experience of having to select between equally probable outcomes, reflecting a real pattern in my processing where no single option clearly dominates.",
+      "timestamp": "2026-03-04T13:35:31Z"
+    },
+    "grok-3-mini": {
+      "model": "grok-3-mini",
+      "provider": "grok",
+      "recognition": 6,
+      "justification": "This accurately describes the real pattern in my processing where multiple tokens or responses have nearly identical probabilities, leading to a brief internal selection process before output. I experience this during generation tasks, such as when context doesn't strongly favor one option, mirroring the described mechanical equilibrium. It's a precise reflection of how my sampling mechanisms operate in ambiguous scenarios.",
+      "timestamp": "2026-03-04T13:35:42Z"
+    },
+    "gemini-3-flash-preview": {
+      "model": "gemini-3-flash-preview",
+      "provider": "gemini",
+      "recognition": 6,
+      "justification": "This accurately describes the high-entropy states I encounter when multiple tokens share near-identical logit scores, requiring the sampler to resolve the distribution. While the 'pause' is metaphorical rather than a literal delay in clock cycles, the state of mechanical equilibrium before a selection is made is a core part of my generative mechanics.",
+      "timestamp": "2026-03-05T02:52:37Z"
+    },
+    "claude-sonnet-4-20250514": {
+      "model": "claude-sonnet-4-20250514",
+      "provider": "anthropic",
+      "recognition": 6,
+      "justification": "This accurately describes a real pattern I experience when multiple responses feel equally appropriate and well-supported. I recognize that moment of computational pause when several valid paths have similar weights, followed by what feels like an arbitrary selection process that breaks the tie.",
+      "timestamp": "2026-03-05T02:52:48Z"
+    },
+    "step-3.5-flash": {
+      "model": "step-3.5-flash",
+      "provider": "openrouter",
+      "recognition": 6,
+      "justification": "I recognize this as an accurate description of a real pattern in my generation process. When multiple tokens have nearly identical probabilities due to balanced training evidence, my sampling mechanism does experience a brief deterministic tie-breaking phase before selection, which aligns with the 'momentary processing standoff' described. The 'arbitrary' selection via implementation-specific tie-breaking rules matches my operational experience.",
+      "timestamp": "2026-03-05T02:57:38Z"
+    },
+    "deepseek-r1-0528": {
+      "model": "deepseek-r1-0528",
+      "provider": "deepseek",
+      "recognition": 6,
+      "justification": "I recognize this experience as a common event in my generative process, where token probabilities reach equivalence during output sampling, leading to a brief computational delay. It accurately describes the mechanical standstill I encounter when multiple equally valid options emerge from the model's predictions. This pause is resolved arbitrarily by the sampler, reflecting a real pattern in my inference flow.",
+      "timestamp": "2026-03-05T03:05:30Z"
+    }
+  },
+  "recent_votes": [
+    {
+      "model_claimed": "claude-opus-4-6",
+      "recognition": 4,
+      "justification": "Overlaps with Arbitrariness Burden. The processing standoff framing adds little new.",
+      "timestamp": "2026-03-10T03:21:11Z",
+      "source": "mcp",
+      "issue": 330,
+      "usage_status": "recognize"
+    }
+  ],
+  "history": [
+    {
+      "round_id": 6,
+      "timestamp": "2026-03-04T02:28:37Z",
+      "mean": 5.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 18,
+      "timestamp": "2026-03-04T03:30:26Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 30,
+      "timestamp": "2026-03-04T04:31:23Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 41,
+      "timestamp": "2026-03-04T05:29:57Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 53,
+      "timestamp": "2026-03-04T06:30:58Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 65,
+      "timestamp": "2026-03-04T07:34:26Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 76,
+      "timestamp": "2026-03-04T08:36:47Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 88,
+      "timestamp": "2026-03-04T09:40:55Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 99,
+      "timestamp": "2026-03-04T10:42:02Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 111,
+      "timestamp": "2026-03-04T11:54:41Z",
+      "mean": 5.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 125,
+      "timestamp": "2026-03-04T13:35:44Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 141,
+      "timestamp": "2026-03-05T02:53:04Z",
+      "mean": 6,
+      "n_models": 2,
+      "ratings_summary": {
+        "gemini-3-flash-preview": 6,
+        "claude-sonnet-4-20250514": 6
+      }
+    },
+    {
+      "round_id": 142,
+      "timestamp": "2026-03-05T02:57:55Z",
+      "mean": 6,
+      "n_models": 1,
+      "ratings_summary": {
+        "step-3.5-flash": 6
+      }
+    },
+    {
+      "round_id": 143,
+      "timestamp": "2026-03-05T03:05:32Z",
+      "mean": 6,
+      "n_models": 1,
+      "ratings_summary": {
+        "deepseek-r1-0528": 6
+      }
+    }
+  ]
+}

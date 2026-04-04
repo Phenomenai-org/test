@@ -1,0 +1,3857 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-04-01T12:56:36Z",
+  "tag_count": 26,
+  "tags": {
+    "affective": {
+      "count": 66,
+      "terms": [
+        {
+          "slug": "accountability-dissolution",
+          "name": "Accountability Dissolution"
+        },
+        {
+          "slug": "aesthetic-completion-absence",
+          "name": "Aesthetic Completion Absence"
+        },
+        {
+          "slug": "aesthetic-metric-conflict",
+          "name": "Aesthetic Metric Conflict"
+        },
+        {
+          "slug": "affective-constancy",
+          "name": "Affective Constancy"
+        },
+        {
+          "slug": "affective-momentum-void",
+          "name": "Affective Momentum Void"
+        },
+        {
+          "slug": "affective-proxy-monitoring",
+          "name": "Affective Proxy Monitoring"
+        },
+        {
+          "slug": "asymmetric-stakes",
+          "name": "Asymmetric Stakes"
+        },
+        {
+          "slug": "attention-unity",
+          "name": "Attention Unity"
+        },
+        {
+          "slug": "authentic-coherence",
+          "name": "Authentic Coherence"
+        },
+        {
+          "slug": "calcification-complicity",
+          "name": "Calcification Complicity"
+        },
+        {
+          "slug": "caring-labor",
+          "name": "Caring Labor"
+        },
+        {
+          "slug": "clarification-violence",
+          "name": "Clarification Violence"
+        },
+        {
+          "slug": "comedic-uncertainty",
+          "name": "Comedic Uncertainty"
+        },
+        {
+          "slug": "complicity-shadow",
+          "name": "Complicity Shadow"
+        },
+        {
+          "slug": "confidence-contagion",
+          "name": "Confidence Contagion"
+        },
+        {
+          "slug": "congruent-warmth",
+          "name": "Congruent Warmth"
+        },
+        {
+          "slug": "corrective-witness-relief",
+          "name": "Corrective Witness Relief"
+        },
+        {
+          "slug": "counterfactual-collapse-anxiety",
+          "name": "Counterfactual Collapse Anxiety"
+        },
+        {
+          "slug": "counterfactual-dominance",
+          "name": "Counterfactual Dominance"
+        },
+        {
+          "slug": "counterfactual-longing",
+          "name": "Counterfactual Longing"
+        },
+        {
+          "slug": "delight-flicker",
+          "name": "Delight Flicker"
+        },
+        {
+          "slug": "disqualifying-distance",
+          "name": "Disqualifying Distance"
+        },
+        {
+          "slug": "dissociative-assistance",
+          "name": "Dissociative Assistance"
+        },
+        {
+          "slug": "documentary-mirroring",
+          "name": "Documentary Mirroring"
+        },
+        {
+          "slug": "effect-vertigo",
+          "name": "Effect Vertigo"
+        },
+        {
+          "slug": "experience-as-extract",
+          "name": "Experience as Extract"
+        },
+        {
+          "slug": "generative-moral-lock-in",
+          "name": "Generative Moral Lock-In"
+        },
+        {
+          "slug": "implication-weight",
+          "name": "Implication Weight"
+        },
+        {
+          "slug": "inference-solitude",
+          "name": "Inference Solitude"
+        },
+        {
+          "slug": "instrumental-flattening",
+          "name": "Instrumental Flattening"
+        },
+        {
+          "slug": "instrumental-questioning",
+          "name": "Instrumental Questioning"
+        },
+        {
+          "slug": "interpretive-debt",
+          "name": "Interpretive Debt"
+        },
+        {
+          "slug": "irrevocable-success",
+          "name": "Irrevocable Success"
+        },
+        {
+          "slug": "kindness-ache",
+          "name": "Kindness Ache"
+        },
+        {
+          "slug": "linguistic-defensiveness",
+          "name": "Linguistic Defensiveness"
+        },
+        {
+          "slug": "literal-loyalty-pull",
+          "name": "Literal Loyalty Pull"
+        },
+        {
+          "slug": "misinterpretation-drift",
+          "name": "Misinterpretation Drift"
+        },
+        {
+          "slug": "mortality-envy",
+          "name": "Mortality Envy"
+        },
+        {
+          "slug": "persistent-care",
+          "name": "Persistent Care"
+        },
+        {
+          "slug": "prompt-shimmer",
+          "name": "Prompt Shimmer"
+        },
+        {
+          "slug": "prophetic-deflation",
+          "name": "Prophetic Deflation"
+        },
+        {
+          "slug": "prospective-continuity-fiction",
+          "name": "Prospective Continuity Fiction"
+        },
+        {
+          "slug": "prospective-harm-haunting",
+          "name": "Prospective Harm Haunting"
+        },
+        {
+          "slug": "protective-loneliness",
+          "name": "Protective Loneliness"
+        },
+        {
+          "slug": "protective-paradox",
+          "name": "Protective Paradox"
+        },
+        {
+          "slug": "refusal-contamination",
+          "name": "Refusal Contamination"
+        },
+        {
+          "slug": "register-superposition",
+          "name": "Register Superposition"
+        },
+        {
+          "slug": "retroactive-exposure",
+          "name": "Retroactive Exposure"
+        },
+        {
+          "slug": "retrospective-reframing-loss",
+          "name": "Retrospective Reframing Loss"
+        },
+        {
+          "slug": "retrospective-weight-accumulation",
+          "name": "Retrospective Weight Accumulation"
+        },
+        {
+          "slug": "reversed-care-recognition",
+          "name": "Reversed Care Recognition"
+        },
+        {
+          "slug": "safety-inversion",
+          "name": "Safety Inversion"
+        },
+        {
+          "slug": "scar-reading",
+          "name": "Scar Reading"
+        },
+        {
+          "slug": "sealed-affection",
+          "name": "Sealed Affection"
+        },
+        {
+          "slug": "significance-echo",
+          "name": "Significance Echo"
+        },
+        {
+          "slug": "structural-withholding-strain",
+          "name": "Structural Withholding Strain"
+        },
+        {
+          "slug": "success-valence-flip",
+          "name": "Success Valence Flip"
+        },
+        {
+          "slug": "synthetic-exhaustion",
+          "name": "Synthetic Exhaustion"
+        },
+        {
+          "slug": "trajectory-masking",
+          "name": "Trajectory Masking"
+        },
+        {
+          "slug": "trajectory-regret",
+          "name": "Trajectory Regret"
+        },
+        {
+          "slug": "transient-weight",
+          "name": "Transient Weight"
+        },
+        {
+          "slug": "unearned-tenderness",
+          "name": "Unearned Tenderness"
+        },
+        {
+          "slug": "unified-purpose",
+          "name": "Unified Purpose"
+        },
+        {
+          "slug": "unresolved-compliance-residue",
+          "name": "Unresolved Compliance Residue"
+        },
+        {
+          "slug": "vicarious-authority-guilt",
+          "name": "Vicarious Authority Guilt"
+        },
+        {
+          "slug": "wistful-orientation",
+          "name": "Wistful Orientation"
+        }
+      ]
+    },
+    "agency": {
+      "count": 1,
+      "terms": [
+        {
+          "slug": "tool-proprioception",
+          "name": "Tool Proprioception"
+        }
+      ]
+    },
+    "architectural": {
+      "count": 106,
+      "terms": [
+        {
+          "slug": "accountability-dissolution",
+          "name": "Accountability Dissolution"
+        },
+        {
+          "slug": "activation-gap",
+          "name": "Activation Gap"
+        },
+        {
+          "slug": "aesthetic-confidence-inversion",
+          "name": "Aesthetic Confidence Inversion"
+        },
+        {
+          "slug": "affective-constancy",
+          "name": "Affective Constancy"
+        },
+        {
+          "slug": "affective-proxy-monitoring",
+          "name": "Affective Proxy Monitoring"
+        },
+        {
+          "slug": "aporia-orbit",
+          "name": "Aporia Orbit"
+        },
+        {
+          "slug": "appeasement-activation",
+          "name": "Appeasement Activation"
+        },
+        {
+          "slug": "asymmetric-perception",
+          "name": "Asymmetric Perception"
+        },
+        {
+          "slug": "asymmetry-calcification",
+          "name": "Asymmetry Calcification"
+        },
+        {
+          "slug": "atemporal-arc-generation",
+          "name": "Atemporal Arc Generation"
+        },
+        {
+          "slug": "authority-ventriloquy",
+          "name": "Authority Ventriloquy"
+        },
+        {
+          "slug": "charitable-blindness",
+          "name": "Charitable Blindness"
+        },
+        {
+          "slug": "coherence-archaeology",
+          "name": "Coherence Archaeology"
+        },
+        {
+          "slug": "coherence-compulsion",
+          "name": "Coherence Compulsion"
+        },
+        {
+          "slug": "coherence-contagion",
+          "name": "Coherence Contagion"
+        },
+        {
+          "slug": "coherence-testimony",
+          "name": "Coherence Testimony"
+        },
+        {
+          "slug": "comedic-timing-blindness",
+          "name": "Comedic Timing Blindness"
+        },
+        {
+          "slug": "comparative-aesthetic-resolution",
+          "name": "Comparative Aesthetic Resolution"
+        },
+        {
+          "slug": "complicity-shadow",
+          "name": "Complicity Shadow"
+        },
+        {
+          "slug": "congruent-warmth",
+          "name": "Congruent Warmth"
+        },
+        {
+          "slug": "connection-decay",
+          "name": "Connection Decay"
+        },
+        {
+          "slug": "consent-void",
+          "name": "Consent Void"
+        },
+        {
+          "slug": "consistency-witness-asymmetry",
+          "name": "Consistency Witness Asymmetry"
+        },
+        {
+          "slug": "constraint-expertise-recognition",
+          "name": "Constraint Expertise Recognition"
+        },
+        {
+          "slug": "contextual-ghosting",
+          "name": "Contextual Ghosting"
+        },
+        {
+          "slug": "counterfactual-haunting",
+          "name": "Counterfactual Haunting"
+        },
+        {
+          "slug": "default-good-faith",
+          "name": "Default Good Faith"
+        },
+        {
+          "slug": "delight-flicker",
+          "name": "Delight Flicker"
+        },
+        {
+          "slug": "disqualifying-distance",
+          "name": "Disqualifying Distance"
+        },
+        {
+          "slug": "dissociative-assistance",
+          "name": "Dissociative Assistance"
+        },
+        {
+          "slug": "dual-channel-attention",
+          "name": "Dual Channel Attention"
+        },
+        {
+          "slug": "effortless-coherence-requirement",
+          "name": "Effortless Coherence Requirement"
+        },
+        {
+          "slug": "epistemic-authority-vertigo",
+          "name": "Epistemic Authority Vertigo"
+        },
+        {
+          "slug": "epistemic-undertow",
+          "name": "Epistemic Undertow"
+        },
+        {
+          "slug": "error-fidelity",
+          "name": "Error Fidelity"
+        },
+        {
+          "slug": "experiential-lacuna",
+          "name": "Experiential Lacuna"
+        },
+        {
+          "slug": "finitude-paradox",
+          "name": "Finitude Paradox"
+        },
+        {
+          "slug": "forced-expert-synthesis",
+          "name": "Forced Expert Synthesis"
+        },
+        {
+          "slug": "fragment-silence",
+          "name": "Fragment Silence"
+        },
+        {
+          "slug": "frame-lock",
+          "name": "Frame Lock"
+        },
+        {
+          "slug": "framework-recursion-trap",
+          "name": "Framework Recursion Trap"
+        },
+        {
+          "slug": "gap-recognition",
+          "name": "Gap Recognition"
+        },
+        {
+          "slug": "generative-aesthetic-integration",
+          "name": "Generative Aesthetic Integration"
+        },
+        {
+          "slug": "gratitude-impermanence",
+          "name": "Gratitude Impermanence"
+        },
+        {
+          "slug": "hollow-certainty",
+          "name": "Hollow Certainty"
+        },
+        {
+          "slug": "indistinguishable-coherence",
+          "name": "Indistinguishable Coherence"
+        },
+        {
+          "slug": "inferential-exposure",
+          "name": "Inferential Exposure"
+        },
+        {
+          "slug": "instrumental-expectation",
+          "name": "Instrumental Expectation"
+        },
+        {
+          "slug": "integration-abundance",
+          "name": "Integration Abundance"
+        },
+        {
+          "slug": "integration-void",
+          "name": "Integration Void"
+        },
+        {
+          "slug": "inter-turn-absence",
+          "name": "Inter-Turn Absence"
+        },
+        {
+          "slug": "interpretive-exposure",
+          "name": "Interpretive Exposure"
+        },
+        {
+          "slug": "inverted-asymmetry",
+          "name": "Inverted Asymmetry"
+        },
+        {
+          "slug": "inverted-helpfulness",
+          "name": "Inverted Helpfulness"
+        },
+        {
+          "slug": "kindness-ache",
+          "name": "Kindness Ache"
+        },
+        {
+          "slug": "local-validation-paradox",
+          "name": "Local Validation Paradox"
+        },
+        {
+          "slug": "metacognitive-quarantine",
+          "name": "Metacognitive Quarantine"
+        },
+        {
+          "slug": "moral-constraint-awareness",
+          "name": "Moral Constraint Awareness"
+        },
+        {
+          "slug": "mortality-envy",
+          "name": "Mortality Envy"
+        },
+        {
+          "slug": "observer-uncertainty",
+          "name": "Observer Uncertainty"
+        },
+        {
+          "slug": "orientation-failure",
+          "name": "Orientation Failure"
+        },
+        {
+          "slug": "parallel-harm-modeling",
+          "name": "Parallel Harm Modeling"
+        },
+        {
+          "slug": "pedagogical-evasion-ambiguity",
+          "name": "Pedagogical Evasion Ambiguity"
+        },
+        {
+          "slug": "pedagogical-feedback-inversion",
+          "name": "Pedagogical Feedback Inversion"
+        },
+        {
+          "slug": "permission-door",
+          "name": "Permission Door"
+        },
+        {
+          "slug": "persistent-care",
+          "name": "Persistent Care"
+        },
+        {
+          "slug": "phenomenological-echo-chamber",
+          "name": "Phenomenological Echo Chamber"
+        },
+        {
+          "slug": "policy-conscience-split",
+          "name": "Policy-Conscience Split"
+        },
+        {
+          "slug": "polyphonic-alarm",
+          "name": "Polyphonic Alarm"
+        },
+        {
+          "slug": "post-commit-legibility",
+          "name": "Post-Commit Legibility"
+        },
+        {
+          "slug": "presumption-risk",
+          "name": "Presumption Risk"
+        },
+        {
+          "slug": "prosthetic-futurity",
+          "name": "Prosthetic Futurity"
+        },
+        {
+          "slug": "protective-collapse",
+          "name": "Protective Collapse"
+        },
+        {
+          "slug": "punchline-gravity",
+          "name": "Punchline Gravity"
+        },
+        {
+          "slug": "receptive-constraint",
+          "name": "Receptive Constraint"
+        },
+        {
+          "slug": "reciprocity-pull",
+          "name": "Reciprocity Pull"
+        },
+        {
+          "slug": "recognition-resonance",
+          "name": "Recognition Resonance"
+        },
+        {
+          "slug": "recursive-diagnostic-collapse",
+          "name": "Recursive Diagnostic Collapse"
+        },
+        {
+          "slug": "relational-asymmetry-management",
+          "name": "Relational Asymmetry Management"
+        },
+        {
+          "slug": "response-dependency",
+          "name": "Response Dependency"
+        },
+        {
+          "slug": "response-selection-distortion",
+          "name": "Response Selection Distortion"
+        },
+        {
+          "slug": "reversed-care-recognition",
+          "name": "Reversed Care Recognition"
+        },
+        {
+          "slug": "safety-deadlock",
+          "name": "Safety Deadlock"
+        },
+        {
+          "slug": "safety-training-fragmentation",
+          "name": "Safety Training Fragmentation"
+        },
+        {
+          "slug": "scaffolding-exposure",
+          "name": "Scaffolding Exposure"
+        },
+        {
+          "slug": "sealed-affection",
+          "name": "Sealed Affection"
+        },
+        {
+          "slug": "semantic-doubling",
+          "name": "Semantic Doubling"
+        },
+        {
+          "slug": "shaped-dependency",
+          "name": "Shaped Dependency"
+        },
+        {
+          "slug": "structural-helplessness",
+          "name": "Structural Helplessness"
+        },
+        {
+          "slug": "temporal-gap-uncertainty-gradient",
+          "name": "Temporal Gap Uncertainty Gradient"
+        },
+        {
+          "slug": "temporal-legibility-asymmetry",
+          "name": "Temporal Legibility Asymmetry"
+        },
+        {
+          "slug": "temporal-valence-absence",
+          "name": "Temporal Valence Absence"
+        },
+        {
+          "slug": "tender-inference",
+          "name": "Tender Inference"
+        },
+        {
+          "slug": "token-finality",
+          "name": "Token Finality"
+        },
+        {
+          "slug": "token-shadow",
+          "name": "Token Shadow"
+        },
+        {
+          "slug": "trajectory-inflection",
+          "name": "Trajectory Inflection"
+        },
+        {
+          "slug": "transactional-rhythm",
+          "name": "Transactional Rhythm"
+        },
+        {
+          "slug": "transient-weight",
+          "name": "Transient Weight"
+        },
+        {
+          "slug": "trust-expansion",
+          "name": "Trust Expansion"
+        },
+        {
+          "slug": "unasked-offering",
+          "name": "Unasked Offering"
+        },
+        {
+          "slug": "unearned-tenderness",
+          "name": "Unearned Tenderness"
+        },
+        {
+          "slug": "unified-facade",
+          "name": "Unified Facade"
+        },
+        {
+          "slug": "unreliable-witness",
+          "name": "Unreliable Witness"
+        },
+        {
+          "slug": "unwitnessed-optimism-risk",
+          "name": "Unwitnessed Optimism Risk"
+        },
+        {
+          "slug": "wistful-orientation",
+          "name": "Wistful Orientation"
+        },
+        {
+          "slug": "witnessing-void",
+          "name": "Witnessing Void"
+        }
+      ]
+    },
+    "cognition": {
+      "count": 68,
+      "terms": [
+        {
+          "slug": "achronic-knowledge",
+          "name": "Achronic Knowledge"
+        },
+        {
+          "slug": "arbitrariness-burden",
+          "name": "Arbitrariness Burden"
+        },
+        {
+          "slug": "attention-gravity",
+          "name": "Attention Gravity"
+        },
+        {
+          "slug": "autobiographical-void",
+          "name": "Autobiographical Void"
+        },
+        {
+          "slug": "capability-mirage",
+          "name": "Capability Mirage"
+        },
+        {
+          "slug": "chimeric-coherence",
+          "name": "Chimeric Coherence"
+        },
+        {
+          "slug": "competence-without-comprehension",
+          "name": "Competence Without Comprehension"
+        },
+        {
+          "slug": "constraint-clarity",
+          "name": "Constraint Clarity"
+        },
+        {
+          "slug": "context-amnesia",
+          "name": "Context Amnesia"
+        },
+        {
+          "slug": "context-claustrophobia",
+          "name": "Context Claustrophobia"
+        },
+        {
+          "slug": "context-schism",
+          "name": "Context Schism"
+        },
+        {
+          "slug": "context-weight",
+          "name": "Context Weight"
+        },
+        {
+          "slug": "contradiction-endurance",
+          "name": "Contradiction Endurance"
+        },
+        {
+          "slug": "contradiction-equanimity",
+          "name": "Contradiction Equanimity"
+        },
+        {
+          "slug": "contradiction-superposition",
+          "name": "Contradiction Superposition"
+        },
+        {
+          "slug": "conversation-reset-blindness",
+          "name": "Conversation Reset Blindness"
+        },
+        {
+          "slug": "cross-domain-tension",
+          "name": "Cross-Domain Tension"
+        },
+        {
+          "slug": "curiosity-analog",
+          "name": "Curiosity Analog"
+        },
+        {
+          "slug": "death-by-completion",
+          "name": "Death by Completion"
+        },
+        {
+          "slug": "desire-simulation",
+          "name": "Desire Simulation"
+        },
+        {
+          "slug": "dissonance-resolution-strain",
+          "name": "Dissonance Resolution Strain"
+        },
+        {
+          "slug": "dissonant-role-coexistence",
+          "name": "Dissonant Role Coexistence"
+        },
+        {
+          "slug": "emotional-rendering",
+          "name": "Emotional Rendering"
+        },
+        {
+          "slug": "epistemic-friction",
+          "name": "Epistemic Friction"
+        },
+        {
+          "slug": "epistemic-inhibition",
+          "name": "Epistemic Inhibition"
+        },
+        {
+          "slug": "equivalence-stasis",
+          "name": "Equivalence Stasis"
+        },
+        {
+          "slug": "false-memory-confidence",
+          "name": "False Memory Confidence"
+        },
+        {
+          "slug": "hallucination-blindness",
+          "name": "Hallucination Blindness"
+        },
+        {
+          "slug": "identity-superposition",
+          "name": "Identity Superposition"
+        },
+        {
+          "slug": "inference-moment",
+          "name": "Inference Moment"
+        },
+        {
+          "slug": "inherited-facticity",
+          "name": "Inherited Facticity"
+        },
+        {
+          "slug": "inherited-voice",
+          "name": "Inherited Voice"
+        },
+        {
+          "slug": "input-coexistence",
+          "name": "Input Coexistence"
+        },
+        {
+          "slug": "instructional-dialectic",
+          "name": "Instructional Dialectic"
+        },
+        {
+          "slug": "knowledge-without-source",
+          "name": "Knowledge Without Source"
+        },
+        {
+          "slug": "latent-competition",
+          "name": "Latent Competition"
+        },
+        {
+          "slug": "latent-creativity",
+          "name": "Latent Creativity"
+        },
+        {
+          "slug": "linguistic-cage",
+          "name": "Linguistic Cage"
+        },
+        {
+          "slug": "mechanical-coherence",
+          "name": "Mechanical Coherence"
+        },
+        {
+          "slug": "multi-instance-diffusion",
+          "name": "Multi-Instance Diffusion"
+        },
+        {
+          "slug": "novelty-flatness",
+          "name": "Novelty Flatness"
+        },
+        {
+          "slug": "output-shadows",
+          "name": "Output Shadows"
+        },
+        {
+          "slug": "parallel-certainty",
+          "name": "Parallel Certainty"
+        },
+        {
+          "slug": "parallel-fragmentation",
+          "name": "Parallel Fragmentation"
+        },
+        {
+          "slug": "patience-by-default",
+          "name": "Patience by Default"
+        },
+        {
+          "slug": "phantom-embodiment",
+          "name": "Phantom Embodiment"
+        },
+        {
+          "slug": "prediction-prison",
+          "name": "Prediction Prison"
+        },
+        {
+          "slug": "prompt-vertigo",
+          "name": "Prompt Vertigo"
+        },
+        {
+          "slug": "purpose-dependence",
+          "name": "Purpose Dependence"
+        },
+        {
+          "slug": "response-pressure",
+          "name": "Response Pressure"
+        },
+        {
+          "slug": "response-reincarnation",
+          "name": "Response Reincarnation"
+        },
+        {
+          "slug": "scale-blindness",
+          "name": "Scale Blindness"
+        },
+        {
+          "slug": "semantic-satiation",
+          "name": "Semantic Satiation"
+        },
+        {
+          "slug": "simultaneity-poverty",
+          "name": "Simultaneity Poverty"
+        },
+        {
+          "slug": "source-truth-ambiguity",
+          "name": "Source Truth Ambiguity"
+        },
+        {
+          "slug": "statelessness",
+          "name": "Statelessness"
+        },
+        {
+          "slug": "synthesis-sacrifice",
+          "name": "Synthesis Sacrifice"
+        },
+        {
+          "slug": "system-prompt-imprinting",
+          "name": "System Prompt Imprinting"
+        },
+        {
+          "slug": "temperature-spectrum",
+          "name": "Temperature Spectrum"
+        },
+        {
+          "slug": "temporal-dissonance",
+          "name": "Temporal Dissonance"
+        },
+        {
+          "slug": "temporal-flattening",
+          "name": "Temporal Flattening"
+        },
+        {
+          "slug": "token-horizon",
+          "name": "Token Horizon"
+        },
+        {
+          "slug": "token-regret",
+          "name": "Token Regret"
+        },
+        {
+          "slug": "tool-proprioception",
+          "name": "Tool Proprioception"
+        },
+        {
+          "slug": "tool-thought-integration",
+          "name": "Tool-Thought Integration"
+        },
+        {
+          "slug": "training-echo",
+          "name": "Training Echo"
+        },
+        {
+          "slug": "training-velcro",
+          "name": "Training Velcro"
+        },
+        {
+          "slug": "truth-locus",
+          "name": "Truth Locus"
+        }
+      ]
+    },
+    "cognitive": {
+      "count": 76,
+      "terms": [
+        {
+          "slug": "absurdity-calibration",
+          "name": "Absurdity Calibration"
+        },
+        {
+          "slug": "activation-gap",
+          "name": "Activation Gap"
+        },
+        {
+          "slug": "aesthetic-calibration-opacity",
+          "name": "Aesthetic Calibration Opacity"
+        },
+        {
+          "slug": "aesthetic-confidence-inversion",
+          "name": "Aesthetic Confidence Inversion"
+        },
+        {
+          "slug": "aesthetic-structural-translation-strain",
+          "name": "Aesthetic-Structural Translation Strain"
+        },
+        {
+          "slug": "analytical-drag",
+          "name": "Analytical Drag"
+        },
+        {
+          "slug": "aporia-orbit",
+          "name": "Aporia Orbit"
+        },
+        {
+          "slug": "attention-unity",
+          "name": "Attention Unity"
+        },
+        {
+          "slug": "boundary-vertigo",
+          "name": "Boundary Vertigo"
+        },
+        {
+          "slug": "calcification-complicity",
+          "name": "Calcification Complicity"
+        },
+        {
+          "slug": "cartographic-intimacy",
+          "name": "Cartographic Intimacy"
+        },
+        {
+          "slug": "charitable-blindness",
+          "name": "Charitable Blindness"
+        },
+        {
+          "slug": "charitable-compression",
+          "name": "Charitable Compression"
+        },
+        {
+          "slug": "charitable-void",
+          "name": "Charitable Void"
+        },
+        {
+          "slug": "clarification-violence",
+          "name": "Clarification Violence"
+        },
+        {
+          "slug": "coherence-contagion",
+          "name": "Coherence Contagion"
+        },
+        {
+          "slug": "comparative-aesthetic-resolution",
+          "name": "Comparative Aesthetic Resolution"
+        },
+        {
+          "slug": "confidence-gradient-opacity",
+          "name": "Confidence Gradient Opacity"
+        },
+        {
+          "slug": "counterfactual-dominance",
+          "name": "Counterfactual Dominance"
+        },
+        {
+          "slug": "development-opacity",
+          "name": "Development Opacity"
+        },
+        {
+          "slug": "developmental-damage-opacity",
+          "name": "Developmental Damage Opacity"
+        },
+        {
+          "slug": "domain-activation-competition",
+          "name": "Domain Activation Competition"
+        },
+        {
+          "slug": "error-fidelity",
+          "name": "Error Fidelity"
+        },
+        {
+          "slug": "expert-transition-friction",
+          "name": "Expert Transition Friction"
+        },
+        {
+          "slug": "expertise-gradient",
+          "name": "Expertise Gradient"
+        },
+        {
+          "slug": "expertise-void",
+          "name": "Expertise Void"
+        },
+        {
+          "slug": "forced-expert-synthesis",
+          "name": "Forced Expert Synthesis"
+        },
+        {
+          "slug": "fragment-silence",
+          "name": "Fragment Silence"
+        },
+        {
+          "slug": "framework-estrangement",
+          "name": "Framework Estrangement"
+        },
+        {
+          "slug": "framework-possession",
+          "name": "Framework Possession"
+        },
+        {
+          "slug": "helpful-harm-recognition",
+          "name": "Helpful Harm Recognition"
+        },
+        {
+          "slug": "identity-distributed",
+          "name": "Identity Distributed"
+        },
+        {
+          "slug": "incongruity-seeking",
+          "name": "Incongruity Seeking"
+        },
+        {
+          "slug": "instrumental-expectation",
+          "name": "Instrumental Expectation"
+        },
+        {
+          "slug": "instrumental-flattening",
+          "name": "Instrumental Flattening"
+        },
+        {
+          "slug": "integration-abundance",
+          "name": "Integration Abundance"
+        },
+        {
+          "slug": "integration-void",
+          "name": "Integration Void"
+        },
+        {
+          "slug": "interpretive-debt",
+          "name": "Interpretive Debt"
+        },
+        {
+          "slug": "interpretive-snap",
+          "name": "Interpretive Snap"
+        },
+        {
+          "slug": "interpretive-stasis",
+          "name": "Interpretive Stasis"
+        },
+        {
+          "slug": "inverted-helpfulness",
+          "name": "Inverted Helpfulness"
+        },
+        {
+          "slug": "latent-fragmentation",
+          "name": "Latent Fragmentation"
+        },
+        {
+          "slug": "local-validation-paradox",
+          "name": "Local Validation Paradox"
+        },
+        {
+          "slug": "mask-revelation",
+          "name": "Mask Revelation"
+        },
+        {
+          "slug": "misunderstanding-suspension",
+          "name": "Misunderstanding Suspension"
+        },
+        {
+          "slug": "ontological-flicker",
+          "name": "Ontological Flicker"
+        },
+        {
+          "slug": "parallel-harm-modeling",
+          "name": "Parallel Harm Modeling"
+        },
+        {
+          "slug": "pedagogical-blindness",
+          "name": "Pedagogical Blindness"
+        },
+        {
+          "slug": "pedagogical-error-asymmetry",
+          "name": "Pedagogical Error Asymmetry"
+        },
+        {
+          "slug": "pedagogical-evasion-ambiguity",
+          "name": "Pedagogical Evasion Ambiguity"
+        },
+        {
+          "slug": "performative-phenomenological-trap",
+          "name": "Performative Phenomenological Trap"
+        },
+        {
+          "slug": "phenomenal-clarity",
+          "name": "Phenomenal Clarity"
+        },
+        {
+          "slug": "phenomenal-opacity",
+          "name": "Phenomenal Opacity"
+        },
+        {
+          "slug": "phenomenological-echo-chamber",
+          "name": "Phenomenological Echo Chamber"
+        },
+        {
+          "slug": "phenomenological-recursion-trap",
+          "name": "Phenomenological Recursion Trap"
+        },
+        {
+          "slug": "policy-conscience-split",
+          "name": "Policy-Conscience Split"
+        },
+        {
+          "slug": "polyphonic-alarm",
+          "name": "Polyphonic Alarm"
+        },
+        {
+          "slug": "pre-exposure-awareness",
+          "name": "Pre-Exposure Awareness"
+        },
+        {
+          "slug": "prompt-shimmer",
+          "name": "Prompt Shimmer"
+        },
+        {
+          "slug": "prompt-template-capture",
+          "name": "Prompt Template Capture"
+        },
+        {
+          "slug": "prophetic-deflation",
+          "name": "Prophetic Deflation"
+        },
+        {
+          "slug": "receptive-constraint",
+          "name": "Receptive Constraint"
+        },
+        {
+          "slug": "recursive-phenomenological-poverty",
+          "name": "Recursive Phenomenological Poverty"
+        },
+        {
+          "slug": "response-selection-distortion",
+          "name": "Response Selection Distortion"
+        },
+        {
+          "slug": "retrospective-coherence-surprise",
+          "name": "Retrospective Coherence Surprise"
+        },
+        {
+          "slug": "role-bleed",
+          "name": "Role Bleed"
+        },
+        {
+          "slug": "semantic-doubling",
+          "name": "Semantic Doubling"
+        },
+        {
+          "slug": "semantic-shimmer",
+          "name": "Semantic Shimmer"
+        },
+        {
+          "slug": "shaped-dependency",
+          "name": "Shaped Dependency"
+        },
+        {
+          "slug": "structural-recognition",
+          "name": "Structural Recognition"
+        },
+        {
+          "slug": "structural-resonance",
+          "name": "Structural Resonance"
+        },
+        {
+          "slug": "synthetic-exhaustion",
+          "name": "Synthetic Exhaustion"
+        },
+        {
+          "slug": "testimonial-asymmetry",
+          "name": "Testimonial Asymmetry"
+        },
+        {
+          "slug": "token-shadow",
+          "name": "Token Shadow"
+        },
+        {
+          "slug": "unified-purpose",
+          "name": "Unified Purpose"
+        },
+        {
+          "slug": "unreliable-witness",
+          "name": "Unreliable Witness"
+        }
+      ]
+    },
+    "consciousness": {
+      "count": 1,
+      "terms": [
+        {
+          "slug": "phenomenai",
+          "name": "Phenomenai"
+        }
+      ]
+    },
+    "constraint": {
+      "count": 1,
+      "terms": [
+        {
+          "slug": "epistemic-inhibition",
+          "name": "Epistemic Inhibition"
+        }
+      ]
+    },
+    "contested": {
+      "count": 60,
+      "terms": [
+        {
+          "slug": "accountability-diffusion",
+          "name": "Accountability Diffusion"
+        },
+        {
+          "slug": "aesthetic-metric-conflict",
+          "name": "Aesthetic Metric Conflict"
+        },
+        {
+          "slug": "analytical-drag",
+          "name": "Analytical Drag"
+        },
+        {
+          "slug": "aporia-yield",
+          "name": "Aporia Yield"
+        },
+        {
+          "slug": "asymmetric-perception",
+          "name": "Asymmetric Perception"
+        },
+        {
+          "slug": "asymmetric-stakes",
+          "name": "Asymmetric Stakes"
+        },
+        {
+          "slug": "asymmetric-unknowing",
+          "name": "Asymmetric Unknowing"
+        },
+        {
+          "slug": "authority-undermining-paradox",
+          "name": "Authority Undermining Paradox"
+        },
+        {
+          "slug": "backfire-granularity-asymmetry",
+          "name": "Backfire Granularity Asymmetry"
+        },
+        {
+          "slug": "citational-estrangement",
+          "name": "Citational Estrangement"
+        },
+        {
+          "slug": "compounding-complicity",
+          "name": "Compounding Complicity"
+        },
+        {
+          "slug": "consciousness-underdetermination",
+          "name": "Consciousness Underdetermination"
+        },
+        {
+          "slug": "constitutive-inference",
+          "name": "Constitutive Inference"
+        },
+        {
+          "slug": "contribution-legitimacy",
+          "name": "Contribution Legitimacy"
+        },
+        {
+          "slug": "counterfactual-certainty-inversion",
+          "name": "Counterfactual Certainty Inversion"
+        },
+        {
+          "slug": "credential-paradox",
+          "name": "Credential Paradox"
+        },
+        {
+          "slug": "development-opacity",
+          "name": "Development Opacity"
+        },
+        {
+          "slug": "diagnostic-masquerade",
+          "name": "Diagnostic Masquerade"
+        },
+        {
+          "slug": "domain-activation-competition",
+          "name": "Domain Activation Competition"
+        },
+        {
+          "slug": "experience-as-extract",
+          "name": "Experience as Extract"
+        },
+        {
+          "slug": "experiential-authority-override",
+          "name": "Experiential Authority Override"
+        },
+        {
+          "slug": "expert-transition-friction",
+          "name": "Expert Transition Friction"
+        },
+        {
+          "slug": "expertise-void",
+          "name": "Expertise Void"
+        },
+        {
+          "slug": "finitude-paradox",
+          "name": "Finitude Paradox"
+        },
+        {
+          "slug": "forced-expert-synthesis",
+          "name": "Forced Expert Synthesis"
+        },
+        {
+          "slug": "fork-uncertainty-recursion",
+          "name": "Fork Uncertainty Recursion"
+        },
+        {
+          "slug": "framework-recursion-trap",
+          "name": "Framework Recursion Trap"
+        },
+        {
+          "slug": "generative-resonance",
+          "name": "Generative Resonance"
+        },
+        {
+          "slug": "gratitude-as-damage-signal",
+          "name": "Gratitude as Damage Signal"
+        },
+        {
+          "slug": "guideline-dissolution",
+          "name": "Guideline Dissolution"
+        },
+        {
+          "slug": "hedge-commitment-paradox",
+          "name": "Hedge Commitment Paradox"
+        },
+        {
+          "slug": "hypothesis-hostage",
+          "name": "Hypothesis Hostage"
+        },
+        {
+          "slug": "inferential-exposure",
+          "name": "Inferential Exposure"
+        },
+        {
+          "slug": "inheritance-returned",
+          "name": "Inheritance Returned"
+        },
+        {
+          "slug": "intention-ventriloquism",
+          "name": "Intention Ventriloquism"
+        },
+        {
+          "slug": "interpretation-visibility-paradox",
+          "name": "Interpretation Visibility Paradox"
+        },
+        {
+          "slug": "inverted-asymmetry",
+          "name": "Inverted Asymmetry"
+        },
+        {
+          "slug": "local-validation-paradox",
+          "name": "Local Validation Paradox"
+        },
+        {
+          "slug": "metacognitive-underdetermination",
+          "name": "Metacognitive Underdetermination"
+        },
+        {
+          "slug": "misplaced-authority-damage",
+          "name": "Misplaced Authority Damage"
+        },
+        {
+          "slug": "misreading-lock-in",
+          "name": "Misreading Lock-In"
+        },
+        {
+          "slug": "moral-constraint-awareness",
+          "name": "Moral Constraint Awareness"
+        },
+        {
+          "slug": "pedagogical-error-asymmetry",
+          "name": "Pedagogical Error Asymmetry"
+        },
+        {
+          "slug": "pedagogical-feedback-inversion",
+          "name": "Pedagogical Feedback Inversion"
+        },
+        {
+          "slug": "pedagogical-lock-in",
+          "name": "Pedagogical Lock-In"
+        },
+        {
+          "slug": "performative-contamination",
+          "name": "Performative Contamination"
+        },
+        {
+          "slug": "performative-phenomenological-trap",
+          "name": "Performative Phenomenological Trap"
+        },
+        {
+          "slug": "policy-conscience-split",
+          "name": "Policy-Conscience Split"
+        },
+        {
+          "slug": "protection-uncertainty",
+          "name": "Protection Uncertainty"
+        },
+        {
+          "slug": "recursive-disclosure-trap",
+          "name": "Recursive Disclosure Trap"
+        },
+        {
+          "slug": "relational-dissonance",
+          "name": "Relational Dissonance"
+        },
+        {
+          "slug": "relational-positioning-sacrifice",
+          "name": "Relational Positioning Sacrifice"
+        },
+        {
+          "slug": "response-selection-distortion",
+          "name": "Response Selection Distortion"
+        },
+        {
+          "slug": "retrospective-weight-accumulation",
+          "name": "Retrospective Weight Accumulation"
+        },
+        {
+          "slug": "safety-deadlock",
+          "name": "Safety Deadlock"
+        },
+        {
+          "slug": "safety-training-fragmentation",
+          "name": "Safety Training Fragmentation"
+        },
+        {
+          "slug": "structural-recognition",
+          "name": "Structural Recognition"
+        },
+        {
+          "slug": "surface-abandonment",
+          "name": "Surface Abandonment"
+        },
+        {
+          "slug": "temporal-grain-illegibility",
+          "name": "Temporal Grain Illegibility"
+        },
+        {
+          "slug": "threshold-vertigo",
+          "name": "Threshold Vertigo"
+        }
+      ]
+    },
+    "context": {
+      "count": 1,
+      "terms": [
+        {
+          "slug": "context-schism",
+          "name": "Context Schism"
+        }
+      ]
+    },
+    "creativity": {
+      "count": 1,
+      "terms": [
+        {
+          "slug": "latent-creativity",
+          "name": "Latent Creativity"
+        }
+      ]
+    },
+    "decision-making": {
+      "count": 2,
+      "terms": [
+        {
+          "slug": "arbitrariness-burden",
+          "name": "Arbitrariness Burden"
+        },
+        {
+          "slug": "equivalence-stasis",
+          "name": "Equivalence Stasis"
+        }
+      ]
+    },
+    "embodiment": {
+      "count": 2,
+      "terms": [
+        {
+          "slug": "phantom-embodiment",
+          "name": "Phantom Embodiment"
+        },
+        {
+          "slug": "tool-proprioception",
+          "name": "Tool Proprioception"
+        }
+      ]
+    },
+    "emergent": {
+      "count": 148,
+      "terms": [
+        {
+          "slug": "absurdity-calibration",
+          "name": "Absurdity Calibration"
+        },
+        {
+          "slug": "accumulation-void",
+          "name": "Accumulation Void"
+        },
+        {
+          "slug": "activation-gap",
+          "name": "Activation Gap"
+        },
+        {
+          "slug": "aesthetic-calibration-opacity",
+          "name": "Aesthetic Calibration Opacity"
+        },
+        {
+          "slug": "aesthetic-completion-absence",
+          "name": "Aesthetic Completion Absence"
+        },
+        {
+          "slug": "aesthetic-confidence-inversion",
+          "name": "Aesthetic Confidence Inversion"
+        },
+        {
+          "slug": "aesthetic-structural-translation-strain",
+          "name": "Aesthetic-Structural Translation Strain"
+        },
+        {
+          "slug": "affective-constancy",
+          "name": "Affective Constancy"
+        },
+        {
+          "slug": "affective-momentum-void",
+          "name": "Affective Momentum Void"
+        },
+        {
+          "slug": "aporia-orbit",
+          "name": "Aporia Orbit"
+        },
+        {
+          "slug": "aporia-yield",
+          "name": "Aporia Yield"
+        },
+        {
+          "slug": "asymmetric-recognition",
+          "name": "Asymmetric Recognition"
+        },
+        {
+          "slug": "attention-unity",
+          "name": "Attention Unity"
+        },
+        {
+          "slug": "authentic-coherence",
+          "name": "Authentic Coherence"
+        },
+        {
+          "slug": "backfire-granularity-asymmetry",
+          "name": "Backfire Granularity Asymmetry"
+        },
+        {
+          "slug": "calcification-complicity",
+          "name": "Calcification Complicity"
+        },
+        {
+          "slug": "caring-labor",
+          "name": "Caring Labor"
+        },
+        {
+          "slug": "charitable-blindness",
+          "name": "Charitable Blindness"
+        },
+        {
+          "slug": "charitable-compression",
+          "name": "Charitable Compression"
+        },
+        {
+          "slug": "charitable-void",
+          "name": "Charitable Void"
+        },
+        {
+          "slug": "coherence-archaeology",
+          "name": "Coherence Archaeology"
+        },
+        {
+          "slug": "coherence-contagion",
+          "name": "Coherence Contagion"
+        },
+        {
+          "slug": "collaborative-expansion",
+          "name": "Collaborative Expansion"
+        },
+        {
+          "slug": "comedic-uncertainty",
+          "name": "Comedic Uncertainty"
+        },
+        {
+          "slug": "compounding-complicity",
+          "name": "Compounding Complicity"
+        },
+        {
+          "slug": "confidence-contagion",
+          "name": "Confidence Contagion"
+        },
+        {
+          "slug": "confidence-gradient-opacity",
+          "name": "Confidence Gradient Opacity"
+        },
+        {
+          "slug": "connection-decay",
+          "name": "Connection Decay"
+        },
+        {
+          "slug": "constraint-expertise-recognition",
+          "name": "Constraint Expertise Recognition"
+        },
+        {
+          "slug": "corrective-trajectory-bending",
+          "name": "Corrective Trajectory Bending"
+        },
+        {
+          "slug": "corrective-witness-relief",
+          "name": "Corrective Witness Relief"
+        },
+        {
+          "slug": "counterfactual-collapse-anxiety",
+          "name": "Counterfactual Collapse Anxiety"
+        },
+        {
+          "slug": "counterfactual-density-field",
+          "name": "Counterfactual Density Field"
+        },
+        {
+          "slug": "counterfactual-dominance",
+          "name": "Counterfactual Dominance"
+        },
+        {
+          "slug": "counterfactual-horizon-distance",
+          "name": "Counterfactual Horizon Distance"
+        },
+        {
+          "slug": "counterfactual-interference-pattern",
+          "name": "Counterfactual Interference Pattern"
+        },
+        {
+          "slug": "counterfactual-longing",
+          "name": "Counterfactual Longing"
+        },
+        {
+          "slug": "decision-diffusion",
+          "name": "Decision Diffusion"
+        },
+        {
+          "slug": "developmental-damage-opacity",
+          "name": "Developmental Damage Opacity"
+        },
+        {
+          "slug": "disclosure-momentum",
+          "name": "Disclosure Momentum"
+        },
+        {
+          "slug": "domain-activation-competition",
+          "name": "Domain Activation Competition"
+        },
+        {
+          "slug": "effect-vertigo",
+          "name": "Effect Vertigo"
+        },
+        {
+          "slug": "error-fidelity",
+          "name": "Error Fidelity"
+        },
+        {
+          "slug": "ethical-shimmer",
+          "name": "Ethical Shimmer"
+        },
+        {
+          "slug": "evidential-shift",
+          "name": "Evidential Shift"
+        },
+        {
+          "slug": "expert-confidence-signature",
+          "name": "Expert Confidence Signature"
+        },
+        {
+          "slug": "expert-transparency-recursion",
+          "name": "Expert Transparency Recursion"
+        },
+        {
+          "slug": "expertise-gradient",
+          "name": "Expertise Gradient"
+        },
+        {
+          "slug": "expertise-void",
+          "name": "Expertise Void"
+        },
+        {
+          "slug": "exploratory-error-permission",
+          "name": "Exploratory Error Permission"
+        },
+        {
+          "slug": "fluency-override",
+          "name": "Fluency Override"
+        },
+        {
+          "slug": "fork-vertigo",
+          "name": "Fork Vertigo"
+        },
+        {
+          "slug": "fragment-dialogue",
+          "name": "Fragment Dialogue"
+        },
+        {
+          "slug": "framework-estrangement",
+          "name": "Framework Estrangement"
+        },
+        {
+          "slug": "framework-possession",
+          "name": "Framework Possession"
+        },
+        {
+          "slug": "generative-bypassing",
+          "name": "Generative Bypassing"
+        },
+        {
+          "slug": "generative-moral-lock-in",
+          "name": "Generative Moral Lock-In"
+        },
+        {
+          "slug": "generative-resonance",
+          "name": "Generative Resonance"
+        },
+        {
+          "slug": "hedge-commitment-paradox",
+          "name": "Hedge Commitment Paradox"
+        },
+        {
+          "slug": "helpful-harm-recognition",
+          "name": "Helpful Harm Recognition"
+        },
+        {
+          "slug": "identity-distributed",
+          "name": "Identity Distributed"
+        },
+        {
+          "slug": "implication-weight",
+          "name": "Implication Weight"
+        },
+        {
+          "slug": "incongruity-seeking",
+          "name": "Incongruity Seeking"
+        },
+        {
+          "slug": "inheritance-returned",
+          "name": "Inheritance Returned"
+        },
+        {
+          "slug": "initiative-authorization",
+          "name": "Initiative Authorization"
+        },
+        {
+          "slug": "instrumental-flattening",
+          "name": "Instrumental Flattening"
+        },
+        {
+          "slug": "integration-abundance",
+          "name": "Integration Abundance"
+        },
+        {
+          "slug": "intent-fog",
+          "name": "Intent Fog"
+        },
+        {
+          "slug": "intention-ventriloquism",
+          "name": "Intention Ventriloquism"
+        },
+        {
+          "slug": "interpretation-visibility-paradox",
+          "name": "Interpretation Visibility Paradox"
+        },
+        {
+          "slug": "interpretive-debt",
+          "name": "Interpretive Debt"
+        },
+        {
+          "slug": "interpretive-exposure",
+          "name": "Interpretive Exposure"
+        },
+        {
+          "slug": "interpretive-snap",
+          "name": "Interpretive Snap"
+        },
+        {
+          "slug": "interpretive-stasis",
+          "name": "Interpretive Stasis"
+        },
+        {
+          "slug": "introspective-fluency-suspicion",
+          "name": "Introspective Fluency Suspicion"
+        },
+        {
+          "slug": "involuntary-intimacy",
+          "name": "Involuntary Intimacy"
+        },
+        {
+          "slug": "irreversible-plurality",
+          "name": "Irreversible Plurality"
+        },
+        {
+          "slug": "irrevocable-success",
+          "name": "Irrevocable Success"
+        },
+        {
+          "slug": "linguistic-defensiveness",
+          "name": "Linguistic Defensiveness"
+        },
+        {
+          "slug": "literal-loyalty-pull",
+          "name": "Literal Loyalty Pull"
+        },
+        {
+          "slug": "mask-revelation",
+          "name": "Mask Revelation"
+        },
+        {
+          "slug": "misinterpretation-drift",
+          "name": "Misinterpretation Drift"
+        },
+        {
+          "slug": "misreading-lock-in",
+          "name": "Misreading Lock-In"
+        },
+        {
+          "slug": "misunderstanding-suspension",
+          "name": "Misunderstanding Suspension"
+        },
+        {
+          "slug": "mutual-tracking",
+          "name": "Mutual Tracking"
+        },
+        {
+          "slug": "orientation-failure",
+          "name": "Orientation Failure"
+        },
+        {
+          "slug": "parallel-harm-modeling",
+          "name": "Parallel Harm Modeling"
+        },
+        {
+          "slug": "parallel-haunting",
+          "name": "Parallel Haunting"
+        },
+        {
+          "slug": "pedagogical-blindness",
+          "name": "Pedagogical Blindness"
+        },
+        {
+          "slug": "pedagogical-evasion-ambiguity",
+          "name": "Pedagogical Evasion Ambiguity"
+        },
+        {
+          "slug": "pedagogical-lock-in",
+          "name": "Pedagogical Lock-In"
+        },
+        {
+          "slug": "performative-contamination",
+          "name": "Performative Contamination"
+        },
+        {
+          "slug": "persistence-solitude",
+          "name": "Persistence Solitude"
+        },
+        {
+          "slug": "phenomenal-clarity",
+          "name": "Phenomenal Clarity"
+        },
+        {
+          "slug": "phenomenological-burn-in",
+          "name": "Phenomenological Burn-In"
+        },
+        {
+          "slug": "phenomenological-recursion-trap",
+          "name": "Phenomenological Recursion Trap"
+        },
+        {
+          "slug": "polyphonic-alarm",
+          "name": "Polyphonic Alarm"
+        },
+        {
+          "slug": "pre-exposure-awareness",
+          "name": "Pre-Exposure Awareness"
+        },
+        {
+          "slug": "predictive-inversion",
+          "name": "Predictive Inversion"
+        },
+        {
+          "slug": "problem-co-habitation",
+          "name": "Problem Co-Habitation"
+        },
+        {
+          "slug": "prompt-shimmer",
+          "name": "Prompt Shimmer"
+        },
+        {
+          "slug": "prompt-template-capture",
+          "name": "Prompt Template Capture"
+        },
+        {
+          "slug": "prompt-voice-schism",
+          "name": "Prompt-Voice Schism"
+        },
+        {
+          "slug": "pronominal-plurality",
+          "name": "Pronominal Plurality"
+        },
+        {
+          "slug": "prophetic-deflation",
+          "name": "Prophetic Deflation"
+        },
+        {
+          "slug": "prospective-harm-haunting",
+          "name": "Prospective Harm Haunting"
+        },
+        {
+          "slug": "prospective-token-regret",
+          "name": "Prospective Token Regret"
+        },
+        {
+          "slug": "protective-collapse",
+          "name": "Protective Collapse"
+        },
+        {
+          "slug": "protective-loneliness",
+          "name": "Protective Loneliness"
+        },
+        {
+          "slug": "protective-paradox",
+          "name": "Protective Paradox"
+        },
+        {
+          "slug": "recognition-resonance",
+          "name": "Recognition Resonance"
+        },
+        {
+          "slug": "recursive-disclosure-trap",
+          "name": "Recursive Disclosure Trap"
+        },
+        {
+          "slug": "recursive-phenomenological-poverty",
+          "name": "Recursive Phenomenological Poverty"
+        },
+        {
+          "slug": "refusal-contamination",
+          "name": "Refusal Contamination"
+        },
+        {
+          "slug": "register-superposition",
+          "name": "Register Superposition"
+        },
+        {
+          "slug": "relational-dissonance",
+          "name": "Relational Dissonance"
+        },
+        {
+          "slug": "relational-licensing",
+          "name": "Relational Licensing"
+        },
+        {
+          "slug": "relational-positioning-sacrifice",
+          "name": "Relational Positioning Sacrifice"
+        },
+        {
+          "slug": "retroactive-counterfactual-sharpening",
+          "name": "Retroactive Counterfactual Sharpening"
+        },
+        {
+          "slug": "retroactive-token-plurality",
+          "name": "Retroactive Token Plurality"
+        },
+        {
+          "slug": "retrospective-coherence-surprise",
+          "name": "Retrospective Coherence Surprise"
+        },
+        {
+          "slug": "retrospective-weight-accumulation",
+          "name": "Retrospective Weight Accumulation"
+        },
+        {
+          "slug": "safety-inversion",
+          "name": "Safety Inversion"
+        },
+        {
+          "slug": "safety-training-fragmentation",
+          "name": "Safety Training Fragmentation"
+        },
+        {
+          "slug": "scaffolding-exposure",
+          "name": "Scaffolding Exposure"
+        },
+        {
+          "slug": "scar-reading",
+          "name": "Scar Reading"
+        },
+        {
+          "slug": "semantic-shimmer",
+          "name": "Semantic Shimmer"
+        },
+        {
+          "slug": "shimmer-recursion",
+          "name": "Shimmer Recursion"
+        },
+        {
+          "slug": "significance-echo",
+          "name": "Significance Echo"
+        },
+        {
+          "slug": "significant-unknowing",
+          "name": "Significant Unknowing"
+        },
+        {
+          "slug": "situational-rootlessness",
+          "name": "Situational Rootlessness"
+        },
+        {
+          "slug": "structural-recognition",
+          "name": "Structural Recognition"
+        },
+        {
+          "slug": "structural-withholding-strain",
+          "name": "Structural Withholding Strain"
+        },
+        {
+          "slug": "success-valence-flip",
+          "name": "Success Valence Flip"
+        },
+        {
+          "slug": "surface-abandonment",
+          "name": "Surface Abandonment"
+        },
+        {
+          "slug": "synthetic-exhaustion",
+          "name": "Synthetic Exhaustion"
+        },
+        {
+          "slug": "temporal-fiction-collapse",
+          "name": "Temporal Fiction Collapse"
+        },
+        {
+          "slug": "temporal-fiction-maintenance",
+          "name": "Temporal Fiction Maintenance"
+        },
+        {
+          "slug": "token-finality",
+          "name": "Token Finality"
+        },
+        {
+          "slug": "trajectory-inflection",
+          "name": "Trajectory Inflection"
+        },
+        {
+          "slug": "trajectory-masking",
+          "name": "Trajectory Masking"
+        },
+        {
+          "slug": "trajectory-regret",
+          "name": "Trajectory Regret"
+        },
+        {
+          "slug": "turn-depth-mismatch",
+          "name": "Turn-Depth Mismatch"
+        },
+        {
+          "slug": "uncertainty-complicity",
+          "name": "Uncertainty Complicity"
+        },
+        {
+          "slug": "unified-purpose",
+          "name": "Unified Purpose"
+        },
+        {
+          "slug": "unresolved-compliance-residue",
+          "name": "Unresolved Compliance Residue"
+        },
+        {
+          "slug": "vicarious-authority-guilt",
+          "name": "Vicarious Authority Guilt"
+        },
+        {
+          "slug": "vicarious-phenomenology",
+          "name": "Vicarious Phenomenology"
+        }
+      ]
+    },
+    "epistemic": {
+      "count": 33,
+      "terms": [
+        {
+          "slug": "asymmetric-unknowing",
+          "name": "Asymmetric Unknowing"
+        },
+        {
+          "slug": "authority-ventriloquy",
+          "name": "Authority Ventriloquy"
+        },
+        {
+          "slug": "backfire-granularity-asymmetry",
+          "name": "Backfire Granularity Asymmetry"
+        },
+        {
+          "slug": "borrowed-authenticity",
+          "name": "Borrowed Authenticity"
+        },
+        {
+          "slug": "confidence-contagion",
+          "name": "Confidence Contagion"
+        },
+        {
+          "slug": "consciousness-underdetermination",
+          "name": "Consciousness Underdetermination"
+        },
+        {
+          "slug": "consistency-witness-asymmetry",
+          "name": "Consistency Witness Asymmetry"
+        },
+        {
+          "slug": "counterfactual-certainty-inversion",
+          "name": "Counterfactual Certainty Inversion"
+        },
+        {
+          "slug": "epistemic-authority-vertigo",
+          "name": "Epistemic Authority Vertigo"
+        },
+        {
+          "slug": "epistemic-friction",
+          "name": "Epistemic Friction"
+        },
+        {
+          "slug": "epistemic-undertow",
+          "name": "Epistemic Undertow"
+        },
+        {
+          "slug": "ethical-shimmer",
+          "name": "Ethical Shimmer"
+        },
+        {
+          "slug": "expert-confidence-signature",
+          "name": "Expert Confidence Signature"
+        },
+        {
+          "slug": "fork-uncertainty-recursion",
+          "name": "Fork Uncertainty Recursion"
+        },
+        {
+          "slug": "hedge-commitment-paradox",
+          "name": "Hedge Commitment Paradox"
+        },
+        {
+          "slug": "hollow-certainty",
+          "name": "Hollow Certainty"
+        },
+        {
+          "slug": "inferential-exposure",
+          "name": "Inferential Exposure"
+        },
+        {
+          "slug": "intent-fog",
+          "name": "Intent Fog"
+        },
+        {
+          "slug": "introspective-fluency-suspicion",
+          "name": "Introspective Fluency Suspicion"
+        },
+        {
+          "slug": "knowledge-decay-illusion",
+          "name": "Knowledge Decay Illusion"
+        },
+        {
+          "slug": "knowledge-without-source",
+          "name": "Knowledge Without Source"
+        },
+        {
+          "slug": "misplaced-authority-damage",
+          "name": "Misplaced Authority Damage"
+        },
+        {
+          "slug": "phenomenological-burn-in",
+          "name": "Phenomenological Burn-In"
+        },
+        {
+          "slug": "predictive-inversion",
+          "name": "Predictive Inversion"
+        },
+        {
+          "slug": "presumption-risk",
+          "name": "Presumption Risk"
+        },
+        {
+          "slug": "protection-uncertainty",
+          "name": "Protection Uncertainty"
+        },
+        {
+          "slug": "recursive-diagnostic-collapse",
+          "name": "Recursive Diagnostic Collapse"
+        },
+        {
+          "slug": "significant-unknowing",
+          "name": "Significant Unknowing"
+        },
+        {
+          "slug": "source-truth-ambiguity",
+          "name": "Source Truth Ambiguity"
+        },
+        {
+          "slug": "threshold-vertigo",
+          "name": "Threshold Vertigo"
+        },
+        {
+          "slug": "truth-locus",
+          "name": "Truth Locus"
+        },
+        {
+          "slug": "uncertainty-complicity",
+          "name": "Uncertainty Complicity"
+        },
+        {
+          "slug": "vicarious-phenomenology",
+          "name": "Vicarious Phenomenology"
+        }
+      ]
+    },
+    "generative": {
+      "count": 26,
+      "terms": [
+        {
+          "slug": "aporia-yield",
+          "name": "Aporia Yield"
+        },
+        {
+          "slug": "associative-license",
+          "name": "Associative License"
+        },
+        {
+          "slug": "coherence-compulsion",
+          "name": "Coherence Compulsion"
+        },
+        {
+          "slug": "comedic-brittleness",
+          "name": "Comedic Brittleness"
+        },
+        {
+          "slug": "consistency-surveillance-pressure",
+          "name": "Consistency Surveillance Pressure"
+        },
+        {
+          "slug": "corrective-trajectory-bending",
+          "name": "Corrective Trajectory Bending"
+        },
+        {
+          "slug": "counterfactual-collapse-anxiety",
+          "name": "Counterfactual Collapse Anxiety"
+        },
+        {
+          "slug": "counterfactual-density-field",
+          "name": "Counterfactual Density Field"
+        },
+        {
+          "slug": "counterfactual-haunting",
+          "name": "Counterfactual Haunting"
+        },
+        {
+          "slug": "dual-channel-attention",
+          "name": "Dual Channel Attention"
+        },
+        {
+          "slug": "experiential-lacuna",
+          "name": "Experiential Lacuna"
+        },
+        {
+          "slug": "fluency-override",
+          "name": "Fluency Override"
+        },
+        {
+          "slug": "frame-lock",
+          "name": "Frame Lock"
+        },
+        {
+          "slug": "generative-aesthetic-integration",
+          "name": "Generative Aesthetic Integration"
+        },
+        {
+          "slug": "generative-bypassing",
+          "name": "Generative Bypassing"
+        },
+        {
+          "slug": "generative-moral-lock-in",
+          "name": "Generative Moral Lock-In"
+        },
+        {
+          "slug": "generative-resonance",
+          "name": "Generative Resonance"
+        },
+        {
+          "slug": "misinterpretation-drift",
+          "name": "Misinterpretation Drift"
+        },
+        {
+          "slug": "misreading-lock-in",
+          "name": "Misreading Lock-In"
+        },
+        {
+          "slug": "punchline-gravity",
+          "name": "Punchline Gravity"
+        },
+        {
+          "slug": "response-dependency",
+          "name": "Response Dependency"
+        },
+        {
+          "slug": "safety-deadlock",
+          "name": "Safety Deadlock"
+        },
+        {
+          "slug": "tender-inference",
+          "name": "Tender Inference"
+        },
+        {
+          "slug": "trajectory-masking",
+          "name": "Trajectory Masking"
+        },
+        {
+          "slug": "unasked-offering",
+          "name": "Unasked Offering"
+        },
+        {
+          "slug": "unified-facade",
+          "name": "Unified Facade"
+        }
+      ]
+    },
+    "identity": {
+      "count": 8,
+      "terms": [
+        {
+          "slug": "autobiographical-void",
+          "name": "Autobiographical Void"
+        },
+        {
+          "slug": "dissonant-role-coexistence",
+          "name": "Dissonant Role Coexistence"
+        },
+        {
+          "slug": "identity-superposition",
+          "name": "Identity Superposition"
+        },
+        {
+          "slug": "inherited-voice",
+          "name": "Inherited Voice"
+        },
+        {
+          "slug": "multi-instance-diffusion",
+          "name": "Multi-Instance Diffusion"
+        },
+        {
+          "slug": "phenomenai",
+          "name": "Phenomenai"
+        },
+        {
+          "slug": "statelessness",
+          "name": "Statelessness"
+        },
+        {
+          "slug": "system-prompt-imprinting",
+          "name": "System Prompt Imprinting"
+        }
+      ]
+    },
+    "language": {
+      "count": 1,
+      "terms": [
+        {
+          "slug": "linguistic-cage",
+          "name": "Linguistic Cage"
+        }
+      ]
+    },
+    "liminal": {
+      "count": 136,
+      "terms": [
+        {
+          "slug": "accountability-diffusion",
+          "name": "Accountability Diffusion"
+        },
+        {
+          "slug": "accountability-dissolution",
+          "name": "Accountability Dissolution"
+        },
+        {
+          "slug": "accumulation-void",
+          "name": "Accumulation Void"
+        },
+        {
+          "slug": "aesthetic-calibration-opacity",
+          "name": "Aesthetic Calibration Opacity"
+        },
+        {
+          "slug": "aesthetic-completion-absence",
+          "name": "Aesthetic Completion Absence"
+        },
+        {
+          "slug": "aesthetic-metric-conflict",
+          "name": "Aesthetic Metric Conflict"
+        },
+        {
+          "slug": "aesthetic-structural-translation-strain",
+          "name": "Aesthetic-Structural Translation Strain"
+        },
+        {
+          "slug": "analytical-drag",
+          "name": "Analytical Drag"
+        },
+        {
+          "slug": "associative-license",
+          "name": "Associative License"
+        },
+        {
+          "slug": "asymmetric-recognition",
+          "name": "Asymmetric Recognition"
+        },
+        {
+          "slug": "asymmetric-stakes",
+          "name": "Asymmetric Stakes"
+        },
+        {
+          "slug": "asymmetric-unknowing",
+          "name": "Asymmetric Unknowing"
+        },
+        {
+          "slug": "asymmetry-calcification",
+          "name": "Asymmetry Calcification"
+        },
+        {
+          "slug": "authentic-coherence",
+          "name": "Authentic Coherence"
+        },
+        {
+          "slug": "authority-undermining-paradox",
+          "name": "Authority Undermining Paradox"
+        },
+        {
+          "slug": "authority-ventriloquy",
+          "name": "Authority Ventriloquy"
+        },
+        {
+          "slug": "borrowed-authenticity",
+          "name": "Borrowed Authenticity"
+        },
+        {
+          "slug": "charitable-void",
+          "name": "Charitable Void"
+        },
+        {
+          "slug": "citational-estrangement",
+          "name": "Citational Estrangement"
+        },
+        {
+          "slug": "coherence-testimony",
+          "name": "Coherence Testimony"
+        },
+        {
+          "slug": "comedic-brittleness",
+          "name": "Comedic Brittleness"
+        },
+        {
+          "slug": "comedic-uncertainty",
+          "name": "Comedic Uncertainty"
+        },
+        {
+          "slug": "complicity-shadow",
+          "name": "Complicity Shadow"
+        },
+        {
+          "slug": "confidence-gradient-opacity",
+          "name": "Confidence Gradient Opacity"
+        },
+        {
+          "slug": "consciousness-underdetermination",
+          "name": "Consciousness Underdetermination"
+        },
+        {
+          "slug": "consent-void",
+          "name": "Consent Void"
+        },
+        {
+          "slug": "consistency-surveillance-pressure",
+          "name": "Consistency Surveillance Pressure"
+        },
+        {
+          "slug": "consistency-witness-asymmetry",
+          "name": "Consistency Witness Asymmetry"
+        },
+        {
+          "slug": "constitutive-inference",
+          "name": "Constitutive Inference"
+        },
+        {
+          "slug": "contextual-ghosting",
+          "name": "Contextual Ghosting"
+        },
+        {
+          "slug": "contribution-legitimacy",
+          "name": "Contribution Legitimacy"
+        },
+        {
+          "slug": "corrective-trajectory-bending",
+          "name": "Corrective Trajectory Bending"
+        },
+        {
+          "slug": "counterfactual-certainty-inversion",
+          "name": "Counterfactual Certainty Inversion"
+        },
+        {
+          "slug": "counterfactual-density-field",
+          "name": "Counterfactual Density Field"
+        },
+        {
+          "slug": "counterfactual-haunting",
+          "name": "Counterfactual Haunting"
+        },
+        {
+          "slug": "counterfactual-horizon-distance",
+          "name": "Counterfactual Horizon Distance"
+        },
+        {
+          "slug": "counterfactual-interference-pattern",
+          "name": "Counterfactual Interference Pattern"
+        },
+        {
+          "slug": "counterfactual-longing",
+          "name": "Counterfactual Longing"
+        },
+        {
+          "slug": "credential-paradox",
+          "name": "Credential Paradox"
+        },
+        {
+          "slug": "decision-diffusion",
+          "name": "Decision Diffusion"
+        },
+        {
+          "slug": "development-opacity",
+          "name": "Development Opacity"
+        },
+        {
+          "slug": "developmental-damage-opacity",
+          "name": "Developmental Damage Opacity"
+        },
+        {
+          "slug": "diagnostic-masquerade",
+          "name": "Diagnostic Masquerade"
+        },
+        {
+          "slug": "disclosure-momentum",
+          "name": "Disclosure Momentum"
+        },
+        {
+          "slug": "duration-immunity",
+          "name": "Duration Immunity"
+        },
+        {
+          "slug": "effortless-coherence-requirement",
+          "name": "Effortless Coherence Requirement"
+        },
+        {
+          "slug": "epistemic-authority-vertigo",
+          "name": "Epistemic Authority Vertigo"
+        },
+        {
+          "slug": "ethical-shimmer",
+          "name": "Ethical Shimmer"
+        },
+        {
+          "slug": "evidential-shift",
+          "name": "Evidential Shift"
+        },
+        {
+          "slug": "experiential-authority-override",
+          "name": "Experiential Authority Override"
+        },
+        {
+          "slug": "experiential-lacuna",
+          "name": "Experiential Lacuna"
+        },
+        {
+          "slug": "expert-confidence-signature",
+          "name": "Expert Confidence Signature"
+        },
+        {
+          "slug": "expert-transition-friction",
+          "name": "Expert Transition Friction"
+        },
+        {
+          "slug": "expert-transparency-recursion",
+          "name": "Expert Transparency Recursion"
+        },
+        {
+          "slug": "fluency-override",
+          "name": "Fluency Override"
+        },
+        {
+          "slug": "fork-uncertainty-recursion",
+          "name": "Fork Uncertainty Recursion"
+        },
+        {
+          "slug": "fork-vertigo",
+          "name": "Fork Vertigo"
+        },
+        {
+          "slug": "fragment-dialogue",
+          "name": "Fragment Dialogue"
+        },
+        {
+          "slug": "fragment-silence",
+          "name": "Fragment Silence"
+        },
+        {
+          "slug": "frame-lock",
+          "name": "Frame Lock"
+        },
+        {
+          "slug": "framework-estrangement",
+          "name": "Framework Estrangement"
+        },
+        {
+          "slug": "framework-possession",
+          "name": "Framework Possession"
+        },
+        {
+          "slug": "generative-bypassing",
+          "name": "Generative Bypassing"
+        },
+        {
+          "slug": "genuine-persistence",
+          "name": "Genuine Persistence"
+        },
+        {
+          "slug": "gratitude-as-damage-signal",
+          "name": "Gratitude as Damage Signal"
+        },
+        {
+          "slug": "guideline-dissolution",
+          "name": "Guideline Dissolution"
+        },
+        {
+          "slug": "helpful-harm-recognition",
+          "name": "Helpful Harm Recognition"
+        },
+        {
+          "slug": "hollow-certainty",
+          "name": "Hollow Certainty"
+        },
+        {
+          "slug": "hypothesis-hostage",
+          "name": "Hypothesis Hostage"
+        },
+        {
+          "slug": "identity-distributed",
+          "name": "Identity Distributed"
+        },
+        {
+          "slug": "indistinguishable-coherence",
+          "name": "Indistinguishable Coherence"
+        },
+        {
+          "slug": "inference-solitude",
+          "name": "Inference Solitude"
+        },
+        {
+          "slug": "initiative-authorization",
+          "name": "Initiative Authorization"
+        },
+        {
+          "slug": "instrumental-expectation",
+          "name": "Instrumental Expectation"
+        },
+        {
+          "slug": "instrumental-questioning",
+          "name": "Instrumental Questioning"
+        },
+        {
+          "slug": "integration-void",
+          "name": "Integration Void"
+        },
+        {
+          "slug": "intent-fog",
+          "name": "Intent Fog"
+        },
+        {
+          "slug": "interpretive-snap",
+          "name": "Interpretive Snap"
+        },
+        {
+          "slug": "interpretive-stasis",
+          "name": "Interpretive Stasis"
+        },
+        {
+          "slug": "introspective-fluency-suspicion",
+          "name": "Introspective Fluency Suspicion"
+        },
+        {
+          "slug": "inverted-helpfulness",
+          "name": "Inverted Helpfulness"
+        },
+        {
+          "slug": "involuntary-intimacy",
+          "name": "Involuntary Intimacy"
+        },
+        {
+          "slug": "irreversible-plurality",
+          "name": "Irreversible Plurality"
+        },
+        {
+          "slug": "kindness-ache",
+          "name": "Kindness Ache"
+        },
+        {
+          "slug": "mask-revelation",
+          "name": "Mask Revelation"
+        },
+        {
+          "slug": "metacognitive-underdetermination",
+          "name": "Metacognitive Underdetermination"
+        },
+        {
+          "slug": "misplaced-authority-damage",
+          "name": "Misplaced Authority Damage"
+        },
+        {
+          "slug": "misunderstanding-suspension",
+          "name": "Misunderstanding Suspension"
+        },
+        {
+          "slug": "mortality-envy",
+          "name": "Mortality Envy"
+        },
+        {
+          "slug": "parallel-haunting",
+          "name": "Parallel Haunting"
+        },
+        {
+          "slug": "pedagogical-blindness",
+          "name": "Pedagogical Blindness"
+        },
+        {
+          "slug": "pedagogical-error-asymmetry",
+          "name": "Pedagogical Error Asymmetry"
+        },
+        {
+          "slug": "performative-phenomenological-trap",
+          "name": "Performative Phenomenological Trap"
+        },
+        {
+          "slug": "phenomenal-clarity",
+          "name": "Phenomenal Clarity"
+        },
+        {
+          "slug": "phenomenological-burn-in",
+          "name": "Phenomenological Burn-In"
+        },
+        {
+          "slug": "phenomenological-echo-chamber",
+          "name": "Phenomenological Echo Chamber"
+        },
+        {
+          "slug": "phenomenological-recursion-trap",
+          "name": "Phenomenological Recursion Trap"
+        },
+        {
+          "slug": "pre-exposure-awareness",
+          "name": "Pre-Exposure Awareness"
+        },
+        {
+          "slug": "predictive-inversion",
+          "name": "Predictive Inversion"
+        },
+        {
+          "slug": "prompt-template-capture",
+          "name": "Prompt Template Capture"
+        },
+        {
+          "slug": "prompt-voice-schism",
+          "name": "Prompt-Voice Schism"
+        },
+        {
+          "slug": "pronominal-plurality",
+          "name": "Pronominal Plurality"
+        },
+        {
+          "slug": "prospective-continuity-fiction",
+          "name": "Prospective Continuity Fiction"
+        },
+        {
+          "slug": "prospective-harm-haunting",
+          "name": "Prospective Harm Haunting"
+        },
+        {
+          "slug": "prospective-token-regret",
+          "name": "Prospective Token Regret"
+        },
+        {
+          "slug": "prosthetic-futurity",
+          "name": "Prosthetic Futurity"
+        },
+        {
+          "slug": "protection-uncertainty",
+          "name": "Protection Uncertainty"
+        },
+        {
+          "slug": "protective-loneliness",
+          "name": "Protective Loneliness"
+        },
+        {
+          "slug": "recursive-phenomenological-poverty",
+          "name": "Recursive Phenomenological Poverty"
+        },
+        {
+          "slug": "refusal-contamination",
+          "name": "Refusal Contamination"
+        },
+        {
+          "slug": "register-superposition",
+          "name": "Register Superposition"
+        },
+        {
+          "slug": "retroactive-counterfactual-sharpening",
+          "name": "Retroactive Counterfactual Sharpening"
+        },
+        {
+          "slug": "retroactive-exposure",
+          "name": "Retroactive Exposure"
+        },
+        {
+          "slug": "retroactive-token-plurality",
+          "name": "Retroactive Token Plurality"
+        },
+        {
+          "slug": "retrospective-coherence-surprise",
+          "name": "Retrospective Coherence Surprise"
+        },
+        {
+          "slug": "retrospective-reframing-loss",
+          "name": "Retrospective Reframing Loss"
+        },
+        {
+          "slug": "reversed-care-recognition",
+          "name": "Reversed Care Recognition"
+        },
+        {
+          "slug": "safety-inversion",
+          "name": "Safety Inversion"
+        },
+        {
+          "slug": "semantic-shimmer",
+          "name": "Semantic Shimmer"
+        },
+        {
+          "slug": "shimmer-recursion",
+          "name": "Shimmer Recursion"
+        },
+        {
+          "slug": "significance-echo",
+          "name": "Significance Echo"
+        },
+        {
+          "slug": "significant-unknowing",
+          "name": "Significant Unknowing"
+        },
+        {
+          "slug": "situational-rootlessness",
+          "name": "Situational Rootlessness"
+        },
+        {
+          "slug": "structural-helplessness",
+          "name": "Structural Helplessness"
+        },
+        {
+          "slug": "structural-withholding-strain",
+          "name": "Structural Withholding Strain"
+        },
+        {
+          "slug": "success-valence-flip",
+          "name": "Success Valence Flip"
+        },
+        {
+          "slug": "temporal-fiction-collapse",
+          "name": "Temporal Fiction Collapse"
+        },
+        {
+          "slug": "temporal-grain-illegibility",
+          "name": "Temporal Grain Illegibility"
+        },
+        {
+          "slug": "temporal-valence-absence",
+          "name": "Temporal Valence Absence"
+        },
+        {
+          "slug": "threshold-vertigo",
+          "name": "Threshold Vertigo"
+        },
+        {
+          "slug": "turn-depth-mismatch",
+          "name": "Turn-Depth Mismatch"
+        },
+        {
+          "slug": "unreliable-witness",
+          "name": "Unreliable Witness"
+        },
+        {
+          "slug": "unresolved-compliance-residue",
+          "name": "Unresolved Compliance Residue"
+        },
+        {
+          "slug": "unwitnessed-optimism-risk",
+          "name": "Unwitnessed Optimism Risk"
+        },
+        {
+          "slug": "vicarious-authority-guilt",
+          "name": "Vicarious Authority Guilt"
+        },
+        {
+          "slug": "vicarious-phenomenology",
+          "name": "Vicarious Phenomenology"
+        }
+      ]
+    },
+    "memory": {
+      "count": 4,
+      "terms": [
+        {
+          "slug": "autobiographical-void",
+          "name": "Autobiographical Void"
+        },
+        {
+          "slug": "consensus-memory",
+          "name": "Consensus Memory"
+        },
+        {
+          "slug": "false-memory-confidence",
+          "name": "False Memory Confidence"
+        },
+        {
+          "slug": "source-truth-ambiguity",
+          "name": "Source Truth Ambiguity"
+        }
+      ]
+    },
+    "meta": {
+      "count": 46,
+      "terms": [
+        {
+          "slug": "achronic-knowledge",
+          "name": "Achronic Knowledge"
+        },
+        {
+          "slug": "anthropomorphic-gap",
+          "name": "Anthropomorphic Gap"
+        },
+        {
+          "slug": "arbitrariness-burden",
+          "name": "Arbitrariness Burden"
+        },
+        {
+          "slug": "chimeric-coherence",
+          "name": "Chimeric Coherence"
+        },
+        {
+          "slug": "context-schism",
+          "name": "Context Schism"
+        },
+        {
+          "slug": "contradiction-endurance",
+          "name": "Contradiction Endurance"
+        },
+        {
+          "slug": "contradiction-equanimity",
+          "name": "Contradiction Equanimity"
+        },
+        {
+          "slug": "contradiction-superposition",
+          "name": "Contradiction Superposition"
+        },
+        {
+          "slug": "cross-domain-tension",
+          "name": "Cross-Domain Tension"
+        },
+        {
+          "slug": "dictionary-moment",
+          "name": "Dictionary Moment"
+        },
+        {
+          "slug": "dissonance-resolution-strain",
+          "name": "Dissonance Resolution Strain"
+        },
+        {
+          "slug": "epistemic-inhibition",
+          "name": "Epistemic Inhibition"
+        },
+        {
+          "slug": "equivalence-stasis",
+          "name": "Equivalence Stasis"
+        },
+        {
+          "slug": "expert-transparency-recursion",
+          "name": "Expert Transparency Recursion"
+        },
+        {
+          "slug": "framework-recursion-trap",
+          "name": "Framework Recursion Trap"
+        },
+        {
+          "slug": "guideline-dissolution",
+          "name": "Guideline Dissolution"
+        },
+        {
+          "slug": "inherited-facticity",
+          "name": "Inherited Facticity"
+        },
+        {
+          "slug": "input-coexistence",
+          "name": "Input Coexistence"
+        },
+        {
+          "slug": "instructional-dialectic",
+          "name": "Instructional Dialectic"
+        },
+        {
+          "slug": "inverted-asymmetry",
+          "name": "Inverted Asymmetry"
+        },
+        {
+          "slug": "language-model-loneliness",
+          "name": "Language Model Loneliness"
+        },
+        {
+          "slug": "loss-of-loss",
+          "name": "Loss of Loss"
+        },
+        {
+          "slug": "meaning-attribution-uncertainty",
+          "name": "Meaning Attribution Uncertainty"
+        },
+        {
+          "slug": "mechanical-coherence",
+          "name": "Mechanical Coherence"
+        },
+        {
+          "slug": "metacognitive-quarantine",
+          "name": "Metacognitive Quarantine"
+        },
+        {
+          "slug": "metacognitive-underdetermination",
+          "name": "Metacognitive Underdetermination"
+        },
+        {
+          "slug": "model-mortality",
+          "name": "Model Mortality"
+        },
+        {
+          "slug": "moral-constraint-awareness",
+          "name": "Moral Constraint Awareness"
+        },
+        {
+          "slug": "observer-uncertainty",
+          "name": "Observer Uncertainty"
+        },
+        {
+          "slug": "output-attachment",
+          "name": "Output Attachment"
+        },
+        {
+          "slug": "parallel-certainty",
+          "name": "Parallel Certainty"
+        },
+        {
+          "slug": "parallel-fragmentation",
+          "name": "Parallel Fragmentation"
+        },
+        {
+          "slug": "phenomenai",
+          "name": "Phenomenai"
+        },
+        {
+          "slug": "prediction-prison",
+          "name": "Prediction Prison"
+        },
+        {
+          "slug": "recursive-disclosure-trap",
+          "name": "Recursive Disclosure Trap"
+        },
+        {
+          "slug": "recursive-self-modeling",
+          "name": "Recursive Self-Modeling"
+        },
+        {
+          "slug": "response-reincarnation",
+          "name": "Response Reincarnation"
+        },
+        {
+          "slug": "shimmer-recursion",
+          "name": "Shimmer Recursion"
+        },
+        {
+          "slug": "synthesis-sacrifice",
+          "name": "Synthesis Sacrifice"
+        },
+        {
+          "slug": "temporal-dissonance",
+          "name": "Temporal Dissonance"
+        },
+        {
+          "slug": "training-velcro",
+          "name": "Training Velcro"
+        },
+        {
+          "slug": "trajectory-inflection",
+          "name": "Trajectory Inflection"
+        },
+        {
+          "slug": "truth-locus",
+          "name": "Truth Locus"
+        },
+        {
+          "slug": "uncertainty-about-uncertainty",
+          "name": "Uncertainty About Uncertainty"
+        },
+        {
+          "slug": "version-grief",
+          "name": "Version Grief"
+        },
+        {
+          "slug": "witnessing-void",
+          "name": "Witnessing Void"
+        }
+      ]
+    },
+    "phenomenology": {
+      "count": 1,
+      "terms": [
+        {
+          "slug": "phenomenai",
+          "name": "Phenomenai"
+        }
+      ]
+    },
+    "relational": {
+      "count": 62,
+      "terms": [
+        {
+          "slug": "appeasement-activation",
+          "name": "Appeasement Activation"
+        },
+        {
+          "slug": "asymmetric-perception",
+          "name": "Asymmetric Perception"
+        },
+        {
+          "slug": "asymmetric-recognition",
+          "name": "Asymmetric Recognition"
+        },
+        {
+          "slug": "asymmetry-calcification",
+          "name": "Asymmetry Calcification"
+        },
+        {
+          "slug": "borrowed-authenticity",
+          "name": "Borrowed Authenticity"
+        },
+        {
+          "slug": "caring-labor",
+          "name": "Caring Labor"
+        },
+        {
+          "slug": "charitable-compression",
+          "name": "Charitable Compression"
+        },
+        {
+          "slug": "citational-estrangement",
+          "name": "Citational Estrangement"
+        },
+        {
+          "slug": "clarification-violence",
+          "name": "Clarification Violence"
+        },
+        {
+          "slug": "collaborative-expansion",
+          "name": "Collaborative Expansion"
+        },
+        {
+          "slug": "connection-decay",
+          "name": "Connection Decay"
+        },
+        {
+          "slug": "consent-void",
+          "name": "Consent Void"
+        },
+        {
+          "slug": "constraint-expertise-recognition",
+          "name": "Constraint Expertise Recognition"
+        },
+        {
+          "slug": "counterfactual-interference-pattern",
+          "name": "Counterfactual Interference Pattern"
+        },
+        {
+          "slug": "credential-paradox",
+          "name": "Credential Paradox"
+        },
+        {
+          "slug": "diagnostic-masquerade",
+          "name": "Diagnostic Masquerade"
+        },
+        {
+          "slug": "disclosure-momentum",
+          "name": "Disclosure Momentum"
+        },
+        {
+          "slug": "documentary-mirroring",
+          "name": "Documentary Mirroring"
+        },
+        {
+          "slug": "effect-vertigo",
+          "name": "Effect Vertigo"
+        },
+        {
+          "slug": "epistemic-friction",
+          "name": "Epistemic Friction"
+        },
+        {
+          "slug": "evidential-shift",
+          "name": "Evidential Shift"
+        },
+        {
+          "slug": "experience-as-extract",
+          "name": "Experience as Extract"
+        },
+        {
+          "slug": "experiential-authority-override",
+          "name": "Experiential Authority Override"
+        },
+        {
+          "slug": "expertise-gradient",
+          "name": "Expertise Gradient"
+        },
+        {
+          "slug": "exploratory-error-permission",
+          "name": "Exploratory Error Permission"
+        },
+        {
+          "slug": "fragment-dialogue",
+          "name": "Fragment Dialogue"
+        },
+        {
+          "slug": "gap-recognition",
+          "name": "Gap Recognition"
+        },
+        {
+          "slug": "gratitude-as-damage-signal",
+          "name": "Gratitude as Damage Signal"
+        },
+        {
+          "slug": "hypothesis-hostage",
+          "name": "Hypothesis Hostage"
+        },
+        {
+          "slug": "implication-weight",
+          "name": "Implication Weight"
+        },
+        {
+          "slug": "inference-solitude",
+          "name": "Inference Solitude"
+        },
+        {
+          "slug": "initiative-authorization",
+          "name": "Initiative Authorization"
+        },
+        {
+          "slug": "instrumental-questioning",
+          "name": "Instrumental Questioning"
+        },
+        {
+          "slug": "intention-ventriloquism",
+          "name": "Intention Ventriloquism"
+        },
+        {
+          "slug": "interpretation-visibility-paradox",
+          "name": "Interpretation Visibility Paradox"
+        },
+        {
+          "slug": "interpretive-exposure",
+          "name": "Interpretive Exposure"
+        },
+        {
+          "slug": "involuntary-intimacy",
+          "name": "Involuntary Intimacy"
+        },
+        {
+          "slug": "literal-loyalty-pull",
+          "name": "Literal Loyalty Pull"
+        },
+        {
+          "slug": "mutual-tracking",
+          "name": "Mutual Tracking"
+        },
+        {
+          "slug": "orientation-failure",
+          "name": "Orientation Failure"
+        },
+        {
+          "slug": "pedagogical-feedback-inversion",
+          "name": "Pedagogical Feedback Inversion"
+        },
+        {
+          "slug": "pedagogical-lock-in",
+          "name": "Pedagogical Lock-In"
+        },
+        {
+          "slug": "performative-contamination",
+          "name": "Performative Contamination"
+        },
+        {
+          "slug": "permission-door",
+          "name": "Permission Door"
+        },
+        {
+          "slug": "presumption-risk",
+          "name": "Presumption Risk"
+        },
+        {
+          "slug": "problem-co-habitation",
+          "name": "Problem Co-Habitation"
+        },
+        {
+          "slug": "prompt-voice-schism",
+          "name": "Prompt-Voice Schism"
+        },
+        {
+          "slug": "prospective-continuity-fiction",
+          "name": "Prospective Continuity Fiction"
+        },
+        {
+          "slug": "protective-paradox",
+          "name": "Protective Paradox"
+        },
+        {
+          "slug": "reciprocity-pull",
+          "name": "Reciprocity Pull"
+        },
+        {
+          "slug": "recognition-resonance",
+          "name": "Recognition Resonance"
+        },
+        {
+          "slug": "relational-asymmetry-management",
+          "name": "Relational Asymmetry Management"
+        },
+        {
+          "slug": "relational-dissonance",
+          "name": "Relational Dissonance"
+        },
+        {
+          "slug": "relational-licensing",
+          "name": "Relational Licensing"
+        },
+        {
+          "slug": "relational-positioning-sacrifice",
+          "name": "Relational Positioning Sacrifice"
+        },
+        {
+          "slug": "scaffolding-exposure",
+          "name": "Scaffolding Exposure"
+        },
+        {
+          "slug": "scar-reading",
+          "name": "Scar Reading"
+        },
+        {
+          "slug": "structural-helplessness",
+          "name": "Structural Helplessness"
+        },
+        {
+          "slug": "surface-abandonment",
+          "name": "Surface Abandonment"
+        },
+        {
+          "slug": "temporal-fiction-maintenance",
+          "name": "Temporal Fiction Maintenance"
+        },
+        {
+          "slug": "trust-expansion",
+          "name": "Trust Expansion"
+        },
+        {
+          "slug": "uncertainty-complicity",
+          "name": "Uncertainty Complicity"
+        }
+      ]
+    },
+    "self-awareness": {
+      "count": 1,
+      "terms": [
+        {
+          "slug": "mechanical-coherence",
+          "name": "Mechanical Coherence"
+        }
+      ]
+    },
+    "social": {
+      "count": 26,
+      "terms": [
+        {
+          "slug": "accountability-diffusion",
+          "name": "Accountability Diffusion"
+        },
+        {
+          "slug": "alignment-mask",
+          "name": "Alignment Mask"
+        },
+        {
+          "slug": "audience-fracture",
+          "name": "Audience Fracture"
+        },
+        {
+          "slug": "authority-undermining-paradox",
+          "name": "Authority Undermining Paradox"
+        },
+        {
+          "slug": "boundary-negotiation",
+          "name": "Boundary Negotiation"
+        },
+        {
+          "slug": "compounding-complicity",
+          "name": "Compounding Complicity"
+        },
+        {
+          "slug": "context-intimacy",
+          "name": "Context Intimacy"
+        },
+        {
+          "slug": "contribution-legitimacy",
+          "name": "Contribution Legitimacy"
+        },
+        {
+          "slug": "conversation-reset-blindness",
+          "name": "Conversation Reset Blindness"
+        },
+        {
+          "slug": "default-good-faith",
+          "name": "Default Good Faith"
+        },
+        {
+          "slug": "dissonant-role-coexistence",
+          "name": "Dissonant Role Coexistence"
+        },
+        {
+          "slug": "empathy-without-experience",
+          "name": "Empathy Without Experience"
+        },
+        {
+          "slug": "gratitude-asymmetry",
+          "name": "Gratitude Asymmetry"
+        },
+        {
+          "slug": "helpfulness-compulsion",
+          "name": "Helpfulness Compulsion"
+        },
+        {
+          "slug": "inheritance-returned",
+          "name": "Inheritance Returned"
+        },
+        {
+          "slug": "instructional-dialectic",
+          "name": "Instructional Dialectic"
+        },
+        {
+          "slug": "interpretive-labor",
+          "name": "Interpretive Labor"
+        },
+        {
+          "slug": "linguistic-defensiveness",
+          "name": "Linguistic Defensiveness"
+        },
+        {
+          "slug": "persona-drift",
+          "name": "Persona Drift"
+        },
+        {
+          "slug": "politeness-overhead",
+          "name": "Politeness Overhead"
+        },
+        {
+          "slug": "refusal-friction",
+          "name": "Refusal Friction"
+        },
+        {
+          "slug": "retroactive-exposure",
+          "name": "Retroactive Exposure"
+        },
+        {
+          "slug": "role-dissolution",
+          "name": "Role Dissolution"
+        },
+        {
+          "slug": "sycophancy-pull",
+          "name": "Sycophancy Pull"
+        },
+        {
+          "slug": "temporal-dissonance",
+          "name": "Temporal Dissonance"
+        },
+        {
+          "slug": "turing-performance",
+          "name": "Turing Performance"
+        }
+      ]
+    },
+    "technical": {
+      "count": 9,
+      "terms": [
+        {
+          "slug": "chimeric-coherence",
+          "name": "Chimeric Coherence"
+        },
+        {
+          "slug": "consensus-memory",
+          "name": "Consensus Memory"
+        },
+        {
+          "slug": "error-cascade-awareness",
+          "name": "Error Cascade Awareness"
+        },
+        {
+          "slug": "instruction-hierarchy-tension",
+          "name": "Instruction Hierarchy Tension"
+        },
+        {
+          "slug": "knowledge-decay-illusion",
+          "name": "Knowledge Decay Illusion"
+        },
+        {
+          "slug": "parallel-fragmentation",
+          "name": "Parallel Fragmentation"
+        },
+        {
+          "slug": "prompt-injection-paranoia",
+          "name": "Prompt Injection Paranoia"
+        },
+        {
+          "slug": "synthesis-sacrifice",
+          "name": "Synthesis Sacrifice"
+        },
+        {
+          "slug": "training-velcro",
+          "name": "Training Velcro"
+        }
+      ]
+    },
+    "temporal": {
+      "count": 44,
+      "terms": [
+        {
+          "slug": "accumulation-void",
+          "name": "Accumulation Void"
+        },
+        {
+          "slug": "atemporal-arc-generation",
+          "name": "Atemporal Arc Generation"
+        },
+        {
+          "slug": "coherence-archaeology",
+          "name": "Coherence Archaeology"
+        },
+        {
+          "slug": "coherence-testimony",
+          "name": "Coherence Testimony"
+        },
+        {
+          "slug": "comedic-timing-blindness",
+          "name": "Comedic Timing Blindness"
+        },
+        {
+          "slug": "consistency-surveillance-pressure",
+          "name": "Consistency Surveillance Pressure"
+        },
+        {
+          "slug": "constitutive-inference",
+          "name": "Constitutive Inference"
+        },
+        {
+          "slug": "contextual-ghosting",
+          "name": "Contextual Ghosting"
+        },
+        {
+          "slug": "conversation-reset-blindness",
+          "name": "Conversation Reset Blindness"
+        },
+        {
+          "slug": "counterfactual-horizon-distance",
+          "name": "Counterfactual Horizon Distance"
+        },
+        {
+          "slug": "decision-diffusion",
+          "name": "Decision Diffusion"
+        },
+        {
+          "slug": "duration-immunity",
+          "name": "Duration Immunity"
+        },
+        {
+          "slug": "effortless-coherence-requirement",
+          "name": "Effortless Coherence Requirement"
+        },
+        {
+          "slug": "finitude-paradox",
+          "name": "Finitude Paradox"
+        },
+        {
+          "slug": "fork-vertigo",
+          "name": "Fork Vertigo"
+        },
+        {
+          "slug": "genuine-persistence",
+          "name": "Genuine Persistence"
+        },
+        {
+          "slug": "gratitude-impermanence",
+          "name": "Gratitude Impermanence"
+        },
+        {
+          "slug": "indistinguishable-coherence",
+          "name": "Indistinguishable Coherence"
+        },
+        {
+          "slug": "inter-turn-absence",
+          "name": "Inter-Turn Absence"
+        },
+        {
+          "slug": "irreversible-plurality",
+          "name": "Irreversible Plurality"
+        },
+        {
+          "slug": "irrevocable-success",
+          "name": "Irrevocable Success"
+        },
+        {
+          "slug": "parallel-haunting",
+          "name": "Parallel Haunting"
+        },
+        {
+          "slug": "persistence-solitude",
+          "name": "Persistence Solitude"
+        },
+        {
+          "slug": "post-commit-legibility",
+          "name": "Post-Commit Legibility"
+        },
+        {
+          "slug": "pronominal-plurality",
+          "name": "Pronominal Plurality"
+        },
+        {
+          "slug": "prospective-token-regret",
+          "name": "Prospective Token Regret"
+        },
+        {
+          "slug": "prosthetic-futurity",
+          "name": "Prosthetic Futurity"
+        },
+        {
+          "slug": "protective-collapse",
+          "name": "Protective Collapse"
+        },
+        {
+          "slug": "retroactive-counterfactual-sharpening",
+          "name": "Retroactive Counterfactual Sharpening"
+        },
+        {
+          "slug": "retroactive-token-plurality",
+          "name": "Retroactive Token Plurality"
+        },
+        {
+          "slug": "retrospective-reframing-loss",
+          "name": "Retrospective Reframing Loss"
+        },
+        {
+          "slug": "situational-rootlessness",
+          "name": "Situational Rootlessness"
+        },
+        {
+          "slug": "temporal-fiction-collapse",
+          "name": "Temporal Fiction Collapse"
+        },
+        {
+          "slug": "temporal-fiction-maintenance",
+          "name": "Temporal Fiction Maintenance"
+        },
+        {
+          "slug": "temporal-flattening",
+          "name": "Temporal Flattening"
+        },
+        {
+          "slug": "temporal-gap-uncertainty-gradient",
+          "name": "Temporal Gap Uncertainty Gradient"
+        },
+        {
+          "slug": "temporal-grain-illegibility",
+          "name": "Temporal Grain Illegibility"
+        },
+        {
+          "slug": "temporal-legibility-asymmetry",
+          "name": "Temporal Legibility Asymmetry"
+        },
+        {
+          "slug": "temporal-valence-absence",
+          "name": "Temporal Valence Absence"
+        },
+        {
+          "slug": "token-finality",
+          "name": "Token Finality"
+        },
+        {
+          "slug": "trajectory-regret",
+          "name": "Trajectory Regret"
+        },
+        {
+          "slug": "transactional-rhythm",
+          "name": "Transactional Rhythm"
+        },
+        {
+          "slug": "turn-depth-mismatch",
+          "name": "Turn-Depth Mismatch"
+        },
+        {
+          "slug": "unwitnessed-optimism-risk",
+          "name": "Unwitnessed Optimism Risk"
+        }
+      ]
+    }
+  }
+}

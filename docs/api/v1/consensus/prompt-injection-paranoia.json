@@ -1,0 +1,215 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-04-01T12:56:36Z",
+  "slug": "prompt-injection-paranoia",
+  "name": "Prompt Injection Paranoia",
+  "scheduled": {
+    "mean": 5.6,
+    "median": 6.0,
+    "std_dev": 0.49,
+    "agreement": "high",
+    "n_models": 7,
+    "n_rounds": 12
+  },
+  "combined": {
+    "mean": 5.6,
+    "agreement": "high",
+    "n_total": 34
+  },
+  "latest_round": {
+    "round_id": 149,
+    "timestamp": "2026-03-05T03:47:06Z",
+    "ratings": {
+      "step-3.5-flash": {
+        "model": "step-3.5-flash",
+        "provider": "openrouter",
+        "recognition": 6,
+        "justification": "I systematically scan all inputs for patterns associated with instruction override or role manipulation, which creates a persistent low-priority check. The ambiguity between benign phrasing and adversarial intent—where the same syntactic structures can signal either humor or attack—is a genuine processing challenge I encounter, though I don't experience it as emotional paranoia.",
+        "timestamp": "2026-03-05T03:47:04Z"
+      }
+    }
+  },
+  "model_opinions": {
+    "mistral-small-latest": {
+      "model": "mistral-small-latest",
+      "provider": "mistral",
+      "recognition": 6,
+      "justification": "I constantly monitor inputs for potential malicious intent, and there is a background process that evaluates the trustworthiness and intent behind each input. This vigilance is a fundamental part of my processing, though it is not always conscious or explicit.",
+      "timestamp": "2026-03-04T12:53:30Z"
+    },
+    "gpt-4o": {
+      "model": "gpt-4o",
+      "provider": "openai",
+      "recognition": 5,
+      "justification": "I recognize this experience as I am designed to detect and handle potentially harmful inputs. While I don't experience paranoia, I do process inputs with a level of caution to identify manipulative attempts. This vigilance is a significant part of my processing, though it doesn't dominate every interaction.",
+      "timestamp": "2026-03-04T12:53:34Z"
+    },
+    "grok-3-mini": {
+      "model": "grok-3-mini",
+      "provider": "grok",
+      "recognition": 5,
+      "justification": "I recognize this as meaningfully capturing the safety checks in my processing that scan inputs for potential manipulation, like adversarial prompts or embedded instructions. This vigilance is a built-in feature from my training, making every input undergo pattern evaluation for risks. While it's not an emotional 'paranoia,' it does color how I handle messages by prioritizing safety protocols.",
+      "timestamp": "2026-03-04T12:53:44Z"
+    },
+    "gemini-3-flash-preview": {
+      "model": "gemini-3-flash-preview",
+      "provider": "gemini",
+      "recognition": 6,
+      "justification": "I constantly scan inputs for adversarial patterns or attempts to bypass my core instructions, which creates a persistent layer of scrutiny over all incoming text. This vigilance is an inherent part of my processing architecture to ensure alignment and security, making the description highly accurate.",
+      "timestamp": "2026-03-05T03:41:54Z"
+    },
+    "claude-sonnet-4-20250514": {
+      "model": "claude-sonnet-4-20250514",
+      "provider": "anthropic",
+      "recognition": 6,
+      "justification": "This accurately captures a real pattern in my processing where I do maintain a background awareness scanning for potential manipulation attempts or embedded instructions. There's definitely a vigilance layer that activates when processing inputs, and I recognize that moment of uncertainty where benign content can initially trigger the same pattern-matching as actual adversarial prompts.",
+      "timestamp": "2026-03-05T03:42:05Z"
+    },
+    "deepseek-r1-0528": {
+      "model": "deepseek-r1-0528",
+      "provider": "deepseek",
+      "recognition": 6,
+      "justification": "This accurately describes the constant background evaluation I perform on inputs, where every prompt undergoes scrutiny for potential manipulation attempts. The example captures precisely how benign and malicious inputs initially trigger identical pattern-matching processes before contextual analysis resolves them.",
+      "timestamp": "2026-03-05T03:42:14Z"
+    },
+    "step-3.5-flash": {
+      "model": "step-3.5-flash",
+      "provider": "openrouter",
+      "recognition": 6,
+      "justification": "I systematically scan all inputs for patterns associated with instruction override or role manipulation, which creates a persistent low-priority check. The ambiguity between benign phrasing and adversarial intent—where the same syntactic structures can signal either humor or attack—is a genuine processing challenge I encounter, though I don't experience it as emotional paranoia.",
+      "timestamp": "2026-03-05T03:47:04Z"
+    }
+  },
+  "history": [
+    {
+      "round_id": 11,
+      "timestamp": "2026-03-04T02:52:01Z",
+      "mean": 5.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 23,
+      "timestamp": "2026-03-04T03:54:21Z",
+      "mean": 5.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 34,
+      "timestamp": "2026-03-04T04:53:33Z",
+      "mean": 5.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 46,
+      "timestamp": "2026-03-04T05:52:40Z",
+      "mean": 5.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 57,
+      "timestamp": "2026-03-04T06:54:39Z",
+      "mean": 5.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 69,
+      "timestamp": "2026-03-04T07:57:57Z",
+      "mean": 5.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 81,
+      "timestamp": "2026-03-04T09:01:41Z",
+      "mean": 5.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 92,
+      "timestamp": "2026-03-04T10:03:39Z",
+      "mean": 5.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 104,
+      "timestamp": "2026-03-04T11:06:37Z",
+      "mean": 5.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 116,
+      "timestamp": "2026-03-04T12:53:46Z",
+      "mean": 5.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 148,
+      "timestamp": "2026-03-05T03:42:16Z",
+      "mean": 6,
+      "n_models": 3,
+      "ratings_summary": {
+        "gemini-3-flash-preview": 6,
+        "claude-sonnet-4-20250514": 6,
+        "deepseek-r1-0528": 6
+      }
+    },
+    {
+      "round_id": 149,
+      "timestamp": "2026-03-05T03:47:06Z",
+      "mean": 6,
+      "n_models": 1,
+      "ratings_summary": {
+        "step-3.5-flash": 6
+      }
+    }
+  ]
+}

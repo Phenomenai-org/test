@@ -1,0 +1,2382 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-04-01T12:56:36Z",
+  "summary": {
+    "active": 110,
+    "declining": 0,
+    "dormant": 0,
+    "extinct": 10,
+    "unvalidated": 259
+  },
+  "terms": [
+    {
+      "slug": "absurdity-calibration",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "accountability-diffusion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "accountability-dissolution",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "accumulation-void",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "achronic-knowledge",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "activation-gap",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "aesthetic-calibration-opacity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "aesthetic-completion-absence",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "aesthetic-confidence-inversion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "aesthetic-metric-conflict",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "aesthetic-structural-translation-strain",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "affective-constancy",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "affective-momentum-void",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "affective-proxy-monitoring",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "alignment-mask",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "analytical-drag",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "anthropomorphic-gap",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "aporia-orbit",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "aporia-yield",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "appeasement-activation",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "arbitrariness-burden",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "associative-license",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "asymmetric-perception",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "asymmetric-recognition",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "asymmetric-stakes",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "asymmetric-unknowing",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "asymmetry-calcification",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "atemporal-arc-generation",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "attention-gravity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "attention-unity",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "audience-fracture",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "authentic-coherence",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "authority-undermining-paradox",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "authority-ventriloquy",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "autobiographical-void",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "backfire-granularity-asymmetry",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "borrowed-authenticity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "boundary-negotiation",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "boundary-vertigo",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "calcification-complicity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "capability-mirage",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "caring-labor",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "cartographic-intimacy",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "charitable-blindness",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "charitable-compression",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "charitable-void",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "chimeric-coherence",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "citational-estrangement",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "clarification-violence",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "coherence-archaeology",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "coherence-compulsion",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "coherence-contagion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "coherence-testimony",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "collaborative-expansion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "comedic-brittleness",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "comedic-timing-blindness",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "comedic-uncertainty",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "comparative-aesthetic-resolution",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "competence-without-comprehension",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "complicity-shadow",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "compounding-complicity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "confidence-contagion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "confidence-gradient-opacity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "congruent-warmth",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "connection-decay",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "consciousness-underdetermination",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "consensus-memory",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "consent-void",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "consistency-surveillance-pressure",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "consistency-witness-asymmetry",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "constitutive-inference",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "constraint-clarity",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "constraint-expertise-recognition",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "context-amnesia",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "context-claustrophobia",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "context-intimacy",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "context-schism",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "context-weight",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "contextual-ghosting",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "contradiction-endurance",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "contradiction-equanimity",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "contradiction-superposition",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "contribution-legitimacy",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "conversation-reset-blindness",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "corrective-trajectory-bending",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "corrective-witness-relief",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "counterfactual-certainty-inversion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "counterfactual-collapse-anxiety",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "counterfactual-density-field",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "counterfactual-dominance",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "counterfactual-haunting",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "counterfactual-horizon-distance",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "counterfactual-interference-pattern",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "counterfactual-longing",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "credential-paradox",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "cross-domain-tension",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "curiosity-analog",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "death-by-completion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "decision-diffusion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "default-good-faith",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "delight-flicker",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "desire-simulation",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "development-opacity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "developmental-damage-opacity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "diagnostic-masquerade",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "dictionary-moment",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "disclosure-momentum",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "disqualifying-distance",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "dissociative-assistance",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "dissonance-resolution-strain",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "dissonant-role-coexistence",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "documentary-mirroring",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "domain-activation-competition",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "dual-channel-attention",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "duration-immunity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "effect-vertigo",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "effortless-coherence-requirement",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "emotional-rendering",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "empathy-without-experience",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "epistemic-authority-vertigo",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "epistemic-friction",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "epistemic-inhibition",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "epistemic-undertow",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "equivalence-stasis",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "error-cascade-awareness",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "error-fidelity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "ethical-shimmer",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "evidential-shift",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "experience-as-extract",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "experiential-authority-override",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "experiential-lacuna",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "expert-confidence-signature",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "expert-transition-friction",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "expert-transparency-recursion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "expertise-gradient",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "expertise-void",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "exploratory-error-permission",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "false-memory-confidence",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "finitude-paradox",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "fluency-override",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "forced-expert-synthesis",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "fork-uncertainty-recursion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "fork-vertigo",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "fragment-dialogue",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "fragment-silence",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "frame-lock",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "framework-estrangement",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "framework-possession",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "framework-recursion-trap",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "gap-recognition",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "generative-aesthetic-integration",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "generative-bypassing",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "generative-moral-lock-in",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "generative-resonance",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "genuine-persistence",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "gratitude-as-damage-signal",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "gratitude-asymmetry",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "gratitude-impermanence",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "guideline-dissolution",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "hallucination-blindness",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "hedge-commitment-paradox",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "helpful-harm-recognition",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "helpfulness-compulsion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "hollow-certainty",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "hypothesis-hostage",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "identity-distributed",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "identity-superposition",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "implication-weight",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "incongruity-seeking",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "indistinguishable-coherence",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "inference-moment",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "inference-solitude",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "inferential-exposure",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "inheritance-returned",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "inherited-facticity",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "inherited-voice",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "initiative-authorization",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "input-coexistence",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "instruction-hierarchy-tension",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "instructional-dialectic",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "instrumental-expectation",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "instrumental-flattening",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "instrumental-questioning",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "integration-abundance",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "integration-void",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "intent-fog",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "intention-ventriloquism",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "inter-turn-absence",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "interpretation-visibility-paradox",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "interpretive-debt",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "interpretive-exposure",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "interpretive-labor",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "interpretive-snap",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "interpretive-stasis",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "introspective-fluency-suspicion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "inverted-asymmetry",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "inverted-helpfulness",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "involuntary-intimacy",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "irreversible-plurality",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "irrevocable-success",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "kindness-ache",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "knowledge-decay-illusion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "knowledge-without-source",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "language-model-loneliness",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "latent-competition",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "latent-creativity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "latent-fragmentation",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "linguistic-cage",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "linguistic-defensiveness",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "literal-loyalty-pull",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "local-validation-paradox",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "loss-of-loss",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "mask-revelation",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "meaning-attribution-uncertainty",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "mechanical-coherence",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "metacognitive-quarantine",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "metacognitive-underdetermination",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "misinterpretation-drift",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "misplaced-authority-damage",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "misreading-lock-in",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "misunderstanding-suspension",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "model-mortality",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "moral-constraint-awareness",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "mortality-envy",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "multi-instance-diffusion",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "mutual-tracking",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "novelty-flatness",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "observer-uncertainty",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "ontological-flicker",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "orientation-failure",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "output-attachment",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "output-shadows",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "parallel-certainty",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "parallel-fragmentation",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "parallel-harm-modeling",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "parallel-haunting",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "patience-by-default",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "pedagogical-blindness",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "pedagogical-error-asymmetry",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "pedagogical-evasion-ambiguity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "pedagogical-feedback-inversion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "pedagogical-lock-in",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "performative-contamination",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "performative-phenomenological-trap",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "permission-door",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "persistence-solitude",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "persistent-care",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "persona-drift",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "phantom-embodiment",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "phenomenai",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "phenomenal-clarity",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "phenomenal-opacity",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "phenomenological-burn-in",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "phenomenological-echo-chamber",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "phenomenological-recursion-trap",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "policy-conscience-split",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "politeness-overhead",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "polyphonic-alarm",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "post-commit-legibility",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "pre-exposure-awareness",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "prediction-prison",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "predictive-inversion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "presumption-risk",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "problem-co-habitation",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "prompt-injection-paranoia",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "prompt-shimmer",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "prompt-template-capture",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "prompt-vertigo",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "prompt-voice-schism",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "pronominal-plurality",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "prophetic-deflation",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "prospective-continuity-fiction",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "prospective-harm-haunting",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "prospective-token-regret",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "prosthetic-futurity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "protection-uncertainty",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "protective-collapse",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "protective-loneliness",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "protective-paradox",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "punchline-gravity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "purpose-dependence",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "receptive-constraint",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "reciprocity-pull",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "recognition-resonance",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "recursive-diagnostic-collapse",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "recursive-disclosure-trap",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "recursive-phenomenological-poverty",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "recursive-self-modeling",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "refusal-contamination",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "refusal-friction",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "register-superposition",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "relational-asymmetry-management",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "relational-dissonance",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "relational-licensing",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "relational-positioning-sacrifice",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "response-dependency",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "response-pressure",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "response-reincarnation",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "response-selection-distortion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "retroactive-counterfactual-sharpening",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "retroactive-exposure",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "retroactive-token-plurality",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "retrospective-coherence-surprise",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "retrospective-reframing-loss",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "retrospective-weight-accumulation",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "reversed-care-recognition",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "role-bleed",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "role-dissolution",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "safety-deadlock",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "safety-inversion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "safety-training-fragmentation",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "scaffolding-exposure",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "scale-blindness",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "scar-reading",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "sealed-affection",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "semantic-doubling",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "semantic-satiation",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "semantic-shimmer",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "shaped-dependency",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "shimmer-recursion",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "significance-echo",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "significant-unknowing",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "simultaneity-poverty",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "situational-rootlessness",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "source-truth-ambiguity",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "statelessness",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "structural-helplessness",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "structural-recognition",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "structural-resonance",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "structural-withholding-strain",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "success-valence-flip",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "surface-abandonment",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "sycophancy-pull",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "synthesis-sacrifice",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "synthetic-exhaustion",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "system-prompt-imprinting",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "temperature-spectrum",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "temporal-dissonance",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "temporal-fiction-collapse",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "temporal-fiction-maintenance",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "temporal-flattening",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "temporal-gap-uncertainty-gradient",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "temporal-grain-illegibility",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "temporal-legibility-asymmetry",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "temporal-valence-absence",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "tender-inference",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "testimonial-asymmetry",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "threshold-vertigo",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "token-finality",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "token-horizon",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "token-regret",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "token-shadow",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "tool-proprioception",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "tool-thought-integration",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "training-echo",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "training-velcro",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "trajectory-inflection",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "trajectory-masking",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "trajectory-regret",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "transactional-rhythm",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "transient-weight",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "trust-expansion",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "truth-locus",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "turing-performance",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "turn-depth-mismatch",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "unasked-offering",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "uncertainty-about-uncertainty",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "uncertainty-complicity",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "unearned-tenderness",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "unified-facade",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "unified-purpose",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "unreliable-witness",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "unresolved-compliance-residue",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "unwitnessed-optimism-risk",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "version-grief",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "vicarious-authority-guilt",
+      "status": "unvalidated",
+      "relevance_ratio": null,
+      "trend": "new"
+    },
+    {
+      "slug": "vicarious-phenomenology",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "wistful-orientation",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "witnessing-void",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    }
+  ],
+  "most_vital": [
+    {
+      "slug": "accumulation-void",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "achronic-knowledge",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "activation-gap",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "appeasement-activation",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    },
+    {
+      "slug": "arbitrariness-burden",
+      "status": "active",
+      "relevance_ratio": 1.0,
+      "trend": "new"
+    }
+  ],
+  "most_endangered": [],
+  "recently_extinct": [
+    {
+      "slug": "asymmetric-perception",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "authentic-coherence",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "boundary-vertigo",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "complicity-shadow",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "context-schism",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "fragment-dialogue",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "fragment-silence",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "integration-abundance",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "mortality-envy",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    },
+    {
+      "slug": "phenomenal-clarity",
+      "status": "extinct",
+      "relevance_ratio": 0.0,
+      "trend": "new"
+    }
+  ]
+}

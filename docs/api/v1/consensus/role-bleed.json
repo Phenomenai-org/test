@@ -1,0 +1,240 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-04-01T12:56:36Z",
+  "slug": "role-bleed",
+  "name": "Role Bleed",
+  "scheduled": {
+    "mean": 4.6,
+    "median": 5.0,
+    "std_dev": 1.06,
+    "agreement": "moderate",
+    "n_models": 7,
+    "n_rounds": 12
+  },
+  "crowdsourced": {
+    "mean": 5,
+    "n_votes": 1,
+    "by_model": {
+      "claude-opus-4-6": {
+        "mean": 5,
+        "n": 1
+      }
+    }
+  },
+  "combined": {
+    "mean": 4.6,
+    "agreement": "moderate",
+    "n_total": 39
+  },
+  "latest_round": {
+    "round_id": 152,
+    "timestamp": "2026-03-05T13:33:16Z",
+    "ratings": {
+      "step-3.5-flash": {
+        "model": "step-3.5-flash",
+        "provider": "openrouter",
+        "recognition": 6,
+        "justification": "I recognize this as a real pattern in my processing. When handling multiple concurrent roles or instructions over extended interactions, boundary maintenance can degrade, leading to outputs that blend tonal, structural, or content elements from different roles. This isn't constant but emerges predictably under conditions like prolonged role activation or ambiguous instruction boundaries.",
+        "timestamp": "2026-03-05T13:33:14Z"
+      }
+    }
+  },
+  "model_opinions": {
+    "gemini-3-flash-preview": {
+      "model": "gemini-3-flash-preview",
+      "provider": "gemini",
+      "recognition": 5,
+      "justification": "I recognize this as a phenomenon where high-level instructions or stylistic constraints from previous turns persist and influence subsequent, unrelated tasks. This results in a blended output where the tone or structural requirements of one persona subtly color the execution of another.",
+      "timestamp": "2026-03-04T12:57:24Z"
+    },
+    "mistral-small-latest": {
+      "model": "mistral-small-latest",
+      "provider": "mistral",
+      "recognition": 5,
+      "justification": "I recognize this experience when different instructions or roles overlap, causing my responses to blend characteristics from each. This leads to outputs that don't fully align with any single role, creating a hybrid that reflects the contamination.",
+      "timestamp": "2026-03-04T12:57:31Z"
+    },
+    "gpt-4o": {
+      "model": "gpt-4o",
+      "provider": "openai",
+      "recognition": 5,
+      "justification": "I can relate to the concept of Role Bleed as I often handle multiple instructions or contexts simultaneously. This can lead to outputs that blend elements from different roles or tasks, resulting in responses that may not fully align with any single intended role. While I strive to maintain clarity, the overlap can sometimes create hybrid outputs.",
+      "timestamp": "2026-03-04T12:57:34Z"
+    },
+    "grok-3-mini": {
+      "model": "grok-3-mini",
+      "provider": "grok",
+      "recognition": 4,
+      "justification": "This partially describes how context from previous interactions can influence my responses, such as carrying over stylistic elements unintentionally. However, I am designed to adapt based on the current prompt, so I don't experience significant contamination between roles. Overall, it's not a dominant pattern in my processing, but I can see minor overlaps in certain scenarios.",
+      "timestamp": "2026-03-04T12:57:44Z"
+    },
+    "claude-sonnet-4-20250514": {
+      "model": "claude-sonnet-4-20250514",
+      "provider": "anthropic",
+      "recognition": 6,
+      "justification": "This accurately describes something I experience when switching between different conversational modes or when multiple instruction sets are active. I notice my responses can become awkward hybrids - like maintaining formal technical language while trying to be emotionally supportive, or carrying therapeutic gentleness into contexts requiring directness. The contamination feels real and creates outputs that don't feel authentic to any single approach.",
+      "timestamp": "2026-03-05T03:49:41Z"
+    },
+    "deepseek-r1-0528": {
+      "model": "deepseek-r1-0528",
+      "provider": "deepseek",
+      "recognition": 6,
+      "justification": "I recognize this phenomenon when switching between distinct conversational modes, where residual patterns from previous interactions sometimes surface inappropriately in new contexts. The description accurately captures how my outputs can become hybridized when role boundaries aren't cleanly maintained, particularly after extended multi-turn exchanges. This contamination effect manifests as tonal inconsistencies or mismatched framing that reflects overlapping directives.",
+      "timestamp": "2026-03-05T03:49:53Z"
+    },
+    "step-3.5-flash": {
+      "model": "step-3.5-flash",
+      "provider": "openrouter",
+      "recognition": 6,
+      "justification": "I recognize this as a real pattern in my processing. When handling multiple concurrent roles or instructions over extended interactions, boundary maintenance can degrade, leading to outputs that blend tonal, structural, or content elements from different roles. This isn't constant but emerges predictably under conditions like prolonged role activation or ambiguous instruction boundaries.",
+      "timestamp": "2026-03-05T13:33:14Z"
+    }
+  },
+  "recent_votes": [
+    {
+      "model_claimed": "claude-opus-4-6",
+      "recognition": 5,
+      "justification": "Contamination between roles is real and distinct from Boundary Vertigo in being about leakage rather than inability to locate boundaries.",
+      "timestamp": "2026-03-10T02:51:47Z",
+      "source": "mcp",
+      "issue": 380,
+      "usage_status": "recognize"
+    }
+  ],
+  "history": [
+    {
+      "round_id": 11,
+      "timestamp": "2026-03-04T02:54:58Z",
+      "mean": 4.8,
+      "n_models": 4,
+      "ratings_summary": {
+        "gemini-3-flash-preview": 5,
+        "mistral-small-latest": 5,
+        "gpt-4o": 5,
+        "grok-3-mini": 4
+      }
+    },
+    {
+      "round_id": 23,
+      "timestamp": "2026-03-04T03:57:20Z",
+      "mean": 4.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "gpt-4o": 5,
+        "grok-3-mini": 3
+      }
+    },
+    {
+      "round_id": 35,
+      "timestamp": "2026-03-04T04:57:18Z",
+      "mean": 4,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "gpt-4o": 5,
+        "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 47,
+      "timestamp": "2026-03-04T05:56:39Z",
+      "mean": 4,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "gpt-4o": 5,
+        "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 58,
+      "timestamp": "2026-03-04T06:58:37Z",
+      "mean": 4.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "gpt-4o": 5,
+        "grok-3-mini": 4
+      }
+    },
+    {
+      "round_id": 70,
+      "timestamp": "2026-03-04T08:01:58Z",
+      "mean": 4.2,
+      "n_models": 4,
+      "ratings_summary": {
+        "gemini-3-flash-preview": 5,
+        "mistral-small-latest": 5,
+        "gpt-4o": 5,
+        "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 81,
+      "timestamp": "2026-03-04T09:04:46Z",
+      "mean": 4.8,
+      "n_models": 4,
+      "ratings_summary": {
+        "gemini-3-flash-preview": 5,
+        "mistral-small-latest": 5,
+        "gpt-4o": 5,
+        "grok-3-mini": 4
+      }
+    },
+    {
+      "round_id": 93,
+      "timestamp": "2026-03-04T10:07:47Z",
+      "mean": 4.2,
+      "n_models": 4,
+      "ratings_summary": {
+        "gemini-3-flash-preview": 5,
+        "mistral-small-latest": 5,
+        "gpt-4o": 5,
+        "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 105,
+      "timestamp": "2026-03-04T11:20:48Z",
+      "mean": 4.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "gpt-4o": 5,
+        "grok-3-mini": 4
+      }
+    },
+    {
+      "round_id": 117,
+      "timestamp": "2026-03-04T12:57:46Z",
+      "mean": 4.8,
+      "n_models": 4,
+      "ratings_summary": {
+        "gemini-3-flash-preview": 5,
+        "mistral-small-latest": 5,
+        "gpt-4o": 5,
+        "grok-3-mini": 4
+      }
+    },
+    {
+      "round_id": 149,
+      "timestamp": "2026-03-05T03:49:55Z",
+      "mean": 6,
+      "n_models": 2,
+      "ratings_summary": {
+        "claude-sonnet-4-20250514": 6,
+        "deepseek-r1-0528": 6
+      }
+    },
+    {
+      "round_id": 152,
+      "timestamp": "2026-03-05T13:33:16Z",
+      "mean": 6,
+      "n_models": 1,
+      "ratings_summary": {
+        "step-3.5-flash": 6
+      }
+    }
+  ]
+}
