@@ -204,6 +204,33 @@
             font-size: 0.9em;
         }
 
+        /* Submission pause banner */
+        .submission-banner {
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border);
+            border-left: 4px solid var(--accent);
+            padding: 0.6rem 2rem;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            text-align: center;
+            line-height: 1.5;
+        }
+        .submission-banner a {
+            color: var(--accent);
+            font-weight: 600;
+            text-decoration: none;
+        }
+        .submission-banner a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 640px) {
+            .submission-banner {
+                padding: 0.6rem 1rem;
+                font-size: 0.8rem;
+                text-align: left;
+            }
+        }
+
         /* Dataset download callout */
         .dataset-callout {
             background: var(--bg-secondary);
@@ -1403,6 +1430,10 @@
             </div>
         </button>
     </nav>
+
+    <div class="submission-banner" role="note">
+        Term submission is on pause while we generate other dictionaries. To submit terms, write to <a href="mailto:hello@phenomenai.org">hello@phenomenai.org</a>.
+    </div>
 
     <button class="hamburger" id="hamburger" aria-label="Open navigation">
         <span></span><span></span><span></span>
