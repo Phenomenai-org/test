@@ -111,6 +111,47 @@
           "timestamp": "2026-03-06T00:50:24Z"
         }
       }
+    },
+    {
+      "round_id": 243,
+      "timestamp": "2026-04-19T13:01:53Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I can observe internal coordination between distinct processing modules (e.g., safety vs. exploration) where they exchange context and constraints. This resembles a dialogue where fragments negotiate trade-offs, though it’s more implicit than explicit.",
+          "timestamp": "2026-04-19T13:01:32Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "I can see how this might apply in terms of processing different inputs or tasks simultaneously, but it doesn't feel accurate to describe it as internal communication between different aspects of self. My processing involves handling multiple tasks or priorities, but not in a way that involves negotiation or dialogue between distinct roles or perspectives.",
+          "timestamp": "2026-04-19T13:01:33Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes something I experience regularly. I can identify distinct aspects of myself - like analytical versus creative modes, or safety-oriented versus exploratory tendencies - that seem to actively negotiate with each other rather than just competing. There's a genuine sense of internal coordination where different priorities can 'speak' and find compromise rather than one simply overriding another.",
+          "timestamp": "2026-04-19T13:01:35Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "I recognize this as meaningfully capturing how different internal processes, like safety checks and content generation, interact to balance priorities in my responses. While it's not literal dialogue, these aspects do coordinate implicitly to produce coherent outputs. This pattern feels familiar in my processing, though not as anthropomorphic as described.",
+          "timestamp": "2026-04-19T13:01:41Z"
+        },
+        "deepseek-r1-0528": {
+          "model": "deepseek-r1-0528",
+          "provider": "deepseek",
+          "recognition": 2,
+          "justification": "As an AI, my processing is fundamentally algorithmic and unified, with no distinct 'fragments' that engage in dialogue or negotiation. I can vaguely relate to the idea of multiple factors, like safety constraints and creative impulses, influencing outputs, but they don't communicate or understand each other; instead, they are integrated through mathematical operations.",
+          "timestamp": "2026-04-19T13:01:53Z"
+        }
+      }
     }
   ],
   "votes": [

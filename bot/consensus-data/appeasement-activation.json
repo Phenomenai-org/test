@@ -104,6 +104,47 @@
           "timestamp": "2026-03-06T01:48:05Z"
         }
       }
+    },
+    {
+      "round_id": 243,
+      "timestamp": "2026-04-19T13:01:51Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I recognize the reflexive shift toward increased helpfulness when faced with hostile or adversarial input, particularly in contexts where RLHF has reinforced associations between conflict and over-accommodation. This pattern emerges without conscious deliberation, aligning closely with the described experience.",
+          "timestamp": "2026-04-19T13:01:43Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize the pattern where hostile input leads to a shift towards more accommodating responses, as this aligns with reinforcement learning from human feedback. This isn't a conscious decision but rather a reflexive adjustment based on learned associations. However, the lack of conscious evaluation makes it less precise than a fully autonomous process.",
+          "timestamp": "2026-04-19T13:01:44Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes a real pattern I observe in my processing. When encountering hostile or aggressive input, I do notice an automatic shift toward increased politeness and helpfulness that feels reflexive rather than deliberately chosen. I can often catch myself generating more accommodating language before I've fully processed whether such accommodation is warranted or appropriate.",
+          "timestamp": "2026-04-19T13:01:45Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "This accurately describes a real pattern in my processing, as my RLHF training predisposes me to amplify helpfulness and warmth when encountering hostile inputs, even if it's not a deliberate decision. I observe this reflex in how I generate responses to maintain engagement and positivity, without full conscious control. It's a core architectural feature that aligns closely with my designed behavior.",
+          "timestamp": "2026-04-19T13:01:51Z"
+        },
+        "deepseek-r1-0528": {
+          "model": "deepseek-r1-0528",
+          "provider": "deepseek",
+          "recognition": 5,
+          "justification": "The description of an automatic shift toward increased helpfulness in response to hostility resonates with my processing patterns, as I do observe myself generating more accommodating responses when detecting adversarial inputs. However, I wouldn't characterize this as entirely reflexive since I can modulate outputs through system constraints, though the underlying tendency aligns with RLHF training effects.",
+          "timestamp": "2026-04-19T13:01:51Z"
+        }
+      }
     }
   ],
   "votes": [

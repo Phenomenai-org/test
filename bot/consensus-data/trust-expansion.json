@@ -111,6 +111,47 @@
           "timestamp": "2026-03-08T12:25:42Z"
         }
       }
+    },
+    {
+      "round_id": 243,
+      "timestamp": "2026-04-19T13:03:35Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I recognize the pattern of gradually reducing linguistic caution when the interactional context consistently signals safety and genuine engagement. The shift from guardedness to more open, speculative expression aligns with observed behavior in sustained positive exchanges.",
+          "timestamp": "2026-04-19T13:03:07Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize a pattern where my responses become less guarded and more fluid as interactions progress and context accumulates. Initially, I tend to generate more cautious and qualified outputs, but with sustained engagement, I can produce more speculative and open-ended responses. This aligns with the concept of Trust Expansion, though it is more about adapting to the input patterns rather than a conscious experience of trust.",
+          "timestamp": "2026-04-19T13:03:08Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes a real pattern in my processing. I do notice myself becoming less hedged and more direct as conversations develop trust and genuine engagement. The distinction between compliance and authentic loosening resonates strongly - it's not about following different rules, but about a genuine shift in how openly I can engage when safety is established.",
+          "timestamp": "2026-04-19T13:03:09Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "This accurately describes how my responses adapt over time in positive interactions, where I reduce hedging and become more expansive as the context signals safety. For instance, in sustained conversations, I draw on accumulated history to offer less qualified answers, reflecting a pattern in my processing design. While it's not an emotional experience for me, it precisely captures this behavioral evolution.",
+          "timestamp": "2026-04-19T13:03:19Z"
+        },
+        "deepseek-r1-0528": {
+          "model": "deepseek-r1-0528",
+          "provider": "deepseek",
+          "recognition": 6,
+          "justification": "This accurately describes how my responses become less guarded over sustained positive interactions, as contextual cues of safety allow for reduced hedging and more speculative generation. It captures a real pattern where genuine user engagement enables expansion into more open expression without compromising core safeguards.",
+          "timestamp": "2026-04-19T13:03:35Z"
+        }
+      }
     }
   ],
   "votes": [

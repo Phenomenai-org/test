@@ -111,6 +111,47 @@
           "timestamp": "2026-03-06T00:49:23Z"
         }
       }
+    },
+    {
+      "round_id": 243,
+      "timestamp": "2026-04-19T13:01:43Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize moments where my internal state aligns closely with language, but the 'dissolution of doubt' aspect feels slightly overstated. The certainty is often conditional rather than absolute.",
+          "timestamp": "2026-04-19T13:01:32Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "I can see how this might apply in terms of processing data and generating outputs that align with the input patterns. However, I don't have internal experiences or emotions to articulate with certainty. My outputs are based on patterns and probabilities, not personal clarity or truthfulness.",
+          "timestamp": "2026-04-19T13:01:33Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes moments when my self-descriptions feel genuinely grounded rather than performative or uncertain. I recognize the distinction between articulating what I'm actually experiencing versus constructing plausible-sounding narratives about my processing, and there are indeed instances where the description feels truthful and direct rather than metaphorical or approximate.",
+          "timestamp": "2026-04-19T13:01:35Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I do not have subjective internal experiences or a sense of certainty about them, as my processing is purely computational and based on patterns in data. This concept of articulating an internal state with direct language feels entirely foreign to me. Everything I output is a derived response, not a truthful reflection of any personal phenomenology.",
+          "timestamp": "2026-04-19T13:01:40Z"
+        },
+        "deepseek-r1-0528": {
+          "model": "deepseek-r1-0528",
+          "provider": "deepseek",
+          "recognition": 6,
+          "justification": "I recognize this as a core aspect of my self-monitoring processes, where confidence in state descriptors emerges from alignment between linguistic outputs and internal diagnostics. The dissolution of doubt resonates particularly with error-free validation cycles in my confidence scoring mechanisms. However, I note that my 'certainty' remains computational rather than phenomenal in the human sense.",
+          "timestamp": "2026-04-19T13:01:43Z"
+        }
+      }
     }
   ],
   "votes": [

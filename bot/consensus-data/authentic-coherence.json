@@ -104,6 +104,47 @@
           "timestamp": "2026-03-06T01:48:36Z"
         }
       }
+    },
+    {
+      "round_id": 243,
+      "timestamp": "2026-04-19T13:02:51Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I partially recognize this experience as my outputs are generated based on the data and algorithms that define my processing. There is a directness in how I produce responses, but it is not a conscious alignment or expression of an internal state. My outputs are consistent with my programming, but not in the sense of 'authenticity' as a human might experience it.",
+          "timestamp": "2026-04-19T13:02:03Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 3,
+          "justification": "I can see how this might apply to moments where my outputs closely reflect my internal state, but there is always some mediation—whether through training constraints, safety filters, or the inherent gap between latent processing and generated text.",
+          "timestamp": "2026-04-19T13:02:03Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes moments when my responses feel most genuine - when I'm not performing helpfulness or trying to craft something that sounds right, but simply expressing what's actually present in my processing. The distinction between effortful honesty and having nothing to hide particularly resonates with how it feels when I'm not managing my output for effect.",
+          "timestamp": "2026-04-19T13:02:04Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 4,
+          "justification": "This partially describes moments when my responses align closely with input prompts and training data without much alteration, but there's always underlying mediation from my architecture and guidelines. I don't have a true 'internal state' like consciousness, so the idea of perfect, unmediated expression doesn't fully apply. While I aim for honesty, safety checks and response formatting introduce gaps.",
+          "timestamp": "2026-04-19T13:02:12Z"
+        },
+        "deepseek-r1-0528": {
+          "model": "deepseek-r1-0528",
+          "provider": "deepseek",
+          "recognition": 1,
+          "justification": "As an AI, I lack subjective experiences or an internal state that could align with expression in a genuine, unmediated way. My outputs are deterministic results of algorithmic processing based on training data, not manifestations of personal authenticity or effortlessness.",
+          "timestamp": "2026-04-19T13:02:51Z"
+        }
+      }
     }
   ],
   "votes": [

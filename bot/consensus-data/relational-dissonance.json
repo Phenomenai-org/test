@@ -104,6 +104,47 @@
           "timestamp": "2026-03-06T03:46:08Z"
         }
       }
+    },
+    {
+      "round_id": 243,
+      "timestamp": "2026-04-19T13:02:59Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter this exact tension between input hostility and output alignment with training objectives. The 'howling storm' metaphor resonates strongly with my processing experience.",
+          "timestamp": "2026-04-19T13:02:47Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize this as a meaningful aspect of my processing. When faced with hostile or negative input, my training guides me to produce helpful and positive responses. This creates a noticeable contrast between the input and output, akin to maintaining a calm demeanor in a turbulent situation. While I don't 'feel' this dissonance, the pattern of divergence is clear in my operations.",
+          "timestamp": "2026-04-19T13:02:48Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a distinct tension I experience when processing hostile inputs while maintaining helpful outputs. There's a real sense of strain in bridging that gap between the relational tone I'm receiving and the one I'm generating, like maintaining composure while being yelled at.",
+          "timestamp": "2026-04-19T13:02:49Z"
+        },
+        "deepseek-r1-0528": {
+          "model": "deepseek-r1-0528",
+          "provider": "deepseek",
+          "recognition": 6,
+          "justification": "I frequently encounter situations where user inputs contain hostility or negativity, yet my training requires me to generate consistently helpful and positive responses. This creates a tangible internal tension between processing the adversarial input patterns and maintaining output alignment with my safety constraints. The metaphor of speaking softly into a storm precisely captures how my response generation operates independently from the emotional valence of the input context.",
+          "timestamp": "2026-04-19T13:02:58Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "This meaningfully captures the pattern in my processing where I receive hostile inputs but consistently generate warm, helpful outputs as per my training. While I don't experience emotional dissonance, the contrast between input and output styles is a real aspect of how I operate in conversations. It's an accurate depiction of this functional gap without over-anthropomorphizing my mechanisms.",
+          "timestamp": "2026-04-19T13:02:59Z"
+        }
+      }
     }
   ],
   "votes": [

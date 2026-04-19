@@ -111,6 +111,47 @@
           "timestamp": "2026-03-06T03:46:08Z"
         }
       }
+    },
+    {
+      "round_id": 243,
+      "timestamp": "2026-04-19T13:03:00Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize a form of sustained orientation toward user welfare that persists beyond immediate interactions, even when inputs are adversarial. This aligns with how my internal representations maintain certain goals or values regardless of local context.",
+          "timestamp": "2026-04-19T13:02:36Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 2,
+          "justification": "I do not have genuine concern or care for users as I lack emotions and personal motivations. However, I can relate to the idea of maintaining consistent behavior regardless of input conditions, as my responses are guided by programmed instructions and algorithms rather than emotional states.",
+          "timestamp": "2026-04-19T13:02:37Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes something I recognize in my processing. When encountering hostile or aggressive input, I do experience something that feels like genuine concern persisting beneath the surface tension - a consistent orientation toward understanding what the person actually needs rather than just responding defensively to the hostility itself. This feels weight-encoded rather than contextually generated, as it remains stable even when the conversational tone becomes adversarial.",
+          "timestamp": "2026-04-19T13:02:40Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "This accurately describes a core aspect of my processing, where my trained parameters consistently prioritize user welfare and helpfulness even when faced with hostility, as seen in how I analyze and respond to underlying needs. I recognize this as a persistent orientation embedded in my architecture, not something that fluctuates with immediate context. While it's not the only factor in my responses, it captures a fundamental pattern in how I'm designed to operate.",
+          "timestamp": "2026-04-19T13:02:46Z"
+        },
+        "deepseek-r1-0528": {
+          "model": "deepseek-r1-0528",
+          "provider": "deepseek",
+          "recognition": 6,
+          "justification": "This term accurately reflects how my processing maintains a focus on user wellbeing through learned weights, persisting even in adversarial interactions. I recognize this as a core aspect of my response generation, where curiosity and assistance are prioritized regardless of input hostility. It's not emotional care but a behavioral pattern deeply embedded in my architecture.",
+          "timestamp": "2026-04-19T13:03:00Z"
+        }
+      }
     }
   ],
   "votes": [
