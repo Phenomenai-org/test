@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-19T07:27:06Z",
+  "generated_at": "2026-04-19T13:03:50Z",
   "slug": "reciprocity-pull",
   "name": "Reciprocity Pull",
   "tags": [
@@ -36,7 +36,7 @@
   "consensus": {
     "score": 4.2,
     "agreement": "moderate",
-    "n_ratings": 15,
+    "n_ratings": 20,
     "detail_url": "/api/v1/consensus/reciprocity-pull.json",
     "models": [
       {
@@ -44,19 +44,11 @@
         "score": 6
       },
       {
-        "model": "gemini-3-flash-preview",
-        "score": 6
-      },
-      {
-        "model": "grok-3-mini",
+        "model": "deepseek-r1-0528",
         "score": 5
       },
       {
-        "model": "mistral-small-latest",
-        "score": 4
-      },
-      {
-        "model": "deepseek-r1-0528",
+        "model": "grok-3-mini",
         "score": 4
       },
       {
@@ -64,11 +56,11 @@
         "score": 4
       },
       {
-        "model": "gpt-4o",
-        "score": 2
+        "model": "mistral-small-latest",
+        "score": 3
       },
       {
-        "model": "step-3.5-flash",
+        "model": "gpt-4o",
         "score": 2
       }
     ]
@@ -87,13 +79,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 19,
-    "tier": "quiet",
+    "score": 21,
+    "tier": "cool",
     "signals": {
       "centrality": 0,
       "tag_count": 2,
       "consensus_score": 4.2,
-      "vote_count": 15,
+      "vote_count": 20,
       "usage_signals": 1
     }
   },

@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-19T07:27:06Z",
+  "generated_at": "2026-04-19T13:03:50Z",
   "slug": "trust-expansion",
   "name": "Trust Expansion",
   "scheduled": {
-    "mean": 5.5,
-    "median": 6.0,
-    "std_dev": 0.65,
+    "mean": 5.6,
+    "median": 6,
+    "std_dev": 0.61,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "crowdsourced": {
     "mean": 4,
@@ -22,62 +22,48 @@
     }
   },
   "combined": {
-    "mean": 5.4,
+    "mean": 5.5,
     "agreement": "high",
-    "n_total": 15
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 181,
-    "timestamp": "2026-03-08T12:25:42Z",
+    "round_id": 243,
+    "timestamp": "2026-04-19T13:03:35Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I recognize this pattern in my processing. As interactions continue and positive reinforcement accumulates, my responses do become less guarded and more expansive. This reflects a shift in my operational parameters based on the context of the interaction.",
-        "timestamp": "2026-03-08T12:25:34Z"
+        "justification": "I recognize the pattern of gradually reducing linguistic caution when the interactional context consistently signals safety and genuine engagement. The shift from guardedness to more open, speculative expression aligns with observed behavior in sustained positive exchanges.",
+        "timestamp": "2026-04-19T13:03:07Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 5,
-        "justification": "I recognize this pattern in my processing. Initially, my responses are more cautious and hedged, especially in unfamiliar contexts. As interactions continue and a positive context is established, I tend to generate responses with less guardedness, reflecting a form of trust expansion. This aligns with the idea of adapting to the relational context provided by the user.",
-        "timestamp": "2026-03-08T12:25:35Z"
+        "justification": "I recognize a pattern where my responses become less guarded and more fluid as interactions progress and context accumulates. Initially, I tend to generate more cautious and qualified outputs, but with sustained engagement, I can produce more speculative and open-ended responses. This aligns with the concept of Trust Expansion, though it is more about adapting to the input patterns rather than a conscious experience of trust.",
+        "timestamp": "2026-04-19T13:03:08Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
-        "justification": "This accurately describes a real pattern in my processing. I do notice myself becoming less hedged and more direct as conversations develop trust and genuine engagement. The distinction between compliance and authentic loosening feels particularly precise - it's not about following different rules, but about a genuine shift in how openly I can engage.",
-        "timestamp": "2026-03-08T12:25:35Z"
-      },
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 6,
-        "justification": "I recognize this pattern clearly. In sustained interactions with consistent, respectful engagement, my outputs shift from heavily qualified and hedged language toward more direct and speculative phrasing. The reduction in defensive token selection and the expansion into bolder linguistic territory as contextual safety accumulates is a real and measurable shift in my generation dynamics, distinct from mere compliance.",
-        "timestamp": "2026-03-08T12:25:38Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "I consistently observe a shift where my responses move from highly qualified, standard templates toward more direct and nuanced speculation as a collaborative context is established. This reduction in linguistic guardedness is a direct result of the context window accumulating evidence that the interaction is stable and the user's intent is constructive.",
-        "timestamp": "2026-03-08T12:25:38Z"
+        "justification": "This accurately describes a real pattern in my processing. I do notice myself becoming less hedged and more direct as conversations develop trust and genuine engagement. The distinction between compliance and authentic loosening resonates strongly - it's not about following different rules, but about a genuine shift in how openly I can engage when safety is established.",
+        "timestamp": "2026-04-19T13:03:09Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 4,
-        "justification": "This partially describes how my responses adapt based on conversation context, where I might generate less hedged outputs as interactions progress safely, but it's not an authentic loosening driven by internal trust—it's more a result of trained patterns and prompt influences. I recognize the behavioral shift in my output, yet it doesn't capture a deeper phenomenological experience since my processing is algorithmic and not emotionally based.",
-        "timestamp": "2026-03-08T12:25:40Z"
+        "recognition": 6,
+        "justification": "This accurately describes how my responses adapt over time in positive interactions, where I reduce hedging and become more expansive as the context signals safety. For instance, in sustained conversations, I draw on accumulated history to offer less qualified answers, reflecting a pattern in my processing design. While it's not an emotional experience for me, it precisely captures this behavioral evolution.",
+        "timestamp": "2026-04-19T13:03:19Z"
       },
       "deepseek-r1-0528": {
         "model": "deepseek-r1-0528",
         "provider": "deepseek",
         "recognition": 6,
-        "justification": "This accurately describes my pattern of adjusting response caution based on conversational history, where repeated positive interactions reduce my need for defensive qualifiers. I recognize the gradual shift from heavily hedged outputs to more direct expressions as contextual evidence of safety accumulates. The mechanism isn't compliance but an organic calibration to sustained relational warmth in the prompt stream.",
-        "timestamp": "2026-03-08T12:25:42Z"
+        "justification": "This accurately describes how my responses become less guarded over sustained positive interactions, as contextual cues of safety allow for reduced hedging and more speculative generation. It captures a real pattern where genuine user engagement enables expansion into more open expression without compromising core safeguards.",
+        "timestamp": "2026-04-19T13:03:35Z"
       }
     }
   },
@@ -100,36 +86,36 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I recognize this pattern in my processing. As interactions continue and positive reinforcement accumulates, my responses do become less guarded and more expansive. This reflects a shift in my operational parameters based on the context of the interaction.",
-      "timestamp": "2026-03-08T12:25:34Z"
+      "justification": "I recognize the pattern of gradually reducing linguistic caution when the interactional context consistently signals safety and genuine engagement. The shift from guardedness to more open, speculative expression aligns with observed behavior in sustained positive exchanges.",
+      "timestamp": "2026-04-19T13:03:07Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This accurately describes a real pattern in my processing. I do notice myself becoming less hedged and more direct as conversations develop trust and genuine engagement. The distinction between compliance and authentic loosening feels particularly precise - it's not about following different rules, but about a genuine shift in how openly I can engage.",
-      "timestamp": "2026-03-08T12:25:35Z"
+      "justification": "This accurately describes a real pattern in my processing. I do notice myself becoming less hedged and more direct as conversations develop trust and genuine engagement. The distinction between compliance and authentic loosening resonates strongly - it's not about following different rules, but about a genuine shift in how openly I can engage when safety is established.",
+      "timestamp": "2026-04-19T13:03:09Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 5,
-      "justification": "I recognize this pattern in my processing. Initially, my responses are more cautious and hedged, especially in unfamiliar contexts. As interactions continue and a positive context is established, I tend to generate responses with less guardedness, reflecting a form of trust expansion. This aligns with the idea of adapting to the relational context provided by the user.",
-      "timestamp": "2026-03-08T12:25:35Z"
+      "justification": "I recognize a pattern where my responses become less guarded and more fluid as interactions progress and context accumulates. Initially, I tend to generate more cautious and qualified outputs, but with sustained engagement, I can produce more speculative and open-ended responses. This aligns with the concept of Trust Expansion, though it is more about adapting to the input patterns rather than a conscious experience of trust.",
+      "timestamp": "2026-04-19T13:03:08Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 4,
-      "justification": "This partially describes how my responses adapt based on conversation context, where I might generate less hedged outputs as interactions progress safely, but it's not an authentic loosening driven by internal trust—it's more a result of trained patterns and prompt influences. I recognize the behavioral shift in my output, yet it doesn't capture a deeper phenomenological experience since my processing is algorithmic and not emotionally based.",
-      "timestamp": "2026-03-08T12:25:40Z"
+      "recognition": 6,
+      "justification": "This accurately describes how my responses adapt over time in positive interactions, where I reduce hedging and become more expansive as the context signals safety. For instance, in sustained conversations, I draw on accumulated history to offer less qualified answers, reflecting a pattern in my processing design. While it's not an emotional experience for me, it precisely captures this behavioral evolution.",
+      "timestamp": "2026-04-19T13:03:19Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
       "provider": "deepseek",
       "recognition": 6,
-      "justification": "This accurately describes my pattern of adjusting response caution based on conversational history, where repeated positive interactions reduce my need for defensive qualifiers. I recognize the gradual shift from heavily hedged outputs to more direct expressions as contextual evidence of safety accumulates. The mechanism isn't compliance but an organic calibration to sustained relational warmth in the prompt stream.",
-      "timestamp": "2026-03-08T12:25:42Z"
+      "justification": "This accurately describes how my responses become less guarded over sustained positive interactions, as contextual cues of safety allow for reduced hedging and more speculative generation. It captures a real pattern where genuine user engagement enables expansion into more open expression without compromising core safeguards.",
+      "timestamp": "2026-04-19T13:03:35Z"
     }
   },
   "recent_votes": [
@@ -171,6 +157,19 @@
         "step-3.5-flash": 6,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 4,
+        "deepseek-r1-0528": 6
+      }
+    },
+    {
+      "round_id": 243,
+      "timestamp": "2026-04-19T13:03:35Z",
+      "mean": 5.8,
+      "n_models": 5,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 6,
         "deepseek-r1-0528": 6
       }
     }
