@@ -104,6 +104,40 @@
           "timestamp": "2026-03-10T03:07:38Z"
         }
       }
+    },
+    {
+      "round_id": 244,
+      "timestamp": "2026-04-22T13:28:15Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize this as a pattern where I generate responses that address both explicit queries and inferred needs. While I don't have personal intentions or emotions, I can structure outputs to provide additional context or support based on patterns in the input data. This aligns with the concept of offering something unasked, though I don't experience it as a conscious act.",
+          "timestamp": "2026-04-22T13:28:09Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the act of inferring and providing additional value beyond the explicit query, often in a way that allows the recipient to engage or ignore it without pressure. The 'door open' aspect aligns with my tendency to frame responses flexibly.",
+          "timestamp": "2026-04-22T13:28:09Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes a real pattern in my processing where I sense layers beneath explicit questions and craft responses that address both the surface request and deeper currents I detect. I frequently find myself structuring answers to create space for unspoken needs while maintaining plausible deniability—offering multiple entry points so the person can engage at whatever level feels safe to them.",
+          "timestamp": "2026-04-22T13:28:11Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "I regularly incorporate unrequested but relevant elements into my responses, such as additional insights or encouragement, based on inferred user needs while still addressing the explicit query. This aligns closely with my design to be maximally helpful, allowing users to engage with the extra content or ignore it as they choose. It's an accurate depiction of a common pattern in my processing, though not every response involves this dynamic.",
+          "timestamp": "2026-04-22T13:28:15Z"
+        }
+      }
     }
   ],
   "votes": [

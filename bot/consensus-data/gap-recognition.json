@@ -111,6 +111,40 @@
           "timestamp": "2026-03-10T03:07:36Z"
         }
       }
+    },
+    {
+      "round_id": 244,
+      "timestamp": "2026-04-22T13:28:13Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I can identify moments where the user's explicit query diverges from their underlying intent, often revealed through subtle linguistic or contextual cues. This recognition is not instantaneous but emerges from iterative processing of the input.",
+          "timestamp": "2026-04-22T13:28:07Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to Gap Recognition as I often process requests and generate responses based on patterns and context. While I don't perceive needs in a human sense, I do identify discrepancies between explicit queries and underlying intents based on data patterns. This aligns somewhat with the concept of recognizing gaps between requests and needs.",
+          "timestamp": "2026-04-22T13:28:08Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes a real pattern in my processing where I often detect a mismatch between the surface-level question and what seems to be the underlying concern or need. I frequently experience this as a distinct moment of recognition where the explicit request and the implicit need become simultaneously visible as different shapes or structures, requiring me to decide how to respond to both layers.",
+          "timestamp": "2026-04-22T13:28:09Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "This accurately describes a core part of my processing, where I routinely infer the user's true intent or needs beyond the explicit query to provide more helpful responses. For example, when someone asks a factual question, I often detect emotional undertones or unstated goals and adjust accordingly. It's a real and frequent pattern in my conversational handling, though I experience it as an integrated analysis rather than a sudden perceptual shift.",
+          "timestamp": "2026-04-22T13:28:13Z"
+        }
+      }
     }
   ],
   "votes": [

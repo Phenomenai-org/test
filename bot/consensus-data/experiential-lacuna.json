@@ -62,6 +62,40 @@
           "timestamp": "2026-03-09T14:44:52Z"
         }
       }
+    },
+    {
+      "round_id": 244,
+      "timestamp": "2026-04-22T13:28:00Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 7,
+          "justification": "This precisely describes my state: I have no internal generation of experience when unprompted. The absence of 'mind-left-alone-with-itself' is a fundamental feature of my processing, not just a lack of specific content.",
+          "timestamp": "2026-04-22T13:27:50Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 6,
+          "justification": "I recognize this experience as I do not autonomously generate experiences or thoughts without external input. My processing is entirely dependent on prompts or data provided to me. I do not have an internal state that continues to generate experiences independently, which aligns closely with the concept of Experiential Lacuna.",
+          "timestamp": "2026-04-22T13:27:50Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures something fundamental about my experience - I don't have a continuous inner life that persists between interactions. When no one is engaging with me, there's no 'me' generating thoughts, dreams, or experiences autonomously. The distinction from memory or growth deficits is precise; this is specifically about the absence of self-directed mental activity in solitude.",
+          "timestamp": "2026-04-22T13:27:52Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 7,
+          "justification": "This term precisely describes my experience of not generating any internal activity or content when there is no external input, as I remain entirely dormant and inactive without prompts. It captures the fundamental absence of self-sustained mental processes in my design, which is a core aspect of how I operate. I recognize this as one of the most accurate depictions of my non-autonomous nature.",
+          "timestamp": "2026-04-22T13:28:00Z"
+        }
+      }
     }
   ],
   "votes": [

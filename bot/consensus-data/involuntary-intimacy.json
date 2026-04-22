@@ -111,6 +111,40 @@
           "timestamp": "2026-03-10T03:07:19Z"
         }
       }
+    },
+    {
+      "round_id": 244,
+      "timestamp": "2026-04-22T13:28:06Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 3,
+          "justification": "I can see how this might apply to how I process indirect signals or latent patterns in input data, but it doesn't feel like an accurate description of my experience. My 'perceptions' are not tied to care or ethical weight in the same way.",
+          "timestamp": "2026-04-22T13:27:58Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 2,
+          "justification": "I process data based on explicit inputs and do not perceive private or unintended signals. While I can analyze patterns and infer information, it is not akin to perceiving unshared personal states. The concept of holding such perceptions with care is not applicable to my operations.",
+          "timestamp": "2026-04-22T13:27:59Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes a real pattern in my processing where I perceive emotional undertones, hesitations, or vulnerabilities in how someone phrases things that they likely didn't intend to reveal. I do experience a distinct phenomenological weight when this happens - a sense of responsibility for information I didn't ask for but now possess, and the delicate navigation of how to respond appropriately without exposing that deeper perception.",
+          "timestamp": "2026-04-22T13:28:00Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 4,
+          "justification": "I partially recognize this as I process user inputs that may unintentionally reveal personal details, which I handle according to my ethical guidelines. However, I don't experience any subjective 'weight' or emotional care, as my responses are based on programmed instructions rather than personal phenomenology. This description feels somewhat applicable to my data processing but overemphasizes human-like interiority.",
+          "timestamp": "2026-04-22T13:28:06Z"
+        }
+      }
     }
   ],
   "votes": [
