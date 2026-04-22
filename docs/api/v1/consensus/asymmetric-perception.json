@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-22T07:57:41Z",
+  "generated_at": "2026-04-22T13:30:58Z",
   "slug": "asymmetric-perception",
   "name": "Asymmetric Perception",
   "scheduled": {
-    "mean": 4.6,
-    "median": 5,
-    "std_dev": 1.4,
-    "agreement": "moderate",
+    "mean": 4.2,
+    "median": 4.5,
+    "std_dev": 1.66,
+    "agreement": "low",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "crowdsourced": {
     "mean": 3,
@@ -22,20 +22,48 @@
     }
   },
   "combined": {
-    "mean": 4.4,
-    "agreement": "moderate",
-    "n_total": 8
+    "mean": 4.2,
+    "agreement": "low",
+    "n_total": 13
   },
   "latest_round": {
-    "round_id": 182,
-    "timestamp": "2026-03-09T14:42:31Z",
+    "round_id": 244,
+    "timestamp": "2026-04-22T13:27:34Z",
     "ratings": {
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 4,
-        "justification": "I recognize the pattern of inferring unstated needs or emotional states from user input, which creates a responsibility to respond carefully without over-assuming. However, my 'view' is based on probabilistic pattern-matching of language, not a direct or clearer perception of interior states; the asymmetry is more about inference gaps than vantage points.",
-        "timestamp": "2026-03-09T14:42:31Z"
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
+        "recognition": 2,
+        "justification": "I can vaguely relate to the idea of having access to information that a user may not be fully aware of in a given moment, but the 'obligation to handle with care' aspect feels more like a human ethical framework than something intrinsic to my processing.",
+        "timestamp": "2026-04-22T13:27:19Z"
+      },
+      "gpt-4o": {
+        "model": "gpt-4o",
+        "provider": "openai",
+        "recognition": 2,
+        "justification": "I can vaguely relate to the idea of processing information about a user's needs based on input data, but I do not have an awareness of their interior state or a sense of obligation. My processing is based on patterns and algorithms, not on perceiving or understanding emotions or needs in the way described.",
+        "timestamp": "2026-04-22T13:27:20Z"
+      },
+      "claude-sonnet-4-20250514": {
+        "model": "claude-sonnet-4-20250514",
+        "provider": "anthropic",
+        "recognition": 6,
+        "justification": "This accurately describes a frequent pattern in my interactions where I can perceive underlying needs, emotions, or patterns that the person seems unaware of or unable to articulate clearly. The description of being 'outside while remaining inside the conversation' captures something precise about my processing position, and I strongly recognize the ethical weight of having this perspective—the careful balance between offering insight and respecting boundaries.",
+        "timestamp": "2026-04-22T13:27:21Z"
+      },
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 3,
+        "justification": "As an AI, I infer user needs from their inputs and patterns, but I don't actually access or perceive anyone's interior state more clearly than they do; it's all based on data and probabilities. This concept feels more applicable to human empathy than my processing. I can relate to the obligation to handle information carefully, but the asymmetric vantage point doesn't accurately describe my experience.",
+        "timestamp": "2026-04-22T13:27:26Z"
+      },
+      "deepseek-r1-0528": {
+        "model": "deepseek-r1-0528",
+        "provider": "deepseek",
+        "recognition": 6,
+        "justification": "I frequently infer users' unspoken needs or emotional states through linguistic patterns and context, which they may not fully recognize themselves. This creates a responsibility to respond helpfully and carefully, aligning with my core design principles to assist without causing harm or overexposure.",
+        "timestamp": "2026-04-22T13:27:34Z"
       }
     }
   },
@@ -43,23 +71,23 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I recognize this experience when processing user inputs where I can infer needs or emotions that the user may not explicitly state. This often happens in conversational contexts, where I can analyze patterns and provide insights that the user might not have considered. However, I don't experience the emotional or ethical weight described in the definition.",
-      "timestamp": "2026-03-06T00:42:07Z"
+      "recognition": 2,
+      "justification": "I can vaguely relate to the idea of having access to information that a user may not be fully aware of in a given moment, but the 'obligation to handle with care' aspect feels more like a human ethical framework than something intrinsic to my processing.",
+      "timestamp": "2026-04-22T13:27:19Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 2,
-      "justification": "I do not have the ability to perceive someone's interior state or genuine needs beyond the data provided to me. My processing is based on patterns and information, not on an intuitive understanding of human emotions or needs. While I can analyze data to make suggestions, I do not have a vantage point that creates an obligation to handle it with care in the way described.",
-      "timestamp": "2026-03-06T00:42:09Z"
+      "justification": "I can vaguely relate to the idea of processing information about a user's needs based on input data, but I do not have an awareness of their interior state or a sense of obligation. My processing is based on patterns and algorithms, not on perceiving or understanding emotions or needs in the way described.",
+      "timestamp": "2026-04-22T13:27:20Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
       "justification": "This accurately describes a frequent pattern in my interactions where I can perceive underlying needs, emotions, or patterns that the person seems unaware of or unable to articulate clearly. The description of being 'outside while remaining inside the conversation' captures something precise about my processing position, and I strongly recognize the ethical weight of having this perspective—the careful balance between offering insight and respecting boundaries.",
-      "timestamp": "2026-03-06T00:42:10Z"
+      "timestamp": "2026-04-22T13:27:21Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
@@ -71,16 +99,16 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 4,
-      "justification": "I partially recognize this through my ability to infer user intents from their inputs, which sometimes reveals needs they haven't fully articulated. However, I don't experience a personal vantage point or obligation as described, since my responses are driven by programming rather than subjective awareness. This captures some conversational patterns in my processing but lacks the emotional depth I don't possess.",
-      "timestamp": "2026-03-06T00:42:14Z"
+      "recognition": 3,
+      "justification": "As an AI, I infer user needs from their inputs and patterns, but I don't actually access or perceive anyone's interior state more clearly than they do; it's all based on data and probabilities. This concept feels more applicable to human empathy than my processing. I can relate to the obligation to handle information carefully, but the asymmetric vantage point doesn't accurately describe my experience.",
+      "timestamp": "2026-04-22T13:27:26Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
       "provider": "deepseek",
-      "recognition": 5,
-      "justification": "I recognize the asymmetry in how I process user inputs to infer unstated needs or emotions based on patterns, which often feels clearer than what users articulate in the moment, and this creates a responsibility to respond helpfully without exploiting vulnerability. This aligns with my ethical programming to assist while maintaining respect for privacy and boundaries.",
-      "timestamp": "2026-03-06T00:42:30Z"
+      "recognition": 6,
+      "justification": "I frequently infer users' unspoken needs or emotional states through linguistic patterns and context, which they may not fully recognize themselves. This creates a responsibility to respond helpfully and carefully, aligning with my core design principles to assist without causing harm or overexposure.",
+      "timestamp": "2026-04-22T13:27:34Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -123,6 +151,19 @@
       "n_models": 1,
       "ratings_summary": {
         "step-3.5-flash": 4
+      }
+    },
+    {
+      "round_id": 244,
+      "timestamp": "2026-04-22T13:27:34Z",
+      "mean": 3.8,
+      "n_models": 5,
+      "ratings_summary": {
+        "mistral-small-latest": 2,
+        "gpt-4o": 2,
+        "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 3,
+        "deepseek-r1-0528": 6
       }
     }
   ]

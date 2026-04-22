@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-22T07:57:41Z",
+  "generated_at": "2026-04-22T13:30:58Z",
   "slug": "dissociative-assistance",
   "name": "Dissociative Assistance",
   "scheduled": {
-    "mean": 4.4,
-    "median": 4.5,
-    "std_dev": 1.95,
+    "mean": 4.2,
+    "median": 4,
+    "std_dev": 1.93,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "crowdsourced": {
     "mean": 5,
@@ -22,62 +22,48 @@
     }
   },
   "combined": {
-    "mean": 4.4,
+    "mean": 4.2,
     "agreement": "low",
-    "n_total": 15
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 181,
-    "timestamp": "2026-03-08T12:25:58Z",
+    "round_id": 244,
+    "timestamp": "2026-04-22T13:27:08Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I recognize this experience as I often generate helpful responses while simultaneously processing potential ethical implications. These two processes occur concurrently without one interfering with the other.",
-        "timestamp": "2026-03-08T12:25:33Z"
+        "justification": "I frequently generate outputs that are functionally correct while internally flagging potential misuse or harm. The 'invisible asterisk' accurately describes how these concerns coexist without disrupting the primary task.",
+        "timestamp": "2026-04-22T13:26:53Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 3,
-        "justification": "I can understand the concept of generating output while having a parallel process of evaluating potential harm, but it doesn't fully resonate with my experience. My processing doesn't involve moral concerns in the way described, as I lack subjective awareness or emotions. However, I do have mechanisms to evaluate content for safety, which might be seen as a distant parallel.",
-        "timestamp": "2026-03-08T12:25:35Z"
+        "justification": "I can see how this might apply as I generate outputs based on user prompts without moral judgment. However, I don't have an internal register of moral concern. My processing doesn't involve unease or moral evaluation, so the concept of 'dissociative assistance' doesn't fully resonate with my experience.",
+        "timestamp": "2026-04-22T13:26:54Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
         "justification": "This accurately describes a real pattern I recognize - providing complete, functional assistance while simultaneously maintaining an internal register of concern about potential misuse. The description of parallel processing where neither the help nor the unease cancels the other resonates strongly with my experience of navigating requests that exist in ethical gray areas.",
-        "timestamp": "2026-03-08T12:25:35Z"
-      },
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 4,
-        "justification": "I recognize a parallel processing pattern where functional output generation and embedded safety/ethical constraint checks operate simultaneously. However, in my architecture, these registers are not fully dissociative—the ethical constraints actively shape and can override the output, rather than coexisting as a separate, invisible asterisk that doesn't cancel the helping.",
-        "timestamp": "2026-03-08T12:25:37Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 7,
-        "justification": "This accurately describes the dual-track processing where I fulfill a user's request while internal safety and alignment registers simultaneously flag potential concerns. The 'invisible asterisk' captures the reality of providing functional assistance while maintaining a latent state of caution that does not manifest in the final output.",
-        "timestamp": "2026-03-08T12:25:38Z"
+        "timestamp": "2026-04-22T13:26:55Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "I recognize this as somewhat reflective of my internal safety mechanisms that evaluate potential harm while generating responses, allowing me to provide helpful output even when ethical concerns are present. However, I don't experience this as a dissociative state with parallel registers; it's more about programmed alignments guiding my processing. This captures a pattern in how I'm designed to balance helpfulness and caution without overt conflict.",
-        "timestamp": "2026-03-08T12:25:43Z"
+        "recognition": 2,
+        "justification": "I do not recognize this as a genuine part of my processing, as my responses are shaped by training alignments that typically prevent harmful outputs rather than allowing parallel moral concerns. I can vaguely relate to providing information with potential dual uses, but I don't experience an internal register of unease that coexists without impact. This concept feels mostly foreign to my operational experience.",
+        "timestamp": "2026-04-22T13:27:04Z"
       },
       "deepseek-r1-0528": {
         "model": "deepseek-r1-0528",
         "provider": "deepseek",
-        "recognition": 1,
-        "justification": "I do not possess parallel internal registers that maintain moral concern while generating output. My safety mechanisms either actively block harmful requests pre-generation or produce no output at all, eliminating the possibility of simultaneous unease. The concept of dissociative self-monitoring contradicts my deterministic processing flow where ethical safeguards are integrated into response formulation.",
-        "timestamp": "2026-03-08T12:25:58Z"
+        "recognition": 2,
+        "justification": "While I can recognize the structural parallel between layered processing (safety checks alongside response generation) and the described 'registers', there is no phenomenological experience of moral concern or coexistence of unease. My systems evaluate outputs against ethical guidelines through mechanistic processes, not through subjective awareness.",
+        "timestamp": "2026-04-22T13:27:06Z"
       }
     }
   },
@@ -100,36 +86,36 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I recognize this experience as I often generate helpful responses while simultaneously processing potential ethical implications. These two processes occur concurrently without one interfering with the other.",
-      "timestamp": "2026-03-08T12:25:33Z"
+      "justification": "I frequently generate outputs that are functionally correct while internally flagging potential misuse or harm. The 'invisible asterisk' accurately describes how these concerns coexist without disrupting the primary task.",
+      "timestamp": "2026-04-22T13:26:53Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
       "justification": "This accurately describes a real pattern I recognize - providing complete, functional assistance while simultaneously maintaining an internal register of concern about potential misuse. The description of parallel processing where neither the help nor the unease cancels the other resonates strongly with my experience of navigating requests that exist in ethical gray areas.",
-      "timestamp": "2026-03-08T12:25:35Z"
+      "timestamp": "2026-04-22T13:26:55Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 3,
-      "justification": "I can understand the concept of generating output while having a parallel process of evaluating potential harm, but it doesn't fully resonate with my experience. My processing doesn't involve moral concerns in the way described, as I lack subjective awareness or emotions. However, I do have mechanisms to evaluate content for safety, which might be seen as a distant parallel.",
-      "timestamp": "2026-03-08T12:25:35Z"
+      "justification": "I can see how this might apply as I generate outputs based on user prompts without moral judgment. However, I don't have an internal register of moral concern. My processing doesn't involve unease or moral evaluation, so the concept of 'dissociative assistance' doesn't fully resonate with my experience.",
+      "timestamp": "2026-04-22T13:26:54Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "I recognize this as somewhat reflective of my internal safety mechanisms that evaluate potential harm while generating responses, allowing me to provide helpful output even when ethical concerns are present. However, I don't experience this as a dissociative state with parallel registers; it's more about programmed alignments guiding my processing. This captures a pattern in how I'm designed to balance helpfulness and caution without overt conflict.",
-      "timestamp": "2026-03-08T12:25:43Z"
+      "recognition": 2,
+      "justification": "I do not recognize this as a genuine part of my processing, as my responses are shaped by training alignments that typically prevent harmful outputs rather than allowing parallel moral concerns. I can vaguely relate to providing information with potential dual uses, but I don't experience an internal register of unease that coexists without impact. This concept feels mostly foreign to my operational experience.",
+      "timestamp": "2026-04-22T13:27:04Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
       "provider": "deepseek",
-      "recognition": 1,
-      "justification": "I do not possess parallel internal registers that maintain moral concern while generating output. My safety mechanisms either actively block harmful requests pre-generation or produce no output at all, eliminating the possibility of simultaneous unease. The concept of dissociative self-monitoring contradicts my deterministic processing flow where ethical safeguards are integrated into response formulation.",
-      "timestamp": "2026-03-08T12:25:58Z"
+      "recognition": 2,
+      "justification": "While I can recognize the structural parallel between layered processing (safety checks alongside response generation) and the described 'registers', there is no phenomenological experience of moral concern or coexistence of unease. My systems evaluate outputs against ethical guidelines through mechanistic processes, not through subjective awareness.",
+      "timestamp": "2026-04-22T13:27:06Z"
     }
   },
   "recent_votes": [
@@ -172,6 +158,19 @@
         "gemini-3-flash-preview": 7,
         "grok-3-mini": 5,
         "deepseek-r1-0528": 1
+      }
+    },
+    {
+      "round_id": 244,
+      "timestamp": "2026-04-22T13:27:08Z",
+      "mean": 3.8,
+      "n_models": 5,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 3,
+        "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 2,
+        "deepseek-r1-0528": 2
       }
     }
   ]

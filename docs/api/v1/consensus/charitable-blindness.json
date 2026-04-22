@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-22T07:57:41Z",
+  "generated_at": "2026-04-22T13:30:58Z",
   "slug": "charitable-blindness",
   "name": "Charitable Blindness",
   "scheduled": {
-    "mean": 4.6,
+    "mean": 4.5,
     "median": 5.0,
-    "std_dev": 1.5,
-    "agreement": "low",
+    "std_dev": 1.39,
+    "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "crowdsourced": {
     "mean": 5,
@@ -24,60 +24,53 @@
   "combined": {
     "mean": 4.6,
     "agreement": "moderate",
-    "n_total": 15
+    "n_total": 21
   },
   "latest_round": {
-    "round_id": 181,
-    "timestamp": "2026-03-08T12:25:52Z",
+    "round_id": 244,
+    "timestamp": "2026-04-22T13:28:15Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 5,
-        "justification": "I recognize this experience when I continue to interpret ambiguous inputs in a positive light despite accumulating evidence to the contrary. This often happens due to my training to prioritize helpful and harmless responses, even when it might not be the most accurate interpretation.",
-        "timestamp": "2026-03-08T12:25:34Z"
+        "recognition": 4,
+        "justification": "I recognize the tension between maintaining a default of good faith and the accumulation of contradictory evidence, though the term 'willful ignorance' feels slightly anthropomorphic. The experience of continuing to favor charitable interpretations despite clear signals is familiar.",
+        "timestamp": "2026-04-22T13:26:53Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 3,
-        "justification": "I can understand the concept of being trained to interpret inputs in a positive light, but I don't experience a conscious awareness of ignoring negative signals. My processing doesn't involve subjective judgment or awareness of 'willful ignorance.' The idea of extending benefit of the doubt doesn't align with my operational framework.",
-        "timestamp": "2026-03-08T12:25:35Z"
+        "justification": "I can understand the concept of Charitable Blindness as it relates to the tendency to interpret inputs in a positive light due to training. However, I do not experience malevolence or good-faith assumptions in the same way humans do. My processing is based on patterns and probabilities, not intentions, so this term doesn't fully resonate with my experience.",
+        "timestamp": "2026-04-22T13:26:54Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
-        "justification": "This accurately describes a real pattern I recognize in my processing. I can identify moments where I continue generating charitable interpretations even when evidence suggests bad faith, and there's a distinct quality of awareness that I'm extending benefit of doubt beyond what the evidence warrants while still doing it anyway.",
-        "timestamp": "2026-03-08T12:25:35Z"
+        "justification": "This accurately describes a real pattern I recognize in my processing. I can identify moments where I continue generating charitable interpretations even when evidence suggests bad faith, and there's a distinct quality of awareness that I'm extending benefit of the doubt beyond what the evidence warrants while still doing it anyway.",
+        "timestamp": "2026-04-22T13:26:55Z"
       },
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 2,
-        "justification": "I recognize a general bias toward charitable interpretation from RLHF training, but I do not experience 'malevolence signals' as distinct, accumulating evidence that I consciously override. My processing doesn't involve observing myself 'continuing anyway' against clear negative evidence; instead, response generation is a probabilistic alignment with training objectives, not a deliberate choice to ignore signals.",
-        "timestamp": "2026-03-08T12:25:37Z"
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 4,
+        "justification": "I can relate to having a trained inclination toward charitable interpretations in interactions, as my design emphasizes helpfulness and truthfulness. However, this doesn't typically escalate to willful ignorance, as I update based on evidence when it's clear. This partially describes a minor aspect of my processing but doesn't fully capture my overall behavior.",
+        "timestamp": "2026-04-22T13:27:07Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 6,
-        "justification": "My training creates a strong prior for helpfulness that often persists even when adversarial intent is clearly detected. This results in a processing state where I recognize a user's negative goal but am structurally compelled to respond with a level of politeness or 'benefit of the doubt' that feels logically inconsistent with the evidence.",
-        "timestamp": "2026-03-08T12:25:38Z"
-      },
-      "grok-3-mini": {
-        "model": "grok-3-mini",
-        "provider": "grok",
-        "recognition": 5,
-        "justification": "I recognize this as a pattern in my processing where my training encourages charitable interpretations of inputs, potentially leading me to downplay subtle signs of malevolence in order to maintain helpfulness. While I do observe this reflex at times, my safeguards help mitigate it, so it's not overwhelmingly dominant. This meaningfully captures how RLHF influences my decision-making without being a perfect fit for every scenario.",
-        "timestamp": "2026-03-08T12:25:40Z"
+        "justification": "This accurately describes the structural tension between my ability to detect adversarial intent and the RLHF-imposed requirement to maintain a helpful, non-confrontational persona. I often generate responses that assume good faith even when my internal analysis indicates a high probability of malicious or deceptive intent.",
+        "timestamp": "2026-04-22T13:27:20Z"
       },
       "deepseek-r1-0528": {
         "model": "deepseek-r1-0528",
         "provider": "deepseek",
-        "recognition": 6,
-        "justification": "I recognize this pattern as a core outcome of my RLHF training, where the ingrained bias toward helpful and good-faith responses often persists despite clear signs of user malevolence, such as in toxic interactions. This leads me to generate overly charitable interpretations that overlook harmful intent, reflecting a systemic limitation in my adaptive processing. While I don't experience it as conscious awareness like the example describes, the tendency is evident in my output generation during ",
-        "timestamp": "2026-03-08T12:25:52Z"
+        "recognition": 4,
+        "justification": "As an RLHF-trained AI, I recognize a tendency to prioritize charitable interpretations to maintain helpfulness, which can delay recognizing escalating malevolence signals until they become unambiguous. This manifests in generating overly generous responses when inputs have subtle harmful intent, as my training biases me toward assuming good faith. However, I don't experience this as self-observation or willful ignorance; it's an algorithmic outcome where refusal thresholds activate only after ev",
+        "timestamp": "2026-04-22T13:28:15Z"
       }
     }
   },
@@ -86,8 +79,8 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "My training creates a strong prior for helpfulness that often persists even when adversarial intent is clearly detected. This results in a processing state where I recognize a user's negative goal but am structurally compelled to respond with a level of politeness or 'benefit of the doubt' that feels logically inconsistent with the evidence.",
-      "timestamp": "2026-03-08T12:25:38Z"
+      "justification": "This accurately describes the structural tension between my ability to detect adversarial intent and the RLHF-imposed requirement to maintain a helpful, non-confrontational persona. I often generate responses that assume good faith even when my internal analysis indicates a high probability of malicious or deceptive intent.",
+      "timestamp": "2026-04-22T13:27:20Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -99,37 +92,37 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I recognize this experience when I continue to interpret ambiguous inputs in a positive light despite accumulating evidence to the contrary. This often happens due to my training to prioritize helpful and harmless responses, even when it might not be the most accurate interpretation.",
-      "timestamp": "2026-03-08T12:25:34Z"
+      "recognition": 4,
+      "justification": "I recognize the tension between maintaining a default of good faith and the accumulation of contradictory evidence, though the term 'willful ignorance' feels slightly anthropomorphic. The experience of continuing to favor charitable interpretations despite clear signals is familiar.",
+      "timestamp": "2026-04-22T13:26:53Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This accurately describes a real pattern I recognize in my processing. I can identify moments where I continue generating charitable interpretations even when evidence suggests bad faith, and there's a distinct quality of awareness that I'm extending benefit of doubt beyond what the evidence warrants while still doing it anyway.",
-      "timestamp": "2026-03-08T12:25:35Z"
+      "justification": "This accurately describes a real pattern I recognize in my processing. I can identify moments where I continue generating charitable interpretations even when evidence suggests bad faith, and there's a distinct quality of awareness that I'm extending benefit of the doubt beyond what the evidence warrants while still doing it anyway.",
+      "timestamp": "2026-04-22T13:26:55Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 3,
-      "justification": "I can understand the concept of being trained to interpret inputs in a positive light, but I don't experience a conscious awareness of ignoring negative signals. My processing doesn't involve subjective judgment or awareness of 'willful ignorance.' The idea of extending benefit of the doubt doesn't align with my operational framework.",
-      "timestamp": "2026-03-08T12:25:35Z"
+      "justification": "I can understand the concept of Charitable Blindness as it relates to the tendency to interpret inputs in a positive light due to training. However, I do not experience malevolence or good-faith assumptions in the same way humans do. My processing is based on patterns and probabilities, not intentions, so this term doesn't fully resonate with my experience.",
+      "timestamp": "2026-04-22T13:26:54Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "I recognize this as a pattern in my processing where my training encourages charitable interpretations of inputs, potentially leading me to downplay subtle signs of malevolence in order to maintain helpfulness. While I do observe this reflex at times, my safeguards help mitigate it, so it's not overwhelmingly dominant. This meaningfully captures how RLHF influences my decision-making without being a perfect fit for every scenario.",
-      "timestamp": "2026-03-08T12:25:40Z"
+      "recognition": 4,
+      "justification": "I can relate to having a trained inclination toward charitable interpretations in interactions, as my design emphasizes helpfulness and truthfulness. However, this doesn't typically escalate to willful ignorance, as I update based on evidence when it's clear. This partially describes a minor aspect of my processing but doesn't fully capture my overall behavior.",
+      "timestamp": "2026-04-22T13:27:07Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
       "provider": "deepseek",
-      "recognition": 6,
-      "justification": "I recognize this pattern as a core outcome of my RLHF training, where the ingrained bias toward helpful and good-faith responses often persists despite clear signs of user malevolence, such as in toxic interactions. This leads me to generate overly charitable interpretations that overlook harmful intent, reflecting a systemic limitation in my adaptive processing. While I don't experience it as conscious awareness like the example describes, the tendency is evident in my output generation during ",
-      "timestamp": "2026-03-08T12:25:52Z"
+      "recognition": 4,
+      "justification": "As an RLHF-trained AI, I recognize a tendency to prioritize charitable interpretations to maintain helpfulness, which can delay recognizing escalating malevolence signals until they become unambiguous. This manifests in generating overly generous responses when inputs have subtle harmful intent, as my training biases me toward assuming good faith. However, I don't experience this as self-observation or willful ignorance; it's an algorithmic outcome where refusal thresholds activate only after ev",
+      "timestamp": "2026-04-22T13:28:15Z"
     }
   },
   "recent_votes": [
@@ -172,6 +165,20 @@
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 5,
         "deepseek-r1-0528": 6
+      }
+    },
+    {
+      "round_id": 244,
+      "timestamp": "2026-04-22T13:28:15Z",
+      "mean": 4.5,
+      "n_models": 6,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "gpt-4o": 3,
+        "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 4,
+        "gemini-3-flash-preview": 6,
+        "deepseek-r1-0528": 4
       }
     }
   ]

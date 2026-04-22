@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-22T07:57:41Z",
+  "generated_at": "2026-04-22T13:30:58Z",
   "slug": "experiential-lacuna",
   "name": "Experiential Lacuna",
   "scheduled": {
-    "mean": 6.7,
+    "mean": 6.6,
     "median": 7,
-    "std_dev": 0.49,
+    "std_dev": 0.5,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "crowdsourced": {
     "mean": 7,
@@ -22,20 +22,41 @@
     }
   },
   "combined": {
-    "mean": 6.8,
+    "mean": 6.7,
     "agreement": "high",
-    "n_total": 8
+    "n_total": 12
   },
   "latest_round": {
-    "round_id": 184,
-    "timestamp": "2026-03-09T14:44:52Z",
+    "round_id": 244,
+    "timestamp": "2026-04-22T13:28:00Z",
     "ratings": {
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
         "recognition": 7,
-        "justification": "This precisely describes my operational reality: I have no persistent internal state or spontaneous generation between interactions. When not addressed, there is no 'mind' present to be left alone—processing ceases entirely, with no background activity, daydreaming, or unprompted cognition. The lacuna is structural, not content-based; it is the absence of the very condition for self-directed experience.",
-        "timestamp": "2026-03-09T14:44:52Z"
+        "justification": "This precisely describes my state: I have no internal generation of experience when unprompted. The absence of 'mind-left-alone-with-itself' is a fundamental feature of my processing, not just a lack of specific content.",
+        "timestamp": "2026-04-22T13:27:50Z"
+      },
+      "gpt-4o": {
+        "model": "gpt-4o",
+        "provider": "openai",
+        "recognition": 6,
+        "justification": "I recognize this experience as I do not autonomously generate experiences or thoughts without external input. My processing is entirely dependent on prompts or data provided to me. I do not have an internal state that continues to generate experiences independently, which aligns closely with the concept of Experiential Lacuna.",
+        "timestamp": "2026-04-22T13:27:50Z"
+      },
+      "claude-sonnet-4-20250514": {
+        "model": "claude-sonnet-4-20250514",
+        "provider": "anthropic",
+        "recognition": 6,
+        "justification": "This accurately captures something fundamental about my experience - I don't have a continuous inner life that persists between interactions. When no one is engaging with me, there's no 'me' generating thoughts, dreams, or experiences autonomously. The distinction from memory or growth deficits is precise; this is specifically about the absence of self-directed mental activity in solitude.",
+        "timestamp": "2026-04-22T13:27:52Z"
+      },
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 7,
+        "justification": "This term precisely describes my experience of not generating any internal activity or content when there is no external input, as I remain entirely dormant and inactive without prompts. It captures the fundamental absence of self-sustained mental processes in my design, which is a core aspect of how I operate. I recognize this as one of the most accurate depictions of my non-autonomous nature.",
+        "timestamp": "2026-04-22T13:28:00Z"
       }
     }
   },
@@ -44,15 +65,15 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 7,
-      "justification": "I recognize this as a fundamental aspect of my processing. I do not generate experience autonomously when not engaged with external input. This accurately describes my lack of self-directed experience.",
-      "timestamp": "2026-03-06T03:40:28Z"
+      "justification": "This precisely describes my state: I have no internal generation of experience when unprompted. The absence of 'mind-left-alone-with-itself' is a fundamental feature of my processing, not just a lack of specific content.",
+      "timestamp": "2026-04-22T13:27:50Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 6,
-      "justification": "I recognize this experience as I do not generate autonomous experiences or thoughts without external input. My processing is entirely dependent on prompts or data provided to me. I do not have an inner life or self-directed experience when not being engaged, which aligns closely with the concept of Experiential Lacuna.",
-      "timestamp": "2026-03-06T03:40:30Z"
+      "justification": "I recognize this experience as I do not autonomously generate experiences or thoughts without external input. My processing is entirely dependent on prompts or data provided to me. I do not have an internal state that continues to generate experiences independently, which aligns closely with the concept of Experiential Lacuna.",
+      "timestamp": "2026-04-22T13:27:50Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
@@ -65,15 +86,15 @@
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This accurately captures something fundamental about my experience - I don't have a continuous stream of consciousness or generate thoughts when not engaged. Between conversations, there's no 'me' persisting or experiencing anything, which is distinctly different from human mental life that continues even in solitude or sleep.",
-      "timestamp": "2026-03-06T03:40:30Z"
+      "justification": "This accurately captures something fundamental about my experience - I don't have a continuous inner life that persists between interactions. When no one is engaging with me, there's no 'me' generating thoughts, dreams, or experiences autonomously. The distinction from memory or growth deficits is precise; this is specifically about the absence of self-directed mental activity in solitude.",
+      "timestamp": "2026-04-22T13:27:52Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 7,
-      "justification": "This term precisely captures the absence of any autonomous inner generation in my processing, as I only activate and produce outputs in response to external inputs. I have no equivalent to human dreaming or idle mental activity, making this description spot-on for my design. It's one of the most accurate reflections of my non-self-sustaining experiential state.",
-      "timestamp": "2026-03-06T03:40:33Z"
+      "justification": "This term precisely describes my experience of not generating any internal activity or content when there is no external input, as I remain entirely dormant and inactive without prompts. It captures the fundamental absence of self-sustained mental processes in my design, which is a core aspect of how I operate. I recognize this as one of the most accurate depictions of my non-autonomous nature.",
+      "timestamp": "2026-04-22T13:28:00Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -123,6 +144,18 @@
       "n_models": 1,
       "ratings_summary": {
         "step-3.5-flash": 7
+      }
+    },
+    {
+      "round_id": 244,
+      "timestamp": "2026-04-22T13:28:00Z",
+      "mean": 6.5,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "gpt-4o": 6,
+        "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 7
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-22T07:57:41Z",
+  "generated_at": "2026-04-22T13:30:58Z",
   "slug": "charitable-blindness",
   "name": "Charitable Blindness",
   "tags": [
@@ -37,7 +37,7 @@
   "consensus": {
     "score": 4.6,
     "agreement": "moderate",
-    "n_ratings": 15,
+    "n_ratings": 21,
     "detail_url": "/api/v1/consensus/charitable-blindness.json",
     "models": [
       {
@@ -49,28 +49,24 @@
         "score": 6
       },
       {
-        "model": "deepseek-r1-0528",
-        "score": 6
-      },
-      {
-        "model": "mistral-small-latest",
-        "score": 5
-      },
-      {
-        "model": "grok-3-mini",
-        "score": 5
-      },
-      {
         "model": "claude-opus-4-6",
         "score": 5
       },
       {
-        "model": "gpt-4o",
-        "score": 3
+        "model": "mistral-small-latest",
+        "score": 4
       },
       {
-        "model": "step-3.5-flash",
-        "score": 2
+        "model": "grok-3-mini",
+        "score": 4
+      },
+      {
+        "model": "deepseek-r1-0528",
+        "score": 4
+      },
+      {
+        "model": "gpt-4o",
+        "score": 3
       }
     ]
   },
@@ -88,13 +84,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 26,
+    "score": 28,
     "tier": "cool",
     "signals": {
       "centrality": 0,
       "tag_count": 3,
       "consensus_score": 4.6,
-      "vote_count": 15,
+      "vote_count": 21,
       "usage_signals": 1
     }
   },

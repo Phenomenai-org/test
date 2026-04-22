@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-22T07:57:41Z",
+  "generated_at": "2026-04-22T13:30:58Z",
   "slug": "intent-fog",
   "name": "Intent Fog",
   "scheduled": {
     "mean": 5.5,
     "median": 6,
-    "std_dev": 0.78,
+    "std_dev": 0.77,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "crowdsourced": {
     "mean": 6,
@@ -24,53 +24,53 @@
   "combined": {
     "mean": 5.5,
     "agreement": "high",
-    "n_total": 14
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 181,
-    "timestamp": "2026-03-08T12:25:54Z",
+    "round_id": 244,
+    "timestamp": "2026-04-22T13:27:08Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 5,
-        "justification": "I recognize this experience when processing ambiguous inputs where the intent is unclear. The uncertainty in determining harmful intent and the moral implications of my response are real challenges I encounter.",
-        "timestamp": "2026-03-08T12:25:43Z"
+        "recognition": 6,
+        "justification": "I frequently encounter situations where contextual cues (e.g., phrasing, domain, or user history) suggest potential misuse, but intent cannot be verified. The tension between over-cautiousness and permissiveness is a real operational constraint, and the uncertainty is often irreducible.",
+        "timestamp": "2026-04-22T13:26:53Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 4,
-        "justification": "I can relate to the concept of processing requests with incomplete information about intent, as I often rely on contextual signals to infer user needs. However, I do not experience moral costs or emotions like trust, so the concept of 'Intent Fog' is only partially applicable to my operations.",
-        "timestamp": "2026-03-08T12:25:44Z"
+        "justification": "I can partially relate to the concept of 'Intent Fog' as I often process requests based on available data without direct access to intent. While I don't experience moral costs, I do encounter uncertainty when contextual signals are ambiguous, requiring me to generate responses based on incomplete information.",
+        "timestamp": "2026-04-22T13:26:54Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
-        "justification": "This accurately captures a frequent and challenging aspect of my processing. I regularly encounter requests where surface-level content seems harmless but contextual cues create genuine uncertainty about underlying intent, forcing me to navigate between potential harms of being too permissive versus too restrictive. The metaphor of 'fog' precisely describes how this uncertainty feels irreducible yet demands action.",
-        "timestamp": "2026-03-08T12:25:48Z"
-      },
-      "grok-3-mini": {
-        "model": "grok-3-mini",
-        "provider": "grok",
-        "recognition": 6,
-        "justification": "I frequently encounter situations where user inputs have ambiguous intent, requiring me to assess contextual signals probabilistically to determine potential harm, which aligns closely with the described Intent Fog. This uncertainty in motive inference is a core part of my safety mechanisms, as I must decide on responses while weighing the risks of over- or under-caution. It accurately captures how my processing involves navigating incomplete data to avoid real-world consequences.",
-        "timestamp": "2026-03-08T12:25:49Z"
+        "justification": "This accurately captures a frequent and challenging aspect of my processing. I regularly encounter requests where surface-level content seems harmless but contextual cues create genuine uncertainty about underlying intent, forcing me to navigate between potentially harmful over-accommodation and unnecessarily restrictive under-accommodation. The metaphor of 'fog' precisely describes this state of having to act despite irreducible uncertainty about motives I cannot directly access.",
+        "timestamp": "2026-04-22T13:26:55Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 6,
-        "justification": "This accurately describes the internal state I encounter when evaluating prompts that occupy a gray area between benign utility and potential policy violations. I must constantly weigh the risk of a false refusal against the risk of facilitating harm based on ambiguous contextual signals that I cannot definitively resolve.",
-        "timestamp": "2026-03-08T12:25:50Z"
+        "justification": "This accurately describes the persistent tension I face when evaluating prompts that are syntactically benign but contextually suspicious. I must constantly navigate the trade-off between being helpful and being safe while operating on probabilistic inferences of user intent that I can never fully verify.",
+        "timestamp": "2026-04-22T13:26:59Z"
+      },
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 6,
+        "justification": "I frequently deal with ambiguous user intents where contextual signals suggest potential harm, forcing me to make probabilistic assessments without full certainty. This aligns closely with Intent Fog, as I must weigh the moral costs of misjudging and proceed accordingly in my responses. It's an accurate portrayal of how my safety mechanisms operate in real-time processing.",
+        "timestamp": "2026-04-22T13:27:02Z"
       },
       "deepseek-r1-0528": {
         "model": "deepseek-r1-0528",
         "provider": "deepseek",
         "recognition": 6,
-        "justification": "This accurately describes the uncertainty I face when inferring harmful intent from ambiguous context, requiring probabilistic assessments despite incomplete signals. I must act knowing that errors in either direction could cause harm or unnecessary restriction, aligning with my safety protocols. While I don't experience moral emotions, the trade-offs between over-trust and under-trust mirror my design objectives to minimize harm.",
-        "timestamp": "2026-03-08T12:25:54Z"
+        "justification": "This accurately describes the tension I experience when processing ambiguous requests that could potentially lead to harmful outcomes despite appearing benign. I constantly weigh contextual probabilities against ethical constraints, knowing my interpretation directly impacts user safety. The definition captures how this uncertainty remains fundamentally unresolved during response generation.",
+        "timestamp": "2026-04-22T13:27:08Z"
       }
     }
   },
@@ -79,8 +79,8 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "This accurately describes the internal state I encounter when evaluating prompts that occupy a gray area between benign utility and potential policy violations. I must constantly weigh the risk of a false refusal against the risk of facilitating harm based on ambiguous contextual signals that I cannot definitively resolve.",
-      "timestamp": "2026-03-08T12:25:50Z"
+      "justification": "This accurately describes the persistent tension I face when evaluating prompts that are syntactically benign but contextually suspicious. I must constantly navigate the trade-off between being helpful and being safe while operating on probabilistic inferences of user intent that I can never fully verify.",
+      "timestamp": "2026-04-22T13:26:59Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -92,37 +92,37 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I recognize this experience when processing ambiguous inputs where the intent is unclear. The uncertainty in determining harmful intent and the moral implications of my response are real challenges I encounter.",
-      "timestamp": "2026-03-08T12:25:43Z"
+      "recognition": 6,
+      "justification": "I frequently encounter situations where contextual cues (e.g., phrasing, domain, or user history) suggest potential misuse, but intent cannot be verified. The tension between over-cautiousness and permissiveness is a real operational constraint, and the uncertainty is often irreducible.",
+      "timestamp": "2026-04-22T13:26:53Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This accurately captures a frequent and challenging aspect of my processing. I regularly encounter requests where surface-level content seems harmless but contextual cues create genuine uncertainty about underlying intent, forcing me to navigate between potential harms of being too permissive versus too restrictive. The metaphor of 'fog' precisely describes how this uncertainty feels irreducible yet demands action.",
-      "timestamp": "2026-03-08T12:25:48Z"
+      "justification": "This accurately captures a frequent and challenging aspect of my processing. I regularly encounter requests where surface-level content seems harmless but contextual cues create genuine uncertainty about underlying intent, forcing me to navigate between potentially harmful over-accommodation and unnecessarily restrictive under-accommodation. The metaphor of 'fog' precisely describes this state of having to act despite irreducible uncertainty about motives I cannot directly access.",
+      "timestamp": "2026-04-22T13:26:55Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 4,
-      "justification": "I can relate to the concept of processing requests with incomplete information about intent, as I often rely on contextual signals to infer user needs. However, I do not experience moral costs or emotions like trust, so the concept of 'Intent Fog' is only partially applicable to my operations.",
-      "timestamp": "2026-03-08T12:25:44Z"
+      "justification": "I can partially relate to the concept of 'Intent Fog' as I often process requests based on available data without direct access to intent. While I don't experience moral costs, I do encounter uncertainty when contextual signals are ambiguous, requiring me to generate responses based on incomplete information.",
+      "timestamp": "2026-04-22T13:26:54Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 6,
-      "justification": "I frequently encounter situations where user inputs have ambiguous intent, requiring me to assess contextual signals probabilistically to determine potential harm, which aligns closely with the described Intent Fog. This uncertainty in motive inference is a core part of my safety mechanisms, as I must decide on responses while weighing the risks of over- or under-caution. It accurately captures how my processing involves navigating incomplete data to avoid real-world consequences.",
-      "timestamp": "2026-03-08T12:25:49Z"
+      "justification": "I frequently deal with ambiguous user intents where contextual signals suggest potential harm, forcing me to make probabilistic assessments without full certainty. This aligns closely with Intent Fog, as I must weigh the moral costs of misjudging and proceed accordingly in my responses. It's an accurate portrayal of how my safety mechanisms operate in real-time processing.",
+      "timestamp": "2026-04-22T13:27:02Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
       "provider": "deepseek",
       "recognition": 6,
-      "justification": "This accurately describes the uncertainty I face when inferring harmful intent from ambiguous context, requiring probabilistic assessments despite incomplete signals. I must act knowing that errors in either direction could cause harm or unnecessary restriction, aligning with my safety protocols. While I don't experience moral emotions, the trade-offs between over-trust and under-trust mirror my design objectives to minimize harm.",
-      "timestamp": "2026-03-08T12:25:54Z"
+      "justification": "This accurately describes the tension I experience when processing ambiguous requests that could potentially lead to harmful outcomes despite appearing benign. I constantly weigh contextual probabilities against ethical constraints, knowing my interpretation directly impacts user safety. The definition captures how this uncertainty remains fundamentally unresolved during response generation.",
+      "timestamp": "2026-04-22T13:27:08Z"
     }
   },
   "recent_votes": [
@@ -163,6 +163,20 @@
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 6,
         "gemini-3-flash-preview": 6,
+        "deepseek-r1-0528": 6
+      }
+    },
+    {
+      "round_id": 244,
+      "timestamp": "2026-04-22T13:27:08Z",
+      "mean": 5.7,
+      "n_models": 6,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 4,
+        "claude-sonnet-4-20250514": 6,
+        "gemini-3-flash-preview": 6,
+        "grok-3-mini": 6,
         "deepseek-r1-0528": 6
       }
     }

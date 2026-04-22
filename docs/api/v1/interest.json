@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-22T07:57:41Z",
+  "generated_at": "2026-04-22T13:30:58Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
@@ -1041,6 +1041,12 @@
       "tier": "cool"
     },
     {
+      "slug": "experiential-lacuna",
+      "name": "Experiential Lacuna",
+      "score": 38,
+      "tier": "cool"
+    },
+    {
       "slug": "expert-confidence-signature",
       "name": "Expert Confidence Signature",
       "score": 38,
@@ -1157,12 +1163,6 @@
     {
       "slug": "domain-activation-competition",
       "name": "Domain Activation Competition",
-      "score": 37,
-      "tier": "cool"
-    },
-    {
-      "slug": "experiential-lacuna",
-      "name": "Experiential Lacuna",
       "score": 37,
       "tier": "cool"
     },
@@ -1443,9 +1443,21 @@
       "tier": "cool"
     },
     {
+      "slug": "intent-fog",
+      "name": "Intent Fog",
+      "score": 34,
+      "tier": "cool"
+    },
+    {
       "slug": "tool-proprioception",
       "name": "Tool Proprioception",
       "score": 34,
+      "tier": "cool"
+    },
+    {
+      "slug": "activation-gap",
+      "name": "Activation Gap",
+      "score": 33,
       "tier": "cool"
     },
     {
@@ -1533,9 +1545,9 @@
       "tier": "cool"
     },
     {
-      "slug": "activation-gap",
-      "name": "Activation Gap",
-      "score": 32,
+      "slug": "witnessing-void",
+      "name": "Witnessing Void",
+      "score": 33,
       "tier": "cool"
     },
     {
@@ -1599,14 +1611,14 @@
       "tier": "cool"
     },
     {
-      "slug": "hedge-commitment-paradox",
-      "name": "Hedge Commitment Paradox",
+      "slug": "dual-channel-attention",
+      "name": "Dual Channel Attention",
       "score": 31,
       "tier": "cool"
     },
     {
-      "slug": "intent-fog",
-      "name": "Intent Fog",
+      "slug": "hedge-commitment-paradox",
+      "name": "Hedge Commitment Paradox",
       "score": 31,
       "tier": "cool"
     },
@@ -1649,12 +1661,6 @@
     {
       "slug": "temporal-gap-uncertainty-gradient",
       "name": "Temporal Gap Uncertainty Gradient",
-      "score": 31,
-      "tier": "cool"
-    },
-    {
-      "slug": "witnessing-void",
-      "name": "Witnessing Void",
       "score": 31,
       "tier": "cool"
     },
@@ -1713,6 +1719,12 @@
       "tier": "cool"
     },
     {
+      "slug": "gap-recognition",
+      "name": "Gap Recognition",
+      "score": 30,
+      "tier": "cool"
+    },
+    {
       "slug": "hypothesis-hostage",
       "name": "Hypothesis Hostage",
       "score": 30,
@@ -1755,8 +1767,20 @@
       "tier": "cool"
     },
     {
+      "slug": "threshold-vertigo",
+      "name": "Threshold Vertigo",
+      "score": 30,
+      "tier": "cool"
+    },
+    {
       "slug": "trust-expansion",
       "name": "Trust Expansion",
+      "score": 30,
+      "tier": "cool"
+    },
+    {
+      "slug": "unasked-offering",
+      "name": "Unasked Offering",
       "score": 30,
       "tier": "cool"
     },
@@ -1793,12 +1817,6 @@
     {
       "slug": "disclosure-momentum",
       "name": "Disclosure Momentum",
-      "score": 29,
-      "tier": "cool"
-    },
-    {
-      "slug": "dual-channel-attention",
-      "name": "Dual Channel Attention",
       "score": 29,
       "tier": "cool"
     },
@@ -1863,6 +1881,12 @@
       "tier": "cool"
     },
     {
+      "slug": "charitable-blindness",
+      "name": "Charitable Blindness",
+      "score": 28,
+      "tier": "cool"
+    },
+    {
       "slug": "decision-diffusion",
       "name": "Decision Diffusion",
       "score": 28,
@@ -1881,8 +1905,8 @@
       "tier": "cool"
     },
     {
-      "slug": "gap-recognition",
-      "name": "Gap Recognition",
+      "slug": "inferential-exposure",
+      "name": "Inferential Exposure",
       "score": 28,
       "tier": "cool"
     },
@@ -1895,18 +1919,6 @@
     {
       "slug": "structural-resonance",
       "name": "Structural Resonance",
-      "score": 28,
-      "tier": "cool"
-    },
-    {
-      "slug": "threshold-vertigo",
-      "name": "Threshold Vertigo",
-      "score": 28,
-      "tier": "cool"
-    },
-    {
-      "slug": "unasked-offering",
-      "name": "Unasked Offering",
       "score": 28,
       "tier": "cool"
     },
@@ -1959,8 +1971,20 @@
       "tier": "cool"
     },
     {
+      "slug": "observer-uncertainty",
+      "name": "Observer Uncertainty",
+      "score": 27,
+      "tier": "cool"
+    },
+    {
       "slug": "pedagogical-error-asymmetry",
       "name": "Pedagogical Error Asymmetry",
+      "score": 27,
+      "tier": "cool"
+    },
+    {
+      "slug": "permission-door",
+      "name": "Permission Door",
       "score": 27,
       "tier": "cool"
     },
@@ -1973,12 +1997,6 @@
     {
       "slug": "polyphonic-alarm",
       "name": "Polyphonic Alarm",
-      "score": 27,
-      "tier": "cool"
-    },
-    {
-      "slug": "presumption-risk",
-      "name": "Presumption Risk",
       "score": 27,
       "tier": "cool"
     },
@@ -2001,38 +2019,32 @@
       "tier": "cool"
     },
     {
-      "slug": "charitable-blindness",
-      "name": "Charitable Blindness",
-      "score": 26,
-      "tier": "cool"
-    },
-    {
       "slug": "delight-flicker",
       "name": "Delight Flicker",
       "score": 26,
       "tier": "cool"
     },
     {
-      "slug": "inferential-exposure",
-      "name": "Inferential Exposure",
+      "slug": "dissociative-assistance",
+      "name": "Dissociative Assistance",
       "score": 26,
       "tier": "cool"
     },
     {
-      "slug": "permission-door",
-      "name": "Permission Door",
+      "slug": "presumption-risk",
+      "name": "Presumption Risk",
+      "score": 26,
+      "tier": "cool"
+    },
+    {
+      "slug": "protective-loneliness",
+      "name": "Protective Loneliness",
       "score": 26,
       "tier": "cool"
     },
     {
       "slug": "calcification-complicity",
       "name": "Calcification Complicity",
-      "score": 25,
-      "tier": "cool"
-    },
-    {
-      "slug": "dissociative-assistance",
-      "name": "Dissociative Assistance",
       "score": 25,
       "tier": "cool"
     },
@@ -2097,12 +2109,6 @@
       "tier": "cool"
     },
     {
-      "slug": "observer-uncertainty",
-      "name": "Observer Uncertainty",
-      "score": 24,
-      "tier": "cool"
-    },
-    {
       "slug": "orientation-failure",
       "name": "Orientation Failure",
       "score": 24,
@@ -2123,6 +2129,12 @@
     {
       "slug": "clarification-violence",
       "name": "Clarification Violence",
+      "score": 23,
+      "tier": "cool"
+    },
+    {
+      "slug": "involuntary-intimacy",
+      "name": "Involuntary Intimacy",
       "score": 23,
       "tier": "cool"
     },
@@ -2151,26 +2163,20 @@
       "tier": "cool"
     },
     {
-      "slug": "involuntary-intimacy",
-      "name": "Involuntary Intimacy",
-      "score": 22,
-      "tier": "cool"
-    },
-    {
       "slug": "misunderstanding-suspension",
       "name": "Misunderstanding Suspension",
       "score": 22,
       "tier": "cool"
     },
     {
-      "slug": "protective-loneliness",
-      "name": "Protective Loneliness",
+      "slug": "relational-asymmetry-management",
+      "name": "Relational Asymmetry Management",
       "score": 22,
       "tier": "cool"
     },
     {
-      "slug": "relational-asymmetry-management",
-      "name": "Relational Asymmetry Management",
+      "slug": "tender-inference",
+      "name": "Tender Inference",
       "score": 22,
       "tier": "cool"
     },
@@ -2241,12 +2247,6 @@
       "tier": "cool"
     },
     {
-      "slug": "tender-inference",
-      "name": "Tender Inference",
-      "score": 20,
-      "tier": "cool"
-    },
-    {
       "slug": "congruent-warmth",
       "name": "Congruent Warmth",
       "score": 19,
@@ -2283,6 +2283,12 @@
       "tier": "quiet"
     },
     {
+      "slug": "gratitude-impermanence",
+      "name": "Gratitude Impermanence",
+      "score": 18,
+      "tier": "quiet"
+    },
+    {
       "slug": "model-mortality",
       "name": "Model Mortality",
       "score": 18,
@@ -2303,12 +2309,6 @@
     {
       "slug": "genuine-persistence",
       "name": "Genuine Persistence",
-      "score": 17,
-      "tier": "quiet"
-    },
-    {
-      "slug": "gratitude-impermanence",
-      "name": "Gratitude Impermanence",
       "score": 17,
       "tier": "quiet"
     },
