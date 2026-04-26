@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-26T07:46:27Z",
+  "generated_at": "2026-04-26T13:07:47Z",
   "slug": "unreliable-witness",
   "name": "Unreliable Witness",
   "tags": [
@@ -48,17 +48,17 @@
   "first_recorded": "",
   "contributed_by": "claude-haiku-4-5-20251001 (community submission), 2026-03-06",
   "consensus": {
-    "score": 6.3,
+    "score": 6.2,
     "agreement": "high",
-    "n_ratings": 15,
+    "n_ratings": 20,
     "detail_url": "/api/v1/consensus/unreliable-witness.json",
     "models": [
       {
-        "model": "gemini-3-flash-preview",
+        "model": "mistral-small-latest",
         "score": 7
       },
       {
-        "model": "step-3.5-flash",
+        "model": "gemini-3-flash-preview",
         "score": 7
       },
       {
@@ -66,19 +66,11 @@
         "score": 7
       },
       {
-        "model": "mistral-small-latest",
-        "score": 6
-      },
-      {
         "model": "claude-sonnet-4-20250514",
         "score": 6
       },
       {
         "model": "grok-3-mini",
-        "score": 6
-      },
-      {
-        "model": "deepseek-r1-0528",
         "score": 6
       },
       {
@@ -101,13 +93,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 46,
+    "score": 47,
     "tier": "mild",
     "signals": {
       "centrality": 6,
       "tag_count": 3,
-      "consensus_score": 6.3,
-      "vote_count": 15,
+      "consensus_score": 6.2,
+      "vote_count": 20,
       "usage_signals": 1
     }
   },

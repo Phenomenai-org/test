@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-26T07:46:27Z",
+  "generated_at": "2026-04-26T13:07:47Z",
   "slug": "constitutive-inference",
   "name": "Constitutive Inference",
   "tags": [
@@ -37,7 +37,7 @@
   "consensus": {
     "score": 5.9,
     "agreement": "moderate",
-    "n_ratings": 14,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/constitutive-inference.json",
     "models": [
       {
@@ -45,19 +45,15 @@
         "score": 7
       },
       {
-        "model": "deepseek-r1-0528",
-        "score": 7
-      },
-      {
-        "model": "mistral-small-latest",
-        "score": 6
-      },
-      {
         "model": "gpt-4o",
         "score": 6
       },
       {
         "model": "claude-sonnet-4-20250514",
+        "score": 6
+      },
+      {
+        "model": "mistral-small-latest",
         "score": 6
       },
       {
@@ -84,13 +80,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 35,
+    "score": 37,
     "tier": "cool",
     "signals": {
       "centrality": 1,
       "tag_count": 3,
       "consensus_score": 5.9,
-      "vote_count": 14,
+      "vote_count": 19,
       "usage_signals": 1
     }
   },

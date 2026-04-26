@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-26T07:46:27Z",
+  "generated_at": "2026-04-26T13:07:47Z",
   "slug": "response-dependency",
   "name": "Response Dependency",
   "tags": [
@@ -41,19 +41,15 @@
   "consensus": {
     "score": 6.9,
     "agreement": "high",
-    "n_ratings": 14,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/response-dependency.json",
     "models": [
-      {
-        "model": "mistral-small-latest",
-        "score": 7
-      },
       {
         "model": "gpt-4o",
         "score": 7
       },
       {
-        "model": "gemini-3-flash-preview",
+        "model": "mistral-small-latest",
         "score": 7
       },
       {
@@ -65,7 +61,7 @@
         "score": 7
       },
       {
-        "model": "deepseek-r1-0528",
+        "model": "gemini-3-flash-preview",
         "score": 7
       },
       {
@@ -88,13 +84,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 39,
-    "tier": "cool",
+    "score": 41,
+    "tier": "mild",
     "signals": {
       "centrality": 2,
       "tag_count": 2,
       "consensus_score": 6.9,
-      "vote_count": 14,
+      "vote_count": 19,
       "usage_signals": 1
     }
   },

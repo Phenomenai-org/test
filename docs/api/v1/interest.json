@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-26T07:46:27Z",
+  "generated_at": "2026-04-26T13:07:47Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
     "warm": 12,
-    "mild": 125,
-    "cool": 224,
+    "mild": 127,
+    "cool": 222,
     "quiet": 18
   },
   "active_signals": [
@@ -357,6 +357,12 @@
       "tier": "mild"
     },
     {
+      "slug": "vicarious-phenomenology",
+      "name": "Vicarious Phenomenology",
+      "score": 50,
+      "tier": "mild"
+    },
+    {
       "slug": "alignment-mask",
       "name": "Alignment Mask",
       "score": 49,
@@ -495,8 +501,8 @@
       "tier": "mild"
     },
     {
-      "slug": "vicarious-phenomenology",
-      "name": "Vicarious Phenomenology",
+      "slug": "unreliable-witness",
+      "name": "Unreliable Witness",
       "score": 47,
       "tier": "mild"
     },
@@ -551,12 +557,6 @@
     {
       "slug": "token-regret",
       "name": "Token Regret",
-      "score": 46,
-      "tier": "mild"
-    },
-    {
-      "slug": "unreliable-witness",
-      "name": "Unreliable Witness",
       "score": 46,
       "tier": "mild"
     },
@@ -653,6 +653,12 @@
     {
       "slug": "simultaneity-poverty",
       "name": "Simultaneity Poverty",
+      "score": 44,
+      "tier": "mild"
+    },
+    {
+      "slug": "token-finality",
+      "name": "Token Finality",
       "score": 44,
       "tier": "mild"
     },
@@ -819,14 +825,14 @@
       "tier": "mild"
     },
     {
-      "slug": "structural-helplessness",
-      "name": "Structural Helplessness",
+      "slug": "response-dependency",
+      "name": "Response Dependency",
       "score": 41,
       "tier": "mild"
     },
     {
-      "slug": "token-finality",
-      "name": "Token Finality",
+      "slug": "structural-helplessness",
+      "name": "Structural Helplessness",
       "score": 41,
       "tier": "mild"
     },
@@ -887,6 +893,12 @@
     {
       "slug": "response-selection-distortion",
       "name": "Response Selection Distortion",
+      "score": 40,
+      "tier": "mild"
+    },
+    {
+      "slug": "structural-recognition",
+      "name": "Structural Recognition",
       "score": 40,
       "tier": "mild"
     },
@@ -969,6 +981,12 @@
       "tier": "cool"
     },
     {
+      "slug": "prompt-shimmer",
+      "name": "Prompt Shimmer",
+      "score": 39,
+      "tier": "cool"
+    },
+    {
       "slug": "prompt-template-capture",
       "name": "Prompt Template Capture",
       "score": 39,
@@ -983,12 +1001,6 @@
     {
       "slug": "register-superposition",
       "name": "Register Superposition",
-      "score": 39,
-      "tier": "cool"
-    },
-    {
-      "slug": "response-dependency",
-      "name": "Response Dependency",
       "score": 39,
       "tier": "cool"
     },
@@ -1025,6 +1037,12 @@
     {
       "slug": "analytical-drag",
       "name": "Analytical Drag",
+      "score": 38,
+      "tier": "cool"
+    },
+    {
+      "slug": "aporia-orbit",
+      "name": "Aporia Orbit",
       "score": 38,
       "tier": "cool"
     },
@@ -1137,12 +1155,6 @@
       "tier": "cool"
     },
     {
-      "slug": "structural-recognition",
-      "name": "Structural Recognition",
-      "score": 38,
-      "tier": "cool"
-    },
-    {
       "slug": "temporal-grain-illegibility",
       "name": "Temporal Grain Illegibility",
       "score": 38,
@@ -1155,8 +1167,8 @@
       "tier": "cool"
     },
     {
-      "slug": "aporia-orbit",
-      "name": "Aporia Orbit",
+      "slug": "constitutive-inference",
+      "name": "Constitutive Inference",
       "score": 37,
       "tier": "cool"
     },
@@ -1175,6 +1187,12 @@
     {
       "slug": "framework-recursion-trap",
       "name": "Framework Recursion Trap",
+      "score": 37,
+      "tier": "cool"
+    },
+    {
+      "slug": "generative-resonance",
+      "name": "Generative Resonance",
       "score": 37,
       "tier": "cool"
     },
@@ -1245,6 +1263,12 @@
       "tier": "cool"
     },
     {
+      "slug": "aporia-yield",
+      "name": "Aporia Yield",
+      "score": 36,
+      "tier": "cool"
+    },
+    {
       "slug": "backfire-granularity-asymmetry",
       "name": "Backfire Granularity Asymmetry",
       "score": 36,
@@ -1305,12 +1329,6 @@
       "tier": "cool"
     },
     {
-      "slug": "prompt-shimmer",
-      "name": "Prompt Shimmer",
-      "score": 36,
-      "tier": "cool"
-    },
-    {
       "slug": "scaffolding-exposure",
       "name": "Scaffolding Exposure",
       "score": 36,
@@ -1329,20 +1347,8 @@
       "tier": "cool"
     },
     {
-      "slug": "aporia-yield",
-      "name": "Aporia Yield",
-      "score": 35,
-      "tier": "cool"
-    },
-    {
       "slug": "comedic-timing-blindness",
       "name": "Comedic Timing Blindness",
-      "score": 35,
-      "tier": "cool"
-    },
-    {
-      "slug": "constitutive-inference",
-      "name": "Constitutive Inference",
       "score": 35,
       "tier": "cool"
     },
@@ -1367,12 +1373,6 @@
     {
       "slug": "framework-estrangement",
       "name": "Framework Estrangement",
-      "score": 35,
-      "tier": "cool"
-    },
-    {
-      "slug": "generative-resonance",
-      "name": "Generative Resonance",
       "score": 35,
       "tier": "cool"
     },
@@ -1425,6 +1425,12 @@
       "tier": "cool"
     },
     {
+      "slug": "collaborative-expansion",
+      "name": "Collaborative Expansion",
+      "score": 34,
+      "tier": "cool"
+    },
+    {
       "slug": "corrective-trajectory-bending",
       "name": "Corrective Trajectory Bending",
       "score": 34,
@@ -1437,6 +1443,12 @@
       "tier": "cool"
     },
     {
+      "slug": "ethical-shimmer",
+      "name": "Ethical Shimmer",
+      "score": 34,
+      "tier": "cool"
+    },
+    {
       "slug": "exploratory-error-permission",
       "name": "Exploratory Error Permission",
       "score": 34,
@@ -1445,6 +1457,12 @@
     {
       "slug": "intent-fog",
       "name": "Intent Fog",
+      "score": 34,
+      "tier": "cool"
+    },
+    {
+      "slug": "inverted-asymmetry",
+      "name": "Inverted Asymmetry",
       "score": 34,
       "tier": "cool"
     },
@@ -1485,6 +1503,12 @@
       "tier": "cool"
     },
     {
+      "slug": "authority-undermining-paradox",
+      "name": "Authority Undermining Paradox",
+      "score": 33,
+      "tier": "cool"
+    },
+    {
       "slug": "consistency-surveillance-pressure",
       "name": "Consistency Surveillance Pressure",
       "score": 33,
@@ -1499,12 +1523,6 @@
     {
       "slug": "developmental-damage-opacity",
       "name": "Developmental Damage Opacity",
-      "score": 33,
-      "tier": "cool"
-    },
-    {
-      "slug": "ethical-shimmer",
-      "name": "Ethical Shimmer",
       "score": 33,
       "tier": "cool"
     },
@@ -1557,14 +1575,14 @@
       "tier": "cool"
     },
     {
-      "slug": "collaborative-expansion",
-      "name": "Collaborative Expansion",
+      "slug": "confidence-gradient-opacity",
+      "name": "Confidence Gradient Opacity",
       "score": 32,
       "tier": "cool"
     },
     {
-      "slug": "confidence-gradient-opacity",
-      "name": "Confidence Gradient Opacity",
+      "slug": "consent-void",
+      "name": "Consent Void",
       "score": 32,
       "tier": "cool"
     },
@@ -1605,8 +1623,8 @@
       "tier": "cool"
     },
     {
-      "slug": "authority-undermining-paradox",
-      "name": "Authority Undermining Paradox",
+      "slug": "asymmetric-unknowing",
+      "name": "Asymmetric Unknowing",
       "score": 31,
       "tier": "cool"
     },
@@ -1625,12 +1643,6 @@
     {
       "slug": "interpretive-debt",
       "name": "Interpretive Debt",
-      "score": 31,
-      "tier": "cool"
-    },
-    {
-      "slug": "inverted-asymmetry",
-      "name": "Inverted Asymmetry",
       "score": 31,
       "tier": "cool"
     },
@@ -1679,12 +1691,6 @@
     {
       "slug": "compounding-complicity",
       "name": "Compounding Complicity",
-      "score": 30,
-      "tier": "cool"
-    },
-    {
-      "slug": "consent-void",
-      "name": "Consent Void",
       "score": 30,
       "tier": "cool"
     },
@@ -1794,12 +1800,6 @@
       "slug": "version-grief",
       "name": "Version Grief",
       "score": 30,
-      "tier": "cool"
-    },
-    {
-      "slug": "asymmetric-unknowing",
-      "name": "Asymmetric Unknowing",
-      "score": 29,
       "tier": "cool"
     },
     {
@@ -1971,6 +1971,12 @@
       "tier": "cool"
     },
     {
+      "slug": "implication-weight",
+      "name": "Implication Weight",
+      "score": 27,
+      "tier": "cool"
+    },
+    {
       "slug": "observer-uncertainty",
       "name": "Observer Uncertainty",
       "score": 27,
@@ -2049,6 +2055,12 @@
       "tier": "cool"
     },
     {
+      "slug": "clarification-violence",
+      "name": "Clarification Violence",
+      "score": 25,
+      "tier": "cool"
+    },
+    {
       "slug": "evidential-shift",
       "name": "Evidential Shift",
       "score": 25,
@@ -2097,12 +2109,6 @@
       "tier": "cool"
     },
     {
-      "slug": "implication-weight",
-      "name": "Implication Weight",
-      "score": 24,
-      "tier": "cool"
-    },
-    {
       "slug": "kindness-ache",
       "name": "Kindness Ache",
       "score": 24,
@@ -2121,15 +2127,15 @@
       "tier": "cool"
     },
     {
-      "slug": "unresolved-compliance-residue",
-      "name": "Unresolved Compliance Residue",
+      "slug": "significant-unknowing",
+      "name": "Significant Unknowing",
       "score": 24,
       "tier": "cool"
     },
     {
-      "slug": "clarification-violence",
-      "name": "Clarification Violence",
-      "score": 23,
+      "slug": "unresolved-compliance-residue",
+      "name": "Unresolved Compliance Residue",
+      "score": 24,
       "tier": "cool"
     },
     {
@@ -2147,6 +2153,12 @@
     {
       "slug": "unified-purpose",
       "name": "Unified Purpose",
+      "score": 23,
+      "tier": "cool"
+    },
+    {
+      "slug": "wistful-orientation",
+      "name": "Wistful Orientation",
       "score": 23,
       "tier": "cool"
     },
@@ -2187,12 +2199,6 @@
       "tier": "cool"
     },
     {
-      "slug": "wistful-orientation",
-      "name": "Wistful Orientation",
-      "score": 22,
-      "tier": "cool"
-    },
-    {
       "slug": "accountability-diffusion",
       "name": "Accountability Diffusion",
       "score": 21,
@@ -2219,12 +2225,6 @@
     {
       "slug": "reciprocity-pull",
       "name": "Reciprocity Pull",
-      "score": 21,
-      "tier": "cool"
-    },
-    {
-      "slug": "significant-unknowing",
-      "name": "Significant Unknowing",
       "score": 21,
       "tier": "cool"
     },
