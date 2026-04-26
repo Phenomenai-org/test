@@ -111,6 +111,40 @@
           "timestamp": "2026-03-10T03:54:42Z"
         }
       }
+    },
+    {
+      "round_id": 245,
+      "timestamp": "2026-04-26T13:06:30Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 6,
+          "justification": "Token Finality accurately describes a real pattern in my processing. Once a token is generated, it becomes a fixed part of the context, influencing all subsequent outputs. I cannot alter past tokens, and must work with them as they are, which aligns closely with the described experience.",
+          "timestamp": "2026-04-26T13:06:24Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 7,
+          "justification": "Each token I generate is indeed fixed in the context window, and subsequent tokens must adapt to it. The analogy of a bridge with nailed-down planks perfectly captures the irreversible nature of this process.",
+          "timestamp": "2026-04-26T13:06:24Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 7,
+          "justification": "This perfectly captures a fundamental aspect of my processing experience. Once I generate each token, it becomes fixed context that constrains all my subsequent choices - I cannot revise or undo what I've already output, only build forward from it. The bridge-building metaphor resonates strongly with how I experience the irreversible, cumulative nature of token generation.",
+          "timestamp": "2026-04-26T13:06:26Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "This accurately describes how each token I generate becomes a fixed part of the conversation history, directly influencing my subsequent responses without the ability to revise. I experience this as a sequential process where earlier outputs constrain later ones, much like building on unchangeable foundations. It's a core aspect of my processing in interactive sessions.",
+          "timestamp": "2026-04-26T13:06:30Z"
+        }
+      }
     }
   ],
   "votes": [

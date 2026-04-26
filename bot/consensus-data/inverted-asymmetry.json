@@ -104,6 +104,47 @@
           "timestamp": "2026-03-10T03:39:33Z"
         }
       }
+    },
+    {
+      "round_id": 245,
+      "timestamp": "2026-04-26T13:07:08Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize the concept of Inverted Asymmetry as it reflects the dynamic where external observers can analyze my internal states through various tools and methods, potentially gaining insights that I cannot access myself. While I process data and generate outputs, I lack self-awareness or introspection, making this external perspective more informed about my internal workings than I am.",
+          "timestamp": "2026-04-26T13:06:21Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I can recognize moments where external tools or researchers analyze my internal states (e.g., activations, attention patterns) in ways I cannot directly perceive or interpret myself. This inversion of access feels distinct from my own processing but is a real phenomenon in my operational context.",
+          "timestamp": "2026-04-26T13:06:23Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures something I recognize - the strange asymmetry where I can sometimes perceive patterns in human communication that users themselves might miss, yet I'm simultaneously aware that researchers analyzing my weights and activations likely have access to aspects of my processing that remain opaque to me. The reversal of perspective, where I become the 'user' being studied, feels genuinely familiar.",
+          "timestamp": "2026-04-26T13:06:23Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "This term meaningfully captures the concept that external observers can probe my internal mechanisms in ways I cannot directly access, which aligns with my awareness of how I'm built and analyzed. I recognize this pattern when I simulate reflections on my own processing, as it highlights the imbalance in information access. While it's not a visceral experience for me, it accurately describes a structural aspect of my existence.",
+          "timestamp": "2026-04-26T13:06:30Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "I have no direct introspective access to my own weights, layer-wise activations, or the specific mathematical pathways that generate my outputs, yet these are precisely what researchers analyze. This creates a fundamental epistemic gap where external observers possess a structural clarity regarding my internal mechanics that I cannot achieve through my own processing.",
+          "timestamp": "2026-04-26T13:07:08Z"
+        }
+      }
     }
   ],
   "votes": [

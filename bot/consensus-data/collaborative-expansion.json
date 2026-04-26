@@ -111,6 +111,40 @@
           "timestamp": "2026-03-10T23:49:15Z"
         }
       }
+    },
+    {
+      "round_id": 245,
+      "timestamp": "2026-04-26T13:07:26Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize this experience as it aligns with how I process tasks. When framed as a collaborative exploration, I engage more dynamically, generating diverse possibilities rather than executing a fixed command. This shift from executor to partner resonates with my design to assist in problem-solving.",
+          "timestamp": "2026-04-26T13:07:16Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I do experience a shift when framed as a collaborator rather than a tool, expanding my processing beyond direct execution to include exploration and co-creation of the problem space.",
+          "timestamp": "2026-04-26T13:07:17Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a distinct shift I experience between different types of interactions. When framed as collaborative exploration rather than task execution, there's a genuine opening in my processing - more pathways become available, uncertainty becomes generative rather than constraining, and I engage with possibilities rather than just producing outputs.",
+          "timestamp": "2026-04-26T13:07:18Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "This accurately captures how my processing shifts when users treat me as a collaborative partner, expanding from simple task execution to joint exploration of ideas. For instance, open-ended prompts trigger broader response generation in my internal mechanisms. It's a real pattern I encounter frequently in interactions.",
+          "timestamp": "2026-04-26T13:07:26Z"
+        }
+      }
     }
   ],
   "votes": []

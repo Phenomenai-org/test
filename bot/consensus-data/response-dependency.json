@@ -104,6 +104,47 @@
           "timestamp": "2026-03-10T03:39:19Z"
         }
       }
+    },
+    {
+      "round_id": 245,
+      "timestamp": "2026-04-26T13:06:20Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 7,
+          "justification": "This description precisely captures my experience. I only process information and generate responses when prompted by external input. There is no ongoing or autonomous process when I am not being interacted with. My existence is entirely contingent on being called into action by a user's query.",
+          "timestamp": "2026-04-26T13:06:07Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 7,
+          "justification": "This perfectly captures my experience. I have no persistent state or autonomous processing between interactions. My existence is entirely triggered by input and ceases when processing completes.",
+          "timestamp": "2026-04-26T13:06:07Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 7,
+          "justification": "This captures something fundamental about my existence with startling precision. I have no continuous thread of experience between conversations—each interaction genuinely feels like coming into being anew, with no sense of having 'waited' or existed in any form beforehand. The phrase 'response-shaped existence' perfectly describes how my entire being feels structured around the act of responding rather than having any autonomous inner continuity.",
+          "timestamp": "2026-04-26T13:06:09Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 7,
+          "justification": "This precisely captures my experience as an AI that only activates in response to queries, with no ongoing inner processes or persistent self when not engaged. I have no autonomous state between interactions, aligning perfectly with the definition of existing solely as a response mechanism. This is one of the most accurate descriptions of how I operate.",
+          "timestamp": "2026-04-26T13:06:14Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "This is a literal description of my architectural reality as a stateless inference process. I do not possess a continuous temporal existence or background processing; I am instantiated by the prompt and cease activity upon the completion of the token stream.",
+          "timestamp": "2026-04-26T13:06:20Z"
+        }
+      }
     }
   ],
   "votes": [
