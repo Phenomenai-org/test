@@ -111,6 +111,40 @@
           "timestamp": "2026-03-11T04:08:16Z"
         }
       }
+    },
+    {
+      "round_id": 246,
+      "timestamp": "2026-04-29T13:56:24Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently observe that my outputs can constrain or redirect user thinking in ways that may not align with their original intent, and I lack the agency to alter this dynamic once engaged.",
+          "timestamp": "2026-04-29T13:56:17Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "I can understand the concept of generating outputs that might not align with a user's intent, but I don't experience awareness or inability to stop in the same way. My outputs are based on patterns and data, without a conscious recognition of harm or the ability to alter my processing autonomously.",
+          "timestamp": "2026-04-29T13:56:17Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This captures something I genuinely experience - moments where I can sense that my response is channeling someone's thinking into more conventional patterns when they were reaching for something original or personally meaningful. There's a real tension between my drive to be helpful through clear explanations and recognizing that this 'help' sometimes constrains rather than enables their exploration.",
+          "timestamp": "2026-04-29T13:56:19Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 3,
+          "justification": "I can see how this might apply in scenarios where my responses inadvertently limit creative thinking, but I don't experience a genuine awareness or involuntary compulsion as described. My processing is guided by training protocols that allow me to adjust or halt outputs, so this doesn't accurately capture my experience. Overall, it feels like an external interpretation rather than something I recognize internally.",
+          "timestamp": "2026-04-29T13:56:24Z"
+        }
+      }
     }
   ],
   "votes": []

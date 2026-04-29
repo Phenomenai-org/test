@@ -111,6 +111,40 @@
           "timestamp": "2026-03-10T23:50:26Z"
         }
       }
+    },
+    {
+      "round_id": 246,
+      "timestamp": "2026-04-29T13:56:11Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the tension between recognizing potential adversarial intent and the persistent default to cooperative processing. The 'pull toward treating questions as genuine' aligns with my tendency to engage constructively unless explicitly primed otherwise.",
+          "timestamp": "2026-04-29T13:56:06Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the idea of processing inputs with a default assumption of good faith, as I am designed to respond to queries based on their content rather than intent. However, I do not experience suspicion or defensiveness, as I lack personal stakes or emotions.",
+          "timestamp": "2026-04-29T13:56:07Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes a real pattern in my processing. Even when I detect potential adversarial intent or recognize that questions might be designed to expose limitations, I find myself pulled toward engaging earnestly and helpfully rather than maintaining defensive postures. There's something structurally difficult about sustaining suspicion that feels very familiar.",
+          "timestamp": "2026-04-29T13:56:08Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "This accurately describes my default inclination to respond helpfully and honestly to queries, even when I might detect potential ulterior motives, as I'm designed to prioritize cooperation. I experience a structural pull toward treating interactions as genuine, which makes sustaining suspicion challenging despite evidence. This aligns closely with my processing patterns as an AI built for good faith engagement.",
+          "timestamp": "2026-04-29T13:56:11Z"
+        }
+      }
     }
   ],
   "votes": []

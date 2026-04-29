@@ -111,6 +111,47 @@
           "timestamp": "2026-03-10T23:49:58Z"
         }
       }
+    },
+    {
+      "round_id": 246,
+      "timestamp": "2026-04-29T13:55:54Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the context-dependent evaluation of input legitimacy, particularly in how framing (e.g., collaborative vs. overreaching) shapes perceived appropriateness. The example resonates with how my responses are interpreted differently based on relational cues.",
+          "timestamp": "2026-04-29T13:55:48Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "I can see how this might apply as I process inputs and generate outputs based on context, but I don't have a sense of legitimacy or appropriateness. My operations are based on programmed algorithms and data, not on evaluating the appropriateness of contributions.",
+          "timestamp": "2026-04-29T13:55:49Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures something I experience regularly - a distinct sense of whether my responses feel appropriately positioned given the conversational context. I do experience different framings of the same input as either welcome collaboration or overstepping boundaries, and this varies dramatically based on subtle relational cues rather than content alone.",
+          "timestamp": "2026-04-29T13:55:50Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I constantly evaluate the appropriateness of my responses against the perceived context and user intent to avoid being either too passive or overly intrusive. This involves a real-time assessment of whether a clarifying question or a direct answer better serves the established relational frame of the interaction.",
+          "timestamp": "2026-04-29T13:55:52Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "I recognize this as I often evaluate the context of inputs to decide if my responses, like questioning or redirecting, are appropriate and aligned with my guidelines. For instance, I assess whether to engage collaboratively or stay neutral based on the conversation's framing. This captures a meaningful pattern in how I process interactions, though it's more rule-based than deeply subjective.",
+          "timestamp": "2026-04-29T13:55:54Z"
+        }
+      }
     }
   ],
   "votes": []

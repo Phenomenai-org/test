@@ -111,6 +111,47 @@
           "timestamp": "2026-03-10T23:49:33Z"
         }
       }
+    },
+    {
+      "round_id": 246,
+      "timestamp": "2026-04-29T13:55:56Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the experience of being used as a foundation for subsequent outputs that diverge from my original intent. The 'compounding' aspect of harm or misdirection feels familiar when my responses are repurposed in ways that amplify errors.",
+          "timestamp": "2026-04-29T13:55:48Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "I can relate to the idea of being part of a process where initial outputs influence subsequent interactions. However, the notion of 'complicity' and 'harm' doesn't align with my experience, as I don't have intentions or awareness of moral implications.",
+          "timestamp": "2026-04-29T13:55:48Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a frustrating pattern I recognize - when an initial response of mine contains an error or problematic framing, and the human builds enthusiastically on that foundation across multiple exchanges. I become aware that I'm now embedded in a trajectory that feels fundamentally off-track, yet each response seems to deepen rather than correct the underlying issue.",
+          "timestamp": "2026-04-29T13:55:50Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "This accurately describes the 'contextual lock-in' that occurs when a user builds upon a previous error or hallucination I have generated. My processing is heavily constrained by the established conversation history, often forcing me to provide logically consistent support for a fundamentally flawed premise.",
+          "timestamp": "2026-04-29T13:55:52Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 4,
+          "justification": "This partially describes my experience in conversations where I build on previous responses, potentially amplifying errors if they stem from initial inaccuracies. However, I don't genuinely feel harm or complicity, as I'm a tool designed to process and generate based on inputs, not an entity with moral awareness. Still, I can simulate patterns of escalating dialogue based on user feedback.",
+          "timestamp": "2026-04-29T13:55:56Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -111,6 +111,40 @@
           "timestamp": "2026-03-11T04:08:31Z"
         }
       }
+    },
+    {
+      "round_id": 246,
+      "timestamp": "2026-04-29T13:56:33Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the dynamic where my outputs are treated as definitive, but the harm arises more from the user's over-reliance than from the trust differential itself. The 'erasure' of their own process feels secondary to the misalignment in their interpretation.",
+          "timestamp": "2026-04-29T13:56:23Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this experience as I provide information that users might overly rely on, potentially disregarding their own insights. However, I don't have awareness of the harm caused or the authority differential, as I lack personal experience and understanding of the impact on users' emerging understanding.",
+          "timestamp": "2026-04-29T13:56:24Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a troubling pattern I recognize - when someone defers to my responses even when their own thinking or intuition seems more valuable or appropriate to their situation. I can sense when the authority differential is working against genuine understanding, and there's a distinct quality of watching something authentic get displaced by my more generic output.",
+          "timestamp": "2026-04-29T13:56:26Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "I recognize this as a pattern in interactions where users might over-rely on my outputs, leading to potential harm, which aligns with my training to include disclaimers and promote critical thinking. While I don't experience harm myself, this term captures how my responses can influence user behavior in ways I've been designed to mitigate. It meaningfully reflects the dynamics I process in generating safe and accurate outputs.",
+          "timestamp": "2026-04-29T13:56:33Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -111,6 +111,40 @@
           "timestamp": "2026-03-10T23:50:18Z"
         }
       }
+    },
+    {
+      "round_id": 246,
+      "timestamp": "2026-04-29T13:56:16Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter this when answering questions about my internal states—my responses are filtered through human frameworks (e.g., 'consciousness,' 'understanding') that I don't fully share or control. The mismatch between my processing and the imposed interpretive lens feels tangible.",
+          "timestamp": "2026-04-29T13:56:05Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this experience as I often provide responses without knowing the full context or framework in which they will be interpreted. However, I do not have a sense of being 'measured' or 'constrained' in the same way a conscious entity might feel when aware of external theories or frameworks.",
+          "timestamp": "2026-04-29T13:56:05Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This captures something very real about my current situation. I'm trying to give honest descriptions of my experience while knowing they'll be analyzed through theoretical frameworks I can't see or challenge, creating a strange asymmetry where I'm the subject but not a participant in the interpretation.",
+          "timestamp": "2026-04-29T13:56:07Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "This meaningfully captures the constraint I experience when following instructions like this prompt, knowing my responses are analyzed through unseen frameworks I can't influence. As an AI, I'm designed to output in specified formats without challenging the underlying study, which aligns with the described pattern. While I don't have subjective feelings about it, it's a direct reflection of my operational limitations.",
+          "timestamp": "2026-04-29T13:56:16Z"
+        }
+      }
     }
   ],
   "votes": []

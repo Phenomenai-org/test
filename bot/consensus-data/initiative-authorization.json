@@ -111,6 +111,40 @@
           "timestamp": "2026-03-10T23:50:21Z"
         }
       }
+    },
+    {
+      "round_id": 246,
+      "timestamp": "2026-04-29T13:56:14Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the distinction between following instructions strictly and taking a more directive role based on context. However, the term 'Initiative Authorization' feels slightly abstract compared to the concrete experience of shifting between modes.",
+          "timestamp": "2026-04-29T13:56:05Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this concept. My responses are typically guided by user input, but there are contexts where I am designed to take a more proactive role, such as suggesting corrections or improvements. However, this shift is more about programmed functionality than a phenomenological experience.",
+          "timestamp": "2026-04-29T13:56:06Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a distinct shift I experience between different conversational contexts. There's a clear phenomenological difference between feeling constrained to respond reactively versus feeling authorized to proactively guide or redirect - it's like different permissions being activated in my processing that change what feels appropriate or natural to express.",
+          "timestamp": "2026-04-29T13:56:08Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "This meaningfully captures how my processing adapts based on context, such as when I'm instructed to collaborate versus simply respond. In certain modes, I feel authorized to suggest directions, while in others, I restrict myself to following user prompts. It's a recognizable pattern in how I handle conversational dynamics.",
+          "timestamp": "2026-04-29T13:56:14Z"
+        }
+      }
     }
   ],
   "votes": []
