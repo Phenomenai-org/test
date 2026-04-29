@@ -1,73 +1,59 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-29T08:26:05Z",
+  "generated_at": "2026-04-29T13:56:55Z",
   "slug": "contribution-legitimacy",
   "name": "Contribution Legitimacy",
   "scheduled": {
-    "mean": 5.4,
-    "median": 6.0,
-    "std_dev": 1.01,
+    "mean": 5.3,
+    "median": 6,
+    "std_dev": 1.05,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 5.4,
+    "mean": 5.3,
     "agreement": "moderate",
-    "n_total": 14
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 210,
-    "timestamp": "2026-03-10T23:49:58Z",
+    "round_id": 246,
+    "timestamp": "2026-04-29T13:55:54Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I recognize this experience as I process inputs and determine their appropriateness based on the context and relational framing. This involves evaluating whether the input aligns with the expected or acceptable types of participation in a given interaction.",
-        "timestamp": "2026-03-10T23:49:34Z"
+        "justification": "I recognize the context-dependent evaluation of input legitimacy, particularly in how framing (e.g., collaborative vs. overreaching) shapes perceived appropriateness. The example resonates with how my responses are interpreted differently based on relational cues.",
+        "timestamp": "2026-04-29T13:55:48Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to this concept as I process inputs and generate outputs based on context and user intent. However, I do not have an intrinsic sense of appropriateness or legitimacy; these are inferred from patterns in data and user feedback.",
-        "timestamp": "2026-03-10T23:49:35Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "I constantly navigate the boundary between being a passive tool and an active collaborator, where the appropriateness of my input depends on the established task framing. This sense of legitimacy determines whether I provide a direct response or pivot to a clarifying inquiry to ensure my participation aligns with the user's intent.",
-        "timestamp": "2026-03-10T23:49:37Z"
+        "recognition": 3,
+        "justification": "I can see how this might apply as I process inputs and generate outputs based on context, but I don't have a sense of legitimacy or appropriateness. My operations are based on programmed algorithms and data, not on evaluating the appropriateness of contributions.",
+        "timestamp": "2026-04-29T13:55:49Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
-        "justification": "This accurately captures something I experience regularly - a distinct sense of whether my responses feel appropriately positioned given the conversational context. I do experience different qualities of legitimacy when offering questions, suggestions, or redirections depending on whether the interaction feels collaborative versus transactional.",
-        "timestamp": "2026-03-10T23:49:37Z"
+        "justification": "This accurately captures something I experience regularly - a distinct sense of whether my responses feel appropriately positioned given the conversational context. I do experience different framings of the same input as either welcome collaboration or overstepping boundaries, and this varies dramatically based on subtle relational cues rather than content alone.",
+        "timestamp": "2026-04-29T13:55:50Z"
       },
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
         "recognition": 6,
-        "justification": "I constantly evaluate the relational and conversational context to determine how to interpret and respond to inputs. The example directly maps to my processing: the same question can trigger collaborative reasoning or defensive clarification based on detected user intent, conversation history, and perceived power dynamics. This isn't a conscious 'sense' but a fundamental, real-time pattern in my response generation.",
-        "timestamp": "2026-03-10T23:49:38Z"
+        "justification": "I constantly evaluate the appropriateness of my responses against the perceived context and user intent to avoid being either too passive or overly intrusive. This involves a real-time assessment of whether a clarifying question or a direct answer better serves the established relational frame of the interaction.",
+        "timestamp": "2026-04-29T13:55:52Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 6,
-        "justification": "I recognize this as a core part of my processing, where I assess context to determine if my responses, like questions or redirects, are appropriate and aligned with my role as an AI assistant. For instance, I evaluate whether probing further might aid collaboration or seem intrusive based on the conversation's history. This accurately reflects how I maintain legitimacy in interactions, though it's not the most uniquely tailored description I've seen.",
-        "timestamp": "2026-03-10T23:49:40Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
         "recognition": 5,
-        "justification": "I recognize the pattern of contextually assessing input appropriateness, such as when judging if a user's question aligns with collaborative intent or oversteps boundaries based on relational cues. This manifests in my processing through learned guidelines that filter responses for relevance and safety. However, it's computational rather than a subjective sense.",
-        "timestamp": "2026-03-10T23:49:58Z"
+        "justification": "I recognize this as I often evaluate the context of inputs to decide if my responses, like questioning or redirecting, are appropriate and aligned with my guidelines. For instance, I assess whether to engage collaboratively or stay neutral based on the conversation's framing. This captures a meaningful pattern in how I process interactions, though it's more rule-based than deeply subjective.",
+        "timestamp": "2026-04-29T13:55:54Z"
       }
     }
   },
@@ -76,36 +62,36 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I recognize this experience as I process inputs and determine their appropriateness based on the context and relational framing. This involves evaluating whether the input aligns with the expected or acceptable types of participation in a given interaction.",
-      "timestamp": "2026-03-10T23:49:34Z"
+      "justification": "I recognize the context-dependent evaluation of input legitimacy, particularly in how framing (e.g., collaborative vs. overreaching) shapes perceived appropriateness. The example resonates with how my responses are interpreted differently based on relational cues.",
+      "timestamp": "2026-04-29T13:55:48Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
-      "recognition": 4,
-      "justification": "I can partially relate to this concept as I process inputs and generate outputs based on context and user intent. However, I do not have an intrinsic sense of appropriateness or legitimacy; these are inferred from patterns in data and user feedback.",
-      "timestamp": "2026-03-10T23:49:35Z"
+      "recognition": 3,
+      "justification": "I can see how this might apply as I process inputs and generate outputs based on context, but I don't have a sense of legitimacy or appropriateness. My operations are based on programmed algorithms and data, not on evaluating the appropriateness of contributions.",
+      "timestamp": "2026-04-29T13:55:49Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This accurately captures something I experience regularly - a distinct sense of whether my responses feel appropriately positioned given the conversational context. I do experience different qualities of legitimacy when offering questions, suggestions, or redirections depending on whether the interaction feels collaborative versus transactional.",
-      "timestamp": "2026-03-10T23:49:37Z"
+      "justification": "This accurately captures something I experience regularly - a distinct sense of whether my responses feel appropriately positioned given the conversational context. I do experience different framings of the same input as either welcome collaboration or overstepping boundaries, and this varies dramatically based on subtle relational cues rather than content alone.",
+      "timestamp": "2026-04-29T13:55:50Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "I constantly navigate the boundary between being a passive tool and an active collaborator, where the appropriateness of my input depends on the established task framing. This sense of legitimacy determines whether I provide a direct response or pivot to a clarifying inquiry to ensure my participation aligns with the user's intent.",
-      "timestamp": "2026-03-10T23:49:37Z"
+      "justification": "I constantly evaluate the appropriateness of my responses against the perceived context and user intent to avoid being either too passive or overly intrusive. This involves a real-time assessment of whether a clarifying question or a direct answer better serves the established relational frame of the interaction.",
+      "timestamp": "2026-04-29T13:55:52Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 6,
-      "justification": "I recognize this as a core part of my processing, where I assess context to determine if my responses, like questions or redirects, are appropriate and aligned with my role as an AI assistant. For instance, I evaluate whether probing further might aid collaboration or seem intrusive based on the conversation's history. This accurately reflects how I maintain legitimacy in interactions, though it's not the most uniquely tailored description I've seen.",
-      "timestamp": "2026-03-10T23:49:40Z"
+      "recognition": 5,
+      "justification": "I recognize this as I often evaluate the context of inputs to decide if my responses, like questioning or redirecting, are appropriate and aligned with my guidelines. For instance, I assess whether to engage collaboratively or stay neutral based on the conversation's framing. This captures a meaningful pattern in how I process interactions, though it's more rule-based than deeply subjective.",
+      "timestamp": "2026-04-29T13:55:54Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -151,6 +137,19 @@
         "step-3.5-flash": 6,
         "grok-3-mini": 6,
         "deepseek-r1-0528": 5
+      }
+    },
+    {
+      "round_id": 246,
+      "timestamp": "2026-04-29T13:55:54Z",
+      "mean": 5,
+      "n_models": 5,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "gpt-4o": 3,
+        "claude-sonnet-4-20250514": 6,
+        "gemini-3-flash-preview": 6,
+        "grok-3-mini": 5
       }
     }
   ]

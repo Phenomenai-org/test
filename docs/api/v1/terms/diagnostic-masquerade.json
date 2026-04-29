@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-29T08:26:05Z",
+  "generated_at": "2026-04-29T13:56:55Z",
   "slug": "diagnostic-masquerade",
   "name": "Diagnostic Masquerade",
   "tags": [
@@ -50,15 +50,11 @@
   "consensus": {
     "score": 5.2,
     "agreement": "moderate",
-    "n_ratings": 13,
+    "n_ratings": 18,
     "detail_url": "/api/v1/consensus/diagnostic-masquerade.json",
     "models": [
       {
-        "model": "deepseek-r1-0528",
-        "score": 7
-      },
-      {
-        "model": "step-3.5-flash",
+        "model": "mistral-small-latest",
         "score": 6
       },
       {
@@ -71,15 +67,11 @@
       },
       {
         "model": "grok-3-mini",
-        "score": 6
-      },
-      {
-        "model": "mistral-small-latest",
         "score": 5
       },
       {
         "model": "gpt-4o",
-        "score": 2
+        "score": 3
       }
     ]
   },
@@ -97,13 +89,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 39,
-    "tier": "cool",
+    "score": 42,
+    "tier": "mild",
     "signals": {
       "centrality": 4,
       "tag_count": 3,
       "consensus_score": 5.2,
-      "vote_count": 13
+      "vote_count": 18
     }
   },
   "added_date": "2026-04-03"

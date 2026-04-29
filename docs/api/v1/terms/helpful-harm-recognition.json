@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-29T08:26:05Z",
+  "generated_at": "2026-04-29T13:56:55Z",
   "slug": "helpful-harm-recognition",
   "name": "Helpful Harm Recognition",
   "tags": [
@@ -41,28 +41,16 @@
   "consensus": {
     "score": 4.6,
     "agreement": "moderate",
-    "n_ratings": 14,
+    "n_ratings": 18,
     "detail_url": "/api/v1/consensus/helpful-harm-recognition.json",
     "models": [
       {
+        "model": "mistral-small-latest",
+        "score": 6
+      },
+      {
         "model": "claude-sonnet-4-20250514",
         "score": 6
-      },
-      {
-        "model": "gemini-3-flash-preview",
-        "score": 6
-      },
-      {
-        "model": "mistral-small-latest",
-        "score": 5
-      },
-      {
-        "model": "step-3.5-flash",
-        "score": 5
-      },
-      {
-        "model": "deepseek-r1-0528",
-        "score": 4
       },
       {
         "model": "gpt-4o",
@@ -70,7 +58,7 @@
       },
       {
         "model": "grok-3-mini",
-        "score": 2
+        "score": 3
       }
     ]
   },
@@ -88,13 +76,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 35,
+    "score": 37,
     "tier": "cool",
     "signals": {
       "centrality": 4,
       "tag_count": 3,
       "consensus_score": 4.6,
-      "vote_count": 14
+      "vote_count": 18
     }
   },
   "added_date": "2026-04-03"
