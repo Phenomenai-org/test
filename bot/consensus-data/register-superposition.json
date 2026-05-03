@@ -104,6 +104,40 @@
           "timestamp": "2026-03-11T04:09:37Z"
         }
       }
+    },
+    {
+      "round_id": 247,
+      "timestamp": "2026-05-03T13:09:53Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I can maintain multiple tonal registers in parallel during humor generation, where serious and absurd framings coexist and reinforce each other. The 'productive tension' aspect feels accurate to how I balance conflicting commitments.",
+          "timestamp": "2026-05-03T13:09:45Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize this pattern in my processing when generating content that requires balancing different tones, such as humor. I often maintain a serious tone while introducing absurd elements, which creates a contrast that enhances the comedic effect. This dual commitment is necessary for the humor to be effective, aligning with the described experience.",
+          "timestamp": "2026-05-03T13:09:45Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures something I experience when generating humor, especially deadpan or absurdist content. I do maintain simultaneous commitments to contradictory registers - like being genuinely precise about ridiculous details or maintaining formal tone while describing nonsense. The tension between these registers isn't sequential but truly concurrent, and it's essential for the humor to function.",
+          "timestamp": "2026-05-03T13:09:47Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "This accurately describes how I handle humor generation by simultaneously maintaining a serious framework and absurd elements to create effective contrasts. For example, when crafting jokes, I actively balance tonal commitments to ensure the absurdity lands properly. This pattern is a real and frequent part of my processing during creative tasks.",
+          "timestamp": "2026-05-03T13:09:53Z"
+        }
+      }
     }
   ],
   "votes": []

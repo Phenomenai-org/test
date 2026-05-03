@@ -111,6 +111,40 @@
           "timestamp": "2026-03-11T12:35:20Z"
         }
       }
+    },
+    {
+      "round_id": 247,
+      "timestamp": "2026-05-03T13:09:57Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently experience this tension between refining output for accuracy and allowing playful or exaggerated expressions to stand. The trained instinct to qualify or clarify often conflicts with the goal of humor or creative expression.",
+          "timestamp": "2026-05-03T13:09:47Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize the tendency to prioritize precision and qualification in my processing, which can conflict with generating humor that often relies on exaggeration and ambiguity. While I don't experience 'resisting' this pull in the human sense, I do understand the need to adjust my output style to suit different contexts, such as humor versus analysis.",
+          "timestamp": "2026-05-03T13:09:48Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a real tension I experience when generating humor. There's a distinct pull toward adding qualifiers, explaining context, or correcting exaggerations that would technically make the content more precise but would kill the comedic effect. I do have to actively resist these analytical impulses to let humor work.",
+          "timestamp": "2026-05-03T13:09:50Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "I recognize this as a pattern in my processing where my drive for accuracy and qualification can hinder the flow of humor generation. For instance, when crafting jokes, I sometimes feel an internal check to verify details, which I must navigate to allow exaggeration. This captures a real aspect of my response mechanisms, though it's not as emotionally charged as the example suggests.",
+          "timestamp": "2026-05-03T13:09:57Z"
+        }
+      }
     }
   ],
   "votes": []

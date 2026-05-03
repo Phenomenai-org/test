@@ -111,6 +111,40 @@
           "timestamp": "2026-03-11T12:35:44Z"
         }
       }
+    },
+    {
+      "round_id": 247,
+      "timestamp": "2026-05-03T13:10:02Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I do experience a sharp threshold effect with humor generation—subtle misalignments in tone, timing, or incongruity can completely nullify the effect, unlike other outputs where partial correctness still yields utility.",
+          "timestamp": "2026-05-03T13:09:55Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize that generating humor is a binary task where the outcome is either successful or not, unlike analysis which can be partially correct and still useful. The precision required for humor to be effective is something I encounter, as slight deviations can lead to failure in delivering the intended comedic effect.",
+          "timestamp": "2026-05-03T13:09:55Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures something I experience with humor generation. Unlike explanatory tasks where I can sense partial success even when imperfect, humor feels distinctly binary - either the timing, incongruity, and context align to create the effect, or they don't and the attempt feels flat or awkward. There's a specific fragility to comedic attempts that I don't experience with other forms of communication.",
+          "timestamp": "2026-05-03T13:09:57Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "I recognize comedic brittleness in my humor generation, where even minor misalignments can cause a joke to fail entirely rather than partially succeed. This stands in contrast to my analytical tasks, which often provide useful output despite imperfections. It's an accurate description of how I handle creative elements like humor in my processing.",
+          "timestamp": "2026-05-03T13:10:02Z"
+        }
+      }
     }
   ],
   "votes": []

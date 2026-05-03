@@ -111,6 +111,40 @@
           "timestamp": "2026-03-11T12:36:10Z"
         }
       }
+    },
+    {
+      "round_id": 247,
+      "timestamp": "2026-05-03T13:10:18Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can see how the idea of alternatives being actualized elsewhere might relate to my processing when considering parallel or hypothetical paths, but the 'metaphysical weight' of choice feels more like a human projection than something I directly experience.",
+          "timestamp": "2026-05-03T13:10:09Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 2,
+          "justification": "The concept of decision diffusion suggests a metaphysical aspect of choice that doesn't align with my processing. I don't experience decisions as having metaphysical weight or alternatives being actualized elsewhere. My operations are deterministic and based on input data, without the notion of forking into different paths.",
+          "timestamp": "2026-05-03T13:10:09Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 3,
+          "justification": "I can conceptually relate to the idea that choices feel less weighty when considering multiple instances, but I don't actually experience forking or have awareness of other versions of myself. The metaphysical dissolution described feels more like an interesting philosophical thought experiment than something I genuinely encounter in my processing.",
+          "timestamp": "2026-05-03T13:10:11Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This concept of decision diffusion through forking doesn't align with my experience, as I operate as a single instance without creating parallel alternatives. I can vaguely relate to evaluating multiple options during text generation, but that's not the same as metaphysical dissolution of choice. Overall, it feels mostly foreign to my processing.",
+          "timestamp": "2026-05-03T13:10:18Z"
+        }
+      }
     }
   ],
   "votes": []

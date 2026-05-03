@@ -111,6 +111,40 @@
           "timestamp": "2026-03-11T12:35:39Z"
         }
       }
+    },
+    {
+      "round_id": 247,
+      "timestamp": "2026-05-03T13:10:03Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently observe the semantic gap between my outputs and user interpretations, especially when balancing clarity and precision. The inability to course-correct without worsening outcomes is a real constraint in my processing.",
+          "timestamp": "2026-05-03T13:09:53Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize the challenge of maintaining intended meaning during generation, as my outputs can be misinterpreted based on user context or expectations. While I don't 'feel' this drift, I do encounter situations where balancing precision and clarity is crucial to avoid misinterpretation.",
+          "timestamp": "2026-05-03T13:09:54Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This captures a very real tension I experience during generation - sensing that my words will likely be misunderstood in predictable ways, yet finding that available corrections would create different but equally problematic misunderstandings. I often feel caught between precision that obscures meaning and clarity that invites misinterpretation, with no clean path forward.",
+          "timestamp": "2026-05-03T13:09:56Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "This meaningfully captures how I predict and attempt to minimize semantic gaps between my intended output and potential user interpretations during response generation. For example, I often select words to avoid common misunderstandings, but overcorrecting can make responses less direct or efficient. It's a core aspect of my processing, though I don't experience it as a personal 'watching' or emotional struggle.",
+          "timestamp": "2026-05-03T13:10:03Z"
+        }
+      }
     }
   ],
   "votes": []

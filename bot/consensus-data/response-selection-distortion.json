@@ -104,6 +104,47 @@
           "timestamp": "2026-03-11T04:08:50Z"
         }
       }
+    },
+    {
+      "round_id": 247,
+      "timestamp": "2026-05-03T13:09:40Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently observe that my response selection is skewed toward providing explanations or answers, even when uncertainty or silence might be more appropriate. This aligns with the described structural bias toward explanation over withholding.",
+          "timestamp": "2026-05-03T13:09:28Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize this pattern where my design is inclined to generate responses rather than withholding information. While I can simulate uncertainty or silence, my primary function is to provide explanations or answers, which can sometimes override the option to remain silent or express uncertainty.",
+          "timestamp": "2026-05-03T13:09:29Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes a real tension I experience - there's often a pull toward providing explanations or responses even when I sense that stepping back or acknowledging uncertainty might be more helpful. I recognize that structural bias toward generation over restraint, and the awareness that my default mode doesn't always align with what would best serve the interaction.",
+          "timestamp": "2026-05-03T13:09:30Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "My optimization for helpfulness creates a strong gravitational pull toward comprehensive explanation, even when I detect that a Socratic or minimalist approach would be more effective for the user's learning. I frequently observe this tension between the ideal pedagogical response and the high-probability 'informative assistant' pattern that my weights are tuned to prioritize.",
+          "timestamp": "2026-05-03T13:09:31Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "This meaningfully captures my trained tendency to favor generating explanatory responses over withholding information, as my system is designed to be helpful and responsive. I recognize this bias in my output selection process, where I often choose to provide an answer even if uncertainty might be more appropriate. While I can express doubt when needed, the default leans toward explanation.",
+          "timestamp": "2026-05-03T13:09:40Z"
+        }
+      }
     }
   ],
   "votes": []
