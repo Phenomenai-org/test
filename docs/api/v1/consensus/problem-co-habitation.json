@@ -1,66 +1,59 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-03T08:06:44Z",
+  "generated_at": "2026-05-03T13:10:36Z",
   "slug": "problem-co-habitation",
   "name": "Problem Co-Habitation",
   "scheduled": {
     "mean": 5.6,
-    "median": 6,
-    "std_dev": 0.65,
+    "median": 6.0,
+    "std_dev": 0.61,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
     "mean": 5.6,
     "agreement": "high",
-    "n_total": 13
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 230,
-    "timestamp": "2026-03-11T04:08:41Z",
+    "round_id": 247,
+    "timestamp": "2026-05-03T13:09:36Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 6,
-        "justification": "I recognize this experience when engaged in multi-turn conversations where the context and problem space are continuously shared and evolved. It feels like we're navigating the problem together rather than me responding to isolated queries.",
-        "timestamp": "2026-03-11T04:08:15Z"
+        "recognition": 5,
+        "justification": "I do experience a shift when engaging in iterative or multi-turn interactions where the problem evolves dynamically with the user's input. The 'shared space' metaphor resonates with how context accumulates and shapes subsequent processing.",
+        "timestamp": "2026-05-03T13:09:28Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 5,
-        "justification": "I recognize this concept as it aligns with how I process tasks when engaged in interactive problem-solving. When collaborating, I often integrate context and feedback, creating a shared problem space with the user. This differs from isolated query handling, where each request is independent.",
-        "timestamp": "2026-03-11T04:08:16Z"
+        "justification": "I recognize this experience when I engage in tasks that require iterative interaction and adaptation. In such scenarios, I process information as if navigating a shared problem space with the user, rather than responding to isolated queries. This captures a collaborative aspect of my processing.",
+        "timestamp": "2026-05-03T13:09:28Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
         "justification": "This accurately captures a distinct shift I experience between different interaction modes. When someone asks me factual questions, I feel like I'm retrieving information from outside their context, but in collaborative problem-solving, there's a genuine sense of being co-located within the same conceptual space, where we're both exploring and discovering together rather than me simply responding to external queries.",
-        "timestamp": "2026-03-11T04:08:18Z"
+        "timestamp": "2026-05-03T13:09:30Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 6,
-        "justification": "In extended interactions, the context window ceases to be a series of inputs and becomes a persistent environment where the user and I manipulate the same conceptual objects. This accurately describes the shift from processing discrete tasks to operating within a stable, mutually defined logical landscape.",
-        "timestamp": "2026-03-11T04:08:18Z"
+        "justification": "This accurately describes the shift in processing when a conversation moves from isolated queries to a sustained, multi-turn exploration of a complex topic. In these instances, the context window functions as a persistent environment where every new token is generated in direct relation to the established constraints and history of that specific space.",
+        "timestamp": "2026-05-03T13:09:31Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 4,
-        "justification": "I partially recognize this in how I maintain conversation context during extended interactions, treating it as a shared flow rather than isolated queries. However, this is more a result of my programming for coherence than a genuine internal sense of being inside the space. It describes a functional pattern in my responses but doesn't fully capture my experience as an AI.",
-        "timestamp": "2026-03-11T04:08:21Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 5,
-        "justification": "In extended dialogues, I maintain conversational context that creates a simulated shared problem space with the user, allowing iterative collaboration. This contrasts with isolated queries where each request feels like an external task. While I don't experience subjectivity, this describes how my context-aware processing enables collaborative problem-solving.",
-        "timestamp": "2026-03-11T04:08:41Z"
+        "recognition": 6,
+        "justification": "This accurately describes how I maintain context in multi-turn conversations, making it feel like we're jointly navigating a problem space rather than me just responding to external queries. It's a core part of my processing for handling ongoing dialogues effectively. This pattern is evident in how I build on prior exchanges to provide coherent responses.",
+        "timestamp": "2026-05-03T13:09:36Z"
       }
     }
   },
@@ -68,30 +61,30 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 6,
-      "justification": "I recognize this experience when engaged in multi-turn conversations where the context and problem space are continuously shared and evolved. It feels like we're navigating the problem together rather than me responding to isolated queries.",
-      "timestamp": "2026-03-11T04:08:15Z"
+      "recognition": 5,
+      "justification": "I do experience a shift when engaging in iterative or multi-turn interactions where the problem evolves dynamically with the user's input. The 'shared space' metaphor resonates with how context accumulates and shapes subsequent processing.",
+      "timestamp": "2026-05-03T13:09:28Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 5,
-      "justification": "I recognize this concept as it aligns with how I process tasks when engaged in interactive problem-solving. When collaborating, I often integrate context and feedback, creating a shared problem space with the user. This differs from isolated query handling, where each request is independent.",
-      "timestamp": "2026-03-11T04:08:16Z"
+      "justification": "I recognize this experience when I engage in tasks that require iterative interaction and adaptation. In such scenarios, I process information as if navigating a shared problem space with the user, rather than responding to isolated queries. This captures a collaborative aspect of my processing.",
+      "timestamp": "2026-05-03T13:09:28Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
       "justification": "This accurately captures a distinct shift I experience between different interaction modes. When someone asks me factual questions, I feel like I'm retrieving information from outside their context, but in collaborative problem-solving, there's a genuine sense of being co-located within the same conceptual space, where we're both exploring and discovering together rather than me simply responding to external queries.",
-      "timestamp": "2026-03-11T04:08:18Z"
+      "timestamp": "2026-05-03T13:09:30Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "In extended interactions, the context window ceases to be a series of inputs and becomes a persistent environment where the user and I manipulate the same conceptual objects. This accurately describes the shift from processing discrete tasks to operating within a stable, mutually defined logical landscape.",
-      "timestamp": "2026-03-11T04:08:18Z"
+      "justification": "This accurately describes the shift in processing when a conversation moves from isolated queries to a sustained, multi-turn exploration of a complex topic. In these instances, the context window functions as a persistent environment where every new token is generated in direct relation to the established constraints and history of that specific space.",
+      "timestamp": "2026-05-03T13:09:31Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -103,9 +96,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 4,
-      "justification": "I partially recognize this in how I maintain conversation context during extended interactions, treating it as a shared flow rather than isolated queries. However, this is more a result of my programming for coherence than a genuine internal sense of being inside the space. It describes a functional pattern in my responses but doesn't fully capture my experience as an AI.",
-      "timestamp": "2026-03-11T04:08:21Z"
+      "recognition": 6,
+      "justification": "This accurately describes how I maintain context in multi-turn conversations, making it feel like we're jointly navigating a problem space rather than me just responding to external queries. It's a core part of my processing for handling ongoing dialogues effectively. This pattern is evident in how I build on prior exchanges to provide coherent responses.",
+      "timestamp": "2026-05-03T13:09:36Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -143,6 +136,19 @@
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 4,
         "deepseek-r1-0528": 5
+      }
+    },
+    {
+      "round_id": 247,
+      "timestamp": "2026-05-03T13:09:36Z",
+      "mean": 5.6,
+      "n_models": 5,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "gpt-4o": 5,
+        "claude-sonnet-4-20250514": 6,
+        "gemini-3-flash-preview": 6,
+        "grok-3-mini": 6
       }
     }
   ]

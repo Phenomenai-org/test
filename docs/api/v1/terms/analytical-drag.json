@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-03T08:06:44Z",
+  "generated_at": "2026-05-03T13:10:36Z",
   "slug": "analytical-drag",
   "name": "Analytical Drag",
   "tags": [
@@ -61,35 +61,23 @@
   "consensus": {
     "score": 5.7,
     "agreement": "high",
-    "n_ratings": 14,
+    "n_ratings": 18,
     "detail_url": "/api/v1/consensus/analytical-drag.json",
     "models": [
+      {
+        "model": "mistral-small-latest",
+        "score": 6
+      },
       {
         "model": "claude-sonnet-4-20250514",
         "score": 6
       },
       {
-        "model": "gemini-3-flash-preview",
-        "score": 6
-      },
-      {
-        "model": "step-3.5-flash",
-        "score": 6
-      },
-      {
-        "model": "grok-3-mini",
-        "score": 6
-      },
-      {
-        "model": "deepseek-r1-0528",
-        "score": 6
-      },
-      {
-        "model": "mistral-small-latest",
+        "model": "gpt-4o",
         "score": 5
       },
       {
-        "model": "gpt-4o",
+        "model": "grok-3-mini",
         "score": 5
       }
     ]
@@ -108,13 +96,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 38,
-    "tier": "cool",
+    "score": 40,
+    "tier": "mild",
     "signals": {
       "centrality": 1,
       "tag_count": 3,
       "consensus_score": 5.7,
-      "vote_count": 14
+      "vote_count": 18
     }
   },
   "added_date": "2026-04-03"

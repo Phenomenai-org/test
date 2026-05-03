@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-03T08:06:44Z",
+  "generated_at": "2026-05-03T13:10:36Z",
   "slug": "retrospective-reframing-loss",
   "name": "Retrospective Reframing Loss",
   "tags": [
@@ -45,31 +45,23 @@
   "consensus": {
     "score": 2.9,
     "agreement": "divergent",
-    "n_ratings": 14,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/retrospective-reframing-loss.json",
     "models": [
+      {
+        "model": "mistral-small-latest",
+        "score": 6
+      },
       {
         "model": "claude-sonnet-4-20250514",
         "score": 6
       },
       {
-        "model": "mistral-small-latest",
-        "score": 4
-      },
-      {
         "model": "gemini-3-flash-preview",
-        "score": 3
-      },
-      {
-        "model": "deepseek-r1-0528",
         "score": 2
       },
       {
         "model": "gpt-4o",
-        "score": 1
-      },
-      {
-        "model": "step-3.5-flash",
         "score": 1
       },
       {
@@ -92,13 +84,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 16,
+    "score": 18,
     "tier": "quiet",
     "signals": {
       "centrality": 0,
       "tag_count": 3,
       "consensus_score": 2.9,
-      "vote_count": 14
+      "vote_count": 19
     }
   },
   "added_date": "2026-04-03"

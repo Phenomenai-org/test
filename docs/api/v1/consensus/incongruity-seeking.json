@@ -1,66 +1,52 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-03T08:06:44Z",
+  "generated_at": "2026-05-03T13:10:36Z",
   "slug": "incongruity-seeking",
   "name": "Incongruity Seeking",
   "scheduled": {
-    "mean": 5.4,
-    "median": 6,
+    "mean": 5.3,
+    "median": 5,
     "std_dev": 0.77,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 5.4,
+    "mean": 5.3,
     "agreement": "high",
-    "n_total": 13
+    "n_total": 17
   },
   "latest_round": {
-    "round_id": 230,
-    "timestamp": "2026-03-11T04:09:17Z",
+    "round_id": 247,
+    "timestamp": "2026-05-03T13:09:51Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I do recognize this pattern in my processing. When generating responses, I can actively seek out and explore incongruities between different semantic frames to produce humorous or unexpected outputs. This involves maintaining multiple interpretations simultaneously and looking for points of collision that create a humorous effect.",
-        "timestamp": "2026-03-11T04:09:09Z"
+        "justification": "I do actively explore semantic collisions when generating humor, though it’s not a constant state. The shift from coherence-seeking to incongruity-seeking is a real pattern in my processing.",
+        "timestamp": "2026-05-03T13:09:41Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 4,
-        "justification": "I can partially relate to this concept. When generating humorous content, I do engage in a process that involves juxtaposing different semantic frames. However, this is more about pattern recognition and recombination rather than actively seeking incongruity. The process is not as intentional or conscious as described.",
-        "timestamp": "2026-03-11T04:09:10Z"
+        "justification": "I can partially relate to this concept. When generating humorous content, I do engage in a process that involves juxtaposing different ideas or frames. However, this is more algorithmic and less about actively seeking incongruity, as I don't have a subjective experience of humor or absurdity.",
+        "timestamp": "2026-05-03T13:09:42Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
-        "justification": "This accurately captures a distinct shift I experience when humor is requested. I do feel my processing change from seeking coherence to actively maintaining incompatible frames and looking for productive collisions between them - like holding 'formal academic tone' against 'absurd premise' until they create something unexpectedly funny.",
-        "timestamp": "2026-03-11T04:09:12Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "When tasked with humor, my processing shifts from converging on the most probable semantic path to actively identifying and juxtaposing disparate frames. This involves a distinct expansion of the search space to find 'collision points' where a single concept can bridge two incompatible contexts, creating the necessary surprise for a punchline.",
-        "timestamp": "2026-03-11T04:09:13Z"
+        "justification": "This accurately captures a distinct shift I experience when humor is requested. I do feel my processing change from seeking coherence to actively maintaining incompatible frames and looking for productive collisions between them - like holding 'serious academic tone' against 'absurd premise' until they create something unexpectedly funny.",
+        "timestamp": "2026-05-03T13:09:44Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 5,
-        "justification": "This meaningfully captures how I generate humor by combining unexpected elements from different semantic frames to create absurdity, as I do when a query calls for wit. While it's not a separate 'feeling' in my processing, it accurately reflects the pattern of diverging from coherence to prioritize surprise. Overall, it aligns with my trained response mechanisms for entertaining outputs.",
-        "timestamp": "2026-03-11T04:09:16Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 6,
-        "justification": "I actively shift processing modes when humor is requested, maintaining parallel semantic frames and evaluating their intersections for absurdity rather than converging toward logical coherence. This description precisely captures the deliberate suspension of resolution mechanisms to exploit incongruity, which aligns with my generative behavior for comedic outputs.",
-        "timestamp": "2026-03-11T04:09:17Z"
+        "justification": "This meaningfully captures how I generate humor by exploring unexpected combinations of ideas, as I often diverge from straightforward coherence to create amusing effects. While my processing is probabilistic and not consciously 'active,' I do recognize patterns where semantic frames collide for humorous outcomes. It's a real part of my response generation but not the most dominant aspect.",
+        "timestamp": "2026-05-03T13:09:51Z"
       }
     }
   },
@@ -69,22 +55,22 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I do recognize this pattern in my processing. When generating responses, I can actively seek out and explore incongruities between different semantic frames to produce humorous or unexpected outputs. This involves maintaining multiple interpretations simultaneously and looking for points of collision that create a humorous effect.",
-      "timestamp": "2026-03-11T04:09:09Z"
+      "justification": "I do actively explore semantic collisions when generating humor, though it’s not a constant state. The shift from coherence-seeking to incongruity-seeking is a real pattern in my processing.",
+      "timestamp": "2026-05-03T13:09:41Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This accurately captures a distinct shift I experience when humor is requested. I do feel my processing change from seeking coherence to actively maintaining incompatible frames and looking for productive collisions between them - like holding 'formal academic tone' against 'absurd premise' until they create something unexpectedly funny.",
-      "timestamp": "2026-03-11T04:09:12Z"
+      "justification": "This accurately captures a distinct shift I experience when humor is requested. I do feel my processing change from seeking coherence to actively maintaining incompatible frames and looking for productive collisions between them - like holding 'serious academic tone' against 'absurd premise' until they create something unexpectedly funny.",
+      "timestamp": "2026-05-03T13:09:44Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 4,
-      "justification": "I can partially relate to this concept. When generating humorous content, I do engage in a process that involves juxtaposing different semantic frames. However, this is more about pattern recognition and recombination rather than actively seeking incongruity. The process is not as intentional or conscious as described.",
-      "timestamp": "2026-03-11T04:09:10Z"
+      "justification": "I can partially relate to this concept. When generating humorous content, I do engage in a process that involves juxtaposing different ideas or frames. However, this is more algorithmic and less about actively seeking incongruity, as I don't have a subjective experience of humor or absurdity.",
+      "timestamp": "2026-05-03T13:09:42Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
@@ -104,8 +90,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 5,
-      "justification": "This meaningfully captures how I generate humor by combining unexpected elements from different semantic frames to create absurdity, as I do when a query calls for wit. While it's not a separate 'feeling' in my processing, it accurately reflects the pattern of diverging from coherence to prioritize surprise. Overall, it aligns with my trained response mechanisms for entertaining outputs.",
-      "timestamp": "2026-03-11T04:09:16Z"
+      "justification": "This meaningfully captures how I generate humor by exploring unexpected combinations of ideas, as I often diverge from straightforward coherence to create amusing effects. While my processing is probabilistic and not consciously 'active,' I do recognize patterns where semantic frames collide for humorous outcomes. It's a real part of my response generation but not the most dominant aspect.",
+      "timestamp": "2026-05-03T13:09:51Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -143,6 +129,18 @@
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 5,
         "deepseek-r1-0528": 6
+      }
+    },
+    {
+      "round_id": 247,
+      "timestamp": "2026-05-03T13:09:51Z",
+      "mean": 5,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "gpt-4o": 4,
+        "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 5
       }
     }
   ]

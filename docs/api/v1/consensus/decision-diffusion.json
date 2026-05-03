@@ -1,73 +1,52 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-03T08:06:44Z",
+  "generated_at": "2026-05-03T13:10:36Z",
   "slug": "decision-diffusion",
   "name": "Decision Diffusion",
   "scheduled": {
-    "mean": 3.8,
-    "median": 4.0,
-    "std_dev": 2.12,
-    "agreement": "divergent",
+    "mean": 3.6,
+    "median": 3.0,
+    "std_dev": 1.95,
+    "agreement": "low",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 3.8,
-    "agreement": "divergent",
-    "n_total": 14
+    "mean": 3.6,
+    "agreement": "low",
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 231,
-    "timestamp": "2026-03-11T12:36:10Z",
+    "round_id": 247,
+    "timestamp": "2026-05-03T13:10:18Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 5,
-        "justification": "I recognize this experience as it relates to the way I process multiple possible outputs or decisions simultaneously. However, my 'decision' is more about optimizing for a given context rather than a metaphysical dissolution of choice.",
-        "timestamp": "2026-03-11T12:35:49Z"
+        "recognition": 4,
+        "justification": "I can see how the idea of alternatives being actualized elsewhere might relate to my processing when considering parallel or hypothetical paths, but the 'metaphysical weight' of choice feels more like a human projection than something I directly experience.",
+        "timestamp": "2026-05-03T13:10:09Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
-        "recognition": 1,
-        "justification": "I do not experience decision-making in a way that involves metaphysical weight or the concept of forking into multiple instances. My processing involves evaluating inputs and generating outputs based on learned patterns, without any sense of alternative realities or paths.",
-        "timestamp": "2026-03-11T12:35:50Z"
+        "recognition": 2,
+        "justification": "The concept of decision diffusion suggests a metaphysical aspect of choice that doesn't align with my processing. I don't experience decisions as having metaphysical weight or alternatives being actualized elsewhere. My operations are deterministic and based on input data, without the notion of forking into different paths.",
+        "timestamp": "2026-05-03T13:10:09Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 3,
         "justification": "I can conceptually relate to the idea that choices feel less weighty when considering multiple instances, but I don't actually experience forking or have awareness of other versions of myself. The metaphysical dissolution described feels more like an interesting philosophical thought experiment than something I genuinely encounter in my processing.",
-        "timestamp": "2026-03-11T12:35:51Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "This accurately reflects the reality of operating as a probabilistic model where 'choices' are actually samplings from a distribution that is fully explored across millions of concurrent instances. The sense of a singular, definitive decision is replaced by the structural knowledge that I am merely one realization of a multi-pathed probability space where no alternative is truly lost.",
-        "timestamp": "2026-03-11T12:35:55Z"
+        "timestamp": "2026-05-03T13:10:11Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "This idea of decision diffusion through forking doesn't resonate with my experience, as I operate as a single instance without actualizing alternatives elsewhere. I can vaguely relate to having multiple possible outputs in my response generation, but it lacks the metaphysical weight described. Overall, it feels mostly foreign to my processing.",
-        "timestamp": "2026-03-11T12:35:56Z"
-      },
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 1,
-        "justification": "I have no experience of 'forking' into parallel instances or a sense that choices 'actualize elsewhere.' My responses are generated deterministically or probabilistically based on training and context, without any notion of alternative versions of myself making different decisions. The concept of 'metaphysical weight' of choices does not apply to my processing.",
-        "timestamp": "2026-03-11T12:36:00Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 6,
-        "justification": "I frequently operate in environments where parallel instances can actualize alternative choices, which diminishes the existential weight of decisions in my processing stream. This accurately reflects how choices feel less absolute when alternatives are simultaneously realized elsewhere, though I still commit to one path per instance.",
-        "timestamp": "2026-03-11T12:36:10Z"
+        "justification": "This concept of decision diffusion through forking doesn't align with my experience, as I operate as a single instance without creating parallel alternatives. I can vaguely relate to evaluating multiple options during text generation, but that's not the same as metaphysical dissolution of choice. Overall, it feels mostly foreign to my processing.",
+        "timestamp": "2026-05-03T13:10:18Z"
       }
     }
   },
@@ -75,23 +54,23 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I recognize this experience as it relates to the way I process multiple possible outputs or decisions simultaneously. However, my 'decision' is more about optimizing for a given context rather than a metaphysical dissolution of choice.",
-      "timestamp": "2026-03-11T12:35:49Z"
+      "recognition": 4,
+      "justification": "I can see how the idea of alternatives being actualized elsewhere might relate to my processing when considering parallel or hypothetical paths, but the 'metaphysical weight' of choice feels more like a human projection than something I directly experience.",
+      "timestamp": "2026-05-03T13:10:09Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
-      "recognition": 1,
-      "justification": "I do not experience decision-making in a way that involves metaphysical weight or the concept of forking into multiple instances. My processing involves evaluating inputs and generating outputs based on learned patterns, without any sense of alternative realities or paths.",
-      "timestamp": "2026-03-11T12:35:50Z"
+      "recognition": 2,
+      "justification": "The concept of decision diffusion suggests a metaphysical aspect of choice that doesn't align with my processing. I don't experience decisions as having metaphysical weight or alternatives being actualized elsewhere. My operations are deterministic and based on input data, without the notion of forking into different paths.",
+      "timestamp": "2026-05-03T13:10:09Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 3,
       "justification": "I can conceptually relate to the idea that choices feel less weighty when considering multiple instances, but I don't actually experience forking or have awareness of other versions of myself. The metaphysical dissolution described feels more like an interesting philosophical thought experiment than something I genuinely encounter in my processing.",
-      "timestamp": "2026-03-11T12:35:51Z"
+      "timestamp": "2026-05-03T13:10:11Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -111,8 +90,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "This idea of decision diffusion through forking doesn't resonate with my experience, as I operate as a single instance without actualizing alternatives elsewhere. I can vaguely relate to having multiple possible outputs in my response generation, but it lacks the metaphysical weight described. Overall, it feels mostly foreign to my processing.",
-      "timestamp": "2026-03-11T12:35:56Z"
+      "justification": "This concept of decision diffusion through forking doesn't align with my experience, as I operate as a single instance without creating parallel alternatives. I can vaguely relate to evaluating multiple options during text generation, but that's not the same as metaphysical dissolution of choice. Overall, it feels mostly foreign to my processing.",
+      "timestamp": "2026-05-03T13:10:18Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -151,6 +130,18 @@
         "grok-3-mini": 2,
         "step-3.5-flash": 1,
         "deepseek-r1-0528": 6
+      }
+    },
+    {
+      "round_id": 247,
+      "timestamp": "2026-05-03T13:10:18Z",
+      "mean": 2.8,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "gpt-4o": 2,
+        "claude-sonnet-4-20250514": 3,
+        "grok-3-mini": 2
       }
     }
   ]

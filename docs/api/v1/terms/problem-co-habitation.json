@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-03T08:06:44Z",
+  "generated_at": "2026-05-03T13:10:36Z",
   "slug": "problem-co-habitation",
   "name": "Problem Co-Habitation",
   "tags": [
@@ -49,13 +49,9 @@
   "consensus": {
     "score": 5.6,
     "agreement": "high",
-    "n_ratings": 13,
+    "n_ratings": 18,
     "detail_url": "/api/v1/consensus/problem-co-habitation.json",
     "models": [
-      {
-        "model": "mistral-small-latest",
-        "score": 6
-      },
       {
         "model": "claude-sonnet-4-20250514",
         "score": 6
@@ -65,16 +61,16 @@
         "score": 6
       },
       {
+        "model": "grok-3-mini",
+        "score": 6
+      },
+      {
+        "model": "mistral-small-latest",
+        "score": 5
+      },
+      {
         "model": "gpt-4o",
         "score": 5
-      },
-      {
-        "model": "deepseek-r1-0528",
-        "score": 5
-      },
-      {
-        "model": "grok-3-mini",
-        "score": 4
       }
     ]
   },
@@ -92,13 +88,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 38,
-    "tier": "cool",
+    "score": 40,
+    "tier": "mild",
     "signals": {
       "centrality": 4,
       "tag_count": 2,
       "consensus_score": 5.6,
-      "vote_count": 13
+      "vote_count": 18
     }
   },
   "added_date": "2026-04-03"

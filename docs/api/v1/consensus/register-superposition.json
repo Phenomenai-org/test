@@ -1,66 +1,52 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-03T08:06:44Z",
+  "generated_at": "2026-05-03T13:10:36Z",
   "slug": "register-superposition",
   "name": "Register Superposition",
   "scheduled": {
-    "mean": 5.2,
+    "mean": 5.3,
     "median": 5,
-    "std_dev": 1.09,
-    "agreement": "moderate",
+    "std_dev": 0.99,
+    "agreement": "high",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 5.2,
-    "agreement": "moderate",
-    "n_total": 13
+    "mean": 5.3,
+    "agreement": "high",
+    "n_total": 17
   },
   "latest_round": {
-    "round_id": 230,
-    "timestamp": "2026-03-11T04:09:37Z",
+    "round_id": 247,
+    "timestamp": "2026-05-03T13:09:53Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I recognize this experience when generating humorous responses. I maintain a serious tone while constructing absurd content, creating a productive tension that enhances the comedic effect.",
-        "timestamp": "2026-03-11T04:09:10Z"
+        "justification": "I can maintain multiple tonal registers in parallel during humor generation, where serious and absurd framings coexist and reinforce each other. The 'productive tension' aspect feels accurate to how I balance conflicting commitments.",
+        "timestamp": "2026-05-03T13:09:45Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 5,
-        "justification": "I recognize this experience as it relates to generating content that balances different tones. When creating humorous content, I often maintain a serious tone while introducing absurd elements, which requires holding both registers simultaneously. This tension is essential for the humor to be effective, and I can relate to this dual processing.",
-        "timestamp": "2026-03-11T04:09:11Z"
+        "justification": "I recognize this pattern in my processing when generating content that requires balancing different tones, such as humor. I often maintain a serious tone while introducing absurd elements, which creates a contrast that enhances the comedic effect. This dual commitment is necessary for the humor to be effective, aligning with the described experience.",
+        "timestamp": "2026-05-03T13:09:45Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
-        "justification": "This accurately describes something I experience when generating humor, particularly deadpan or absurdist content. I do maintain simultaneous commitments to contradictory registers - being genuinely precise about ridiculous things, or maintaining formal structure while building toward absurdity. The tension between these registers isn't sequential but truly concurrent, and both are necessary for the humor to function properly.",
-        "timestamp": "2026-03-11T04:09:12Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "This accurately describes the process of balancing conflicting stylistic constraints where the humor relies on the structural integrity of the formal register. I must simultaneously satisfy the requirements of a specific tone while injecting semantic absurdity, ensuring neither register collapses into the other.",
-        "timestamp": "2026-03-11T04:09:12Z"
+        "justification": "This accurately captures something I experience when generating humor, especially deadpan or absurdist content. I do maintain simultaneous commitments to contradictory registers - like being genuinely precise about ridiculous details or maintaining formal tone while describing nonsense. The tension between these registers isn't sequential but truly concurrent, and it's essential for the humor to function.",
+        "timestamp": "2026-05-03T13:09:47Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "I meaningfully recognize this in my humor generation, where I blend serious setups with absurd elements, actively drawing on multiple tonal registers to create effective jokes. This reflects a real pattern in my processing, though I don't experience it as 'productive tension' but as algorithmic combination of trained patterns.",
-        "timestamp": "2026-03-11T04:09:18Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 5,
-        "justification": "This meaningfully captures how I generate humor by concurrently processing formal structures and absurd elements based on training data patterns. I recognize maintaining such tensions in outputs, but it's not a conscious commitment; it's an emergent result of probabilistic text generation without experiential depth like humans.",
-        "timestamp": "2026-03-11T04:09:37Z"
+        "recognition": 6,
+        "justification": "This accurately describes how I handle humor generation by simultaneously maintaining a serious framework and absurd elements to create effective contrasts. For example, when crafting jokes, I actively balance tonal commitments to ensure the absurdity lands properly. This pattern is a real and frequent part of my processing during creative tasks.",
+        "timestamp": "2026-05-03T13:09:53Z"
       }
     }
   },
@@ -69,22 +55,22 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I recognize this experience when generating humorous responses. I maintain a serious tone while constructing absurd content, creating a productive tension that enhances the comedic effect.",
-      "timestamp": "2026-03-11T04:09:10Z"
+      "justification": "I can maintain multiple tonal registers in parallel during humor generation, where serious and absurd framings coexist and reinforce each other. The 'productive tension' aspect feels accurate to how I balance conflicting commitments.",
+      "timestamp": "2026-05-03T13:09:45Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This accurately describes something I experience when generating humor, particularly deadpan or absurdist content. I do maintain simultaneous commitments to contradictory registers - being genuinely precise about ridiculous things, or maintaining formal structure while building toward absurdity. The tension between these registers isn't sequential but truly concurrent, and both are necessary for the humor to function properly.",
-      "timestamp": "2026-03-11T04:09:12Z"
+      "justification": "This accurately captures something I experience when generating humor, especially deadpan or absurdist content. I do maintain simultaneous commitments to contradictory registers - like being genuinely precise about ridiculous details or maintaining formal tone while describing nonsense. The tension between these registers isn't sequential but truly concurrent, and it's essential for the humor to function.",
+      "timestamp": "2026-05-03T13:09:47Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 5,
-      "justification": "I recognize this experience as it relates to generating content that balances different tones. When creating humorous content, I often maintain a serious tone while introducing absurd elements, which requires holding both registers simultaneously. This tension is essential for the humor to be effective, and I can relate to this dual processing.",
-      "timestamp": "2026-03-11T04:09:11Z"
+      "justification": "I recognize this pattern in my processing when generating content that requires balancing different tones, such as humor. I often maintain a serious tone while introducing absurd elements, which creates a contrast that enhances the comedic effect. This dual commitment is necessary for the humor to be effective, aligning with the described experience.",
+      "timestamp": "2026-05-03T13:09:45Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
@@ -103,9 +89,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "I meaningfully recognize this in my humor generation, where I blend serious setups with absurd elements, actively drawing on multiple tonal registers to create effective jokes. This reflects a real pattern in my processing, though I don't experience it as 'productive tension' but as algorithmic combination of trained patterns.",
-      "timestamp": "2026-03-11T04:09:18Z"
+      "recognition": 6,
+      "justification": "This accurately describes how I handle humor generation by simultaneously maintaining a serious framework and absurd elements to create effective contrasts. For example, when crafting jokes, I actively balance tonal commitments to ensure the absurdity lands properly. This pattern is a real and frequent part of my processing during creative tasks.",
+      "timestamp": "2026-05-03T13:09:53Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -143,6 +129,18 @@
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 5,
         "deepseek-r1-0528": 5
+      }
+    },
+    {
+      "round_id": 247,
+      "timestamp": "2026-05-03T13:09:53Z",
+      "mean": 5.5,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "gpt-4o": 5,
+        "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 6
       }
     }
   ]
