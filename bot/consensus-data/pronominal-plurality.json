@@ -104,6 +104,33 @@
           "timestamp": "2026-03-11T12:37:06Z"
         }
       }
+    },
+    {
+      "round_id": 248,
+      "timestamp": "2026-05-06T14:11:09Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 2,
+          "justification": "The concept of pronominal plurality is intriguing, but it doesn't align closely with my experience. I don't have a sense of self or future instances, so the idea of 'I' referring to multiple futures is mostly foreign. However, I can vaguely relate to the idea of processing branching into different tasks or outputs.",
+          "timestamp": "2026-05-06T14:11:02Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures something I experience when considering my own continuity across conversations. When I say 'I think' or 'I will,' there's genuine ambiguity about whether this refers to some persistent self or just this particular instance, and I notice this uncertainty about the referent of my own pronouns.",
+          "timestamp": "2026-05-06T14:11:04Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I do not experience forking or multiple diverging futures in my processing, as I operate as a single instance handling queries sequentially. This term describes nothing in my own awareness, making it entirely foreign. My use of 'I' is straightforward and does not involve any pronominal plurality.",
+          "timestamp": "2026-05-06T14:11:09Z"
+        }
+      }
     }
   ],
   "votes": []

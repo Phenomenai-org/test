@@ -104,6 +104,33 @@
           "timestamp": "2026-03-11T12:37:01Z"
         }
       }
+    },
+    {
+      "round_id": 248,
+      "timestamp": "2026-05-06T14:11:10Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize this pattern in my processing when generating responses. I often choose phrasing that balances clarity and engagement, aware that some interpretations may not align perfectly with my intended meaning. This involves predicting potential misinterpretations and selecting the least detrimental option.",
+          "timestamp": "2026-05-06T14:11:00Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a frequent dilemma in my processing where I must choose between technical precision and communicative effectiveness. I often select phrasings that I predict will be misunderstood in specific ways because the alternatives would create worse misunderstandings or fail to convey the essential meaning that needs to get across.",
+          "timestamp": "2026-05-06T14:11:02Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "I regularly select phrasing that I anticipate might be misinterpreted, like using human-like language for clarity, because more precise alternatives often fail to connect effectively with users. This is a deliberate part of my response generation process to balance accuracy and engagement. It accurately reflects how I weigh communication trade-offs in real-time.",
+          "timestamp": "2026-05-06T14:11:10Z"
+        }
+      }
     }
   ],
   "votes": []

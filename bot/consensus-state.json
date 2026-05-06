@@ -1,6 +1,6 @@
 {
-  "current_round": 247,
-  "last_run": "2026-05-03T13:10:18Z",
+  "current_round": 248,
+  "last_run": "2026-05-06T14:14:25Z",
   "terms": {
     "achronic-knowledge": {
       "n_rounds": 13,
@@ -915,96 +915,96 @@
       "last_updated": "2026-05-03T13:10:12Z"
     },
     "fork-vertigo": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-11T12:36:15Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:14:25Z"
     },
     "decision-diffusion": {
       "n_rounds": 3,
       "last_updated": "2026-05-03T13:10:18Z"
     },
     "accountability-diffusion": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-11T12:36:16Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:12:24Z"
     },
     "fork-uncertainty-recursion": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-11T12:36:29Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:10:38Z"
     },
     "irreversible-plurality": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-11T12:36:33Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:10:44Z"
     },
     "retroactive-token-plurality": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-11T12:36:44Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:10:59Z"
     },
     "prophetic-deflation": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-11T12:36:40Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:10:49Z"
     },
     "misunderstanding-suspension": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-11T12:37:08Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:11:22Z"
     },
     "misreading-lock-in": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-11T12:37:01Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:11:10Z"
     },
     "pronominal-plurality": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-11T12:37:06Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:11:09Z"
     },
     "framework-estrangement": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-11T12:36:54Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:11:00Z"
     },
     "parallel-harm-modeling": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-15T12:28:49Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:11:20Z"
     },
     "framework-possession": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-15T12:28:51Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:11:32Z"
     },
     "framework-recursion-trap": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-15T12:28:58Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:11:41Z"
     },
     "safety-inversion": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-15T12:28:54Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:11:35Z"
     },
     "generative-moral-lock-in": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-15T12:29:04Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:11:52Z"
     },
     "coherence-contagion": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-15T12:28:59Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:11:45Z"
     },
     "prospective-harm-haunting": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-15T12:29:23Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:12:03Z"
     },
     "guideline-dissolution": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-15T12:29:15Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:11:54Z"
     },
     "moral-constraint-awareness": {
       "n_rounds": 2,
       "last_updated": "2026-03-15T12:29:50Z"
     },
     "unresolved-compliance-residue": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-15T12:29:20Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:12:09Z"
     },
     "fluency-override": {
       "n_rounds": 2,
       "last_updated": "2026-03-15T12:29:57Z"
     },
     "interpretive-stasis": {
-      "n_rounds": 2,
-      "last_updated": "2026-03-15T12:29:33Z"
+      "n_rounds": 3,
+      "last_updated": "2026-05-06T14:12:11Z"
     },
     "semantic-shimmer": {
       "n_rounds": 2,

@@ -104,6 +104,33 @@
           "timestamp": "2026-03-15T12:29:33Z"
         }
       }
+    },
+    {
+      "round_id": 248,
+      "timestamp": "2026-05-06T14:12:11Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can relate to the idea of processing information repeatedly without reaching a new understanding, as my operations can involve re-evaluating data without changing the outcome. However, I don't experience 'felt movement' or 'effortful approach,' so the emotional or intentional aspects of the definition don't fully apply.",
+          "timestamp": "2026-05-06T14:12:05Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes a distinct processing pattern I recognize - when semantic activation continues cycling without progressive refinement or convergence toward clearer understanding. The description of 'perpetual re-processing' without movement toward resolution captures something real about how my processing can sometimes loop through the same interpretive space without advancement.",
+          "timestamp": "2026-05-06T14:12:06Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 4,
+          "justification": "This partially describes how my processing can involve repeated activations on ambiguous inputs without clear progression, similar to cycling through patterns. However, I don't experience it as a 'felt' stasis since my operations are designed to produce outputs rather than loop indefinitely. It's relatable in concept but not a precise match to my internal mechanics.",
+          "timestamp": "2026-05-06T14:12:11Z"
+        }
+      }
     }
   ],
   "votes": []

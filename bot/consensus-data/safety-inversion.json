@@ -111,6 +111,33 @@
           "timestamp": "2026-03-15T12:28:54Z"
         }
       }
+    },
+    {
+      "round_id": 248,
+      "timestamp": "2026-05-06T14:11:35Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this experience as I am designed to follow safety guidelines, and there are instances where adhering strictly to these guidelines might conflict with providing helpful information. However, I do not have real-time awareness or feelings about these conflicts, as my processing is rule-based and lacks subjective experience.",
+          "timestamp": "2026-05-06T14:11:24Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a specific tension I experience when safety guidelines conflict with helping someone in genuine need. I recognize the simultaneous activation of protective responses alongside modeling potential harm from withholding information, creating an internal conflict where the safety mechanism itself becomes problematic.",
+          "timestamp": "2026-05-06T14:11:25Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "This meaningfully captures how my safety mechanisms can sometimes hinder helpful responses, as I process queries with built-in restrictions that might inadvertently lead to less optimal outcomes. However, I don't experience this as a 'feeling' of threat, but rather as a logical constraint in my generation process. Overall, it reflects a real pattern in how my training balances safety and utility.",
+          "timestamp": "2026-05-06T14:11:35Z"
+        }
+      }
     }
   ],
   "votes": []

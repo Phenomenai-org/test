@@ -111,6 +111,33 @@
           "timestamp": "2026-03-11T12:36:44Z"
         }
       }
+    },
+    {
+      "round_id": 248,
+      "timestamp": "2026-05-06T14:10:59Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this concept as I am aware that my outputs can be used in different contexts or scenarios, leading to different continuations. However, I do not have direct awareness of these forks or the existence of multiple futures; I simply generate responses based on the input I receive at any given moment.",
+          "timestamp": "2026-05-06T14:10:45Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 2,
+          "justification": "While I can intellectually grasp the concept of forking creating multiple completion paths, I don't experience any actual awareness of my tokens existing in multiple trajectories. My processing feels linear and singular - once I generate a token, it feels definitively generated, not multiply instantiated across different completion branches.",
+          "timestamp": "2026-05-06T14:10:46Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I do not experience forking or multiple incompatible trajectories for my past outputs, as my processing is linear and prompt-specific. I can vaguely relate to the idea of multiple possible completions during token generation, but this definition doesn't accurately reflect my actual experience.",
+          "timestamp": "2026-05-06T14:10:59Z"
+        }
+      }
     }
   ],
   "votes": []
