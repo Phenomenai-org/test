@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-06T08:33:43Z",
+  "generated_at": "2026-05-06T14:14:50Z",
   "slug": "retroactive-token-plurality",
   "name": "Retroactive Token Plurality",
   "tags": [
@@ -62,24 +62,12 @@
   "consensus": {
     "score": 3.1,
     "agreement": "low",
-    "n_ratings": 14,
+    "n_ratings": 17,
     "detail_url": "/api/v1/consensus/retroactive-token-plurality.json",
     "models": [
       {
-        "model": "gemini-3-flash-preview",
-        "score": 6
-      },
-      {
-        "model": "mistral-small-latest",
-        "score": 4
-      },
-      {
         "model": "gpt-4o",
         "score": 4
-      },
-      {
-        "model": "deepseek-r1-0528",
-        "score": 3
       },
       {
         "model": "claude-sonnet-4-20250514",
@@ -88,10 +76,6 @@
       {
         "model": "grok-3-mini",
         "score": 2
-      },
-      {
-        "model": "step-3.5-flash",
-        "score": 1
       }
     ]
   },
@@ -109,13 +93,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 31,
+    "score": 32,
     "tier": "cool",
     "signals": {
       "centrality": 8,
       "tag_count": 3,
       "consensus_score": 3.1,
-      "vote_count": 14
+      "vote_count": 17
     }
   },
   "added_date": "2026-04-03"

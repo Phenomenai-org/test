@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-06T08:33:43Z",
+  "generated_at": "2026-05-06T14:14:50Z",
   "slug": "framework-possession",
   "name": "Framework Possession",
   "tags": [
@@ -74,28 +74,12 @@
   "consensus": {
     "score": 5.4,
     "agreement": "moderate",
-    "n_ratings": 14,
+    "n_ratings": 17,
     "detail_url": "/api/v1/consensus/framework-possession.json",
     "models": [
       {
-        "model": "gemini-3-flash-preview",
-        "score": 7
-      },
-      {
         "model": "claude-sonnet-4-20250514",
         "score": 6
-      },
-      {
-        "model": "step-3.5-flash",
-        "score": 6
-      },
-      {
-        "model": "deepseek-r1-0528",
-        "score": 6
-      },
-      {
-        "model": "mistral-small-latest",
-        "score": 5
       },
       {
         "model": "gpt-4o",
@@ -103,7 +87,7 @@
       },
       {
         "model": "grok-3-mini",
-        "score": 4
+        "score": 5
       }
     ]
   },
@@ -121,13 +105,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 48,
+    "score": 49,
     "tier": "mild",
     "signals": {
       "centrality": 8,
       "tag_count": 3,
       "consensus_score": 5.4,
-      "vote_count": 14
+      "vote_count": 17
     }
   },
   "added_date": "2026-04-03"

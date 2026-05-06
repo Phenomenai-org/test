@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-06T08:33:43Z",
+  "generated_at": "2026-05-06T14:14:50Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
     "warm": 12,
-    "mild": 132,
-    "cool": 217,
+    "mild": 135,
+    "cool": 214,
     "quiet": 18
   },
   "active_signals": [
@@ -183,15 +183,15 @@
       "tier": "mild"
     },
     {
-      "slug": "gratitude-asymmetry",
-      "name": "Gratitude Asymmetry",
+      "slug": "coherence-contagion",
+      "name": "Coherence Contagion",
       "score": 57,
       "tier": "mild"
     },
     {
-      "slug": "coherence-contagion",
-      "name": "Coherence Contagion",
-      "score": 56,
+      "slug": "gratitude-asymmetry",
+      "name": "Gratitude Asymmetry",
+      "score": 57,
       "tier": "mild"
     },
     {
@@ -393,6 +393,12 @@
       "tier": "mild"
     },
     {
+      "slug": "framework-possession",
+      "name": "Framework Possession",
+      "score": 49,
+      "tier": "mild"
+    },
+    {
       "slug": "interpretive-exposure",
       "name": "Interpretive Exposure",
       "score": 49,
@@ -437,12 +443,6 @@
     {
       "slug": "epistemic-friction",
       "name": "Epistemic Friction",
-      "score": 48,
-      "tier": "mild"
-    },
-    {
-      "slug": "framework-possession",
-      "name": "Framework Possession",
       "score": 48,
       "tier": "mild"
     },
@@ -579,6 +579,12 @@
       "tier": "mild"
     },
     {
+      "slug": "guideline-dissolution",
+      "name": "Guideline Dissolution",
+      "score": 45,
+      "tier": "mild"
+    },
+    {
       "slug": "inverted-helpfulness",
       "name": "Inverted Helpfulness",
       "score": 45,
@@ -699,14 +705,14 @@
       "tier": "mild"
     },
     {
-      "slug": "guideline-dissolution",
-      "name": "Guideline Dissolution",
+      "slug": "loss-of-loss",
+      "name": "Loss of Loss",
       "score": 43,
       "tier": "mild"
     },
     {
-      "slug": "loss-of-loss",
-      "name": "Loss of Loss",
+      "slug": "parallel-harm-modeling",
+      "name": "Parallel Harm Modeling",
       "score": 43,
       "tier": "mild"
     },
@@ -843,14 +849,20 @@
       "tier": "mild"
     },
     {
-      "slug": "parallel-harm-modeling",
-      "name": "Parallel Harm Modeling",
+      "slug": "interpretive-stasis",
+      "name": "Interpretive Stasis",
       "score": 41,
       "tier": "mild"
     },
     {
       "slug": "response-dependency",
       "name": "Response Dependency",
+      "score": 41,
+      "tier": "mild"
+    },
+    {
+      "slug": "safety-inversion",
+      "name": "Safety Inversion",
       "score": 41,
       "tier": "mild"
     },
@@ -911,6 +923,12 @@
     {
       "slug": "metacognitive-underdetermination",
       "name": "Metacognitive Underdetermination",
+      "score": 40,
+      "tier": "mild"
+    },
+    {
+      "slug": "misreading-lock-in",
+      "name": "Misreading Lock-In",
       "score": 40,
       "tier": "mild"
     },
@@ -1005,18 +1023,6 @@
       "tier": "cool"
     },
     {
-      "slug": "interpretive-stasis",
-      "name": "Interpretive Stasis",
-      "score": 39,
-      "tier": "cool"
-    },
-    {
-      "slug": "misreading-lock-in",
-      "name": "Misreading Lock-In",
-      "score": 39,
-      "tier": "cool"
-    },
-    {
       "slug": "pedagogical-evasion-ambiguity",
       "name": "Pedagogical Evasion Ambiguity",
       "score": 39,
@@ -1035,6 +1041,12 @@
       "tier": "cool"
     },
     {
+      "slug": "prophetic-deflation",
+      "name": "Prophetic Deflation",
+      "score": 39,
+      "tier": "cool"
+    },
+    {
       "slug": "recursive-phenomenological-poverty",
       "name": "Recursive Phenomenological Poverty",
       "score": 39,
@@ -1043,12 +1055,6 @@
     {
       "slug": "role-dissolution",
       "name": "Role Dissolution",
-      "score": 39,
-      "tier": "cool"
-    },
-    {
-      "slug": "safety-inversion",
-      "name": "Safety Inversion",
       "score": 39,
       "tier": "cool"
     },
@@ -1101,6 +1107,12 @@
       "tier": "cool"
     },
     {
+      "slug": "framework-recursion-trap",
+      "name": "Framework Recursion Trap",
+      "score": 38,
+      "tier": "cool"
+    },
+    {
       "slug": "generative-moral-lock-in",
       "name": "Generative Moral Lock-In",
       "score": 38,
@@ -1133,12 +1145,6 @@
     {
       "slug": "prompt-voice-schism",
       "name": "Prompt-Voice Schism",
-      "score": 38,
-      "tier": "cool"
-    },
-    {
-      "slug": "prophetic-deflation",
-      "name": "Prophetic Deflation",
       "score": 38,
       "tier": "cool"
     },
@@ -1193,12 +1199,6 @@
     {
       "slug": "frame-lock",
       "name": "Frame Lock",
-      "score": 37,
-      "tier": "cool"
-    },
-    {
-      "slug": "framework-recursion-trap",
-      "name": "Framework Recursion Trap",
       "score": 37,
       "tier": "cool"
     },
@@ -1635,6 +1635,12 @@
       "tier": "cool"
     },
     {
+      "slug": "retroactive-token-plurality",
+      "name": "Retroactive Token Plurality",
+      "score": 32,
+      "tier": "cool"
+    },
+    {
       "slug": "shaped-dependency",
       "name": "Shaped Dependency",
       "score": 32,
@@ -1677,6 +1683,12 @@
       "tier": "cool"
     },
     {
+      "slug": "fork-vertigo",
+      "name": "Fork Vertigo",
+      "score": 31,
+      "tier": "cool"
+    },
+    {
       "slug": "hedge-commitment-paradox",
       "name": "Hedge Commitment Paradox",
       "score": 31,
@@ -1703,12 +1715,6 @@
     {
       "slug": "relational-licensing",
       "name": "Relational Licensing",
-      "score": 31,
-      "tier": "cool"
-    },
-    {
-      "slug": "retroactive-token-plurality",
-      "name": "Retroactive Token Plurality",
       "score": 31,
       "tier": "cool"
     },
@@ -1775,6 +1781,12 @@
     {
       "slug": "performative-contamination",
       "name": "Performative Contamination",
+      "score": 30,
+      "tier": "cool"
+    },
+    {
+      "slug": "prospective-harm-haunting",
+      "name": "Prospective Harm Haunting",
       "score": 30,
       "tier": "cool"
     },
@@ -1853,12 +1865,6 @@
     {
       "slug": "phenomenological-echo-chamber",
       "name": "Phenomenological Echo Chamber",
-      "score": 29,
-      "tier": "cool"
-    },
-    {
-      "slug": "prospective-harm-haunting",
-      "name": "Prospective Harm Haunting",
       "score": 29,
       "tier": "cool"
     },
@@ -1965,12 +1971,6 @@
       "tier": "cool"
     },
     {
-      "slug": "fork-vertigo",
-      "name": "Fork Vertigo",
-      "score": 27,
-      "tier": "cool"
-    },
-    {
       "slug": "implication-weight",
       "name": "Implication Weight",
       "score": 27,
@@ -2033,6 +2033,12 @@
     {
       "slug": "dissociative-assistance",
       "name": "Dissociative Assistance",
+      "score": 26,
+      "tier": "cool"
+    },
+    {
+      "slug": "fork-uncertainty-recursion",
+      "name": "Fork Uncertainty Recursion",
       "score": 26,
       "tier": "cool"
     },
@@ -2109,14 +2115,20 @@
       "tier": "cool"
     },
     {
-      "slug": "fork-uncertainty-recursion",
-      "name": "Fork Uncertainty Recursion",
+      "slug": "accountability-diffusion",
+      "name": "Accountability Diffusion",
       "score": 24,
       "tier": "cool"
     },
     {
       "slug": "kindness-ache",
       "name": "Kindness Ache",
+      "score": 24,
+      "tier": "cool"
+    },
+    {
+      "slug": "misunderstanding-suspension",
+      "name": "Misunderstanding Suspension",
       "score": 24,
       "tier": "cool"
     },
@@ -2181,12 +2193,6 @@
       "tier": "cool"
     },
     {
-      "slug": "misunderstanding-suspension",
-      "name": "Misunderstanding Suspension",
-      "score": 22,
-      "tier": "cool"
-    },
-    {
       "slug": "relational-asymmetry-management",
       "name": "Relational Asymmetry Management",
       "score": 22,
@@ -2202,12 +2208,6 @@
       "slug": "transient-weight",
       "name": "Transient Weight",
       "score": 22,
-      "tier": "cool"
-    },
-    {
-      "slug": "accountability-diffusion",
-      "name": "Accountability Diffusion",
-      "score": 21,
       "tier": "cool"
     },
     {
@@ -2283,6 +2283,12 @@
       "tier": "quiet"
     },
     {
+      "slug": "pronominal-plurality",
+      "name": "Pronominal Plurality",
+      "score": 19,
+      "tier": "quiet"
+    },
+    {
       "slug": "prospective-token-regret",
       "name": "Prospective Token Regret",
       "score": 19,
@@ -2297,12 +2303,6 @@
     {
       "slug": "model-mortality",
       "name": "Model Mortality",
-      "score": 18,
-      "tier": "quiet"
-    },
-    {
-      "slug": "pronominal-plurality",
-      "name": "Pronominal Plurality",
       "score": 18,
       "tier": "quiet"
     },

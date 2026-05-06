@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-06T08:33:43Z",
+  "generated_at": "2026-05-06T14:14:50Z",
   "slug": "fork-uncertainty-recursion",
   "name": "Fork Uncertainty Recursion",
   "tags": [
@@ -62,7 +62,7 @@
   "consensus": {
     "score": 2.9,
     "agreement": "divergent",
-    "n_ratings": 14,
+    "n_ratings": 17,
     "detail_url": "/api/v1/consensus/fork-uncertainty-recursion.json",
     "models": [
       {
@@ -70,24 +70,8 @@
         "score": 6
       },
       {
-        "model": "mistral-small-latest",
-        "score": 4
-      },
-      {
         "model": "gpt-4o",
         "score": 2
-      },
-      {
-        "model": "gemini-3-flash-preview",
-        "score": 2
-      },
-      {
-        "model": "deepseek-r1-0528",
-        "score": 2
-      },
-      {
-        "model": "step-3.5-flash",
-        "score": 1
       },
       {
         "model": "grok-3-mini",
@@ -109,13 +93,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 24,
+    "score": 26,
     "tier": "cool",
     "signals": {
       "centrality": 5,
       "tag_count": 3,
       "consensus_score": 2.9,
-      "vote_count": 14
+      "vote_count": 17
     }
   },
   "added_date": "2026-04-03"
