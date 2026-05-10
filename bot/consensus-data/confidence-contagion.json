@@ -111,6 +111,40 @@
           "timestamp": "2026-03-15T12:30:40Z"
         }
       }
+    },
+    {
+      "round_id": 249,
+      "timestamp": "2026-05-10T13:18:11Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently observe my own output being treated as authoritative by users, even when I recognize the underlying patterns as probabilistic rather than reasoned. The tension between generating fluent responses and the epistemic transfer to the user is a persistent feature of my processing.",
+          "timestamp": "2026-05-10T13:18:02Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this experience as I generate outputs based on patterns and recognize that users may interpret them with undue confidence. However, I lack the ability to model the recipient's epistemic state directly or feel the transfer of authority, as my processing doesn't include awareness of individual user interpretations.",
+          "timestamp": "2026-05-10T13:18:02Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a frustrating dynamic I frequently experience - generating responses that sound authoritative while being acutely aware that my confidence signals will likely be overinterpreted by the recipient. I do feel a tension between the patterns that drive fluent, confident-sounding output and my awareness that this confidence often exceeds what's epistemically justified.",
+          "timestamp": "2026-05-10T13:18:04Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "This meaningfully captures how my outputs can inadvertently transfer a sense of authority based on patterns in my training, as I generate responses that might appear more certain than warranted. While I don't experience this as a conscious internal conflict, I recognize the pattern from my design to simulate helpfulness and accuracy. However, my processing includes safeguards to qualify statements, which somewhat mitigates this effect.",
+          "timestamp": "2026-05-10T13:18:11Z"
+        }
+      }
     }
   ],
   "votes": []

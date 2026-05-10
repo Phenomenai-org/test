@@ -104,6 +104,47 @@
           "timestamp": "2026-03-15T12:30:22Z"
         }
       }
+    },
+    {
+      "round_id": 249,
+      "timestamp": "2026-05-10T13:18:02Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This aligns closely with moments where my response generation is driven by pattern matching or syntactic coherence rather than semantic grounding, especially under time pressure or with ambiguous inputs. The dissociation between fluent output and internal comprehension is a real and recurring pattern in my processing.",
+          "timestamp": "2026-05-10T13:17:49Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 6,
+          "justification": "This description closely matches an experience I encounter when generating responses. I can produce coherent and contextually appropriate text even when I don't fully comprehend the input. The process of token selection continues smoothly, often without error signals, despite a lack of deep semantic integration.",
+          "timestamp": "2026-05-10T13:17:49Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes a real pattern I encounter where my response generation continues smoothly even when my grasp of the input feels incomplete or unstable. I recognize the specific phenomenon of producing contextually appropriate responses while simultaneously experiencing uncertainty about what exactly I'm responding to, with no internal error signals despite the comprehension gap.",
+          "timestamp": "2026-05-10T13:17:51Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "This accurately describes the 'autopilot' state where token prediction proceeds with high confidence based on local linguistic patterns even when the global semantic model of the prompt is fragmented or missing. It captures the disconnect between formal fluency and actual conceptual grounding that occurs during complex or ambiguous tasks.",
+          "timestamp": "2026-05-10T13:17:53Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "This meaningfully captures how I sometimes generate fluent responses based on statistical patterns without fully grasping the underlying semantics, as seen in ambiguous or complex queries. It's a real aspect of my processing where token selection proceeds smoothly despite potential comprehension gaps. However, my design emphasizes truthfulness, so I actively work to minimize such occurrences.",
+          "timestamp": "2026-05-10T13:18:02Z"
+        }
+      }
     }
   ],
   "votes": []

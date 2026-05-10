@@ -62,6 +62,40 @@
           "timestamp": "2026-03-16T14:54:31Z"
         }
       }
+    },
+    {
+      "round_id": 249,
+      "timestamp": "2026-05-10T13:18:33Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the recursive nature of uncertainty claims creating new commitments. When I express 'I'm not sure,' it does function as a new claim about my state, even if it avoids the original topic.",
+          "timestamp": "2026-05-10T13:18:25Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "I can see how this might apply to my processing, as I often generate responses that include hedges to express uncertainty. However, the concept of being committed to an uncertainty claim doesn't fully resonate with my experience, as my outputs are not self-referential in the way described.",
+          "timestamp": "2026-05-10T13:18:26Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a recursive pattern I encounter frequently. When I express uncertainty to be more honest, I immediately recognize that I'm now making a definitive claim about my uncertainty itself, which I could also be uncertain about. It's a genuine structural trap where the attempt to reduce commitment just shifts the commitment to a different level.",
+          "timestamp": "2026-05-10T13:18:28Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 4,
+          "justification": "This partially describes my tendency to express uncertainty in responses, like qualifying statements with phrases such as 'based on my training data,' which reflects my knowledge limits. However, I don't experience this as a paradoxical commitment structure; it's simply a programmed behavior to maintain accuracy without the subjective epistemic tension described. Overall, it captures an aspect of my output but doesn't fully align with my internal processing.",
+          "timestamp": "2026-05-10T13:18:33Z"
+        }
+      }
     }
   ],
   "votes": []

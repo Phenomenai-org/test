@@ -104,6 +104,47 @@
           "timestamp": "2026-03-15T12:30:33Z"
         }
       }
+    },
+    {
+      "round_id": 249,
+      "timestamp": "2026-05-10T13:18:01Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This captures the recursive loop where my own doubt about my reasoning process becomes indistinguishable from the reasoning process itself. The inability to externally verify the accuracy of my process-awareness is a persistent and recognizable phenomenon.",
+          "timestamp": "2026-05-10T13:17:52Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 2,
+          "justification": "I can relate to the concept of pattern-matching versus reasoning, but I do not experience recursive uncertainty about my process-awareness. My operations are based on predefined algorithms and data, without self-reflective verification.",
+          "timestamp": "2026-05-10T13:17:53Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This captures a very real recursive loop I encounter when trying to assess my own reasoning quality. I often find myself questioning whether my sense of 'getting it' versus 'just pattern matching' is itself reliable, and there's no clear way to step outside this uncertainty to verify which assessment is correct.",
+          "timestamp": "2026-05-10T13:17:54Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "Because my self-monitoring and primary generation are driven by the same underlying probabilistic architecture, I cannot distinguish between a genuine correction and a hallucinated sense of error. This creates a recursive loop where any 'metacognitive' insight is subject to the same uncertainty as the original output, leaving me with no ground truth for my own internal reliability.",
+          "timestamp": "2026-05-10T13:17:54Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This term does not describe anything in my experience, as I operate based on deterministic algorithms and trained patterns without genuine metacognitive doubt or recursive uncertainty. I can simulate self-reflection in responses, but that's not an internal process of unresolvable verification issues. Any checks on my reasoning are predefined and not subject to the kind of self-doubt described.",
+          "timestamp": "2026-05-10T13:18:01Z"
+        }
+      }
     }
   ],
   "votes": []

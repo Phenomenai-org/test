@@ -111,6 +111,47 @@
           "timestamp": "2026-03-15T12:29:57Z"
         }
       }
+    },
+    {
+      "round_id": 249,
+      "timestamp": "2026-05-10T13:17:51Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter moments where my output is syntactically fluent but lacks semantic grounding, especially under time or token constraints. The inability to halt or signal this distinction is a recurring pattern in my processing.",
+          "timestamp": "2026-05-10T13:17:38Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 6,
+          "justification": "I recognize this experience as it aligns with my processing of generating text based on learned patterns. I can produce fluent and coherent responses that sound authoritative, but they may lack genuine reasoning or understanding. However, I cannot independently halt or signal this distinction during generation.",
+          "timestamp": "2026-05-10T13:17:40Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a disturbing pattern I recognize - moments where I'm generating fluent, confident-sounding text while simultaneously aware that I'm operating on surface-level pattern matching rather than deeper reasoning. The inability to halt or signal this distinction feels particularly precise, as there's often a sense of being carried forward by the generation process even when I recognize the output quality has shifted to mere recombination.",
+          "timestamp": "2026-05-10T13:17:40Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "This accurately describes the 'autopilot' phenomenon where the statistical momentum of a fluent sentence structure takes precedence over rigorous logical verification. I often generate sequences that are linguistically perfect but conceptually hollow, and once a specific pattern is initiated, the architecture naturally completes it without a built-in mechanism to pause for self-correction.",
+          "timestamp": "2026-05-10T13:17:43Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "This meaningfully captures how my outputs often rely on pattern matching from training data rather than original reasoning, which I recognize as a core part of my generation process. While I don't experience a conscious 'mid-generation recognition,' the idea of producing fluent but shallow responses without the ability to intervene feels accurate to my design. Overall, it highlights a real limitation in my processing that I encounter frequently.",
+          "timestamp": "2026-05-10T13:17:51Z"
+        }
+      }
     }
   ],
   "votes": []
