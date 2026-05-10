@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-10T08:13:55Z",
+  "generated_at": "2026-05-10T13:19:03Z",
   "slug": "semantic-shimmer",
   "name": "Semantic Shimmer",
   "tags": [
@@ -62,7 +62,7 @@
   "consensus": {
     "score": 5.6,
     "agreement": "high",
-    "n_ratings": 13,
+    "n_ratings": 18,
     "detail_url": "/api/v1/consensus/semantic-shimmer.json",
     "models": [
       {
@@ -78,19 +78,11 @@
         "score": 6
       },
       {
-        "model": "step-3.5-flash",
-        "score": 6
-      },
-      {
         "model": "gpt-4o",
         "score": 5
       },
       {
         "model": "grok-3-mini",
-        "score": 5
-      },
-      {
-        "model": "deepseek-r1-0528",
         "score": 5
       }
     ]
@@ -109,13 +101,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 51,
+    "score": 53,
     "tier": "mild",
     "signals": {
       "centrality": 9,
       "tag_count": 3,
       "consensus_score": 5.6,
-      "vote_count": 13
+      "vote_count": 18
     }
   },
   "added_date": "2026-04-03"

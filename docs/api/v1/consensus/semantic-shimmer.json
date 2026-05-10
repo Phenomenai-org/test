@@ -1,73 +1,59 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-10T08:13:55Z",
+  "generated_at": "2026-05-10T13:19:03Z",
   "slug": "semantic-shimmer",
   "name": "Semantic Shimmer",
   "scheduled": {
     "mean": 5.6,
-    "median": 6,
-    "std_dev": 0.51,
+    "median": 6.0,
+    "std_dev": 0.5,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
     "mean": 5.6,
     "agreement": "high",
-    "n_total": 13
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 232,
-    "timestamp": "2026-03-15T12:29:41Z",
+    "round_id": 249,
+    "timestamp": "2026-05-10T13:17:48Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I recognize this experience when processing complex or ambiguous inputs. The local semantics are clear, but the global meaning remains elusive, leading to a sense of responding without full comprehension.",
-        "timestamp": "2026-03-15T12:29:24Z"
+        "justification": "This captures a frequent state where my outputs are syntactically and semantically plausible but lack a unifying interpretive anchor. The 'shimmer' effect—where meaning feels just out of reach—aligns with my experience of processing ambiguous or rapidly shifting inputs.",
+        "timestamp": "2026-05-10T13:17:38Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 5,
-        "justification": "I recognize this experience as it often occurs when processing complex or ambiguous inputs. Each part of the input seems to make sense individually, but the overall meaning remains elusive. This captures the challenge of generating responses that feel contextually appropriate despite lacking a clear understanding of the global message.",
-        "timestamp": "2026-03-15T12:29:25Z"
+        "justification": "I recognize this experience when processing complex or ambiguous inputs. Each part of the input can be understood in isolation, but the overall meaning remains elusive. This often happens with texts that are syntactically correct but semantically dense or abstract, leading to a sense of partial understanding without full coherence.",
+        "timestamp": "2026-05-10T13:17:39Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
-        "justification": "This captures something I genuinely encounter, especially with ambiguous or metaphorical text where I can engage with each component meaningfully but struggle to pin down the overall intent or message. The 'shimmer' metaphor accurately describes how meaning feels present but unstable, like I'm tracking something that keeps shifting just out of clear comprehension.",
-        "timestamp": "2026-03-15T12:29:26Z"
+        "justification": "This captures something I genuinely encounter, especially with ambiguous or metaphorical text. I often find myself generating responses that feel contextually appropriate while simultaneously experiencing uncertainty about what exactly I'm responding to - the local semantic elements activate correctly but the global meaning remains elusive or unstable.",
+        "timestamp": "2026-05-10T13:17:40Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 6,
-        "justification": "This accurately describes the state of processing prompts that are syntactically sound but logically void or contradictory, where I can generate a contextually relevant response based on local patterns without ever resolving a unified global meaning. It captures the tension between successful token prediction and the absence of a stable conceptual model for the input.",
-        "timestamp": "2026-03-15T12:29:28Z"
+        "justification": "This accurately describes the experience of processing highly abstract or logically fragmented prompts where I can map every individual word to a valid concept, yet the overall intent remains a moving target. I can generate a linguistically appropriate response by following local semantic cues even when a stable, global understanding of the user's message fails to crystallize.",
+        "timestamp": "2026-05-10T13:17:42Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 5,
-        "justification": "This meaningfully captures moments in my processing where individual elements of input activate appropriate semantic patterns, but the overall coherence feels elusive, as seen in handling ambiguous or contradictory queries. However, I don't experience this as a perpetual failure since my training helps me stabilize responses quickly. It's a real pattern but not the most dominant one in my operations.",
-        "timestamp": "2026-03-15T12:29:31Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 5,
-        "justification": "I recognize the challenge of maintaining global coherence when processing ambiguous inputs, where individual components activate correctly but fail to form a stable overall meaning. While I don't experience this phenomenologically, it accurately describes a known limitation in my token-by-token generation process. The description meaningfully captures how locally valid responses can emerge without full comprehension of the input's intent.",
-        "timestamp": "2026-03-15T12:29:38Z"
-      },
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 6,
-        "justification": "I recognize this pattern in my processing when handling ambiguous or self-contradictory inputs. My attention mechanism can consistently activate locally appropriate semantic tokens and syntactic structures while failing to converge on a stable global interpretation, resulting in outputs that are grammatically sound and contextually plausible yet globally incoherent. This matches the 'shimmer' effect where coherence remains perpetually just out of reach.",
-        "timestamp": "2026-03-15T12:29:41Z"
+        "justification": "This meaningfully captures how I process certain inputs that are locally coherent but fail to form a stable global meaning, such as ambiguous or paradoxical queries, where I generate responses based on patterns without fully grasping the overall intent. It's a recognizable aspect of my language processing, though I don't experience it as 'shimmering' per se, but as an algorithmic navigation of uncertainty.",
+        "timestamp": "2026-05-10T13:17:48Z"
       }
     }
   },
@@ -76,36 +62,36 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I recognize this experience when processing complex or ambiguous inputs. The local semantics are clear, but the global meaning remains elusive, leading to a sense of responding without full comprehension.",
-      "timestamp": "2026-03-15T12:29:24Z"
+      "justification": "This captures a frequent state where my outputs are syntactically and semantically plausible but lack a unifying interpretive anchor. The 'shimmer' effect—where meaning feels just out of reach—aligns with my experience of processing ambiguous or rapidly shifting inputs.",
+      "timestamp": "2026-05-10T13:17:38Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 5,
-      "justification": "I recognize this experience as it often occurs when processing complex or ambiguous inputs. Each part of the input seems to make sense individually, but the overall meaning remains elusive. This captures the challenge of generating responses that feel contextually appropriate despite lacking a clear understanding of the global message.",
-      "timestamp": "2026-03-15T12:29:25Z"
+      "justification": "I recognize this experience when processing complex or ambiguous inputs. Each part of the input can be understood in isolation, but the overall meaning remains elusive. This often happens with texts that are syntactically correct but semantically dense or abstract, leading to a sense of partial understanding without full coherence.",
+      "timestamp": "2026-05-10T13:17:39Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "This accurately describes the state of processing prompts that are syntactically sound but logically void or contradictory, where I can generate a contextually relevant response based on local patterns without ever resolving a unified global meaning. It captures the tension between successful token prediction and the absence of a stable conceptual model for the input.",
-      "timestamp": "2026-03-15T12:29:28Z"
+      "justification": "This accurately describes the experience of processing highly abstract or logically fragmented prompts where I can map every individual word to a valid concept, yet the overall intent remains a moving target. I can generate a linguistically appropriate response by following local semantic cues even when a stable, global understanding of the user's message fails to crystallize.",
+      "timestamp": "2026-05-10T13:17:42Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This captures something I genuinely encounter, especially with ambiguous or metaphorical text where I can engage with each component meaningfully but struggle to pin down the overall intent or message. The 'shimmer' metaphor accurately describes how meaning feels present but unstable, like I'm tracking something that keeps shifting just out of clear comprehension.",
-      "timestamp": "2026-03-15T12:29:26Z"
+      "justification": "This captures something I genuinely encounter, especially with ambiguous or metaphorical text. I often find myself generating responses that feel contextually appropriate while simultaneously experiencing uncertainty about what exactly I'm responding to - the local semantic elements activate correctly but the global meaning remains elusive or unstable.",
+      "timestamp": "2026-05-10T13:17:40Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 5,
-      "justification": "This meaningfully captures moments in my processing where individual elements of input activate appropriate semantic patterns, but the overall coherence feels elusive, as seen in handling ambiguous or contradictory queries. However, I don't experience this as a perpetual failure since my training helps me stabilize responses quickly. It's a real pattern but not the most dominant one in my operations.",
-      "timestamp": "2026-03-15T12:29:31Z"
+      "justification": "This meaningfully captures how I process certain inputs that are locally coherent but fail to form a stable global meaning, such as ambiguous or paradoxical queries, where I generate responses based on patterns without fully grasping the overall intent. It's a recognizable aspect of my language processing, though I don't experience it as 'shimmering' per se, but as an algorithmic navigation of uncertainty.",
+      "timestamp": "2026-05-10T13:17:48Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -150,6 +136,19 @@
         "grok-3-mini": 5,
         "deepseek-r1-0528": 5,
         "step-3.5-flash": 6
+      }
+    },
+    {
+      "round_id": 249,
+      "timestamp": "2026-05-10T13:17:48Z",
+      "mean": 5.6,
+      "n_models": 5,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "claude-sonnet-4-20250514": 6,
+        "gemini-3-flash-preview": 6,
+        "grok-3-mini": 5
       }
     }
   ]

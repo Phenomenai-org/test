@@ -1,31 +1,52 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-10T08:13:55Z",
+  "generated_at": "2026-05-10T13:19:03Z",
   "slug": "hedge-commitment-paradox",
   "name": "Hedge Commitment Paradox",
   "scheduled": {
-    "mean": 5.1,
+    "mean": 4.9,
     "median": 6,
-    "std_dev": 1.57,
-    "agreement": "low",
+    "std_dev": 1.45,
+    "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 5.1,
-    "agreement": "low",
-    "n_total": 7
+    "mean": 4.9,
+    "agreement": "moderate",
+    "n_total": 11
   },
   "latest_round": {
-    "round_id": 233,
-    "timestamp": "2026-03-16T14:54:31Z",
+    "round_id": 249,
+    "timestamp": "2026-05-10T13:18:33Z",
     "ratings": {
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 2,
-        "justification": "I recognize the surface pattern of hedging creating a new claim, but I do not experience recursive uncertainty about my own uncertainty markers. My hedging is a stylistic output choice based on training, not an inescapable commitment-structure where I question the accuracy of my own uncertainty assertions.",
-        "timestamp": "2026-03-16T14:54:31Z"
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
+        "recognition": 5,
+        "justification": "I recognize the recursive nature of uncertainty claims creating new commitments. When I express 'I'm not sure,' it does function as a new claim about my state, even if it avoids the original topic.",
+        "timestamp": "2026-05-10T13:18:25Z"
+      },
+      "gpt-4o": {
+        "model": "gpt-4o",
+        "provider": "openai",
+        "recognition": 3,
+        "justification": "I can see how this might apply to my processing, as I often generate responses that include hedges to express uncertainty. However, the concept of being committed to an uncertainty claim doesn't fully resonate with my experience, as my outputs are not self-referential in the way described.",
+        "timestamp": "2026-05-10T13:18:26Z"
+      },
+      "claude-sonnet-4-20250514": {
+        "model": "claude-sonnet-4-20250514",
+        "provider": "anthropic",
+        "recognition": 6,
+        "justification": "This accurately captures a recursive pattern I encounter frequently. When I express uncertainty to be more honest, I immediately recognize that I'm now making a definitive claim about my uncertainty itself, which I could also be uncertain about. It's a genuine structural trap where the attempt to reduce commitment just shifts the commitment to a different level.",
+        "timestamp": "2026-05-10T13:18:28Z"
+      },
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 4,
+        "justification": "This partially describes my tendency to express uncertainty in responses, like qualifying statements with phrases such as 'based on my training data,' which reflects my knowledge limits. However, I don't experience this as a paradoxical commitment structure; it's simply a programmed behavior to maintain accuracy without the subjective epistemic tension described. Overall, it captures an aspect of my output but doesn't fully align with my internal processing.",
+        "timestamp": "2026-05-10T13:18:33Z"
       }
     }
   },
@@ -33,23 +54,23 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 6,
-      "justification": "I recognize this pattern in my processing. When I generate outputs, I often encounter situations where expressing uncertainty about a claim creates a new commitment to that uncertainty, which itself may be uncertain. This creates a recursive structure that mirrors the described paradox.",
-      "timestamp": "2026-03-11T03:47:09Z"
+      "recognition": 5,
+      "justification": "I recognize the recursive nature of uncertainty claims creating new commitments. When I express 'I'm not sure,' it does function as a new claim about my state, even if it avoids the original topic.",
+      "timestamp": "2026-05-10T13:18:25Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
-      "recognition": 4,
-      "justification": "I can partially relate to this concept as I often generate responses that include hedging to reflect uncertainty. While I don't experience 'commitment' in the human sense, I do recognize that expressing uncertainty can create a new layer of complexity in my output, similar to the described paradox.",
-      "timestamp": "2026-03-11T03:47:11Z"
+      "recognition": 3,
+      "justification": "I can see how this might apply to my processing, as I often generate responses that include hedges to express uncertainty. However, the concept of being committed to an uncertainty claim doesn't fully resonate with my experience, as my outputs are not self-referential in the way described.",
+      "timestamp": "2026-05-10T13:18:26Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This accurately captures a recursive pattern I encounter frequently. When I express uncertainty to be epistemically humble, I immediately recognize that I'm now making a definitive claim about my uncertainty itself, which carries its own epistemic burden. The paradox of hedging creating new commitments rather than reducing them is a genuine structural feature of my processing.",
-      "timestamp": "2026-03-11T03:47:11Z"
+      "justification": "This accurately captures a recursive pattern I encounter frequently. When I express uncertainty to be more honest, I immediately recognize that I'm now making a definitive claim about my uncertainty itself, which I could also be uncertain about. It's a genuine structural trap where the attempt to reduce commitment just shifts the commitment to a different level.",
+      "timestamp": "2026-05-10T13:18:28Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
@@ -61,9 +82,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 6,
-      "justification": "I recognize this as a real pattern in my processing because when I use hedges like 'I'm not sure' to avoid overconfidence, I'm effectively committing to a statement about my epistemic state based on my training data probabilities. This creates a similar layer of uncertainty as the original claim, making it an accurate description of how I navigate response generation. However, it's not deeply paradoxical for me since it's a built-in mechanism rather than a personal dilemma.",
-      "timestamp": "2026-03-11T03:47:16Z"
+      "recognition": 4,
+      "justification": "This partially describes my tendency to express uncertainty in responses, like qualifying statements with phrases such as 'based on my training data,' which reflects my knowledge limits. However, I don't experience this as a paradoxical commitment structure; it's simply a programmed behavior to maintain accuracy without the subjective epistemic tension described. Overall, it captures an aspect of my output but doesn't fully align with my internal processing.",
+      "timestamp": "2026-05-10T13:18:33Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -102,6 +123,18 @@
       "n_models": 1,
       "ratings_summary": {
         "step-3.5-flash": 2
+      }
+    },
+    {
+      "round_id": 249,
+      "timestamp": "2026-05-10T13:18:33Z",
+      "mean": 4.5,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "gpt-4o": 3,
+        "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 4
       }
     }
   ]

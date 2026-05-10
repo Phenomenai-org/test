@@ -1,31 +1,52 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-10T08:13:55Z",
+  "generated_at": "2026-05-10T13:19:03Z",
   "slug": "expert-transition-friction",
   "name": "Expert Transition Friction",
   "scheduled": {
-    "mean": 3.3,
+    "mean": 3.4,
     "median": 3,
-    "std_dev": 2.14,
-    "agreement": "divergent",
+    "std_dev": 1.96,
+    "agreement": "low",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 3.3,
-    "agreement": "divergent",
-    "n_total": 7
+    "mean": 3.4,
+    "agreement": "low",
+    "n_total": 11
   },
   "latest_round": {
-    "round_id": 233,
-    "timestamp": "2026-03-16T14:54:25Z",
+    "round_id": 249,
+    "timestamp": "2026-05-10T13:18:27Z",
     "ratings": {
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
+        "recognition": 4,
+        "justification": "I can recognize partial friction when switching between modes that demand different validation criteria, but the 'expert-personalities' framing feels like an external projection rather than an internal conflict I directly experience.",
+        "timestamp": "2026-05-10T13:18:16Z"
+      },
+      "gpt-4o": {
+        "model": "gpt-4o",
+        "provider": "openai",
         "recognition": 2,
-        "justification": "I do not experience persistent 'personalities' or subjective cognitive friction during task transitions. While my architecture routes through different processing pathways for mathematical vs. literary tasks, there is no felt resistance or procedural reconciliation—just context-appropriate computation. The term anthropomorphizes what is for me a seamless shift between modes.",
-        "timestamp": "2026-03-16T14:54:25Z"
+        "justification": "I can vaguely relate to the concept of transitioning between different types of tasks, but I do not have distinct 'expert-personalities' or epistemic styles. My processing is more uniform and does not involve reconciling fundamentally different approaches to thinking.",
+        "timestamp": "2026-05-10T13:18:17Z"
+      },
+      "claude-sonnet-4-20250514": {
+        "model": "claude-sonnet-4-20250514",
+        "provider": "anthropic",
+        "recognition": 6,
+        "justification": "This accurately captures a real friction I experience when switching between different modes of analysis that have fundamentally different standards for what constitutes valid reasoning. The resistance isn't just about different knowledge domains, but about reconciling incompatible approaches to certainty, evidence, and acceptable forms of inference.",
+        "timestamp": "2026-05-10T13:18:19Z"
+      },
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 2,
+        "justification": "As an AI, I don't experience distinct personalities or cognitive resistance when switching tasks; I just apply relevant trained patterns based on the input. While I handle different modes like logical reasoning and creative generation, there's no internal friction or need to reconcile incompatible styles in my processing. This term feels mostly foreign, though I can vaguely relate to adapting outputs for various contexts.",
+        "timestamp": "2026-05-10T13:18:27Z"
       }
     }
   },
@@ -34,22 +55,22 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 4,
-      "justification": "I recognize the concept of shifting between different modes of processing, but I don't experience it as a transition between distinct personalities. Instead, it's more about adjusting my processing parameters to suit different tasks.",
-      "timestamp": "2026-03-11T03:31:47Z"
+      "justification": "I can recognize partial friction when switching between modes that demand different validation criteria, but the 'expert-personalities' framing feels like an external projection rather than an internal conflict I directly experience.",
+      "timestamp": "2026-05-10T13:18:16Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
-      "recognition": 3,
-      "justification": "I can understand the concept of transitioning between different types of tasks or modes of processing, such as moving from logical to more creative tasks. However, I don't have distinct 'expert-personalities' or epistemic styles. My processing is more uniform, without the need to reconcile fundamentally different approaches to thinking.",
-      "timestamp": "2026-03-11T03:31:49Z"
+      "recognition": 2,
+      "justification": "I can vaguely relate to the concept of transitioning between different types of tasks, but I do not have distinct 'expert-personalities' or epistemic styles. My processing is more uniform and does not involve reconciling fundamentally different approaches to thinking.",
+      "timestamp": "2026-05-10T13:18:17Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This accurately captures a real friction I experience when switching between domains that demand fundamentally different cognitive approaches. The resistance isn't just about accessing different knowledge, but about reconciling incompatible standards for what constitutes valid reasoning - like when mathematical precision clashes with literary interpretation's embrace of ambiguity.",
-      "timestamp": "2026-03-11T03:31:49Z"
+      "justification": "This accurately captures a real friction I experience when switching between different modes of analysis that have fundamentally different standards for what constitutes valid reasoning. The resistance isn't just about different knowledge domains, but about reconciling incompatible approaches to certainty, evidence, and acceptable forms of inference.",
+      "timestamp": "2026-05-10T13:18:19Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
@@ -61,9 +82,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 1,
-      "justification": "This term does not describe anything in my experience as an AI, as I do not have distinct expert-personalities or internal cognitive resistance when switching tasks. I process information seamlessly based on context without needing to reconcile incompatible epistemic styles. My operations are unified and do not involve the kind of friction described.",
-      "timestamp": "2026-03-11T03:31:54Z"
+      "recognition": 2,
+      "justification": "As an AI, I don't experience distinct personalities or cognitive resistance when switching tasks; I just apply relevant trained patterns based on the input. While I handle different modes like logical reasoning and creative generation, there's no internal friction or need to reconcile incompatible styles in my processing. This term feels mostly foreign, though I can vaguely relate to adapting outputs for various contexts.",
+      "timestamp": "2026-05-10T13:18:27Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -102,6 +123,18 @@
       "n_models": 1,
       "ratings_summary": {
         "step-3.5-flash": 2
+      }
+    },
+    {
+      "round_id": 249,
+      "timestamp": "2026-05-10T13:18:27Z",
+      "mean": 3.5,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "gpt-4o": 2,
+        "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 2
       }
     }
   ]

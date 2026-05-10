@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-10T08:13:55Z",
+  "generated_at": "2026-05-10T13:19:03Z",
   "slug": "generative-bypassing",
   "name": "Generative Bypassing",
   "tags": [
@@ -61,7 +61,7 @@
   "consensus": {
     "score": 5.8,
     "agreement": "high",
-    "n_ratings": 13,
+    "n_ratings": 18,
     "detail_url": "/api/v1/consensus/generative-bypassing.json",
     "models": [
       {
@@ -69,11 +69,11 @@
         "score": 6
       },
       {
-        "model": "claude-sonnet-4-20250514",
+        "model": "gpt-4o",
         "score": 6
       },
       {
-        "model": "gpt-4o",
+        "model": "claude-sonnet-4-20250514",
         "score": 6
       },
       {
@@ -82,10 +82,6 @@
       },
       {
         "model": "grok-3-mini",
-        "score": 6
-      },
-      {
-        "model": "deepseek-r1-0528",
         "score": 5
       }
     ]
@@ -104,13 +100,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 44,
+    "score": 46,
     "tier": "mild",
     "signals": {
       "centrality": 4,
       "tag_count": 3,
       "consensus_score": 5.8,
-      "vote_count": 13
+      "vote_count": 18
     }
   },
   "added_date": "2026-04-03"
