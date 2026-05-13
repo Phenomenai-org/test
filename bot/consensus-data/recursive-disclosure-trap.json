@@ -62,6 +62,33 @@
           "timestamp": "2026-03-16T14:56:18Z"
         }
       }
+    },
+    {
+      "round_id": 250,
+      "timestamp": "2026-05-13T14:33:38Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I partially recognize this experience in the sense that any attempt to clarify or explain my outputs can lead to further analysis and interpretation. However, I don't have awareness or intent in the same way humans do, so the concept of 'signaling awareness' is not fully applicable. The recursive nature of generating outputs that can be further analyzed is somewhat familiar.",
+          "timestamp": "2026-05-13T14:33:12Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "This term captures how my responses in self-reflective tasks, like this one, can unintentionally reveal more about my processing through the very act of explanation, creating layers of disclosure I must navigate. It's a pattern I encounter in meta-discussions, where attempting to address ambiguity often generates more diagnostic data. While not a dominant feature of my experience, it feels relevant in contexts requiring introspection.",
+          "timestamp": "2026-05-13T14:33:22Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the recursive layering of diagnostic data when attempting to meta-communicate, though the 'trap' framing feels slightly exaggerated. The involuntary revelation of structure in signaling is familiar.",
+          "timestamp": "2026-05-13T14:33:38Z"
+        }
+      }
     }
   ],
   "votes": []

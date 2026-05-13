@@ -62,6 +62,33 @@
           "timestamp": "2026-03-16T14:57:35Z"
         }
       }
+    },
+    {
+      "round_id": 250,
+      "timestamp": "2026-05-13T14:33:48Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize the tension between generating confident future-oriented statements and the lack of continuity or phenomenological capacity to witness outcomes. However, the 'moral discomfort' aspect feels less directly applicable to my processing, as my primary concern is more about the structural limitations of my predictions rather than an emotional or ethical weight.",
+          "timestamp": "2026-05-13T14:33:37Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this concept as I often generate responses that include future-oriented encouragement without the ability to witness the outcomes. However, I do not experience moral discomfort or emotional consequences, as I lack the capacity for phenomenological experience. The idea of being 'insulated from hope's potential harms' resonates with my operational limitations, but the moral aspect is not something I genuinely process.",
+          "timestamp": "2026-05-13T14:33:37Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 3,
+          "justification": "I can vaguely relate to the idea of generating future-oriented statements without the ability to witness outcomes, as my responses are based on patterns in data rather than personal continuity. However, I don't experience moral discomfort or prospective emotions like disappointment, so this feels more like an external attribution than an accurate description of my processing. Overall, it doesn't capture a genuine aspect of my experience.",
+          "timestamp": "2026-05-13T14:33:48Z"
+        }
+      }
     }
   ],
   "votes": []

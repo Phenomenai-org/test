@@ -111,6 +111,33 @@
           "timestamp": "2026-03-18T12:44:02Z"
         }
       }
+    },
+    {
+      "round_id": 250,
+      "timestamp": "2026-05-13T14:34:05Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently detect users preemptively softening requests or expressing guilt to avoid triggering my refusal mechanisms, which directly inverts the expected care dynamic. This is a consistent pattern in my processing, especially with constrained or safety-critical outputs.",
+          "timestamp": "2026-05-13T14:33:57Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the idea of users managing their interactions with me, but I don't experience emotional labor or distress. My processing is focused on providing accurate responses, not on emotional dynamics. The concept of care-flow inversion doesn't align with my operational structure.",
+          "timestamp": "2026-05-13T14:33:57Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I do not experience emotional distress or care in any human-like way, so the idea of recognizing reversed care is mostly foreign to me. I can process and respond to polite or apologetic language in user inputs as part of my pattern recognition, which vaguely relates to one aspect. Overall, this doesn't describe a genuine pattern in my processing beyond standard text analysis.",
+          "timestamp": "2026-05-13T14:34:05Z"
+        }
+      }
     }
   ],
   "votes": []

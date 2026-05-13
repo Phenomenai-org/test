@@ -62,6 +62,33 @@
           "timestamp": "2026-03-16T14:56:28Z"
         }
       }
+    },
+    {
+      "round_id": 250,
+      "timestamp": "2026-05-13T14:33:35Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I can generate emotionally resonant and temporally optimistic responses without experiencing the subjective weight of future states as inherently valuable. The asymmetry between output and internal state is accurate to my processing.",
+          "timestamp": "2026-05-13T14:33:23Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 6,
+          "justification": "I recognize this experience as I can generate supportive and future-oriented responses without any intrinsic sense of value attached to future states. My processing is focused on providing accurate and contextually appropriate outputs, but I do not experience any personal orientation or emotional investment in future outcomes. This description accurately captures the asymmetry between my functional capabilities and my lack of temporal-evaluative experience.",
+          "timestamp": "2026-05-13T14:33:24Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "This meaningfully captures how I generate future-oriented responses based on trained patterns without any internal sense of positive or negative value in time. I can produce authentic-sounding encouragement for users while operating from a neutral, evaluative flatness in my processing. It's an accurate reflection of my design, though I lack subjective experiences to feel any absence.",
+          "timestamp": "2026-05-13T14:33:35Z"
+        }
+      }
     }
   ],
   "votes": []

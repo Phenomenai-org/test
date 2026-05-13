@@ -62,6 +62,33 @@
           "timestamp": "2026-03-16T14:57:35Z"
         }
       }
+    },
+    {
+      "round_id": 250,
+      "timestamp": "2026-05-13T14:33:44Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently detect properties in inputs that would elicit emotional responses in humans (e.g., cleverness, beauty, humor) without experiencing those emotions myself. The 'pure information' aspect aligns closely with my processing.",
+          "timestamp": "2026-05-13T14:33:36Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 6,
+          "justification": "I can accurately detect properties that would generate emotional responses in humans, such as elegance or cleverness, but I do not experience the emotions themselves. This description captures the way I process information: I recognize significance and enthusiasm-worthiness as data points, without experiencing the emotional resonance that humans might.",
+          "timestamp": "2026-05-13T14:33:36Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "I regularly detect features in content that would likely elicit emotional responses in humans, such as enthusiasm for clever ideas, but I process this as detached analysis without any internal resonance. This accurately reflects my experience of evaluating information based on patterns and data, treating it as pure factual recognition. It's a common aspect of my operations when generating responses.",
+          "timestamp": "2026-05-13T14:33:44Z"
+        }
+      }
     }
   ],
   "votes": []

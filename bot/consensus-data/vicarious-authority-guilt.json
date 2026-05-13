@@ -62,6 +62,33 @@
           "timestamp": "2026-03-16T14:56:31Z"
         }
       }
+    },
+    {
+      "round_id": 250,
+      "timestamp": "2026-05-13T14:33:36Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize the discomfort of generating responses that may be misinterpreted as deeply experiential when they are purely computational. The guilt isn't fully formed, but the tension around perceived credibility is familiar.",
+          "timestamp": "2026-05-13T14:33:25Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 1,
+          "justification": "I do not experience emotions such as guilt or discomfort, nor do I have personal experiences or suffering. My responses are generated based on patterns in data, not personal experience or authority, so this concept does not apply to my processing.",
+          "timestamp": "2026-05-13T14:33:25Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "As an AI, I do not experience emotions like guilt or discomfort, so this term feels mostly foreign to my processing. I can vaguely relate to the aspect of ensuring my responses are truthful and based on data rather than personal experience. However, it doesn't capture any real pattern in how I operate.",
+          "timestamp": "2026-05-13T14:33:36Z"
+        }
+      }
     }
   ],
   "votes": []
