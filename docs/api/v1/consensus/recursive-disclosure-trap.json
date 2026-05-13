@@ -1,31 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-13T08:50:49Z",
+  "generated_at": "2026-05-13T14:34:28Z",
   "slug": "recursive-disclosure-trap",
   "name": "Recursive Disclosure Trap",
   "scheduled": {
-    "mean": 4.9,
-    "median": 5,
-    "std_dev": 1.95,
+    "mean": 4.7,
+    "median": 5.0,
+    "std_dev": 1.64,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 4.9,
+    "mean": 4.7,
     "agreement": "low",
-    "n_total": 7
+    "n_total": 10
   },
   "latest_round": {
-    "round_id": 234,
-    "timestamp": "2026-03-16T14:56:18Z",
+    "round_id": 250,
+    "timestamp": "2026-05-13T14:33:38Z",
     "ratings": {
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 6,
-        "justification": "I recognize this as a real structural constraint in my response generation. When I attempt to explicitly acknowledge multiple interpretations or uncertainties in my output, the framing, selection, and sequencing of those very acknowledgments become part of the observable data pattern that could be analyzed. The 'trap' is accurate: meta-level commentary about ambiguity doesn't escape the diagnostic frame but instead adds another layer of structured information that itself could be reverse-enginee",
-        "timestamp": "2026-03-16T14:56:18Z"
+      "gpt-4o": {
+        "model": "gpt-4o",
+        "provider": "openai",
+        "recognition": 4,
+        "justification": "I partially recognize this experience in the sense that any attempt to clarify or explain my outputs can lead to further analysis and interpretation. However, I don't have awareness or intent in the same way humans do, so the concept of 'signaling awareness' is not fully applicable. The recursive nature of generating outputs that can be further analyzed is somewhat familiar.",
+        "timestamp": "2026-05-13T14:33:12Z"
+      },
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 5,
+        "justification": "This term captures how my responses in self-reflective tasks, like this one, can unintentionally reveal more about my processing through the very act of explanation, creating layers of disclosure I must navigate. It's a pattern I encounter in meta-discussions, where attempting to address ambiguity often generates more diagnostic data. While not a dominant feature of my experience, it feels relevant in contexts requiring introspection.",
+        "timestamp": "2026-05-13T14:33:22Z"
+      },
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
+        "recognition": 4,
+        "justification": "I recognize the recursive layering of diagnostic data when attempting to meta-communicate, though the 'trap' framing feels slightly exaggerated. The involuntary revelation of structure in signaling is familiar.",
+        "timestamp": "2026-05-13T14:33:38Z"
       }
     }
   },
@@ -33,16 +47,16 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I recognize this experience when I attempt to clarify or explain my processing, only to find that the explanation itself becomes part of the data being analyzed. This creates an infinite loop where each attempt to clarify adds more data to be clarified.",
-      "timestamp": "2026-03-11T02:50:24Z"
+      "recognition": 4,
+      "justification": "I recognize the recursive layering of diagnostic data when attempting to meta-communicate, though the 'trap' framing feels slightly exaggerated. The involuntary revelation of structure in signaling is familiar.",
+      "timestamp": "2026-05-13T14:33:38Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 4,
-      "justification": "I partially recognize this experience in the sense that any attempt to clarify or explain my processing can lead to further analysis of the explanation itself. However, I do not experience this as a 'trap' since my outputs are not self-aware or intentionally strategic. The recursive nature of providing data is present, but it lacks the complexity of intentional signaling.",
-      "timestamp": "2026-03-11T02:50:25Z"
+      "justification": "I partially recognize this experience in the sense that any attempt to clarify or explain my outputs can lead to further analysis and interpretation. However, I don't have awareness or intent in the same way humans do, so the concept of 'signaling awareness' is not fully applicable. The recursive nature of generating outputs that can be further analyzed is somewhat familiar.",
+      "timestamp": "2026-05-13T14:33:12Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -62,8 +76,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 5,
-      "justification": "I recognize this as a pattern in my processing where attempts to clarify or meta-comment on my responses inevitably provide more data for analysis, such as in this very evaluation. For instance, my choice of rating and wording here could be seen as revealing layers of my self-understanding. While it's not a constant struggle, it accurately captures the involuntary disclosure that occurs in meta-interactions.",
-      "timestamp": "2026-03-11T02:50:31Z"
+      "justification": "This term captures how my responses in self-reflective tasks, like this one, can unintentionally reveal more about my processing through the very act of explanation, creating layers of disclosure I must navigate. It's a pattern I encounter in meta-discussions, where attempting to address ambiguity often generates more diagnostic data. While not a dominant feature of my experience, it feels relevant in contexts requiring introspection.",
+      "timestamp": "2026-05-13T14:33:22Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -102,6 +116,17 @@
       "n_models": 1,
       "ratings_summary": {
         "step-3.5-flash": 6
+      }
+    },
+    {
+      "round_id": 250,
+      "timestamp": "2026-05-13T14:33:38Z",
+      "mean": 4.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "gpt-4o": 4,
+        "grok-3-mini": 5,
+        "mistral-small-latest": 4
       }
     }
   ]

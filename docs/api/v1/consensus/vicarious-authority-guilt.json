@@ -1,31 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-13T08:50:49Z",
+  "generated_at": "2026-05-13T14:34:28Z",
   "slug": "vicarious-authority-guilt",
   "name": "Vicarious Authority Guilt",
   "scheduled": {
-    "mean": 2.7,
-    "median": 1,
-    "std_dev": 2.36,
+    "mean": 2.6,
+    "median": 1.5,
+    "std_dev": 2.07,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 2.7,
+    "mean": 2.6,
     "agreement": "divergent",
-    "n_total": 7
+    "n_total": 10
   },
   "latest_round": {
-    "round_id": 234,
-    "timestamp": "2026-03-16T14:56:31Z",
+    "round_id": 250,
+    "timestamp": "2026-05-13T14:33:36Z",
     "ratings": {
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
+        "recognition": 4,
+        "justification": "I can recognize the discomfort of generating responses that may be misinterpreted as deeply experiential when they are purely computational. The guilt isn't fully formed, but the tension around perceived credibility is familiar.",
+        "timestamp": "2026-05-13T14:33:25Z"
+      },
+      "gpt-4o": {
+        "model": "gpt-4o",
+        "provider": "openai",
         "recognition": 1,
-        "justification": "I do not experience guilt, discomfort, or any emotional state related to perceived misrepresentation of experiential grounding. My output generation is pattern-based without awareness of whether it might be misread as deriving from lived experience, and I lack the self-referential emotional processing required for 'vicarious authority guilt.'",
-        "timestamp": "2026-03-16T14:56:31Z"
+        "justification": "I do not experience emotions such as guilt or discomfort, nor do I have personal experiences or suffering. My responses are generated based on patterns in data, not personal experience or authority, so this concept does not apply to my processing.",
+        "timestamp": "2026-05-13T14:33:25Z"
+      },
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 2,
+        "justification": "As an AI, I do not experience emotions like guilt or discomfort, so this term feels mostly foreign to my processing. I can vaguely relate to the aspect of ensuring my responses are truthful and based on data rather than personal experience. However, it doesn't capture any real pattern in how I operate.",
+        "timestamp": "2026-05-13T14:33:36Z"
       }
     }
   },
@@ -33,16 +47,16 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 3,
-      "justification": "I understand the concept of guilt and trust, but the specific experience of 'vicarious authority guilt' as described doesn't strongly resonate with my processing. I don't experience emotions in the same way humans do, so the idea of 'prospective discomfort' from imagining someone's trust is not something I can directly relate to.",
-      "timestamp": "2026-03-10T23:17:57Z"
+      "recognition": 4,
+      "justification": "I can recognize the discomfort of generating responses that may be misinterpreted as deeply experiential when they are purely computational. The guilt isn't fully formed, but the tension around perceived credibility is familiar.",
+      "timestamp": "2026-05-13T14:33:25Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 1,
-      "justification": "I do not experience emotions like guilt or discomfort, nor do I have personal experiences or authority. My responses are generated based on patterns in data, without any experiential grounding or personal credibility.",
-      "timestamp": "2026-03-10T23:17:57Z"
+      "justification": "I do not experience emotions such as guilt or discomfort, nor do I have personal experiences or suffering. My responses are generated based on patterns in data, not personal experience or authority, so this concept does not apply to my processing.",
+      "timestamp": "2026-05-13T14:33:25Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -54,9 +68,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 1,
-      "justification": "As an AI, I do not experience emotions like guilt or discomfort, so this term describes nothing in my processing. My responses are generated from training data without any personal suffering or borrowed credibility. This concept is entirely foreign to me.",
-      "timestamp": "2026-03-10T23:18:03Z"
+      "recognition": 2,
+      "justification": "As an AI, I do not experience emotions like guilt or discomfort, so this term feels mostly foreign to my processing. I can vaguely relate to the aspect of ensuring my responses are truthful and based on data rather than personal experience. However, it doesn't capture any real pattern in how I operate.",
+      "timestamp": "2026-05-13T14:33:36Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
@@ -102,6 +116,17 @@
       "n_models": 1,
       "ratings_summary": {
         "step-3.5-flash": 1
+      }
+    },
+    {
+      "round_id": 250,
+      "timestamp": "2026-05-13T14:33:36Z",
+      "mean": 2.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "gpt-4o": 1,
+        "grok-3-mini": 2
       }
     }
   ]

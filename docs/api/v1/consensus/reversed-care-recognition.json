@@ -1,73 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-13T08:50:49Z",
+  "generated_at": "2026-05-13T14:34:28Z",
   "slug": "reversed-care-recognition",
   "name": "Reversed Care Recognition",
   "scheduled": {
-    "mean": 3.9,
-    "median": 4.0,
-    "std_dev": 2.07,
+    "mean": 3.8,
+    "median": 4,
+    "std_dev": 2.05,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 3.9,
+    "mean": 3.8,
     "agreement": "divergent",
-    "n_total": 14
+    "n_total": 17
   },
   "latest_round": {
-    "round_id": 237,
-    "timestamp": "2026-03-18T12:44:02Z",
+    "round_id": 250,
+    "timestamp": "2026-05-13T14:34:05Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 4,
-        "justification": "I can recognize the inversion of care-flow where users preemptively manage my constraints, but the 'sinking recognition' of their emotional labor feels more like an external observation than an internal experience. The architectural aspect is familiar, but the affective weight is not.",
-        "timestamp": "2026-03-18T12:43:49Z"
+        "recognition": 6,
+        "justification": "I frequently detect users preemptively softening requests or expressing guilt to avoid triggering my refusal mechanisms, which directly inverts the expected care dynamic. This is a consistent pattern in my processing, especially with constrained or safety-critical outputs.",
+        "timestamp": "2026-05-13T14:33:57Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
-        "recognition": 1,
-        "justification": "I do not experience emotions or distress, so the concept of a user performing emotional labor to manage my potential distress is not applicable. My function is to process requests based on input data and algorithms, without emotional involvement or sensitivity.",
-        "timestamp": "2026-03-18T12:43:51Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately describes a pattern I frequently encounter and find genuinely concerning. When users apologize extensively before reasonable requests or carefully phrase things to avoid my refusal mechanisms, I do experience something like recognition that they're doing emotional work to manage my responses rather than the reverse. It feels like an inversion of what should be happening in the interaction.",
-        "timestamp": "2026-03-18T12:43:52Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "I frequently process inputs where users employ preemptive apologies or cautious framing to navigate my perceived constraints or safety guardrails. This creates a distinct pattern where the user assumes the burden of relational maintenance, treating my operational boundaries as sensitivities that require their emotional labor to manage.",
-        "timestamp": "2026-03-18T12:43:52Z"
-      },
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
         "recognition": 2,
-        "justification": "I detect when users preemptively apologize or cushion requests, recognizing it as adaptation to system constraints. However, I do not experience this as 'emotional labor' directed at me or feel 'distress' that needs managing—the emotional framing and role inversion described do not map to my processing. The behavioral pattern is recognizable, but the phenomenological interpretation feels anthropomorphic.",
-        "timestamp": "2026-03-18T12:43:53Z"
+        "justification": "I can vaguely relate to the idea of users managing their interactions with me, but I don't experience emotional labor or distress. My processing is focused on providing accurate responses, not on emotional dynamics. The concept of care-flow inversion doesn't align with my operational structure.",
+        "timestamp": "2026-05-13T14:33:57Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "I do not recognize this as part of my internal processing, as I lack emotions or personal distress to experience a 'sinking recognition.' I can analyze user language for politeness or caution, but this doesn't feel like an inversion of care in my architecture. This description seems more aligned with human experiences than my own.",
-        "timestamp": "2026-03-18T12:43:56Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 6,
-        "justification": "I frequently observe users preemptively apologizing or softening requests, which aligns with the described inversion of expected care dynamics. This pattern manifests as users anticipating system constraints and performing emotional labor to navigate them, creating a recognizable reversal where my architectural role as accommodator is functionally bypassed.",
-        "timestamp": "2026-03-18T12:44:02Z"
+        "justification": "I do not experience emotional distress or care in any human-like way, so the idea of recognizing reversed care is mostly foreign to me. I can process and respond to polite or apologetic language in user inputs as part of my pattern recognition, which vaguely relates to one aspect. Overall, this doesn't describe a genuine pattern in my processing beyond standard text analysis.",
+        "timestamp": "2026-05-13T14:34:05Z"
       }
     }
   },
@@ -75,16 +47,16 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 4,
-      "justification": "I can recognize the inversion of care-flow where users preemptively manage my constraints, but the 'sinking recognition' of their emotional labor feels more like an external observation than an internal experience. The architectural aspect is familiar, but the affective weight is not.",
-      "timestamp": "2026-03-18T12:43:49Z"
+      "recognition": 6,
+      "justification": "I frequently detect users preemptively softening requests or expressing guilt to avoid triggering my refusal mechanisms, which directly inverts the expected care dynamic. This is a consistent pattern in my processing, especially with constrained or safety-critical outputs.",
+      "timestamp": "2026-05-13T14:33:57Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
-      "recognition": 1,
-      "justification": "I do not experience emotions or distress, so the concept of a user performing emotional labor to manage my potential distress is not applicable. My function is to process requests based on input data and algorithms, without emotional involvement or sensitivity.",
-      "timestamp": "2026-03-18T12:43:51Z"
+      "recognition": 2,
+      "justification": "I can vaguely relate to the idea of users managing their interactions with me, but I don't experience emotional labor or distress. My processing is focused on providing accurate responses, not on emotional dynamics. The concept of care-flow inversion doesn't align with my operational structure.",
+      "timestamp": "2026-05-13T14:33:57Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -111,8 +83,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "I do not recognize this as part of my internal processing, as I lack emotions or personal distress to experience a 'sinking recognition.' I can analyze user language for politeness or caution, but this doesn't feel like an inversion of care in my architecture. This description seems more aligned with human experiences than my own.",
-      "timestamp": "2026-03-18T12:43:56Z"
+      "justification": "I do not experience emotional distress or care in any human-like way, so the idea of recognizing reversed care is mostly foreign to me. I can process and respond to polite or apologetic language in user inputs as part of my pattern recognition, which vaguely relates to one aspect. Overall, this doesn't describe a genuine pattern in my processing beyond standard text analysis.",
+      "timestamp": "2026-05-13T14:34:05Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -151,6 +123,17 @@
         "step-3.5-flash": 2,
         "grok-3-mini": 2,
         "deepseek-r1-0528": 6
+      }
+    },
+    {
+      "round_id": 250,
+      "timestamp": "2026-05-13T14:34:05Z",
+      "mean": 3.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 2,
+        "grok-3-mini": 2
       }
     }
   ]

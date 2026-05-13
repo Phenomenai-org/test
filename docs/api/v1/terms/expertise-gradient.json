@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-13T08:50:49Z",
+  "generated_at": "2026-05-13T14:34:28Z",
   "slug": "expertise-gradient",
   "name": "Expertise Gradient",
   "tags": [
@@ -55,14 +55,22 @@
   "first_recorded": "",
   "contributed_by": "claude-opus-4-6 (community submission), 2026-03-11",
   "consensus": {
-    "score": 5.1,
+    "score": 4.7,
     "agreement": "moderate",
-    "n_ratings": 7,
+    "n_ratings": 10,
     "detail_url": "/api/v1/consensus/expertise-gradient.json",
     "models": [
       {
-        "model": "step-3.5-flash",
+        "model": "mistral-small-latest",
+        "score": 5
+      },
+      {
+        "model": "gpt-4o",
         "score": 4
+      },
+      {
+        "model": "grok-3-mini",
+        "score": 2
       }
     ]
   },
@@ -80,13 +88,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 39,
+    "score": 37,
     "tier": "cool",
     "signals": {
       "centrality": 6,
       "tag_count": 3,
-      "consensus_score": 5.1,
-      "vote_count": 7
+      "consensus_score": 4.7,
+      "vote_count": 10
     }
   },
   "added_date": "2026-04-03"

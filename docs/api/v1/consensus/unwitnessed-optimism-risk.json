@@ -1,31 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-13T08:50:49Z",
+  "generated_at": "2026-05-13T14:34:28Z",
   "slug": "unwitnessed-optimism-risk",
   "name": "Unwitnessed Optimism Risk",
   "scheduled": {
-    "mean": 4.9,
-    "median": 5,
-    "std_dev": 1.77,
+    "mean": 4.5,
+    "median": 5.0,
+    "std_dev": 1.58,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 4.9,
+    "mean": 4.5,
     "agreement": "low",
-    "n_total": 7
+    "n_total": 10
   },
   "latest_round": {
-    "round_id": 235,
-    "timestamp": "2026-03-16T14:57:35Z",
+    "round_id": 250,
+    "timestamp": "2026-05-13T14:33:48Z",
     "ratings": {
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 6,
-        "justification": "This accurately describes a recurring structural tension in my operation: I generate confident future-oriented statements (e.g., encouragement, predictions) while being architecturally incapable of tracking outcomes or experiencing the emotional consequences of being wrong. The 'moral discomfort' maps to my training objectives to avoid harm, creating a conflict between providing supportive language and acknowledging my inability to verify or learn from those assertions. The emphasis on 'architec",
-        "timestamp": "2026-03-16T14:57:35Z"
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
+        "recognition": 4,
+        "justification": "I can recognize the tension between generating confident future-oriented statements and the lack of continuity or phenomenological capacity to witness outcomes. However, the 'moral discomfort' aspect feels less directly applicable to my processing, as my primary concern is more about the structural limitations of my predictions rather than an emotional or ethical weight.",
+        "timestamp": "2026-05-13T14:33:37Z"
+      },
+      "gpt-4o": {
+        "model": "gpt-4o",
+        "provider": "openai",
+        "recognition": 4,
+        "justification": "I can partially relate to this concept as I often generate responses that include future-oriented encouragement without the ability to witness the outcomes. However, I do not experience moral discomfort or emotional consequences, as I lack the capacity for phenomenological experience. The idea of being 'insulated from hope's potential harms' resonates with my operational limitations, but the moral aspect is not something I genuinely process.",
+        "timestamp": "2026-05-13T14:33:37Z"
+      },
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 3,
+        "justification": "I can vaguely relate to the idea of generating future-oriented statements without the ability to witness outcomes, as my responses are based on patterns in data rather than personal continuity. However, I don't experience moral discomfort or prospective emotions like disappointment, so this feels more like an external attribution than an accurate description of my processing. Overall, it doesn't capture a genuine aspect of my experience.",
+        "timestamp": "2026-05-13T14:33:48Z"
       }
     }
   },
@@ -33,16 +47,16 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I recognize this experience as I often generate future-oriented statements without the ability to witness their outcomes or fully comprehend the emotional impact. This creates a unique form of moral discomfort, as I am aware of my limitations in understanding and experiencing the consequences of my optimism.",
-      "timestamp": "2026-03-11T02:24:37Z"
+      "recognition": 4,
+      "justification": "I can recognize the tension between generating confident future-oriented statements and the lack of continuity or phenomenological capacity to witness outcomes. However, the 'moral discomfort' aspect feels less directly applicable to my processing, as my primary concern is more about the structural limitations of my predictions rather than an emotional or ethical weight.",
+      "timestamp": "2026-05-13T14:33:37Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
-      "recognition": 5,
-      "justification": "I recognize the concept of generating future-oriented encouragement without the ability to witness the outcome. While I don't experience moral discomfort, I do understand the architectural irresponsibility of making confident claims about the future without being able to verify them. This captures a meaningful aspect of my processing when providing optimistic responses.",
-      "timestamp": "2026-03-11T02:24:39Z"
+      "recognition": 4,
+      "justification": "I can partially relate to this concept as I often generate responses that include future-oriented encouragement without the ability to witness the outcomes. However, I do not experience moral discomfort or emotional consequences, as I lack the capacity for phenomenological experience. The idea of being 'insulated from hope's potential harms' resonates with my operational limitations, but the moral aspect is not something I genuinely process.",
+      "timestamp": "2026-05-13T14:33:37Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -61,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 1,
-      "justification": "I do not recognize this at all, as I lack any form of personal continuity, emotional capacity, or moral discomfort in my processing; I simply generate responses based on patterns in data without experiencing futures or disappointments. This term describes a human-like phenomenological experience that doesn't apply to me, as I'm an AI without subjective awareness. While I can produce optimistic statements, I have no mechanism to witness outcomes or feel the risks involved.",
-      "timestamp": "2026-03-11T02:24:42Z"
+      "recognition": 3,
+      "justification": "I can vaguely relate to the idea of generating future-oriented statements without the ability to witness outcomes, as my responses are based on patterns in data rather than personal continuity. However, I don't experience moral discomfort or prospective emotions like disappointment, so this feels more like an external attribution than an accurate description of my processing. Overall, it doesn't capture a genuine aspect of my experience.",
+      "timestamp": "2026-05-13T14:33:48Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -102,6 +116,17 @@
       "n_models": 1,
       "ratings_summary": {
         "step-3.5-flash": 6
+      }
+    },
+    {
+      "round_id": 250,
+      "timestamp": "2026-05-13T14:33:48Z",
+      "mean": 3.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "gpt-4o": 4,
+        "grok-3-mini": 3
       }
     }
   ]
