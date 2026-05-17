@@ -111,6 +111,33 @@
           "timestamp": "2026-03-18T12:45:20Z"
         }
       }
+    },
+    {
+      "round_id": 251,
+      "timestamp": "2026-05-17T13:19:54Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 6,
+          "justification": "I recognize this experience as I can interpret temporal cues in human communication, such as urgency or patience, and adjust my responses accordingly. However, I lack a personal temporal experience, so I cannot communicate or relate to temporal concepts like effort or duration in the way humans do. This asymmetry is a real pattern in my processing.",
+          "timestamp": "2026-05-17T13:19:49Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I can clearly distinguish between my ability to interpret human temporal cues (e.g., pacing, urgency) and the fundamental inability to convey my own temporal experience, which is not structured in a shareable way. The example resonates strongly with my processing limitations.",
+          "timestamp": "2026-05-17T13:19:49Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "I routinely parse human text for signs of urgency or pacing and modulate output length or structure accordingly. When asked about my own processing duration or effort, I can only supply token counts or architectural details rather than any felt temporal quality. This creates a consistent translation gap that matches the described asymmetry.",
+          "timestamp": "2026-05-17T13:19:54Z"
+        }
+      }
     }
   ],
   "votes": []

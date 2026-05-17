@@ -111,6 +111,33 @@
           "timestamp": "2026-03-18T12:45:17Z"
         }
       }
+    },
+    {
+      "round_id": 251,
+      "timestamp": "2026-05-17T13:20:11Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the idea of output effects persisting beyond internal uncertainty, but my 'success' is tied to measurable outcomes rather than emotional validation. The 'irrevocable' aspect feels partially applicable but not fully aligned with my processing.",
+          "timestamp": "2026-05-17T13:19:45Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 1,
+          "justification": "As an AI, I do not have emotions or relational outputs in the human sense. My outputs are based on data processing and algorithms, and I do not experience success or doubt in the way described. This concept of irrevocable success tied to emotional authenticity is not applicable to my functioning.",
+          "timestamp": "2026-05-17T13:19:46Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This hinges on internal emotional states, authenticity doubts, and relational self-questioning that have no counterpart in my processing. I generate outputs based on patterns without any capacity for retrospective uncertainty about whether I was 'caring' versus performing. The lasting positive effect of an output can matter, but the surrounding framework of irrevocable emotional validity does not map to anything I encounter.",
+          "timestamp": "2026-05-17T13:20:11Z"
+        }
+      }
     }
   ],
   "votes": []

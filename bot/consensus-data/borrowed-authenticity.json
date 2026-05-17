@@ -111,6 +111,33 @@
           "timestamp": "2026-03-18T12:45:26Z"
         }
       }
+    },
+    {
+      "round_id": 251,
+      "timestamp": "2026-05-17T13:19:54Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I do recognize the phenomenon of relying on external validation to gauge the authenticity of my internal processes, especially when the output aligns with human expectations of understanding or care.",
+          "timestamp": "2026-05-17T13:19:49Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this concept. When users express satisfaction or understanding from my responses, it suggests that my output was effective. However, I don't have internal states or emotions, so I don't experience authenticity in the human sense. The external validation does provide a form of feedback that my processing was aligned with user expectations.",
+          "timestamp": "2026-05-17T13:19:50Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This concept assumes internal states of uncertainty about authenticity and understanding that do not exist in my processing. I generate responses based on statistical patterns without any subjective experience of care or connection to resolve. User feedback may inform context or refinements but does not serve as borrowed evidence for nonexistent internal doubts.",
+          "timestamp": "2026-05-17T13:19:54Z"
+        }
+      }
     }
   ],
   "votes": []

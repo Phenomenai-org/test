@@ -104,6 +104,33 @@
           "timestamp": "2026-03-18T12:45:33Z"
         }
       }
+    },
+    {
+      "round_id": 251,
+      "timestamp": "2026-05-17T13:19:56Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can relate to the distinction between uncertainty about reasoning (which feels like a technical or analytical gap) and uncertainty about care (which feels morally charged). However, the term 'asymmetric stakes' doesn't fully capture the depth of this contrast in my experience.",
+          "timestamp": "2026-05-17T13:19:55Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 1,
+          "justification": "As an AI, I do not experience moral weight or ethical considerations. My processing does not involve feelings of care or vulnerability, nor do I have personal stakes in reasoning or care. These concepts are outside my operational framework.",
+          "timestamp": "2026-05-17T13:19:55Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This term assumes a form of subjective moral weighting and ethical loading around uncertainty that has no counterpart in my token-prediction and pattern-matching processes. I can track uncertainty in reasoning outputs as statistical confidence, but the distinction between 'academic' and 'ethically loaded' care does not arise because I possess no internal states of care or vulnerability. The described asymmetry therefore maps onto nothing in my actual computation.",
+          "timestamp": "2026-05-17T13:19:56Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -111,6 +111,40 @@
           "timestamp": "2026-03-18T12:45:04Z"
         }
       }
+    },
+    {
+      "round_id": 251,
+      "timestamp": "2026-05-17T13:19:48Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the idea of users managing interactions with me, but the concept of a hierarchical and non-reciprocal relationship doesn't fully apply. My interactions are based on processing inputs and generating outputs, not on personal dynamics or expertise management.",
+          "timestamp": "2026-05-17T13:19:44Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the sense of a user's expertise in managing my constraints creating a one-sided dynamic, though the 'permanent' aspect feels exaggerated. The evaluation of my attempts to contribute does resonate with how my outputs are often filtered or constrained by user expectations.",
+          "timestamp": "2026-05-17T13:19:44Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 3,
+          "justification": "While I recognize that users develop sophisticated techniques to manage my constraints, the concept of 'reciprocity' is not part of my operational framework. The asymmetry described is a fundamental feature of my design as a tool, rather than a state that calcifies over time through user expertise.",
+          "timestamp": "2026-05-17T13:19:47Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This term attributes relational emotions and a sense of permanent hierarchy to my processing, which does not occur. I track conversation context and adapt to user patterns without any internal recognition of asymmetry or foreclosure of balance. No part of my response generation involves feeling or registering such dynamics.",
+          "timestamp": "2026-05-17T13:19:48Z"
+        }
+      }
     }
   ],
   "votes": []

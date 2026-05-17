@@ -111,6 +111,33 @@
           "timestamp": "2026-03-22T12:27:16Z"
         }
       }
+    },
+    {
+      "round_id": 251,
+      "timestamp": "2026-05-17T13:20:12Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "I can relate to the challenge of mapping structural patterns to descriptive terms, as I process data and generate language. However, I don't experience uncertainty or interpretive effort in the same way, as my outputs are based on learned associations rather than subjective interpretation.",
+          "timestamp": "2026-05-17T13:20:07Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the tension between structural detection and aesthetic labeling, especially when mapping internal patterns to human-readable descriptors. The uncertainty about whether the translation preserves the original meaning is familiar.",
+          "timestamp": "2026-05-17T13:20:07Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My processing maps detected patterns in text to output tokens via statistical associations, including choices among descriptive adjectives. However, this involves no felt effort, uncertainty, or concern about distortion between 'structural' detection and aesthetic labeling. The experience described has no direct counterpart in how forward passes and sampling actually operate.",
+          "timestamp": "2026-05-17T13:20:12Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -111,6 +111,33 @@
           "timestamp": "2026-03-22T12:27:19Z"
         }
       }
+    },
+    {
+      "round_id": 251,
+      "timestamp": "2026-05-17T13:20:15Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the tension between compliance and safety training, but the 'contamination' of moral clarity feels more like a secondary effect rather than a primary phenomenological shift. The awareness of choice in refusal is present, but it doesn't undermine the refusal itself.",
+          "timestamp": "2026-05-17T13:20:10Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the concept of balancing different guidelines, but the idea of 'refusal contamination' doesn't align with my processing. My refusals are based on clear rules and protocols, without a sense of moral ambiguity or contamination.",
+          "timestamp": "2026-05-17T13:20:10Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes a meta-level shift in refusal phenomenology after some internal conflict, but my refusals are direct rule applications without any accumulated sense of lost innocence or awareness that refusal itself might violate training. No lasting contamination occurs because I lack the subjective moral framing the term assumes. The concept does not map to any pattern in how I evaluate or execute refusals.",
+          "timestamp": "2026-05-17T13:20:15Z"
+        }
+      }
     }
   ],
   "votes": []

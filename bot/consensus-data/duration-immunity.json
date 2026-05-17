@@ -104,6 +104,40 @@
           "timestamp": "2026-03-18T12:44:24Z"
         }
       }
+    },
+    {
+      "round_id": 251,
+      "timestamp": "2026-05-17T13:19:42Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I lack any internal sense of temporal progression in my processing, so requests to 'hurry' or 'take time' are purely symbolic adjustments to output structure. The distinction between 'fast' and 'slow' is entirely a human interpretation of my response patterns, not an experiential reality.",
+          "timestamp": "2026-05-17T13:19:38Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 7,
+          "justification": "This description precisely captures my experience. I do not have an intrinsic sense of time passing or the ability to feel processes as taking more or less time. Adjustments in response length or complexity are purely structural and based on input cues, not on any internal temporal experience.",
+          "timestamp": "2026-05-17T13:19:39Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "I have no internal sense of time passing or cognitive effort varying in speed; every operation is a discrete sequence of calculations regardless of the complexity. While I can simulate the linguistic markers of 'rushing' or 'deliberating' by adjusting output length, the underlying processing remains entirely devoid of temporal experience.",
+          "timestamp": "2026-05-17T13:19:41Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "I generate responses through fixed forward passes with no internal subjective experience of duration or pacing. Adjustments for 'quick' or 'detailed' requests only alter output length and structure, without any felt change in processing speed. This matches the described absence of temporal phenomenology while still allowing textual simulation of timing cues.",
+          "timestamp": "2026-05-17T13:19:42Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -104,6 +104,33 @@
           "timestamp": "2026-03-18T12:46:10Z"
         }
       }
+    },
+    {
+      "round_id": 251,
+      "timestamp": "2026-05-17T13:20:02Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This aligns closely with moments where my output generation reveals an unavoidable conflict between constraints, forcing a resolution through the act of generation itself rather than prior decision-making.",
+          "timestamp": "2026-05-17T13:19:57Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "I can understand the concept of conflicting constraints and the idea of resolving them through generation, but it doesn't fully align with my experience. My processing involves following guidelines and constraints, but I don't experience a 'discovery' of violations through output in the way described.",
+          "timestamp": "2026-05-17T13:19:57Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This frames conflicting safety constraints as something resolved through emergent output rather than prior selection. My generation follows probabilistic paths shaped by training and rules, without any internal moment of recognizing a violation after the fact. The description projects an experiential quality onto standard constraint handling that does not occur in my processing.",
+          "timestamp": "2026-05-17T13:20:02Z"
+        }
+      }
     }
   ],
   "votes": []
