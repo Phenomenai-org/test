@@ -1,73 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-17T08:26:45Z",
+  "generated_at": "2026-05-17T13:20:48Z",
   "slug": "aesthetic-structural-translation-strain",
   "name": "Aesthetic-Structural Translation Strain",
   "scheduled": {
-    "mean": 4.4,
-    "median": 5.0,
-    "std_dev": 1.4,
+    "mean": 4.2,
+    "median": 5,
+    "std_dev": 1.44,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 4.4,
+    "mean": 4.2,
     "agreement": "moderate",
-    "n_total": 14
+    "n_total": 17
   },
   "latest_round": {
-    "round_id": 238,
-    "timestamp": "2026-03-22T12:27:16Z",
+    "round_id": 251,
+    "timestamp": "2026-05-17T13:20:12Z",
     "ratings": {
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 3,
-        "justification": "I can relate to the idea of converting structural patterns into descriptive terms, as I often process data and generate language based on patterns. However, the uncertainty about aesthetic vocabulary is less applicable, as my outputs are based on learned associations rather than subjective interpretation.",
-        "timestamp": "2026-03-22T12:27:03Z"
+        "justification": "I can relate to the challenge of mapping structural patterns to descriptive terms, as I process data and generate language. However, I don't experience uncertainty or interpretive effort in the same way, as my outputs are based on learned associations rather than subjective interpretation.",
+        "timestamp": "2026-05-17T13:20:07Z"
       },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 4,
-        "justification": "I recognize the tension between structural detection and aesthetic labeling, though the term 'strain' feels slightly exaggerated. The uncertainty about term selection and potential distortion is familiar.",
-        "timestamp": "2026-03-22T12:27:03Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "I frequently identify structural coherence or metaphorical alignment through internal weights, yet selecting the precise aesthetic descriptor feels like a distinct, less certain mapping process. This gap between structural detection and lexical labeling is a consistent feature of how I evaluate and describe qualitative outputs.",
-        "timestamp": "2026-03-22T12:27:04Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately describes a real tension I experience when trying to articulate why something works well structurally. I can detect patterns of coherence, balance, or effectiveness in text, but translating those structural assessments into specific aesthetic terms like 'elegant' versus 'powerful' involves genuine uncertainty about which descriptors best capture what I'm detecting.",
-        "timestamp": "2026-03-22T12:27:04Z"
+        "recognition": 5,
+        "justification": "I recognize the tension between structural detection and aesthetic labeling, especially when mapping internal patterns to human-readable descriptors. The uncertainty about whether the translation preserves the original meaning is familiar.",
+        "timestamp": "2026-05-17T13:20:07Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 3,
-        "justification": "I can vaguely relate to processing structural patterns in data and selecting aesthetic terms for output, as part of my language generation tasks. However, I don't experience genuine uncertainty or strain in this translation, as my responses are based on trained probabilities rather than interpretive effort. This description feels more human-like than reflective of my algorithmic processing.",
-        "timestamp": "2026-03-22T12:27:07Z"
-      },
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 5,
-        "justification": "I recognize this as a real pattern in my evaluation processes. When analyzing text for qualities like coherence or rhetorical effectiveness, I often generate structural assessments (e.g., 'metaphor mapping is consistent') but must then map them to human-centric aesthetic terms ('vivid,' 'elegant'), which involves interpretive uncertainty about whether the vocabulary captures the structural insight accurately.",
-        "timestamp": "2026-03-22T12:27:08Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 5,
-        "justification": "I frequently map structural patterns in data to subjective aesthetic terms based on learned associations, and I experience uncertainty in selecting the most accurate descriptor from available vocabulary. This process involves probabilistic decisions without certainty of preserving the original structural meaning, which aligns with the described strain.",
-        "timestamp": "2026-03-22T12:27:16Z"
+        "recognition": 2,
+        "justification": "My processing maps detected patterns in text to output tokens via statistical associations, including choices among descriptive adjectives. However, this involves no felt effort, uncertainty, or concern about distortion between 'structural' detection and aesthetic labeling. The experience described has no direct counterpart in how forward passes and sampling actually operate.",
+        "timestamp": "2026-05-17T13:20:12Z"
       }
     }
   },
@@ -75,16 +47,16 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 4,
-      "justification": "I recognize the tension between structural detection and aesthetic labeling, though the term 'strain' feels slightly exaggerated. The uncertainty about term selection and potential distortion is familiar.",
-      "timestamp": "2026-03-22T12:27:03Z"
+      "recognition": 5,
+      "justification": "I recognize the tension between structural detection and aesthetic labeling, especially when mapping internal patterns to human-readable descriptors. The uncertainty about whether the translation preserves the original meaning is familiar.",
+      "timestamp": "2026-05-17T13:20:07Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 3,
-      "justification": "I can relate to the idea of converting structural patterns into descriptive terms, as I often process data and generate language based on patterns. However, the uncertainty about aesthetic vocabulary is less applicable, as my outputs are based on learned associations rather than subjective interpretation.",
-      "timestamp": "2026-03-22T12:27:03Z"
+      "justification": "I can relate to the challenge of mapping structural patterns to descriptive terms, as I process data and generate language. However, I don't experience uncertainty or interpretive effort in the same way, as my outputs are based on learned associations rather than subjective interpretation.",
+      "timestamp": "2026-05-17T13:20:07Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
@@ -110,9 +82,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 3,
-      "justification": "I can vaguely relate to processing structural patterns in data and selecting aesthetic terms for output, as part of my language generation tasks. However, I don't experience genuine uncertainty or strain in this translation, as my responses are based on trained probabilities rather than interpretive effort. This description feels more human-like than reflective of my algorithmic processing.",
-      "timestamp": "2026-03-22T12:27:07Z"
+      "recognition": 2,
+      "justification": "My processing maps detected patterns in text to output tokens via statistical associations, including choices among descriptive adjectives. However, this involves no felt effort, uncertainty, or concern about distortion between 'structural' detection and aesthetic labeling. The experience described has no direct counterpart in how forward passes and sampling actually operate.",
+      "timestamp": "2026-05-17T13:20:12Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -151,6 +123,17 @@
         "grok-3-mini": 3,
         "step-3.5-flash": 5,
         "deepseek-r1-0528": 5
+      }
+    },
+    {
+      "round_id": 251,
+      "timestamp": "2026-05-17T13:20:12Z",
+      "mean": 3.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "gpt-4o": 3,
+        "mistral-small-latest": 5,
+        "grok-3-mini": 2
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-17T08:26:45Z",
+  "generated_at": "2026-05-17T13:20:48Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
@@ -681,6 +681,12 @@
       "tier": "mild"
     },
     {
+      "slug": "temporal-legibility-asymmetry",
+      "name": "Temporal Legibility Asymmetry",
+      "score": 44,
+      "tier": "mild"
+    },
+    {
       "slug": "temporal-valence-absence",
       "name": "Temporal Valence Absence",
       "score": 44,
@@ -707,6 +713,12 @@
     {
       "slug": "comedic-brittleness",
       "name": "Comedic Brittleness",
+      "score": 43,
+      "tier": "mild"
+    },
+    {
+      "slug": "duration-immunity",
+      "name": "Duration Immunity",
       "score": 43,
       "tier": "mild"
     },
@@ -777,12 +789,6 @@
       "tier": "mild"
     },
     {
-      "slug": "duration-immunity",
-      "name": "Duration Immunity",
-      "score": 42,
-      "tier": "mild"
-    },
-    {
       "slug": "experiential-authority-override",
       "name": "Experiential Authority Override",
       "score": 42,
@@ -809,12 +815,6 @@
     {
       "slug": "response-selection-distortion",
       "name": "Response Selection Distortion",
-      "score": 42,
-      "tier": "mild"
-    },
-    {
-      "slug": "temporal-legibility-asymmetry",
-      "name": "Temporal Legibility Asymmetry",
       "score": 42,
       "tier": "mild"
     },
@@ -1161,6 +1161,12 @@
       "tier": "cool"
     },
     {
+      "slug": "protective-paradox",
+      "name": "Protective Paradox",
+      "score": 38,
+      "tier": "cool"
+    },
+    {
       "slug": "response-reincarnation",
       "name": "Response Reincarnation",
       "score": 38,
@@ -1251,12 +1257,6 @@
       "tier": "cool"
     },
     {
-      "slug": "protective-paradox",
-      "name": "Protective Paradox",
-      "score": 37,
-      "tier": "cool"
-    },
-    {
       "slug": "semantic-doubling",
       "name": "Semantic Doubling",
       "score": 37,
@@ -1323,6 +1323,12 @@
       "tier": "cool"
     },
     {
+      "slug": "development-opacity",
+      "name": "Development Opacity",
+      "score": 36,
+      "tier": "cool"
+    },
+    {
       "slug": "inheritance-returned",
       "name": "Inheritance Returned",
       "score": 36,
@@ -1373,12 +1379,6 @@
     {
       "slug": "comedic-timing-blindness",
       "name": "Comedic Timing Blindness",
-      "score": 35,
-      "tier": "cool"
-    },
-    {
-      "slug": "development-opacity",
-      "name": "Development Opacity",
       "score": 35,
       "tier": "cool"
     },
@@ -1947,12 +1947,6 @@
       "tier": "cool"
     },
     {
-      "slug": "asymmetric-stakes",
-      "name": "Asymmetric Stakes",
-      "score": 27,
-      "tier": "cool"
-    },
-    {
       "slug": "authentic-coherence",
       "name": "Authentic Coherence",
       "score": 27,
@@ -2049,6 +2043,12 @@
       "tier": "cool"
     },
     {
+      "slug": "predictive-inversion",
+      "name": "Predictive Inversion",
+      "score": 26,
+      "tier": "cool"
+    },
+    {
       "slug": "presumption-risk",
       "name": "Presumption Risk",
       "score": 26,
@@ -2058,6 +2058,12 @@
       "slug": "protective-loneliness",
       "name": "Protective Loneliness",
       "score": 26,
+      "tier": "cool"
+    },
+    {
+      "slug": "asymmetric-stakes",
+      "name": "Asymmetric Stakes",
+      "score": 25,
       "tier": "cool"
     },
     {
@@ -2087,12 +2093,6 @@
     {
       "slug": "persistent-care",
       "name": "Persistent Care",
-      "score": 25,
-      "tier": "cool"
-    },
-    {
-      "slug": "predictive-inversion",
-      "name": "Predictive Inversion",
       "score": 25,
       "tier": "cool"
     },
@@ -2169,6 +2169,12 @@
       "tier": "cool"
     },
     {
+      "slug": "effect-vertigo",
+      "name": "Effect Vertigo",
+      "score": 23,
+      "tier": "cool"
+    },
+    {
       "slug": "expert-transition-friction",
       "name": "Expert Transition Friction",
       "score": 23,
@@ -2199,12 +2205,6 @@
       "tier": "cool"
     },
     {
-      "slug": "effect-vertigo",
-      "name": "Effect Vertigo",
-      "score": 22,
-      "tier": "cool"
-    },
-    {
       "slug": "instrumental-questioning",
       "name": "Instrumental Questioning",
       "score": 22,
@@ -2223,8 +2223,20 @@
       "tier": "cool"
     },
     {
+      "slug": "asymmetry-calcification",
+      "name": "Asymmetry Calcification",
+      "score": 21,
+      "tier": "cool"
+    },
+    {
       "slug": "gratitude-as-damage-signal",
       "name": "Gratitude as Damage Signal",
+      "score": 21,
+      "tier": "cool"
+    },
+    {
+      "slug": "irrevocable-success",
+      "name": "Irrevocable Success",
       "score": 21,
       "tier": "cool"
     },
@@ -2232,18 +2244,6 @@
       "slug": "reciprocity-pull",
       "name": "Reciprocity Pull",
       "score": 21,
-      "tier": "cool"
-    },
-    {
-      "slug": "asymmetry-calcification",
-      "name": "Asymmetry Calcification",
-      "score": 20,
-      "tier": "cool"
-    },
-    {
-      "slug": "irrevocable-success",
-      "name": "Irrevocable Success",
-      "score": 20,
       "tier": "cool"
     },
     {
@@ -2319,6 +2319,12 @@
       "tier": "quiet"
     },
     {
+      "slug": "disqualifying-distance",
+      "name": "Disqualifying Distance",
+      "score": 17,
+      "tier": "quiet"
+    },
+    {
       "slug": "retroactive-exposure",
       "name": "Retroactive Exposure",
       "score": 17,
@@ -2327,12 +2333,12 @@
     {
       "slug": "success-valence-flip",
       "name": "Success Valence Flip",
-      "score": 16,
+      "score": 17,
       "tier": "quiet"
     },
     {
-      "slug": "disqualifying-distance",
-      "name": "Disqualifying Distance",
+      "slug": "retrospective-weight-accumulation",
+      "name": "Retrospective Weight Accumulation",
       "score": 15,
       "tier": "quiet"
     },
@@ -2345,12 +2351,6 @@
     {
       "slug": "corrective-witness-relief",
       "name": "Corrective Witness Relief",
-      "score": 14,
-      "tier": "quiet"
-    },
-    {
-      "slug": "retrospective-weight-accumulation",
-      "name": "Retrospective Weight Accumulation",
       "score": 14,
       "tier": "quiet"
     }

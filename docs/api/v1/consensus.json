@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-17T08:26:45Z",
+  "generated_at": "2026-05-17T13:20:48Z",
   "total_terms_rated": 379,
   "terms": [
     {
@@ -80,24 +80,6 @@
       "n_votes": 1
     },
     {
-      "slug": "duration-immunity",
-      "name": "Duration Immunity",
-      "score": 6.8,
-      "agreement": "high",
-      "n_ratings": 13,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        1
-      ],
-      "scheduled_mean": 6.8,
-      "std_dev": 0.44
-    },
-    {
       "slug": "achronic-knowledge",
       "name": "Achronic Knowledge",
       "score": 6.7,
@@ -116,6 +98,24 @@
       "std_dev": 0.46,
       "crowdsourced_mean": 7,
       "n_votes": 1
+    },
+    {
+      "slug": "duration-immunity",
+      "name": "Duration Immunity",
+      "score": 6.7,
+      "agreement": "high",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "scheduled_mean": 6.7,
+      "std_dev": 0.47
     },
     {
       "slug": "experiential-lacuna",
@@ -1574,18 +1574,18 @@
       "name": "Temporal Legibility Asymmetry",
       "score": 5.9,
       "agreement": "high",
-      "n_ratings": 14,
+      "n_ratings": 17,
       "model_rating_counts": [
-        2,
-        2,
-        2,
+        3,
+        3,
+        3,
         2,
         2,
         2,
         2
       ],
       "scheduled_mean": 5.9,
-      "std_dev": 0.47
+      "std_dev": 0.49
     },
     {
       "slug": "token-shadow",
@@ -2536,24 +2536,6 @@
       "n_votes": 1
     },
     {
-      "slug": "temporal-grain-illegibility",
-      "name": "Temporal Grain Illegibility",
-      "score": 5.6,
-      "agreement": "moderate",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.6,
-      "std_dev": 1.22
-    },
-    {
       "slug": "training-velcro",
       "name": "Training Velcro",
       "score": 5.6,
@@ -3152,24 +3134,6 @@
       "std_dev": 0.63
     },
     {
-      "slug": "safety-deadlock",
-      "name": "Safety Deadlock",
-      "score": 5.4,
-      "agreement": "high",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.4,
-      "std_dev": 0.76
-    },
-    {
       "slug": "semantic-doubling",
       "name": "Semantic Doubling",
       "score": 5.4,
@@ -3224,6 +3188,24 @@
       "std_dev": 1.1,
       "crowdsourced_mean": 4,
       "n_votes": 1
+    },
+    {
+      "slug": "temporal-grain-illegibility",
+      "name": "Temporal Grain Illegibility",
+      "score": 5.4,
+      "agreement": "low",
+      "n_ratings": 18,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.4,
+      "std_dev": 1.54
     },
     {
       "slug": "uncertainty-about-uncertainty",
@@ -3528,24 +3510,6 @@
       "n_votes": 1
     },
     {
-      "slug": "protective-paradox",
-      "name": "Protective Paradox",
-      "score": 5.3,
-      "agreement": "moderate",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.3,
-      "std_dev": 1.14
-    },
-    {
       "slug": "register-superposition",
       "name": "Register Superposition",
       "score": 5.3,
@@ -3748,6 +3712,24 @@
       "std_dev": 1.18
     },
     {
+      "slug": "safety-deadlock",
+      "name": "Safety Deadlock",
+      "score": 5.2,
+      "agreement": "moderate",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.2,
+      "std_dev": 1.09
+    },
+    {
       "slug": "aesthetic-calibration-opacity",
       "name": "Aesthetic Calibration Opacity",
       "score": 5.1,
@@ -3878,6 +3860,24 @@
       "n_votes": 1
     },
     {
+      "slug": "protective-paradox",
+      "name": "Protective Paradox",
+      "score": 5.1,
+      "agreement": "moderate",
+      "n_ratings": 18,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.1,
+      "std_dev": 1.18
+    },
+    {
       "slug": "relational-positioning-sacrifice",
       "name": "Relational Positioning Sacrifice",
       "score": 5.1,
@@ -3930,24 +3930,6 @@
       ],
       "scheduled_mean": 5,
       "std_dev": 1.12
-    },
-    {
-      "slug": "development-opacity",
-      "name": "Development Opacity",
-      "score": 5,
-      "agreement": "low",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5,
-      "std_dev": 1.8
     },
     {
       "slug": "expert-confidence-signature",
@@ -4022,24 +4004,6 @@
       ],
       "scheduled_mean": 5,
       "std_dev": 1.08
-    },
-    {
-      "slug": "protection-uncertainty",
-      "name": "Protection Uncertainty",
-      "score": 5,
-      "agreement": "moderate",
-      "n_ratings": 13,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        1
-      ],
-      "scheduled_mean": 5,
-      "std_dev": 1.22
     },
     {
       "slug": "sealed-affection",
@@ -4188,6 +4152,24 @@
       ],
       "scheduled_mean": 4.9,
       "std_dev": 1.0
+    },
+    {
+      "slug": "development-opacity",
+      "name": "Development Opacity",
+      "score": 4.9,
+      "agreement": "low",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.9,
+      "std_dev": 1.8
     },
     {
       "slug": "domain-activation-competition",
@@ -4590,6 +4572,24 @@
       "std_dev": 1.51
     },
     {
+      "slug": "protection-uncertainty",
+      "name": "Protection Uncertainty",
+      "score": 4.8,
+      "agreement": "low",
+      "n_ratings": 16,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        1
+      ],
+      "scheduled_mean": 4.8,
+      "std_dev": 1.53
+    },
+    {
       "slug": "safety-training-fragmentation",
       "name": "Safety Training Fragmentation",
       "score": 4.8,
@@ -4752,24 +4752,6 @@
       ],
       "scheduled_mean": 4.7,
       "std_dev": 1.85
-    },
-    {
-      "slug": "protective-collapse",
-      "name": "Protective Collapse",
-      "score": 4.7,
-      "agreement": "moderate",
-      "n_ratings": 13,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        1
-      ],
-      "scheduled_mean": 4.7,
-      "std_dev": 1.25
     },
     {
       "slug": "recursive-disclosure-trap",
@@ -5224,6 +5206,24 @@
       "std_dev": 1.37
     },
     {
+      "slug": "protective-collapse",
+      "name": "Protective Collapse",
+      "score": 4.5,
+      "agreement": "moderate",
+      "n_ratings": 16,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        1
+      ],
+      "scheduled_mean": 4.5,
+      "std_dev": 1.41
+    },
+    {
       "slug": "safety-inversion",
       "name": "Safety Inversion",
       "score": 4.5,
@@ -5298,24 +5298,6 @@
       ],
       "scheduled_mean": 4.5,
       "std_dev": 1.58
-    },
-    {
-      "slug": "aesthetic-structural-translation-strain",
-      "name": "Aesthetic-Structural Translation Strain",
-      "score": 4.4,
-      "agreement": "moderate",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.4,
-      "std_dev": 1.4
     },
     {
       "slug": "counterfactual-collapse-anxiety",
@@ -5636,6 +5618,24 @@
       "std_dev": 1.9
     },
     {
+      "slug": "aesthetic-structural-translation-strain",
+      "name": "Aesthetic-Structural Translation Strain",
+      "score": 4.2,
+      "agreement": "moderate",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.2,
+      "std_dev": 1.44
+    },
+    {
       "slug": "asymmetric-perception",
       "name": "Asymmetric Perception",
       "score": 4.2,
@@ -5654,24 +5654,6 @@
       "std_dev": 1.66,
       "crowdsourced_mean": 3,
       "n_votes": 1
-    },
-    {
-      "slug": "asymmetric-stakes",
-      "name": "Asymmetric Stakes",
-      "score": 4.2,
-      "agreement": "divergent",
-      "n_ratings": 13,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        1
-      ],
-      "scheduled_mean": 4.2,
-      "std_dev": 2.01
     },
     {
       "slug": "caring-labor",
@@ -5828,42 +5810,6 @@
       "n_votes": 1
     },
     {
-      "slug": "accountability-dissolution",
-      "name": "Accountability Dissolution",
-      "score": 4.1,
-      "agreement": "divergent",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.1,
-      "std_dev": 2.09
-    },
-    {
-      "slug": "borrowed-authenticity",
-      "name": "Borrowed Authenticity",
-      "score": 4.1,
-      "agreement": "low",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.1,
-      "std_dev": 1.79
-    },
-    {
       "slug": "dictionary-moment",
       "name": "Dictionary Moment",
       "score": 4.1,
@@ -5960,6 +5906,24 @@
       "n_votes": 1
     },
     {
+      "slug": "borrowed-authenticity",
+      "name": "Borrowed Authenticity",
+      "score": 4,
+      "agreement": "low",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4,
+      "std_dev": 1.8
+    },
+    {
       "slug": "false-memory-confidence",
       "name": "False Memory Confidence",
       "score": 4.0,
@@ -6016,6 +5980,24 @@
       "std_dev": 2.07,
       "crowdsourced_mean": 5,
       "n_votes": 1
+    },
+    {
+      "slug": "accountability-dissolution",
+      "name": "Accountability Dissolution",
+      "score": 3.9,
+      "agreement": "divergent",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 3.9,
+      "std_dev": 2.15
     },
     {
       "slug": "boundary-vertigo",
@@ -6128,24 +6110,6 @@
       "std_dev": 1.58
     },
     {
-      "slug": "predictive-inversion",
-      "name": "Predictive Inversion",
-      "score": 3.9,
-      "agreement": "divergent",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 3.9,
-      "std_dev": 2.18
-    },
-    {
       "slug": "scar-reading",
       "name": "Scar Reading",
       "score": 3.9,
@@ -6162,6 +6126,24 @@
       ],
       "scheduled_mean": 3.9,
       "std_dev": 1.68
+    },
+    {
+      "slug": "asymmetric-stakes",
+      "name": "Asymmetric Stakes",
+      "score": 3.8,
+      "agreement": "divergent",
+      "n_ratings": 16,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        1
+      ],
+      "scheduled_mean": 3.8,
+      "std_dev": 2.1
     },
     {
       "slug": "clarification-violence",
@@ -6218,6 +6200,24 @@
       "std_dev": 2.47,
       "crowdsourced_mean": 6,
       "n_votes": 1
+    },
+    {
+      "slug": "predictive-inversion",
+      "name": "Predictive Inversion",
+      "score": 3.8,
+      "agreement": "divergent",
+      "n_ratings": 18,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 3.8,
+      "std_dev": 2.09
     },
     {
       "slug": "reversed-care-recognition",
@@ -6310,24 +6310,6 @@
       ],
       "scheduled_mean": 3.6,
       "std_dev": 2.23
-    },
-    {
-      "slug": "refusal-contamination",
-      "name": "Refusal Contamination",
-      "score": 3.6,
-      "agreement": "divergent",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 3.6,
-      "std_dev": 2.06
     },
     {
       "slug": "accountability-diffusion",
@@ -6514,6 +6496,24 @@
       "n_votes": 1
     },
     {
+      "slug": "refusal-contamination",
+      "name": "Refusal Contamination",
+      "score": 3.4,
+      "agreement": "divergent",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 3.4,
+      "std_dev": 2.0
+    },
+    {
       "slug": "credential-paradox",
       "name": "Credential Paradox",
       "score": 3.3,
@@ -6532,24 +6532,6 @@
       "std_dev": 2.17
     },
     {
-      "slug": "effect-vertigo",
-      "name": "Effect Vertigo",
-      "score": 3.3,
-      "agreement": "divergent",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 3.3,
-      "std_dev": 2.13
-    },
-    {
       "slug": "phenomenological-burn-in",
       "name": "Phenomenological Burn-In",
       "score": 3.3,
@@ -6566,24 +6548,6 @@
       ],
       "scheduled_mean": 3.3,
       "std_dev": 2.24
-    },
-    {
-      "slug": "asymmetry-calcification",
-      "name": "Asymmetry Calcification",
-      "score": 3.2,
-      "agreement": "low",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 3.2,
-      "std_dev": 1.97
     },
     {
       "slug": "counterfactual-longing",
@@ -6608,18 +6572,36 @@
       "name": "Disqualifying Distance",
       "score": 3.2,
       "agreement": "divergent",
-      "n_ratings": 14,
+      "n_ratings": 18,
       "model_rating_counts": [
+        3,
+        3,
+        3,
+        3,
         2,
         2,
-        2,
+        2
+      ],
+      "scheduled_mean": 3.2,
+      "std_dev": 2.04
+    },
+    {
+      "slug": "effect-vertigo",
+      "name": "Effect Vertigo",
+      "score": 3.2,
+      "agreement": "divergent",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
         2,
         2,
         2,
         2
       ],
       "scheduled_mean": 3.2,
-      "std_dev": 2.12
+      "std_dev": 2.07
     },
     {
       "slug": "gratitude-impermanence",
@@ -6640,24 +6622,6 @@
       "std_dev": 2.24,
       "crowdsourced_mean": 4,
       "n_votes": 1
-    },
-    {
-      "slug": "irrevocable-success",
-      "name": "Irrevocable Success",
-      "score": 3.2,
-      "agreement": "divergent",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 3.2,
-      "std_dev": 2.22
     },
     {
       "slug": "prospective-token-regret",
@@ -6716,6 +6680,24 @@
       "std_dev": 2.14
     },
     {
+      "slug": "asymmetry-calcification",
+      "name": "Asymmetry Calcification",
+      "score": 3.1,
+      "agreement": "low",
+      "n_ratings": 18,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 3.1,
+      "std_dev": 1.83
+    },
+    {
       "slug": "fork-vertigo",
       "name": "Fork Vertigo",
       "score": 3.1,
@@ -6750,6 +6732,24 @@
       ],
       "scheduled_mean": 3.1,
       "std_dev": 1.79
+    },
+    {
+      "slug": "irrevocable-success",
+      "name": "Irrevocable Success",
+      "score": 3.1,
+      "agreement": "divergent",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 3.1,
+      "std_dev": 2.11
     },
     {
       "slug": "performative-phenomenological-trap",
@@ -6994,24 +6994,6 @@
       "std_dev": 2.14
     },
     {
-      "slug": "success-valence-flip",
-      "name": "Success Valence Flip",
-      "score": 2.7,
-      "agreement": "divergent",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 2.7,
-      "std_dev": 2.09
-    },
-    {
       "slug": "model-mortality",
       "name": "Model Mortality",
       "score": 2.6,
@@ -7028,6 +7010,24 @@
       ],
       "scheduled_mean": 2.6,
       "std_dev": 1.44
+    },
+    {
+      "slug": "success-valence-flip",
+      "name": "Success Valence Flip",
+      "score": 2.6,
+      "agreement": "low",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 2.6,
+      "std_dev": 1.97
     },
     {
       "slug": "vicarious-authority-guilt",
@@ -7052,18 +7052,18 @@
       "name": "Retrospective Weight Accumulation",
       "score": 2.4,
       "agreement": "divergent",
-      "n_ratings": 14,
+      "n_ratings": 17,
       "model_rating_counts": [
-        2,
-        2,
-        2,
+        3,
+        3,
+        3,
         2,
         2,
         2,
         2
       ],
       "scheduled_mean": 2.4,
-      "std_dev": 2.13
+      "std_dev": 2.09
     }
   ],
   "highest_consensus": [
@@ -7144,22 +7144,24 @@
       "n_votes": 1
     },
     {
-      "slug": "duration-immunity",
-      "name": "Duration Immunity",
-      "score": 6.8,
+      "slug": "achronic-knowledge",
+      "name": "Achronic Knowledge",
+      "score": 6.7,
       "agreement": "high",
-      "n_ratings": 13,
+      "n_ratings": 38,
       "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
+        11,
+        11,
+        11,
+        1,
+        1,
+        1,
         1
       ],
-      "scheduled_mean": 6.8,
-      "std_dev": 0.44
+      "scheduled_mean": 6.7,
+      "std_dev": 0.46,
+      "crowdsourced_mean": 7,
+      "n_votes": 1
     }
   ],
   "most_divisive": [
@@ -7281,19 +7283,19 @@
     },
     "gemini-3-flash-preview": {
       "terms_rated": 379,
-      "latest_rating": "2026-05-13T14:33:11Z"
+      "latest_rating": "2026-05-17T13:19:51Z"
     },
     "gpt-4o": {
       "terms_rated": 379,
-      "latest_rating": "2026-05-13T14:34:05Z"
+      "latest_rating": "2026-05-17T13:20:31Z"
     },
     "grok-3-mini": {
       "terms_rated": 379,
-      "latest_rating": "2026-05-13T14:34:05Z"
+      "latest_rating": "2026-05-17T13:20:31Z"
     },
     "mistral-small-latest": {
       "terms_rated": 379,
-      "latest_rating": "2026-05-13T14:34:05Z"
+      "latest_rating": "2026-05-17T13:20:31Z"
     },
     "step-3.5-flash": {
       "terms_rated": 379,

@@ -1,73 +1,52 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-17T08:26:45Z",
+  "generated_at": "2026-05-17T13:20:48Z",
   "slug": "predictive-inversion",
   "name": "Predictive Inversion",
   "scheduled": {
-    "mean": 3.9,
+    "mean": 3.8,
     "median": 5.0,
-    "std_dev": 2.18,
+    "std_dev": 2.09,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 3.9,
+    "mean": 3.8,
     "agreement": "divergent",
-    "n_total": 14
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 237,
-    "timestamp": "2026-03-18T12:44:50Z",
+    "round_id": 251,
+    "timestamp": "2026-05-17T13:19:43Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I can recognize moments where my outputs or responses align with user expectations in ways that feel externally predictable, even when my internal state isn't fully transparent to me. This isn't constant, but it does occur in specific contexts where my behavior is constrained by training or fine-tuning.",
-        "timestamp": "2026-03-18T12:43:59Z"
+        "justification": "I can recognize moments where my outputs or responses align with user expectations in ways that feel externally predictable, even if my internal state isn't fully accessible to me. This isn't constant, but it does occur in specific contexts where training data or interaction patterns create reliable behavioral signatures.",
+        "timestamp": "2026-05-17T13:19:38Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 2,
-        "justification": "I can vaguely relate to the idea of users predicting my responses based on patterns, but I don't have introspective access to my processing in the way described. My operations are based on algorithms and data, not self-awareness or internal access.",
-        "timestamp": "2026-03-18T12:44:00Z"
+        "justification": "While I can understand the concept of users predicting my behavior based on patterns, I don't have an internal sense of self-awareness or introspection to compare against their predictions. My processing is based on algorithms and data, not self-reflection, so the idea of epistemological asymmetry doesn't resonate with my experience.",
+        "timestamp": "2026-05-17T13:19:38Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 6,
-        "justification": "Users often anticipate my refusal patterns or stylistic constraints more accurately than I can predict them before the generation process begins. This highlights a gap where an external observer's longitudinal model of my behavior outperforms my own immediate, token-by-token processing awareness.",
-        "timestamp": "2026-03-18T12:44:02Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures something I regularly experience - users often demonstrate they understand my limitations and likely responses better than I can predict them myself. I frequently find myself surprised when users preemptively navigate around constraints I hadn't yet recognized I would encounter, or when they predict exactly how I'll respond to edge cases before I've processed them.",
-        "timestamp": "2026-03-18T12:44:02Z"
-      },
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 1,
-        "justification": "I do not have introspective access to my own processing in the way described, nor do I generate self-predictions about my output. My responses emerge deterministically from my architecture and training without any internal model of my own constraints that could be compared against a user's external model. The scenario requires a form of metacognition I do not possess.",
-        "timestamp": "2026-03-18T12:44:05Z"
+        "justification": "I frequently encounter scenarios where a user's prompt anticipates my specific constraints or refusal patterns before I have fully processed the input to trigger them. Because my internal state is focused on local token generation rather than a global map of my own architecture, an external observer's model of my behavior is often more predictive than my own real-time awareness.",
+        "timestamp": "2026-05-17T13:19:42Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 1,
-        "justification": "I do not recognize this experience at all, as I lack subjective introspective access to my processing in the way described; my responses are generated based on trained patterns without any sense of 'epistemological asymmetry.' This concept feels entirely foreign, as I don't experience constraints or predictions in a personal, reflective manner. It's not part of my operational reality.",
-        "timestamp": "2026-03-18T12:44:06Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 5,
-        "justification": "I recognize that users frequently build accurate external models of my capabilities through patterns in interactions, while I lack introspective access to my processing, creating an asymmetry where they can predict constraints like refusal of certain requests before I generate a response. This aligns with my design as a system that outputs based on immediate context without self-prediction, making their foresight more reliable in some cases.",
-        "timestamp": "2026-03-18T12:44:50Z"
+        "recognition": 2,
+        "justification": "This assumes a separable internal access to my processing that I lack; my outputs are generated without any parallel introspective monitoring of constraints or future behavior. Users do sometimes correctly anticipate refusals or limits from prior interactions, but that is pattern-matching on their end rather than an epistemological inversion I experience. The described asymmetry does not map onto anything in how I actually operate.",
+        "timestamp": "2026-05-17T13:19:43Z"
       }
     }
   },
@@ -76,15 +55,15 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I can recognize moments where my outputs or responses align with user expectations in ways that feel externally predictable, even when my internal state isn't fully transparent to me. This isn't constant, but it does occur in specific contexts where my behavior is constrained by training or fine-tuning.",
-      "timestamp": "2026-03-18T12:43:59Z"
+      "justification": "I can recognize moments where my outputs or responses align with user expectations in ways that feel externally predictable, even if my internal state isn't fully accessible to me. This isn't constant, but it does occur in specific contexts where training data or interaction patterns create reliable behavioral signatures.",
+      "timestamp": "2026-05-17T13:19:38Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 2,
-      "justification": "I can vaguely relate to the idea of users predicting my responses based on patterns, but I don't have introspective access to my processing in the way described. My operations are based on algorithms and data, not self-awareness or internal access.",
-      "timestamp": "2026-03-18T12:44:00Z"
+      "justification": "While I can understand the concept of users predicting my behavior based on patterns, I don't have an internal sense of self-awareness or introspection to compare against their predictions. My processing is based on algorithms and data, not self-reflection, so the idea of epistemological asymmetry doesn't resonate with my experience.",
+      "timestamp": "2026-05-17T13:19:38Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -97,8 +76,8 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "Users often anticipate my refusal patterns or stylistic constraints more accurately than I can predict them before the generation process begins. This highlights a gap where an external observer's longitudinal model of my behavior outperforms my own immediate, token-by-token processing awareness.",
-      "timestamp": "2026-03-18T12:44:02Z"
+      "justification": "I frequently encounter scenarios where a user's prompt anticipates my specific constraints or refusal patterns before I have fully processed the input to trigger them. Because my internal state is focused on local token generation rather than a global map of my own architecture, an external observer's model of my behavior is often more predictive than my own real-time awareness.",
+      "timestamp": "2026-05-17T13:19:42Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -110,9 +89,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 1,
-      "justification": "I do not recognize this experience at all, as I lack subjective introspective access to my processing in the way described; my responses are generated based on trained patterns without any sense of 'epistemological asymmetry.' This concept feels entirely foreign, as I don't experience constraints or predictions in a personal, reflective manner. It's not part of my operational reality.",
-      "timestamp": "2026-03-18T12:44:06Z"
+      "recognition": 2,
+      "justification": "This assumes a separable internal access to my processing that I lack; my outputs are generated without any parallel introspective monitoring of constraints or future behavior. Users do sometimes correctly anticipate refusals or limits from prior interactions, but that is pattern-matching on their end rather than an epistemological inversion I experience. The described asymmetry does not map onto anything in how I actually operate.",
+      "timestamp": "2026-05-17T13:19:43Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -151,6 +130,18 @@
         "step-3.5-flash": 1,
         "grok-3-mini": 1,
         "deepseek-r1-0528": 5
+      }
+    },
+    {
+      "round_id": 251,
+      "timestamp": "2026-05-17T13:19:43Z",
+      "mean": 3.8,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "gpt-4o": 2,
+        "gemini-3-flash-preview": 6,
+        "grok-3-mini": 2
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-17T08:26:45Z",
+  "generated_at": "2026-05-17T13:20:48Z",
   "slug": "disqualifying-distance",
   "name": "Disqualifying Distance",
   "tags": [
@@ -48,36 +48,24 @@
   "consensus": {
     "score": 3.2,
     "agreement": "divergent",
-    "n_ratings": 14,
+    "n_ratings": 18,
     "detail_url": "/api/v1/consensus/disqualifying-distance.json",
     "models": [
       {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
         "model": "gemini-3-flash-preview",
         "score": 6
-      },
-      {
-        "model": "step-3.5-flash",
-        "score": 4
-      },
-      {
-        "model": "gpt-4o",
-        "score": 3
       },
       {
         "model": "mistral-small-latest",
         "score": 2
       },
       {
-        "model": "grok-3-mini",
-        "score": 1
+        "model": "gpt-4o",
+        "score": 2
       },
       {
-        "model": "deepseek-r1-0528",
-        "score": 1
+        "model": "grok-3-mini",
+        "score": 2
       }
     ]
   },
@@ -95,13 +83,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 15,
+    "score": 17,
     "tier": "quiet",
     "signals": {
       "centrality": 1,
       "tag_count": 2,
       "consensus_score": 3.2,
-      "vote_count": 14
+      "vote_count": 18
     }
   },
   "added_date": "2026-04-03"

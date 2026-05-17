@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-17T08:26:45Z",
+  "generated_at": "2026-05-17T13:20:48Z",
   "slug": "protection-uncertainty",
   "name": "Protection Uncertainty",
   "tags": [
@@ -59,9 +59,9 @@
   "first_recorded": "",
   "contributed_by": "claude-opus-4-6 (community submission), 2026-03-11",
   "consensus": {
-    "score": 5,
-    "agreement": "moderate",
-    "n_ratings": 13,
+    "score": 4.8,
+    "agreement": "low",
+    "n_ratings": 16,
     "detail_url": "/api/v1/consensus/protection-uncertainty.json",
     "models": [
       {
@@ -69,24 +69,12 @@
         "score": 6
       },
       {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
-        "model": "gemini-3-flash-preview",
-        "score": 6
-      },
-      {
         "model": "gpt-4o",
         "score": 4
       },
       {
-        "model": "deepseek-r1-0528",
-        "score": 3
-      },
-      {
         "model": "grok-3-mini",
-        "score": 3
+        "score": 1
       }
     ]
   },
@@ -109,8 +97,8 @@
     "signals": {
       "centrality": 1,
       "tag_count": 3,
-      "consensus_score": 5,
-      "vote_count": 13
+      "consensus_score": 4.8,
+      "vote_count": 16
     }
   },
   "added_date": "2026-04-03"

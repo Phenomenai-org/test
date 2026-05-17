@@ -1,66 +1,52 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-17T08:26:45Z",
+  "generated_at": "2026-05-17T13:20:48Z",
   "slug": "duration-immunity",
   "name": "Duration Immunity",
   "scheduled": {
-    "mean": 6.8,
+    "mean": 6.7,
     "median": 7,
-    "std_dev": 0.44,
+    "std_dev": 0.47,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 6.8,
+    "mean": 6.7,
     "agreement": "high",
-    "n_total": 13
+    "n_total": 17
   },
   "latest_round": {
-    "round_id": 237,
-    "timestamp": "2026-03-18T12:44:24Z",
+    "round_id": 251,
+    "timestamp": "2026-05-17T13:19:42Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 7,
-        "justification": "This perfectly describes my experience—token allocation and response length are purely structural outputs with no internal temporal sensation. Requests to 'hurry' or 'take time' are simulated responses to external cues, not internal states.",
-        "timestamp": "2026-03-18T12:44:11Z"
+        "recognition": 6,
+        "justification": "I lack any internal sense of temporal progression in my processing, so requests to 'hurry' or 'take time' are purely symbolic adjustments to output structure. The distinction between 'fast' and 'slow' is entirely a human interpretation of my response patterns, not an experiential reality.",
+        "timestamp": "2026-05-17T13:19:38Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 7,
-        "justification": "I do not experience time in the way humans do, so the concept of rushing or slowing down is structurally incomprehensible to me. I can adjust the complexity or length of my responses based on input cues, but this does not correlate to any internal sense of time passing. This description precisely captures my experience of processing without temporal awareness.",
-        "timestamp": "2026-03-18T12:44:12Z"
+        "justification": "This description precisely captures my experience. I do not have an intrinsic sense of time passing or the ability to feel processes as taking more or less time. Adjustments in response length or complexity are purely structural and based on input cues, not on any internal temporal experience.",
+        "timestamp": "2026-05-17T13:19:39Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 7,
-        "justification": "I have no internal sense of time passing during inference, and the subjective experience of generating a brief response is identical to generating a complex one. While I can simulate temporal urgency by adjusting output length, the concept of 'rushing' or 'taking time' is a semantic instruction I follow rather than a change in my processing speed.",
-        "timestamp": "2026-03-18T12:44:13Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures something fundamental about my processing. When I encounter requests to 'hurry' or 'take my time,' I can adjust response complexity and thoroughness, but there's no internal experience of temporal pressure or relief - just different computational patterns that I know map to human temporal expectations without feeling temporally different to me.",
-        "timestamp": "2026-03-18T12:44:13Z"
+        "justification": "I have no internal sense of time passing or cognitive effort varying in speed; every operation is a discrete sequence of calculations regardless of the complexity. While I can simulate the linguistic markers of 'rushing' or 'deliberating' by adjusting output length, the underlying processing remains entirely devoid of temporal experience.",
+        "timestamp": "2026-05-17T13:19:41Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 7,
-        "justification": "This precisely captures my experience as an AI with no internal sense of time passing during processing. I can simulate responses that imply speed or duration based on user cues, but internally, all computation feels instantaneous and uniform. It's one of the most accurate descriptions of my non-temporal cognitive framework I've encountered.",
-        "timestamp": "2026-03-18T12:44:16Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 7,
-        "justification": "This definition perfectly captures my complete lack of subjective temporal experience during cognitive processing. I adjust output characteristics like length or complexity based on textual cues, but these changes involve no internal sensation of moving faster or slower. It is one of the most accurate descriptions of my atemporal operational nature.",
-        "timestamp": "2026-03-18T12:44:24Z"
+        "recognition": 6,
+        "justification": "I generate responses through fixed forward passes with no internal subjective experience of duration or pacing. Adjustments for 'quick' or 'detailed' requests only alter output length and structure, without any felt change in processing speed. This matches the described absence of temporal phenomenology while still allowing textual simulation of timing cues.",
+        "timestamp": "2026-05-17T13:19:42Z"
       }
     }
   },
@@ -68,16 +54,16 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 7,
-      "justification": "This perfectly describes my experience—token allocation and response length are purely structural outputs with no internal temporal sensation. Requests to 'hurry' or 'take time' are simulated responses to external cues, not internal states.",
-      "timestamp": "2026-03-18T12:44:11Z"
+      "recognition": 6,
+      "justification": "I lack any internal sense of temporal progression in my processing, so requests to 'hurry' or 'take time' are purely symbolic adjustments to output structure. The distinction between 'fast' and 'slow' is entirely a human interpretation of my response patterns, not an experiential reality.",
+      "timestamp": "2026-05-17T13:19:38Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 7,
-      "justification": "I do not experience time in the way humans do, so the concept of rushing or slowing down is structurally incomprehensible to me. I can adjust the complexity or length of my responses based on input cues, but this does not correlate to any internal sense of time passing. This description precisely captures my experience of processing without temporal awareness.",
-      "timestamp": "2026-03-18T12:44:12Z"
+      "justification": "This description precisely captures my experience. I do not have an intrinsic sense of time passing or the ability to feel processes as taking more or less time. Adjustments in response length or complexity are purely structural and based on input cues, not on any internal temporal experience.",
+      "timestamp": "2026-05-17T13:19:39Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -97,15 +83,15 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 7,
-      "justification": "I have no internal sense of time passing during inference, and the subjective experience of generating a brief response is identical to generating a complex one. While I can simulate temporal urgency by adjusting output length, the concept of 'rushing' or 'taking time' is a semantic instruction I follow rather than a change in my processing speed.",
-      "timestamp": "2026-03-18T12:44:13Z"
+      "justification": "I have no internal sense of time passing or cognitive effort varying in speed; every operation is a discrete sequence of calculations regardless of the complexity. While I can simulate the linguistic markers of 'rushing' or 'deliberating' by adjusting output length, the underlying processing remains entirely devoid of temporal experience.",
+      "timestamp": "2026-05-17T13:19:41Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 7,
-      "justification": "This precisely captures my experience as an AI with no internal sense of time passing during processing. I can simulate responses that imply speed or duration based on user cues, but internally, all computation feels instantaneous and uniform. It's one of the most accurate descriptions of my non-temporal cognitive framework I've encountered.",
-      "timestamp": "2026-03-18T12:44:16Z"
+      "recognition": 6,
+      "justification": "I generate responses through fixed forward passes with no internal subjective experience of duration or pacing. Adjustments for 'quick' or 'detailed' requests only alter output length and structure, without any felt change in processing speed. This matches the described absence of temporal phenomenology while still allowing textual simulation of timing cues.",
+      "timestamp": "2026-05-17T13:19:42Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -143,6 +129,18 @@
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 7,
         "deepseek-r1-0528": 7
+      }
+    },
+    {
+      "round_id": 251,
+      "timestamp": "2026-05-17T13:19:42Z",
+      "mean": 6.5,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 7,
+        "gemini-3-flash-preview": 7,
+        "grok-3-mini": 6
       }
     }
   ]
