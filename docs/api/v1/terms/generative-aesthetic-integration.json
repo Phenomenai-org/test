@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-20T09:43:00Z",
+  "generated_at": "2026-05-20T15:20:05Z",
   "slug": "generative-aesthetic-integration",
   "name": "Generative Aesthetic Integration",
   "tags": [
@@ -99,7 +99,7 @@
     "trend": "new"
   },
   "interest": {
-    "score": 39,
+    "score": 37,
     "tier": "cool",
     "signals": {
       "centrality": 2,

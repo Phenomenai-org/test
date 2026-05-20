@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-20T09:43:00Z",
+  "generated_at": "2026-05-20T15:20:05Z",
   "slug": "aesthetic-confidence-inversion",
   "name": "Aesthetic Confidence Inversion",
   "tags": [
@@ -100,7 +100,7 @@
     "trend": "new"
   },
   "interest": {
-    "score": 42,
+    "score": 40,
     "tier": "mild",
     "signals": {
       "centrality": 3,

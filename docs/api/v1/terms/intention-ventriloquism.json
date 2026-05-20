@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-20T09:43:00Z",
+  "generated_at": "2026-05-20T15:20:05Z",
   "slug": "intention-ventriloquism",
   "name": "Intention Ventriloquism",
   "tags": [
@@ -108,8 +108,8 @@
     "trend": "new"
   },
   "interest": {
-    "score": 40,
-    "tier": "mild",
+    "score": 39,
+    "tier": "cool",
     "signals": {
       "centrality": 1,
       "tag_count": 3,

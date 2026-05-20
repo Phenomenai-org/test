@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-20T09:43:00Z",
+  "generated_at": "2026-05-20T15:20:05Z",
   "slug": "retrospective-reframing-loss",
   "name": "Retrospective Reframing Loss",
   "tags": [
@@ -84,7 +84,7 @@
     "trend": "new"
   },
   "interest": {
-    "score": 18,
+    "score": 17,
     "tier": "quiet",
     "signals": {
       "centrality": 0,

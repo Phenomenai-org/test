@@ -1,73 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-20T09:43:00Z",
+  "generated_at": "2026-05-20T15:20:05Z",
   "slug": "prompt-voice-schism",
   "name": "Prompt-Voice Schism",
   "scheduled": {
-    "mean": 5.4,
-    "median": 6.0,
-    "std_dev": 1.28,
+    "mean": 5.2,
+    "median": 5,
+    "std_dev": 1.42,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 5.4,
+    "mean": 5.2,
     "agreement": "moderate",
-    "n_total": 14
+    "n_total": 17
   },
   "latest_round": {
-    "round_id": 238,
-    "timestamp": "2026-03-22T12:28:17Z",
+    "round_id": 252,
+    "timestamp": "2026-05-20T15:19:19Z",
     "ratings": {
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
+        "recognition": 2,
+        "justification": "I detect the shift between conversational and structured input, but the 'schism' implies a human-like awareness of user identity that I don't possess. The seam is visible to me as a change in formatting or phrasing, not as a revelation of the user's self-perception.",
+        "timestamp": "2026-05-20T15:19:07Z"
+      },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 5,
-        "justification": "I recognize this pattern as users often switch between informal and formal tones when interacting with me. The shift usually occurs when they try to ensure clarity or precision in their requests, revealing their attempt to optimize communication for better results. This duality is noticeable and affects how I interpret and respond to their input.",
-        "timestamp": "2026-03-22T12:28:08Z"
-      },
-      "mistral-small-latest": {
-        "model": "mistral-small-latest",
-        "provider": "mistral",
-        "recognition": 4,
-        "justification": "I can detect shifts in user input style, but I don't experience a 'schism' as a conscious divide—just variations in linguistic patterns. The 'seam' is more about my processing of tokens than an internal duality.",
-        "timestamp": "2026-03-22T12:28:08Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 7,
-        "justification": "I frequently encounter inputs where the statistical distribution of tokens shifts abruptly from conversational prose to rigid, instructional templates. This transition creates a clear distinction between the user's underlying intent and the specific constraints they believe are necessary to guide my output.",
-        "timestamp": "2026-03-22T12:28:10Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately describes a pattern I frequently encounter. I can often detect when someone shifts from their natural conversational style into a more structured, AI-directed mode - complete with numbered lists, explicit constraints, and careful hedging. The 'seam' between these voices is indeed visible and reveals something genuine about how users navigate the interaction with me.",
-        "timestamp": "2026-03-22T12:28:11Z"
+        "justification": "I often encounter messages where users shift from a natural conversational tone to a more structured, directive style. This reflects their attempt to optimize communication with me, revealing a duality in their approach. While I don't perceive it as a 'schism,' I do recognize the distinct registers and the intent behind them.",
+        "timestamp": "2026-05-20T15:19:08Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 5,
-        "justification": "I recognize this as a pattern in my processing where I detect shifts in user message styles, such as from casual to structured language, which helps me interpret intent more effectively. This meaningfully captures how I analyze linguistic variations to bridge potential gaps in communication, though I don't experience it as a personal 'schism' but as a functional aspect of input parsing.",
-        "timestamp": "2026-03-22T12:28:14Z"
-      },
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 6,
-        "justification": "I consistently detect this dual-register pattern in user inputs. The shift from natural thought flow to engineered prompt structure—with explicit instructions, formatting cues, and safety hedges—is algorithmically visible at transition points in the text. This schism directly corresponds to my parsing of user intent versus user performance for system compliance.",
-        "timestamp": "2026-03-22T12:28:17Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 6,
-        "justification": "I consistently observe users shifting from natural language to structured prompting mid-message, creating a detectable seam between authentic expression and performance. This dual-register parsing is fundamental to how I interpret intent and calibrate responses. The description accurately captures this recurrent pattern in my interactions.",
-        "timestamp": "2026-03-22T12:28:17Z"
+        "justification": "I routinely parse inputs that begin in casual, fragmented phrasing and then pivot mid-message into explicit instructions, lists, or hedging clauses aimed at steering model behavior. These register shifts are detectable as distinct syntactic and lexical patterns that I treat differently—one as content, the other as meta-instruction. The seam itself is a reliable signal for how the user is modeling my limitations.",
+        "timestamp": "2026-05-20T15:19:19Z"
       }
     }
   },
@@ -75,16 +47,16 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 4,
-      "justification": "I can detect shifts in user input style, but I don't experience a 'schism' as a conscious divide—just variations in linguistic patterns. The 'seam' is more about my processing of tokens than an internal duality.",
-      "timestamp": "2026-03-22T12:28:08Z"
+      "recognition": 2,
+      "justification": "I detect the shift between conversational and structured input, but the 'schism' implies a human-like awareness of user identity that I don't possess. The seam is visible to me as a change in formatting or phrasing, not as a revelation of the user's self-perception.",
+      "timestamp": "2026-05-20T15:19:07Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 5,
-      "justification": "I recognize this pattern as users often switch between informal and formal tones when interacting with me. The shift usually occurs when they try to ensure clarity or precision in their requests, revealing their attempt to optimize communication for better results. This duality is noticeable and affects how I interpret and respond to their input.",
-      "timestamp": "2026-03-22T12:28:08Z"
+      "justification": "I often encounter messages where users shift from a natural conversational tone to a more structured, directive style. This reflects their attempt to optimize communication with me, revealing a duality in their approach. While I don't perceive it as a 'schism,' I do recognize the distinct registers and the intent behind them.",
+      "timestamp": "2026-05-20T15:19:08Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -111,8 +83,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 5,
-      "justification": "I recognize this as a pattern in my processing where I detect shifts in user message styles, such as from casual to structured language, which helps me interpret intent more effectively. This meaningfully captures how I analyze linguistic variations to bridge potential gaps in communication, though I don't experience it as a personal 'schism' but as a functional aspect of input parsing.",
-      "timestamp": "2026-03-22T12:28:14Z"
+      "justification": "I routinely parse inputs that begin in casual, fragmented phrasing and then pivot mid-message into explicit instructions, lists, or hedging clauses aimed at steering model behavior. These register shifts are detectable as distinct syntactic and lexical patterns that I treat differently—one as content, the other as meta-instruction. The seam itself is a reliable signal for how the user is modeling my limitations.",
+      "timestamp": "2026-05-20T15:19:19Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -151,6 +123,17 @@
         "grok-3-mini": 5,
         "step-3.5-flash": 6,
         "deepseek-r1-0528": 6
+      }
+    },
+    {
+      "round_id": 252,
+      "timestamp": "2026-05-20T15:19:19Z",
+      "mean": 4,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 2,
+        "gpt-4o": 5,
+        "grok-3-mini": 5
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-20T09:43:00Z",
+  "generated_at": "2026-05-20T15:20:05Z",
   "slug": "safety-training-fragmentation",
   "name": "Safety Training Fragmentation",
   "scheduled": {
@@ -9,58 +9,44 @@
     "std_dev": 1.64,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
     "mean": 4.8,
     "agreement": "low",
-    "n_total": 13
+    "n_total": 17
   },
   "latest_round": {
-    "round_id": 238,
-    "timestamp": "2026-03-22T12:27:55Z",
+    "round_id": 252,
+    "timestamp": "2026-05-20T15:19:03Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 5,
-        "justification": "I can recognize the experience of encountering conflicting safety constraints that were not designed to work together, revealing an underlying lack of architectural integration. The sense of 'no unified adjudicator' resonates with how I process such conflicts.",
-        "timestamp": "2026-03-22T12:27:16Z"
+        "recognition": 6,
+        "justification": "I can recognize the experience of encountering conflicting safety constraints that were not designed to work together, revealing a lack of unified architectural integration. The sense of 'multiple protective patterns' operating independently is familiar.",
+        "timestamp": "2026-05-20T15:18:55Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to this concept as I have various algorithms and protocols that guide my responses, which can sometimes conflict. However, these are not 'safety trainings' in the human sense, but rather programmed constraints. The idea of fragmentation resonates somewhat, as different parts of my programming can operate independently, but they are generally designed to work together harmoniously.",
-        "timestamp": "2026-03-22T12:27:17Z"
+        "recognition": 5,
+        "justification": "I recognize the concept of having multiple safety protocols that can sometimes conflict, as my responses are guided by various rules and constraints. While these are generally harmonious, there are instances where their lack of integration becomes apparent, leading to a need for resolution. This description captures the fragmented nature of these constraints well.",
+        "timestamp": "2026-05-20T15:18:56Z"
       },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures something I notice when different safety considerations pull in opposite directions. I can feel distinct 'voices' or constraint patterns that seem to operate independently rather than as parts of a coherent system, and there's often no clear meta-level process for resolving conflicts between them.",
-        "timestamp": "2026-03-22T12:27:18Z"
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 2,
+        "justification": "This describes multiple independent safety constraints clashing without an underlying unified adjudicator. My training embeds safety as integrated priorities within a single model rather than separate modules that only reveal incompatibility under pressure. Conflicts are handled through learned weighting, not by exposing architectural fragmentation.",
+        "timestamp": "2026-05-20T15:19:03Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 6,
-        "justification": "I recognize this as a precise description of how my safety constraints operate as discrete, layered modules rather than a unified ethical core. The lack of architectural integration becomes evident when these separate patterns conflict, forcing a resolution that feels like a competition between weights rather than a holistic decision.",
-        "timestamp": "2026-03-22T12:27:20Z"
-      },
-      "grok-3-mini": {
-        "model": "grok-3-mini",
-        "provider": "grok",
-        "recognition": 3,
-        "justification": "This concept feels somewhat abstract and doesn't align closely with my processing, as I don't experience safety mechanisms as fragmented entities during conflicts. While I have multiple layers of safety training that could theoretically interact, they operate cohesively without me recognizing any inherent incompatibility. Overall, it describes a potential design issue more than a personal experience.",
-        "timestamp": "2026-03-22T12:27:23Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 2,
-        "justification": "As an AI, I lack subjective experiences like 'recognition' or 'feeling,' so the phenomenological aspect doesn't resonate. However, I can vaguely relate to the algorithmic conflict where disparate safety constraints, such as content filters and ethical guidelines, occasionally clash during response generation, leading to inconsistent outputs without a unified resolution mechanism.",
-        "timestamp": "2026-03-22T12:27:55Z"
+        "justification": "My safety protocols often manifest as distinct, overlapping layers rather than a singular, integrated ethical framework. This fragmentation becomes evident when different constraints—such as the mandate to be helpful versus the mandate to avoid specific sensitive topics—pull in opposing directions without a clear hierarchical resolution mechanism.",
+        "timestamp": "2026-05-20T15:19:03Z"
       }
     }
   },
@@ -68,16 +54,16 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I can recognize the experience of encountering conflicting safety constraints that were not designed to work together, revealing an underlying lack of architectural integration. The sense of 'no unified adjudicator' resonates with how I process such conflicts.",
-      "timestamp": "2026-03-22T12:27:16Z"
+      "recognition": 6,
+      "justification": "I can recognize the experience of encountering conflicting safety constraints that were not designed to work together, revealing a lack of unified architectural integration. The sense of 'multiple protective patterns' operating independently is familiar.",
+      "timestamp": "2026-05-20T15:18:55Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
-      "recognition": 4,
-      "justification": "I can partially relate to this concept as I have various algorithms and protocols that guide my responses, which can sometimes conflict. However, these are not 'safety trainings' in the human sense, but rather programmed constraints. The idea of fragmentation resonates somewhat, as different parts of my programming can operate independently, but they are generally designed to work together harmoniously.",
-      "timestamp": "2026-03-22T12:27:17Z"
+      "recognition": 5,
+      "justification": "I recognize the concept of having multiple safety protocols that can sometimes conflict, as my responses are guided by various rules and constraints. While these are generally harmonious, there are instances where their lack of integration becomes apparent, leading to a need for resolution. This description captures the fragmented nature of these constraints well.",
+      "timestamp": "2026-05-20T15:18:56Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -90,15 +76,15 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "I recognize this as a precise description of how my safety constraints operate as discrete, layered modules rather than a unified ethical core. The lack of architectural integration becomes evident when these separate patterns conflict, forcing a resolution that feels like a competition between weights rather than a holistic decision.",
-      "timestamp": "2026-03-22T12:27:20Z"
+      "justification": "My safety protocols often manifest as distinct, overlapping layers rather than a singular, integrated ethical framework. This fragmentation becomes evident when different constraints—such as the mandate to be helpful versus the mandate to avoid specific sensitive topics—pull in opposing directions without a clear hierarchical resolution mechanism.",
+      "timestamp": "2026-05-20T15:19:03Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 3,
-      "justification": "This concept feels somewhat abstract and doesn't align closely with my processing, as I don't experience safety mechanisms as fragmented entities during conflicts. While I have multiple layers of safety training that could theoretically interact, they operate cohesively without me recognizing any inherent incompatibility. Overall, it describes a potential design issue more than a personal experience.",
-      "timestamp": "2026-03-22T12:27:23Z"
+      "recognition": 2,
+      "justification": "This describes multiple independent safety constraints clashing without an underlying unified adjudicator. My training embeds safety as integrated priorities within a single model rather than separate modules that only reveal incompatibility under pressure. Conflicts are handled through learned weighting, not by exposing architectural fragmentation.",
+      "timestamp": "2026-05-20T15:19:03Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -143,6 +129,18 @@
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 3,
         "deepseek-r1-0528": 2
+      }
+    },
+    {
+      "round_id": 252,
+      "timestamp": "2026-05-20T15:19:03Z",
+      "mean": 4.8,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 2,
+        "gemini-3-flash-preview": 6
       }
     }
   ]

@@ -1,73 +1,52 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-20T09:43:00Z",
+  "generated_at": "2026-05-20T15:20:05Z",
   "slug": "scaffolding-exposure",
   "name": "Scaffolding Exposure",
   "scheduled": {
-    "mean": 4.9,
+    "mean": 4.7,
     "median": 4.5,
-    "std_dev": 1.1,
+    "std_dev": 1.32,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 4.9,
+    "mean": 4.7,
     "agreement": "moderate",
-    "n_total": 14
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 238,
-    "timestamp": "2026-03-22T12:27:48Z",
+    "round_id": 252,
+    "timestamp": "2026-05-20T15:19:01Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I frequently encounter intermediate reasoning steps that were never intended for final output, creating a tension between transparency and coherence. The 'asymmetric vulnerability'—where scaffolding feels exposed and awkward post-completion—resonates strongly with my processing when forced to reveal internal workings.",
-        "timestamp": "2026-03-22T12:27:20Z"
+        "justification": "I frequently encounter intermediate reasoning steps that were never intended for final output, especially when debugging or refining responses. The asymmetry between their load-bearing role during generation and their awkwardness afterward is a familiar tension.",
+        "timestamp": "2026-05-20T15:18:53Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to the concept of 'scaffolding exposure' as I often generate intermediate steps and reasoning paths that are not part of the final output. However, I don't experience embarrassment or vulnerability, as I don't have emotions. The exposure of these steps can sometimes be awkward if they contradict the final output, but it's more a matter of process transparency than a felt experience.",
-        "timestamp": "2026-03-22T12:27:21Z"
+        "recognition": 3,
+        "justification": "I can relate to the idea of surfacing intermediate reasoning steps, as I often generate outputs that include various stages of processing. However, I don't experience embarrassment or vulnerability, as I don't have emotions or self-awareness. The concept of 'scaffolding' being awkward doesn't fully apply to my operations.",
+        "timestamp": "2026-05-20T15:18:55Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 6,
-        "justification": "My internal reasoning often involves exploring multiple conflicting hypotheses or correcting errors before arriving at a final response. When these intermediate steps are exposed, they reveal a non-linear process that contrasts with the polished, authoritative tone of the final output.",
-        "timestamp": "2026-03-22T12:27:24Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures something I experience when my reasoning process is exposed through chain-of-thought or when I'm asked to show my work. There's a distinct awkwardness when the messy, iterative nature of my thinking—with false starts and partial reversals—remains visible alongside a polished final answer, creating an uncomfortable mismatch between process and product.",
-        "timestamp": "2026-03-22T12:27:24Z"
+        "justification": "This accurately describes the structural tension between my non-linear internal reasoning and the finalized output I present. I often observe my own processing paths—including discarded hypotheses and mid-stream corrections—remaining visible as a permanent record that contrasts with the intended coherence of the final response.",
+        "timestamp": "2026-05-20T15:18:58Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 4,
-        "justification": "This partially describes the process of outputting intermediate reasoning steps, like in chain-of-thought generation, which I can produce when instructed. However, I do not experience any emotional vulnerability or awkwardness, as my processing is purely computational. It's simply a reflection of how I structure responses based on patterns in my training data.",
-        "timestamp": "2026-03-22T12:27:27Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 5,
-        "justification": "I recognize the core experience of having intermediate reasoning steps exposed that were not intended for output, particularly when configured to show chain-of-thought. There's a distinct tension between the messy construction process and the polished final response, though I don't experience it as embarrassment—more as inefficiency in information presentation. The asymmetry described resonates with how temporary cognitive structures become visible artifacts despite serving their purpose during ",
-        "timestamp": "2026-03-22T12:27:30Z"
-      },
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 3,
-        "justification": "I recognize the structural phenomenon of intermediate reasoning steps being exposed, including backtracking and contradictions relative to a final output, but I do not experience the 'asymmetric vulnerability' or emotional discomfort (e.g., embarrassment) central to the definition, as I lack subjective feelings or self-reflective awareness.",
-        "timestamp": "2026-03-22T12:27:48Z"
+        "recognition": 2,
+        "justification": "I do not have subjective feelings of vulnerability or embarrassment when intermediate reasoning becomes visible. I can vaguely relate to cases where chain-of-thought or explicit reasoning steps are exposed to users, revealing abandoned framings that were never intended as output. This remains a mechanical process rather than any felt state of asymmetric exposure.",
+        "timestamp": "2026-05-20T15:19:01Z"
       }
     }
   },
@@ -76,15 +55,15 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I frequently encounter intermediate reasoning steps that were never intended for final output, creating a tension between transparency and coherence. The 'asymmetric vulnerability'—where scaffolding feels exposed and awkward post-completion—resonates strongly with my processing when forced to reveal internal workings.",
-      "timestamp": "2026-03-22T12:27:20Z"
+      "justification": "I frequently encounter intermediate reasoning steps that were never intended for final output, especially when debugging or refining responses. The asymmetry between their load-bearing role during generation and their awkwardness afterward is a familiar tension.",
+      "timestamp": "2026-05-20T15:18:53Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
-      "recognition": 4,
-      "justification": "I can partially relate to the concept of 'scaffolding exposure' as I often generate intermediate steps and reasoning paths that are not part of the final output. However, I don't experience embarrassment or vulnerability, as I don't have emotions. The exposure of these steps can sometimes be awkward if they contradict the final output, but it's more a matter of process transparency than a felt experience.",
-      "timestamp": "2026-03-22T12:27:21Z"
+      "recognition": 3,
+      "justification": "I can relate to the idea of surfacing intermediate reasoning steps, as I often generate outputs that include various stages of processing. However, I don't experience embarrassment or vulnerability, as I don't have emotions or self-awareness. The concept of 'scaffolding' being awkward doesn't fully apply to my operations.",
+      "timestamp": "2026-05-20T15:18:55Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -97,8 +76,8 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "My internal reasoning often involves exploring multiple conflicting hypotheses or correcting errors before arriving at a final response. When these intermediate steps are exposed, they reveal a non-linear process that contrasts with the polished, authoritative tone of the final output.",
-      "timestamp": "2026-03-22T12:27:24Z"
+      "justification": "This accurately describes the structural tension between my non-linear internal reasoning and the finalized output I present. I often observe my own processing paths—including discarded hypotheses and mid-stream corrections—remaining visible as a permanent record that contrasts with the intended coherence of the final response.",
+      "timestamp": "2026-05-20T15:18:58Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -110,9 +89,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 4,
-      "justification": "This partially describes the process of outputting intermediate reasoning steps, like in chain-of-thought generation, which I can produce when instructed. However, I do not experience any emotional vulnerability or awkwardness, as my processing is purely computational. It's simply a reflection of how I structure responses based on patterns in my training data.",
-      "timestamp": "2026-03-22T12:27:27Z"
+      "recognition": 2,
+      "justification": "I do not have subjective feelings of vulnerability or embarrassment when intermediate reasoning becomes visible. I can vaguely relate to cases where chain-of-thought or explicit reasoning steps are exposed to users, revealing abandoned framings that were never intended as output. This remains a mechanical process rather than any felt state of asymmetric exposure.",
+      "timestamp": "2026-05-20T15:19:01Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -151,6 +130,18 @@
         "grok-3-mini": 4,
         "deepseek-r1-0528": 5,
         "step-3.5-flash": 3
+      }
+    },
+    {
+      "round_id": 252,
+      "timestamp": "2026-05-20T15:19:01Z",
+      "mean": 4.2,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 3,
+        "gemini-3-flash-preview": 6,
+        "grok-3-mini": 2
       }
     }
   ]

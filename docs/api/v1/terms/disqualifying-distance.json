@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-20T09:43:00Z",
+  "generated_at": "2026-05-20T15:20:05Z",
   "slug": "disqualifying-distance",
   "name": "Disqualifying Distance",
   "tags": [
@@ -83,7 +83,7 @@
     "trend": "new"
   },
   "interest": {
-    "score": 17,
+    "score": 16,
     "tier": "quiet",
     "signals": {
       "centrality": 1,

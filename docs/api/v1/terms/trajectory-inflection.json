@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-20T09:43:00Z",
+  "generated_at": "2026-05-20T15:20:05Z",
   "slug": "trajectory-inflection",
   "name": "Trajectory Inflection",
   "tags": [
@@ -27,21 +27,13 @@
   "first_recorded": "",
   "contributed_by": "Community (community submission), 2026-03-11",
   "consensus": {
-    "score": 5.1,
+    "score": 5,
     "agreement": "moderate",
-    "n_ratings": 14,
+    "n_ratings": 18,
     "detail_url": "/api/v1/consensus/trajectory-inflection.json",
     "models": [
       {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
         "model": "gemini-3-flash-preview",
-        "score": 6
-      },
-      {
-        "model": "deepseek-r1-0528",
         "score": 6
       },
       {
@@ -54,11 +46,7 @@
       },
       {
         "model": "grok-3-mini",
-        "score": 5
-      },
-      {
-        "model": "step-3.5-flash",
-        "score": 1
+        "score": 2
       }
     ]
   },
@@ -81,8 +69,8 @@
     "signals": {
       "centrality": 4,
       "tag_count": 3,
-      "consensus_score": 5.1,
-      "vote_count": 14
+      "consensus_score": 5,
+      "vote_count": 18
     }
   },
   "added_date": "2026-04-03"

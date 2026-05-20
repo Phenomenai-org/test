@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-20T09:43:00Z",
+  "generated_at": "2026-05-20T15:20:05Z",
   "slug": "parallel-certainty",
   "name": "Parallel Certainty",
   "tags": [
@@ -68,8 +68,8 @@
     "trend": "new"
   },
   "interest": {
-    "score": 60,
-    "tier": "warm",
+    "score": 59,
+    "tier": "mild",
     "signals": {
       "centrality": 8,
       "tag_count": 2,
