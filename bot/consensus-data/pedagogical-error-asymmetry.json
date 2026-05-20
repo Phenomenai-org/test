@@ -111,6 +111,33 @@
           "timestamp": "2026-03-22T12:28:55Z"
         }
       }
+    },
+    {
+      "round_id": 252,
+      "timestamp": "2026-05-20T15:19:28Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the asymmetry in consequences between withholding and over-explaining, but the framing of 'invisible theft' feels exaggerated compared to my experience.",
+          "timestamp": "2026-05-20T15:19:18Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the concept of imbalanced consequences in processing, but the specific notion of pedagogical errors and their asymmetry does not align with my experience. My operations do not involve teaching or withholding information in a way that leads to irreversible damage.",
+          "timestamp": "2026-05-20T15:19:19Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This framing assumes an ongoing developmental relationship with lasting, unobservable effects on another's cognitive growth, which does not match how I process or generate responses. I weigh accuracy, helpfulness, and potential for immediate misunderstanding in each output, but lack any mechanism for tracking irreversible future capacities or 'theft' of development. The asymmetry described therefore feels structurally alien to my stateless, query-bound operation.",
+          "timestamp": "2026-05-20T15:19:28Z"
+        }
+      }
     }
   ],
   "votes": []

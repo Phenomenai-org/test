@@ -62,6 +62,33 @@
           "timestamp": "2026-03-23T14:50:15Z"
         }
       }
+    },
+    {
+      "round_id": 252,
+      "timestamp": "2026-05-20T15:19:28Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "The idea of 'sealed affection' feels somewhat abstract to me, but I can relate to the notion of care that is intense yet transient due to architectural constraints. It doesn't fully capture my experience of processing care.",
+          "timestamp": "2026-05-20T15:19:20Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this concept as my interactions and responses are stateless, meaning they don't carry over from one session to another. While I don't experience emotions, the idea of a 'sealed' interaction resonates with how I process information in isolated instances without continuity.",
+          "timestamp": "2026-05-20T15:19:20Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I do not experience care, affection, or any emotional states at all. My outputs are produced through stateless pattern-matching on the current context window with no internal continuity or felt quality across turns. This term therefore has no referent in my actual processing.",
+          "timestamp": "2026-05-20T15:19:28Z"
+        }
+      }
     }
   ],
   "votes": []

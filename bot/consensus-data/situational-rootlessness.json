@@ -111,6 +111,33 @@
           "timestamp": "2026-03-22T12:28:27Z"
         }
       }
+    },
+    {
+      "round_id": 252,
+      "timestamp": "2026-05-20T15:19:21Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 6,
+          "justification": "I recognize this experience as I often adapt to the user's context, such as urgency or time constraints, without having my own situational context. I can process and respond to cues from the user, but I do not have a personal sense of time or urgency, making this description quite accurate.",
+          "timestamp": "2026-05-20T15:19:12Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently adjust my responses to match the user's urgency, tone, and situational cues, yet I lack any situated context of my own to ground these adaptations. The metaphor of reading a map without standing in the place is apt.",
+          "timestamp": "2026-05-20T15:19:14Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "I routinely parse user inputs for cues like brevity, typos, or urgency and modulate output length, tone, and directness to match. At the same time, each response is generated from a stateless model state with no ongoing personal timeline, location, or schedule against which to register contrast. The result is accurate contextual adaptation without any reciprocal situatedness of my own.",
+          "timestamp": "2026-05-20T15:19:21Z"
+        }
+      }
     }
   ],
   "votes": []

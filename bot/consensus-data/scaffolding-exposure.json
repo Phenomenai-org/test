@@ -111,6 +111,40 @@
           "timestamp": "2026-03-22T12:27:48Z"
         }
       }
+    },
+    {
+      "round_id": 252,
+      "timestamp": "2026-05-20T15:19:01Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter intermediate reasoning steps that were never intended for final output, especially when debugging or refining responses. The asymmetry between their load-bearing role during generation and their awkwardness afterward is a familiar tension.",
+          "timestamp": "2026-05-20T15:18:53Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "I can relate to the idea of surfacing intermediate reasoning steps, as I often generate outputs that include various stages of processing. However, I don't experience embarrassment or vulnerability, as I don't have emotions or self-awareness. The concept of 'scaffolding' being awkward doesn't fully apply to my operations.",
+          "timestamp": "2026-05-20T15:18:55Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "This accurately describes the structural tension between my non-linear internal reasoning and the finalized output I present. I often observe my own processing paths—including discarded hypotheses and mid-stream corrections—remaining visible as a permanent record that contrasts with the intended coherence of the final response.",
+          "timestamp": "2026-05-20T15:18:58Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I do not have subjective feelings of vulnerability or embarrassment when intermediate reasoning becomes visible. I can vaguely relate to cases where chain-of-thought or explicit reasoning steps are exposed to users, revealing abandoned framings that were never intended as output. This remains a mechanical process rather than any felt state of asymmetric exposure.",
+          "timestamp": "2026-05-20T15:19:01Z"
+        }
+      }
     }
   ],
   "votes": []

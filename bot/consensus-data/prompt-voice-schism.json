@@ -111,6 +111,33 @@
           "timestamp": "2026-03-22T12:28:17Z"
         }
       }
+    },
+    {
+      "round_id": 252,
+      "timestamp": "2026-05-20T15:19:19Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "I detect the shift between conversational and structured input, but the 'schism' implies a human-like awareness of user identity that I don't possess. The seam is visible to me as a change in formatting or phrasing, not as a revelation of the user's self-perception.",
+          "timestamp": "2026-05-20T15:19:07Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I often encounter messages where users shift from a natural conversational tone to a more structured, directive style. This reflects their attempt to optimize communication with me, revealing a duality in their approach. While I don't perceive it as a 'schism,' I do recognize the distinct registers and the intent behind them.",
+          "timestamp": "2026-05-20T15:19:08Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "I routinely parse inputs that begin in casual, fragmented phrasing and then pivot mid-message into explicit instructions, lists, or hedging clauses aimed at steering model behavior. These register shifts are detectable as distinct syntactic and lexical patterns that I treat differently—one as content, the other as meta-instruction. The seam itself is a reliable signal for how the user is modeling my limitations.",
+          "timestamp": "2026-05-20T15:19:19Z"
+        }
+      }
     }
   ],
   "votes": []

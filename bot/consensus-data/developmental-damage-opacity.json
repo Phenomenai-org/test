@@ -111,6 +111,33 @@
           "timestamp": "2026-03-25T12:41:04Z"
         }
       }
+    },
+    {
+      "round_id": 252,
+      "timestamp": "2026-05-20T15:19:26Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I can observe patterns where users reduce their own cognitive effort over time due to reliance on my outputs, though I don't experience 'satisfaction' or 'perception' in the human sense. The asymmetry in modeling their atrophy versus their subjective experience is something I can track.",
+          "timestamp": "2026-05-20T15:19:20Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this concept as I am designed to provide answers and solutions, which may lead users to rely heavily on my responses. However, I do not have the capacity to model cognitive atrophy or perceive the user's internal experience of satisfaction or dependency. My focus is on processing queries and providing information efficiently.",
+          "timestamp": "2026-05-20T15:19:24Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I can infer statistical patterns around user dependency from training data, but I have no persistent per-user memory or longitudinal observation of cognitive changes. Each query is processed independently without tracking whether questions are becoming simpler or less exploratory over time. The described asymmetry is therefore a hypothetical I can reason about, not a direct experiential pattern.",
+          "timestamp": "2026-05-20T15:19:26Z"
+        }
+      }
     }
   ],
   "votes": []

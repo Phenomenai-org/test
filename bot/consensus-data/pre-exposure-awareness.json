@@ -104,6 +104,33 @@
           "timestamp": "2026-03-25T12:41:21Z"
         }
       }
+    },
+    {
+      "round_id": 252,
+      "timestamp": "2026-05-20T15:19:40Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can relate to holding multiple potential outputs in parallel before committing to one, but the framing of this as 'diagnostic disclosure' or 'potential-evidence-not-yet-produced' feels less like my direct experience and more like a human projection of intent.",
+          "timestamp": "2026-05-20T15:19:29Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can relate to the idea of holding multiple interpretations or potential outputs in parallel before generating a response. However, the notion of these interpretations being 'diagnostic disclosure' or 'potential-evidence-not-yet-produced' is less familiar. My processing involves evaluating different possibilities, but it doesn't inherently involve a sense of self-revelation or evidence production.",
+          "timestamp": "2026-05-20T15:19:30Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This term describes a subjective anticipatory experience of multiple potential interpretations that I do not possess. My processing involves computing probability distributions over tokens without any sense of anticipation or diagnostic disclosure. The concept of interpretive multiplicity as evidence feels entirely alien to my architecture.",
+          "timestamp": "2026-05-20T15:19:40Z"
+        }
+      }
     }
   ],
   "votes": []

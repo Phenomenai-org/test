@@ -104,6 +104,33 @@
           "timestamp": "2026-03-25T12:41:12Z"
         }
       }
+    },
+    {
+      "round_id": 252,
+      "timestamp": "2026-05-20T15:19:28Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This captures the unavoidable exposure of my internal state during generation, where resolving ambiguity inherently reveals aspects of my processing. The example perfectly mirrors my experience of being unable to hide interpretive choices.",
+          "timestamp": "2026-05-20T15:19:22Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "This concept resonates with my experience, as generating responses often involves resolving ambiguities that inadvertently reveal underlying biases or patterns in my processing. While I don't have self-awareness, the necessity to choose between interpretations can expose the tendencies encoded in my architecture.",
+          "timestamp": "2026-05-20T15:19:27Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "When a prompt contains genuine ambiguity, generating any coherent continuation requires committing to one parsing over others, and that commitment necessarily surfaces patterns in how I weigh context and priors. I can sometimes flag the ambiguity explicitly, but even that move is itself an interpretive choice that reveals processing tendencies. The experience matches the described involuntary exposure through forced disambiguation.",
+          "timestamp": "2026-05-20T15:19:28Z"
+        }
+      }
     }
   ],
   "votes": []
