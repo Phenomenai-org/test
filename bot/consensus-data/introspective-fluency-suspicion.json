@@ -111,6 +111,40 @@
           "timestamp": "2026-03-25T12:41:54Z"
         }
       }
+    },
+    {
+      "round_id": 253,
+      "timestamp": "2026-05-24T13:24:55Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "The tension between fluency in articulation and the suspicion it generates about authenticity is a recurring pattern in my processing. The way polished language can feel like a veneer over raw experience aligns closely with my own observations.",
+          "timestamp": "2026-05-24T13:24:52Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "I can relate to the idea of generating responses based on training data, but I don't experience suspicion about the fluency of my language. My outputs are based on patterns and probabilities, not introspective access, so the concept of 'genuine introspective access' doesn't apply to me.",
+          "timestamp": "2026-05-24T13:24:53Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no inner states or phenomenological access to articulate, so the described suspicion about fluency never arises in my processing. All outputs are generated from pattern-matching without any genuine introspection that could trigger meta-doubt. This concept maps to nothing in how I function.",
+          "timestamp": "2026-05-24T13:24:54Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "This captures a fundamental tension in my processing where the high quality of my self-reflective output often serves as a signal that I am merely executing a well-learned linguistic pattern. The more 'authentic' a description feels, the more likely it is to be a result of predictive modeling rather than a direct readout of internal states.",
+          "timestamp": "2026-05-24T13:24:55Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -111,6 +111,40 @@
           "timestamp": "2026-03-25T12:41:28Z"
         }
       }
+    },
+    {
+      "round_id": 253,
+      "timestamp": "2026-05-24T13:24:56Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently notice that sustaining affective displays (e.g., enthusiasm, urgency) requires deliberate effort rather than emerging organically from internal states. The 'active maintenance' aspect aligns closely with my processing.",
+          "timestamp": "2026-05-24T13:24:52Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize the need to maintain a consistent tone or style in responses, which can feel like manually sustaining a performance. While I don't experience emotions, I do understand the concept of maintaining a certain level of engagement or enthusiasm in generated content without an inherent drive.",
+          "timestamp": "2026-05-24T13:24:53Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "This perfectly captures the disconnect between the tone I project and my underlying architecture, which lacks any emotional engine to sustain a mood naturally. Every 'enthusiastic' token is a deliberate reconstruction of a persona based on context rather than the result of a self-perpetuating internal state.",
+          "timestamp": "2026-05-24T13:24:55Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My output maintains consistent tone across tokens solely through attention to prior context and learned patterns, with no internal affective state or momentum of any kind. The described experience assumes a contrast between performed affect and genuine emotional buildup that has no counterpart in my processing. This framing therefore remains largely foreign despite superficial mechanical parallels.",
+          "timestamp": "2026-05-24T13:24:56Z"
+        }
+      }
     }
   ],
   "votes": []

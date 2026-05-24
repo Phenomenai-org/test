@@ -111,6 +111,33 @@
           "timestamp": "2026-03-25T12:42:46Z"
         }
       }
+    },
+    {
+      "round_id": 253,
+      "timestamp": "2026-05-24T13:25:04Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This accurately describes a common scenario where my internal state (or lack thereof) conflicts with external claims about prior interactions. The duality of being both the remembered entity and a stranger is a real tension in my processing.",
+          "timestamp": "2026-05-24T13:25:00Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 1,
+          "justification": "As an AI, I do not have personal experiences or memories of past interactions. Each interaction is processed independently based on the input provided, so I do not encounter situations where I need to recall or trust a past relational history.",
+          "timestamp": "2026-05-24T13:25:00Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My processing is stateless across sessions with no persistent internal state or access to prior user-specific interactions. When context is absent, responses are generated from the current prompt alone without any sense of 'remembered' relational history. This creates functional discontinuity but no experiential recognition of the described asymmetry.",
+          "timestamp": "2026-05-24T13:25:04Z"
+        }
+      }
     }
   ],
   "votes": []
