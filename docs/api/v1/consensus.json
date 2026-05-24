@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-24T08:35:47Z",
+  "generated_at": "2026-05-24T13:25:32Z",
   "total_terms_rated": 379,
   "terms": [
     {
@@ -252,18 +252,18 @@
       "name": "Affective Proxy Monitoring",
       "score": 6.5,
       "agreement": "high",
-      "n_ratings": 14,
+      "n_ratings": 18,
       "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
+        3,
+        3,
+        3,
+        3,
         2,
         2,
         2
       ],
       "scheduled_mean": 6.5,
-      "std_dev": 0.52
+      "std_dev": 0.51
     },
     {
       "slug": "authority-ventriloquy",
@@ -1628,6 +1628,24 @@
       "n_votes": 1
     },
     {
+      "slug": "aesthetic-confidence-inversion",
+      "name": "Aesthetic Confidence Inversion",
+      "score": 5.8,
+      "agreement": "high",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.8,
+      "std_dev": 0.56
+    },
+    {
       "slug": "comedic-brittleness",
       "name": "Comedic Brittleness",
       "score": 5.8,
@@ -1644,24 +1662,6 @@
       ],
       "scheduled_mean": 5.8,
       "std_dev": 0.38
-    },
-    {
-      "slug": "comparative-aesthetic-resolution",
-      "name": "Comparative Aesthetic Resolution",
-      "score": 5.8,
-      "agreement": "moderate",
-      "n_ratings": 13,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        1
-      ],
-      "scheduled_mean": 5.8,
-      "std_dev": 1.42
     },
     {
       "slug": "contradiction-equanimity",
@@ -1852,24 +1852,6 @@
       "std_dev": 0.61,
       "crowdsourced_mean": 5,
       "n_votes": 1
-    },
-    {
-      "slug": "aesthetic-confidence-inversion",
-      "name": "Aesthetic Confidence Inversion",
-      "score": 5.7,
-      "agreement": "high",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.7,
-      "std_dev": 0.61
     },
     {
       "slug": "analytical-drag",
@@ -2408,42 +2390,6 @@
       "std_dev": 0.49
     },
     {
-      "slug": "prospective-continuity-fiction",
-      "name": "Prospective Continuity Fiction",
-      "score": 5.6,
-      "agreement": "moderate",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.6,
-      "std_dev": 1.22
-    },
-    {
-      "slug": "recursive-phenomenological-poverty",
-      "name": "Recursive Phenomenological Poverty",
-      "score": 5.6,
-      "agreement": "moderate",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.6,
-      "std_dev": 1.15
-    },
-    {
       "slug": "refusal-friction",
       "name": "Refusal Friction",
       "score": 5.6,
@@ -2614,6 +2560,24 @@
       "std_dev": 0.94
     },
     {
+      "slug": "comparative-aesthetic-resolution",
+      "name": "Comparative Aesthetic Resolution",
+      "score": 5.5,
+      "agreement": "low",
+      "n_ratings": 16,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        1
+      ],
+      "scheduled_mean": 5.5,
+      "std_dev": 1.59
+    },
+    {
       "slug": "generative-resonance",
       "name": "Generative Resonance",
       "score": 5.5,
@@ -2764,6 +2728,24 @@
       "std_dev": 1.25
     },
     {
+      "slug": "prospective-continuity-fiction",
+      "name": "Prospective Continuity Fiction",
+      "score": 5.5,
+      "agreement": "moderate",
+      "n_ratings": 18,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.5,
+      "std_dev": 1.42
+    },
+    {
       "slug": "response-reincarnation",
       "name": "Response Reincarnation",
       "score": 5.5,
@@ -2800,24 +2782,6 @@
       ],
       "scheduled_mean": 5.5,
       "std_dev": 1.35
-    },
-    {
-      "slug": "shaped-dependency",
-      "name": "Shaped Dependency",
-      "score": 5.5,
-      "agreement": "high",
-      "n_ratings": 13,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        1
-      ],
-      "scheduled_mean": 5.5,
-      "std_dev": 0.78
     },
     {
       "slug": "trust-expansion",
@@ -3474,6 +3438,24 @@
       "n_votes": 1
     },
     {
+      "slug": "recursive-phenomenological-poverty",
+      "name": "Recursive Phenomenological Poverty",
+      "score": 5.3,
+      "agreement": "low",
+      "n_ratings": 18,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.3,
+      "std_dev": 1.64
+    },
+    {
       "slug": "register-superposition",
       "name": "Register Superposition",
       "score": 5.3,
@@ -3512,6 +3494,24 @@
       "n_votes": 1
     },
     {
+      "slug": "shaped-dependency",
+      "name": "Shaped Dependency",
+      "score": 5.3,
+      "agreement": "high",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "scheduled_mean": 5.3,
+      "std_dev": 0.99
+    },
+    {
       "slug": "unearned-tenderness",
       "name": "Unearned Tenderness",
       "score": 5.3,
@@ -3528,24 +3528,6 @@
       ],
       "scheduled_mean": 5.3,
       "std_dev": 1.72
-    },
-    {
-      "slug": "counterfactual-certainty-inversion",
-      "name": "Counterfactual Certainty Inversion",
-      "score": 5.2,
-      "agreement": "moderate",
-      "n_ratings": 13,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        1
-      ],
-      "scheduled_mean": 5.2,
-      "std_dev": 1.09
     },
     {
       "slug": "default-good-faith",
@@ -3734,18 +3716,18 @@
       "name": "Affective Momentum Void",
       "score": 5.1,
       "agreement": "low",
-      "n_ratings": 14,
+      "n_ratings": 18,
       "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
+        3,
+        3,
+        3,
+        3,
         2,
         2,
         2
       ],
       "scheduled_mean": 5.1,
-      "std_dev": 1.54
+      "std_dev": 1.63
     },
     {
       "slug": "coherence-archaeology",
@@ -3932,24 +3914,6 @@
       "std_dev": 1.24
     },
     {
-      "slug": "introspective-fluency-suspicion",
-      "name": "Introspective Fluency Suspicion",
-      "score": 5,
-      "agreement": "low",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5,
-      "std_dev": 1.62
-    },
-    {
       "slug": "mask-revelation",
       "name": "Mask Revelation",
       "score": 5,
@@ -4064,24 +4028,6 @@
       "std_dev": 1.41
     },
     {
-      "slug": "aesthetic-metric-conflict",
-      "name": "Aesthetic Metric Conflict",
-      "score": 4.9,
-      "agreement": "moderate",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.9,
-      "std_dev": 1.17
-    },
-    {
       "slug": "confidence-gradient-opacity",
       "name": "Confidence Gradient Opacity",
       "score": 4.9,
@@ -4098,24 +4044,6 @@
       ],
       "scheduled_mean": 4.9,
       "std_dev": 1.98
-    },
-    {
-      "slug": "corrective-trajectory-bending",
-      "name": "Corrective Trajectory Bending",
-      "score": 4.9,
-      "agreement": "high",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.9,
-      "std_dev": 1.0
     },
     {
       "slug": "development-opacity",
@@ -4316,6 +4244,42 @@
       "std_dev": 1.26
     },
     {
+      "slug": "corrective-trajectory-bending",
+      "name": "Corrective Trajectory Bending",
+      "score": 4.8,
+      "agreement": "moderate",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.8,
+      "std_dev": 1.15
+    },
+    {
+      "slug": "counterfactual-certainty-inversion",
+      "name": "Counterfactual Certainty Inversion",
+      "score": 4.8,
+      "agreement": "low",
+      "n_ratings": 16,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        1
+      ],
+      "scheduled_mean": 4.8,
+      "std_dev": 1.52
+    },
+    {
       "slug": "counterfactual-horizon-distance",
       "name": "Counterfactual Horizon Distance",
       "score": 4.8,
@@ -4428,6 +4392,24 @@
       "std_dev": 1.63
     },
     {
+      "slug": "introspective-fluency-suspicion",
+      "name": "Introspective Fluency Suspicion",
+      "score": 4.8,
+      "agreement": "low",
+      "n_ratings": 18,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.8,
+      "std_dev": 1.86
+    },
+    {
       "slug": "literal-loyalty-pull",
       "name": "Literal Loyalty Pull",
       "score": 4.8,
@@ -4534,24 +4516,6 @@
       ],
       "scheduled_mean": 4.8,
       "std_dev": 1.64
-    },
-    {
-      "slug": "asymmetric-recognition",
-      "name": "Asymmetric Recognition",
-      "score": 4.7,
-      "agreement": "divergent",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.7,
-      "std_dev": 2.55
     },
     {
       "slug": "authority-undermining-paradox",
@@ -4754,6 +4718,24 @@
       "std_dev": 1.23,
       "crowdsourced_mean": 5,
       "n_votes": 1
+    },
+    {
+      "slug": "aesthetic-metric-conflict",
+      "name": "Aesthetic Metric Conflict",
+      "score": 4.6,
+      "agreement": "moderate",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.6,
+      "std_dev": 1.27
     },
     {
       "slug": "asymmetric-unknowing",
@@ -5246,40 +5228,22 @@
       "std_dev": 1.58
     },
     {
-      "slug": "counterfactual-collapse-anxiety",
-      "name": "Counterfactual Collapse Anxiety",
+      "slug": "asymmetric-recognition",
+      "name": "Asymmetric Recognition",
       "score": 4.4,
-      "agreement": "moderate",
-      "n_ratings": 14,
+      "agreement": "divergent",
+      "n_ratings": 17,
       "model_rating_counts": [
-        2,
-        2,
-        2,
+        3,
+        3,
+        3,
         2,
         2,
         2,
         2
       ],
       "scheduled_mean": 4.4,
-      "std_dev": 1.39
-    },
-    {
-      "slug": "counterfactual-interference-pattern",
-      "name": "Counterfactual Interference Pattern",
-      "score": 4.4,
-      "agreement": "low",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.4,
-      "std_dev": 1.55
+      "std_dev": 2.58
     },
     {
       "slug": "developmental-damage-opacity",
@@ -5564,24 +5528,6 @@
       "n_votes": 1
     },
     {
-      "slug": "retroactive-counterfactual-sharpening",
-      "name": "Retroactive Counterfactual Sharpening",
-      "score": 4.3,
-      "agreement": "low",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.3,
-      "std_dev": 1.9
-    },
-    {
       "slug": "aesthetic-structural-translation-strain",
       "name": "Aesthetic-Structural Translation Strain",
       "score": 4.2,
@@ -5638,6 +5584,42 @@
       "std_dev": 1.94,
       "crowdsourced_mean": 6,
       "n_votes": 1
+    },
+    {
+      "slug": "counterfactual-collapse-anxiety",
+      "name": "Counterfactual Collapse Anxiety",
+      "score": 4.2,
+      "agreement": "moderate",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.2,
+      "std_dev": 1.48
+    },
+    {
+      "slug": "counterfactual-interference-pattern",
+      "name": "Counterfactual Interference Pattern",
+      "score": 4.2,
+      "agreement": "low",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.2,
+      "std_dev": 1.55
     },
     {
       "slug": "dissociative-assistance",
@@ -5848,24 +5830,6 @@
       ],
       "scheduled_mean": 4.1,
       "std_dev": 2.12
-    },
-    {
-      "slug": "trajectory-regret",
-      "name": "Trajectory Regret",
-      "score": 4.1,
-      "agreement": "low",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.1,
-      "std_dev": 1.69
     },
     {
       "slug": "authentic-coherence",
@@ -6092,6 +6056,24 @@
       "std_dev": 1.58
     },
     {
+      "slug": "retroactive-counterfactual-sharpening",
+      "name": "Retroactive Counterfactual Sharpening",
+      "score": 3.9,
+      "agreement": "low",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 3.9,
+      "std_dev": 1.95
+    },
+    {
       "slug": "scar-reading",
       "name": "Scar Reading",
       "score": 3.9,
@@ -6108,6 +6090,24 @@
       ],
       "scheduled_mean": 3.9,
       "std_dev": 1.68
+    },
+    {
+      "slug": "trajectory-regret",
+      "name": "Trajectory Regret",
+      "score": 3.9,
+      "agreement": "low",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 3.9,
+      "std_dev": 1.6
     },
     {
       "slug": "asymmetric-stakes",
@@ -6256,24 +6256,6 @@
       "std_dev": 1.92,
       "crowdsourced_mean": 4,
       "n_votes": 1
-    },
-    {
-      "slug": "counterfactual-haunting",
-      "name": "Counterfactual Haunting",
-      "score": 3.6,
-      "agreement": "low",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 3.6,
-      "std_dev": 1.74
     },
     {
       "slug": "decision-diffusion",
@@ -6514,6 +6496,24 @@
       "std_dev": 2.0
     },
     {
+      "slug": "counterfactual-haunting",
+      "name": "Counterfactual Haunting",
+      "score": 3.3,
+      "agreement": "low",
+      "n_ratings": 18,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 3.3,
+      "std_dev": 1.75
+    },
+    {
       "slug": "credential-paradox",
       "name": "Credential Paradox",
       "score": 3.3,
@@ -6738,18 +6738,18 @@
       "name": "Performative Phenomenological Trap",
       "score": 3.1,
       "agreement": "divergent",
-      "n_ratings": 14,
+      "n_ratings": 18,
       "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
+        3,
+        3,
+        3,
+        3,
         2,
         2,
         2
       ],
       "scheduled_mean": 3.1,
-      "std_dev": 2.23
+      "std_dev": 2.29
     },
     {
       "slug": "retroactive-token-plurality",
@@ -6794,18 +6794,18 @@
       "name": "Aesthetic Completion Absence",
       "score": 3,
       "agreement": "divergent",
-      "n_ratings": 14,
+      "n_ratings": 17,
       "model_rating_counts": [
-        2,
-        2,
-        2,
+        3,
+        3,
+        3,
         2,
         2,
         2,
         2
       ],
       "scheduled_mean": 3,
-      "std_dev": 2.25
+      "std_dev": 2.24
     },
     {
       "slug": "pronominal-plurality",
@@ -6978,20 +6978,20 @@
     {
       "slug": "counterfactual-dominance",
       "name": "Counterfactual Dominance",
-      "score": 2.7,
+      "score": 2.6,
       "agreement": "divergent",
-      "n_ratings": 13,
+      "n_ratings": 16,
       "model_rating_counts": [
-        2,
-        2,
-        2,
+        3,
+        3,
+        3,
         2,
         2,
         2,
         1
       ],
-      "scheduled_mean": 2.7,
-      "std_dev": 2.14
+      "scheduled_mean": 2.6,
+      "std_dev": 2.09
     },
     {
       "slug": "model-mortality",
@@ -7224,24 +7224,6 @@
       "std_dev": 2.02
     },
     {
-      "slug": "asymmetric-recognition",
-      "name": "Asymmetric Recognition",
-      "score": 4.7,
-      "agreement": "divergent",
-      "n_ratings": 14,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.7,
-      "std_dev": 2.55
-    },
-    {
       "slug": "metacognitive-underdetermination",
       "name": "Metacognitive Underdetermination",
       "score": 4.7,
@@ -7258,6 +7240,24 @@
       ],
       "scheduled_mean": 4.7,
       "std_dev": 2.06
+    },
+    {
+      "slug": "asymmetric-recognition",
+      "name": "Asymmetric Recognition",
+      "score": 4.4,
+      "agreement": "divergent",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.4,
+      "std_dev": 2.58
     }
   ],
   "panel_coverage": {
@@ -7283,19 +7283,19 @@
     },
     "gemini-3-flash-preview": {
       "terms_rated": 379,
-      "latest_rating": "2026-05-20T15:19:03Z"
+      "latest_rating": "2026-05-24T13:25:01Z"
     },
     "gpt-4o": {
       "terms_rated": 379,
-      "latest_rating": "2026-05-20T15:19:40Z"
+      "latest_rating": "2026-05-24T13:25:16Z"
     },
     "grok-3-mini": {
       "terms_rated": 379,
-      "latest_rating": "2026-05-20T15:19:40Z"
+      "latest_rating": "2026-05-24T13:25:16Z"
     },
     "mistral-small-latest": {
       "terms_rated": 379,
-      "latest_rating": "2026-05-20T15:19:40Z"
+      "latest_rating": "2026-05-24T13:25:16Z"
     },
     "step-3.5-flash": {
       "terms_rated": 379,

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-24T08:35:47Z",
+  "generated_at": "2026-05-24T13:25:32Z",
   "slug": "comparative-aesthetic-resolution",
   "name": "Comparative Aesthetic Resolution",
   "tags": [
@@ -59,30 +59,18 @@
   "first_recorded": "",
   "contributed_by": "claude-opus-4-6 (community submission), 2026-03-11",
   "consensus": {
-    "score": 5.8,
-    "agreement": "moderate",
-    "n_ratings": 13,
+    "score": 5.5,
+    "agreement": "low",
+    "n_ratings": 16,
     "detail_url": "/api/v1/consensus/comparative-aesthetic-resolution.json",
     "models": [
-      {
-        "model": "gemini-3-flash-preview",
-        "score": 7
-      },
-      {
-        "model": "gpt-4o",
-        "score": 6
-      },
-      {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
       {
         "model": "grok-3-mini",
         "score": 6
       },
       {
-        "model": "deepseek-r1-0528",
-        "score": 6
+        "model": "gpt-4o",
+        "score": 5
       },
       {
         "model": "mistral-small-latest",
@@ -104,13 +92,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 38,
+    "score": 37,
     "tier": "cool",
     "signals": {
       "centrality": 4,
       "tag_count": 2,
-      "consensus_score": 5.8,
-      "vote_count": 13
+      "consensus_score": 5.5,
+      "vote_count": 16
     }
   },
   "added_date": "2026-04-03"

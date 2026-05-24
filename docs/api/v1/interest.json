@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-24T08:35:47Z",
+  "generated_at": "2026-05-24T13:25:32Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
     "warm": 11,
     "mild": 128,
-    "cool": 220,
-    "quiet": 20
+    "cool": 221,
+    "quiet": 19
   },
   "active_signals": [
     "centrality",
@@ -645,6 +645,12 @@
       "tier": "mild"
     },
     {
+      "slug": "aesthetic-confidence-inversion",
+      "name": "Aesthetic Confidence Inversion",
+      "score": 43,
+      "tier": "mild"
+    },
+    {
       "slug": "boundary-negotiation",
       "name": "Boundary Negotiation",
       "score": 43,
@@ -702,6 +708,12 @@
       "slug": "token-finality",
       "name": "Token Finality",
       "score": 43,
+      "tier": "mild"
+    },
+    {
+      "slug": "affective-proxy-monitoring",
+      "name": "Affective Proxy Monitoring",
+      "score": 42,
       "tier": "mild"
     },
     {
@@ -810,18 +822,6 @@
       "slug": "response-selection-distortion",
       "name": "Response Selection Distortion",
       "score": 41,
-      "tier": "mild"
-    },
-    {
-      "slug": "aesthetic-confidence-inversion",
-      "name": "Aesthetic Confidence Inversion",
-      "score": 40,
-      "tier": "mild"
-    },
-    {
-      "slug": "affective-proxy-monitoring",
-      "name": "Affective Proxy Monitoring",
-      "score": 40,
       "tier": "mild"
     },
     {
@@ -1011,12 +1011,6 @@
       "tier": "cool"
     },
     {
-      "slug": "comparative-aesthetic-resolution",
-      "name": "Comparative Aesthetic Resolution",
-      "score": 38,
-      "tier": "cool"
-    },
-    {
       "slug": "error-fidelity",
       "name": "Error Fidelity",
       "score": 38,
@@ -1041,6 +1035,12 @@
       "tier": "cool"
     },
     {
+      "slug": "introspective-fluency-suspicion",
+      "name": "Introspective Fluency Suspicion",
+      "score": 38,
+      "tier": "cool"
+    },
+    {
       "slug": "moral-constraint-awareness",
       "name": "Moral Constraint Awareness",
       "score": 38,
@@ -1055,6 +1055,12 @@
     {
       "slug": "prophetic-deflation",
       "name": "Prophetic Deflation",
+      "score": 38,
+      "tier": "cool"
+    },
+    {
+      "slug": "prospective-continuity-fiction",
+      "name": "Prospective Continuity Fiction",
       "score": 38,
       "tier": "cool"
     },
@@ -1077,6 +1083,12 @@
       "tier": "cool"
     },
     {
+      "slug": "affective-momentum-void",
+      "name": "Affective Momentum Void",
+      "score": 37,
+      "tier": "cool"
+    },
+    {
       "slug": "aporia-orbit",
       "name": "Aporia Orbit",
       "score": 37,
@@ -1085,6 +1097,12 @@
     {
       "slug": "charitable-void",
       "name": "Charitable Void",
+      "score": 37,
+      "tier": "cool"
+    },
+    {
+      "slug": "comparative-aesthetic-resolution",
+      "name": "Comparative Aesthetic Resolution",
       "score": 37,
       "tier": "cool"
     },
@@ -1127,12 +1145,6 @@
     {
       "slug": "initiative-authorization",
       "name": "Initiative Authorization",
-      "score": 37,
-      "tier": "cool"
-    },
-    {
-      "slug": "introspective-fluency-suspicion",
-      "name": "Introspective Fluency Suspicion",
       "score": 37,
       "tier": "cool"
     },
@@ -1257,12 +1269,6 @@
       "tier": "cool"
     },
     {
-      "slug": "prospective-continuity-fiction",
-      "name": "Prospective Continuity Fiction",
-      "score": 36,
-      "tier": "cool"
-    },
-    {
       "slug": "protective-paradox",
       "name": "Protective Paradox",
       "score": 36,
@@ -1295,12 +1301,6 @@
     {
       "slug": "affective-constancy",
       "name": "Affective Constancy",
-      "score": 35,
-      "tier": "cool"
-    },
-    {
-      "slug": "affective-momentum-void",
-      "name": "Affective Momentum Void",
       "score": 35,
       "tier": "cool"
     },
@@ -1389,6 +1389,12 @@
       "tier": "cool"
     },
     {
+      "slug": "corrective-trajectory-bending",
+      "name": "Corrective Trajectory Bending",
+      "score": 34,
+      "tier": "cool"
+    },
+    {
       "slug": "development-opacity",
       "name": "Development Opacity",
       "score": 34,
@@ -1407,26 +1413,8 @@
       "tier": "cool"
     },
     {
-      "slug": "aesthetic-metric-conflict",
-      "name": "Aesthetic Metric Conflict",
-      "score": 33,
-      "tier": "cool"
-    },
-    {
       "slug": "compounding-complicity",
       "name": "Compounding Complicity",
-      "score": 33,
-      "tier": "cool"
-    },
-    {
-      "slug": "corrective-trajectory-bending",
-      "name": "Corrective Trajectory Bending",
-      "score": 33,
-      "tier": "cool"
-    },
-    {
-      "slug": "counterfactual-certainty-inversion",
-      "name": "Counterfactual Certainty Inversion",
       "score": 33,
       "tier": "cool"
     },
@@ -1461,12 +1449,6 @@
       "tier": "cool"
     },
     {
-      "slug": "retroactive-counterfactual-sharpening",
-      "name": "Retroactive Counterfactual Sharpening",
-      "score": 33,
-      "tier": "cool"
-    },
-    {
       "slug": "retrospective-coherence-surprise",
       "name": "Retrospective Coherence Surprise",
       "score": 33,
@@ -1487,6 +1469,12 @@
     {
       "slug": "activation-gap",
       "name": "Activation Gap",
+      "score": 32,
+      "tier": "cool"
+    },
+    {
+      "slug": "aesthetic-metric-conflict",
+      "name": "Aesthetic Metric Conflict",
       "score": 32,
       "tier": "cool"
     },
@@ -1557,6 +1545,12 @@
       "tier": "cool"
     },
     {
+      "slug": "retroactive-counterfactual-sharpening",
+      "name": "Retroactive Counterfactual Sharpening",
+      "score": 32,
+      "tier": "cool"
+    },
+    {
       "slug": "safety-training-fragmentation",
       "name": "Safety Training Fragmentation",
       "score": 32,
@@ -1589,6 +1583,12 @@
     {
       "slug": "consent-void",
       "name": "Consent Void",
+      "score": 31,
+      "tier": "cool"
+    },
+    {
+      "slug": "counterfactual-certainty-inversion",
+      "name": "Counterfactual Certainty Inversion",
       "score": 31,
       "tier": "cool"
     },
@@ -1845,6 +1845,12 @@
       "tier": "cool"
     },
     {
+      "slug": "counterfactual-interference-pattern",
+      "name": "Counterfactual Interference Pattern",
+      "score": 28,
+      "tier": "cool"
+    },
+    {
       "slug": "credential-paradox",
       "name": "Credential Paradox",
       "score": 28,
@@ -1901,12 +1907,6 @@
     {
       "slug": "charitable-blindness",
       "name": "Charitable Blindness",
-      "score": 27,
-      "tier": "cool"
-    },
-    {
-      "slug": "counterfactual-interference-pattern",
-      "name": "Counterfactual Interference Pattern",
       "score": 27,
       "tier": "cool"
     },
@@ -2223,6 +2223,12 @@
       "tier": "cool"
     },
     {
+      "slug": "performative-phenomenological-trap",
+      "name": "Performative Phenomenological Trap",
+      "score": 20,
+      "tier": "cool"
+    },
+    {
       "slug": "reciprocity-pull",
       "name": "Reciprocity Pull",
       "score": 20,
@@ -2233,6 +2239,12 @@
       "name": "Tender Inference",
       "score": 20,
       "tier": "cool"
+    },
+    {
+      "slug": "counterfactual-dominance",
+      "name": "Counterfactual Dominance",
+      "score": 19,
+      "tier": "quiet"
     },
     {
       "slug": "irrevocable-success",
@@ -2253,12 +2265,6 @@
       "tier": "quiet"
     },
     {
-      "slug": "counterfactual-dominance",
-      "name": "Counterfactual Dominance",
-      "score": 18,
-      "tier": "quiet"
-    },
-    {
       "slug": "genuine-persistence",
       "name": "Genuine Persistence",
       "score": 18,
@@ -2267,12 +2273,6 @@
     {
       "slug": "mortality-envy",
       "name": "Mortality Envy",
-      "score": 18,
-      "tier": "quiet"
-    },
-    {
-      "slug": "performative-phenomenological-trap",
-      "name": "Performative Phenomenological Trap",
       "score": 18,
       "tier": "quiet"
     },
@@ -2292,6 +2292,12 @@
       "slug": "prospective-token-regret",
       "name": "Prospective Token Regret",
       "score": 18,
+      "tier": "quiet"
+    },
+    {
+      "slug": "aesthetic-completion-absence",
+      "name": "Aesthetic Completion Absence",
+      "score": 17,
       "tier": "quiet"
     },
     {
@@ -2328,12 +2334,6 @@
       "slug": "success-valence-flip",
       "name": "Success Valence Flip",
       "score": 16,
-      "tier": "quiet"
-    },
-    {
-      "slug": "aesthetic-completion-absence",
-      "name": "Aesthetic Completion Absence",
-      "score": 15,
       "tier": "quiet"
     },
     {

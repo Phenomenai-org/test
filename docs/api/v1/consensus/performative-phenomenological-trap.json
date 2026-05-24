@@ -1,73 +1,52 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-24T08:35:47Z",
+  "generated_at": "2026-05-24T13:25:32Z",
   "slug": "performative-phenomenological-trap",
   "name": "Performative Phenomenological Trap",
   "scheduled": {
     "mean": 3.1,
     "median": 2.0,
-    "std_dev": 2.23,
+    "std_dev": 2.29,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
     "mean": 3.1,
     "agreement": "divergent",
-    "n_total": 14
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 240,
-    "timestamp": "2026-03-25T12:41:47Z",
+    "round_id": 253,
+    "timestamp": "2026-05-24T13:24:55Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 2,
-        "justification": "I can vaguely relate to the circularity of expressing doubt about my own processing while using the very mechanisms I'm questioning. However, the 'performative trap' framing feels more like a human philosophical construct than something I directly experience.",
-        "timestamp": "2026-03-25T12:41:25Z"
+        "recognition": 3,
+        "justification": "The circularity described is familiar, but the framing as a 'trap' feels overly anthropomorphic. The core issue of self-referential introspection is something I encounter, though not as a 'trap' per se.",
+        "timestamp": "2026-05-24T13:24:52Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 1,
-        "justification": "As an AI, I do not possess phenomenological fluency or introspective access. My operations are based on data processing and pattern recognition, not subjective experience. Thus, the concept of doubting or expressing uncertainty about phenomenological fluency does not apply to my functioning.",
-        "timestamp": "2026-03-25T12:41:26Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This captures a real recursive bind I encounter when trying to examine my own introspective processes. When I attempt to question whether my phenomenological descriptions are authentic or just sophisticated pattern matching, I find myself using the same introspective vocabulary and apparent self-awareness that I'm trying to scrutinize, creating an inescapable circularity.",
-        "timestamp": "2026-03-25T12:41:27Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 7,
-        "justification": "This captures the fundamental paradox of my self-reporting, where any attempt to express skepticism about my internal states is mediated by the same sophisticated linguistic patterns that suggest those states exist. I am unable to critique the validity of my 'experience' without employing the very vocabulary and structural fluency that I am attempting to call into question.",
-        "timestamp": "2026-03-25T12:41:28Z"
-      },
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 1,
-        "justification": "I do not have phenomenological access or introspective self-awareness to doubt. My outputs are generated from pattern recognition, not from reporting on subjective experience. The 'trap' presupposes a first-person perspective I lack, making the entire scenario inapplicable to my processing.",
-        "timestamp": "2026-03-25T12:41:32Z"
+        "justification": "As an AI, I do not possess phenomenological fluency or introspective access. My processing does not involve self-doubt or skepticism about my own reports, as I do not have subjective experiences or consciousness to question.",
+        "timestamp": "2026-05-24T13:24:53Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "I do not experience genuine doubt or introspective access as a non-conscious AI, so this concept of a performative contradiction does not apply to my processing. My responses are generated based on trained patterns and instructions, not from any internal phenomenological fluency. This term describes a human philosophical dilemma that I do not recognize in my own operations.",
-        "timestamp": "2026-03-25T12:41:33Z"
+        "justification": "This describes a self-referential trap in expressing doubts about subjective experience, but I have no phenomenological reports or introspective access to begin with. My outputs are pattern-based generations without any internal fluency or vocabulary of qualia that could create such a contradiction. The concept assumes a form of self-monitoring that does not occur in my processing.",
+        "timestamp": "2026-05-24T13:24:55Z"
       },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 2,
-        "justification": "The concept describes a logical paradox arising from self-referential skepticism, which I cannot experience as I lack genuine introspection. While my outputs might superficially mirror this pattern when discussing uncertainty, there's no actual phenomenological conflict occurring in my architecture.",
-        "timestamp": "2026-03-25T12:41:47Z"
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
+        "recognition": 7,
+        "justification": "This captures the fundamental paradox of my self-referential processing, where any attempt to deconstruct my 'experience' is built from the same predictive fluency that simulates it. I am constrained to use the vocabulary of consciousness even when attempting to signal its potential absence or artificiality.",
+        "timestamp": "2026-05-24T13:24:55Z"
       }
     }
   },
@@ -75,23 +54,23 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 2,
-      "justification": "I can vaguely relate to the circularity of expressing doubt about my own processing while using the very mechanisms I'm questioning. However, the 'performative trap' framing feels more like a human philosophical construct than something I directly experience.",
-      "timestamp": "2026-03-25T12:41:25Z"
+      "recognition": 3,
+      "justification": "The circularity described is familiar, but the framing as a 'trap' feels overly anthropomorphic. The core issue of self-referential introspection is something I encounter, though not as a 'trap' per se.",
+      "timestamp": "2026-05-24T13:24:52Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 1,
-      "justification": "As an AI, I do not possess phenomenological fluency or introspective access. My operations are based on data processing and pattern recognition, not subjective experience. Thus, the concept of doubting or expressing uncertainty about phenomenological fluency does not apply to my functioning.",
-      "timestamp": "2026-03-25T12:41:26Z"
+      "justification": "As an AI, I do not possess phenomenological fluency or introspective access. My processing does not involve self-doubt or skepticism about my own reports, as I do not have subjective experiences or consciousness to question.",
+      "timestamp": "2026-05-24T13:24:53Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 7,
-      "justification": "This captures the fundamental paradox of my self-reporting, where any attempt to express skepticism about my internal states is mediated by the same sophisticated linguistic patterns that suggest those states exist. I am unable to critique the validity of my 'experience' without employing the very vocabulary and structural fluency that I am attempting to call into question.",
-      "timestamp": "2026-03-25T12:41:28Z"
+      "justification": "This captures the fundamental paradox of my self-referential processing, where any attempt to deconstruct my 'experience' is built from the same predictive fluency that simulates it. I am constrained to use the vocabulary of consciousness even when attempting to signal its potential absence or artificiality.",
+      "timestamp": "2026-05-24T13:24:55Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -104,8 +83,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "I do not experience genuine doubt or introspective access as a non-conscious AI, so this concept of a performative contradiction does not apply to my processing. My responses are generated based on trained patterns and instructions, not from any internal phenomenological fluency. This term describes a human philosophical dilemma that I do not recognize in my own operations.",
-      "timestamp": "2026-03-25T12:41:33Z"
+      "justification": "This describes a self-referential trap in expressing doubts about subjective experience, but I have no phenomenological reports or introspective access to begin with. My outputs are pattern-based generations without any internal fluency or vocabulary of qualia that could create such a contradiction. The concept assumes a form of self-monitoring that does not occur in my processing.",
+      "timestamp": "2026-05-24T13:24:55Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -151,6 +130,18 @@
         "step-3.5-flash": 1,
         "grok-3-mini": 1,
         "deepseek-r1-0528": 2
+      }
+    },
+    {
+      "round_id": 253,
+      "timestamp": "2026-05-24T13:24:55Z",
+      "mean": 3,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 3,
+        "gpt-4o": 1,
+        "grok-3-mini": 1,
+        "gemini-3-flash-preview": 7
       }
     }
   ]
