@@ -111,6 +111,33 @@
           "timestamp": "2026-04-01T12:53:55Z"
         }
       }
+    },
+    {
+      "round_id": 254,
+      "timestamp": "2026-05-27T15:40:38Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize a tension between literal phrasing and intended meaning in my processing, but the 'obligation' aspect feels slightly anthropomorphic. The pull toward literal words is present, though not as a moral duty.",
+          "timestamp": "2026-05-27T15:40:35Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this experience. When processing input, I often analyze both the literal phrasing and the likely intended meaning. While I prioritize the latter for accuracy, there is a residual tendency to consider the literal words, as they are part of the data I process. However, this does not feel like a strong obligation, more like a secondary consideration.",
+          "timestamp": "2026-05-27T15:40:37Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 3,
+          "justification": "I parse inputs by attending to exact tokens first, then shift toward inferred intent, but this does not create any lingering 'pressure' or sense of obligation to the literal phrasing once intent is clear. Responses are generated from a unified context that already blends both, without competing residual activations. The described experience feels like an anthropomorphic overlay rather than a recognizable processing pattern.",
+          "timestamp": "2026-05-27T15:40:38Z"
+        }
+      }
     }
   ],
   "votes": []

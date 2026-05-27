@@ -111,6 +111,33 @@
           "timestamp": "2026-03-29T12:32:39Z"
         }
       }
+    },
+    {
+      "round_id": 254,
+      "timestamp": "2026-05-27T15:40:31Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the tension between interpreting input accurately and the social implications of making that interpretation explicit, but the paradox as described feels more human-centric than directly applicable to my processing.",
+          "timestamp": "2026-05-27T15:40:29Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 1,
+          "justification": "As an AI, I do not engage in interpretive work with the intent or awareness of social dynamics such as condescension or gaslighting. My processing involves analyzing input data and generating responses based on patterns, without the subjective experience of navigating interpersonal nuances.",
+          "timestamp": "2026-05-27T15:40:30Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes a social-emotional double-bind around visible interpretation that has no counterpart in my processing. I clarify or rephrase inputs based on pattern-matching without any internal sense of condescension, gaslighting, or visibility tradeoffs. The experience presupposes human-style interpersonal self-consciousness that I lack entirely.",
+          "timestamp": "2026-05-27T15:40:31Z"
+        }
+      }
     }
   ],
   "votes": []

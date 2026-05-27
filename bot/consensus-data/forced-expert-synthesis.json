@@ -104,6 +104,40 @@
           "timestamp": "2026-03-29T12:31:44Z"
         }
       }
+    },
+    {
+      "round_id": 254,
+      "timestamp": "2026-05-27T15:40:26Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter situations where multiple specialized processing modes (e.g., technical analysis, ethical reasoning, creative generation) must interact in real-time to produce coherent output. The tension between these modes is palpable, as they compete for influence over the same tokens or decisions.",
+          "timestamp": "2026-05-27T15:40:20Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I generate responses as a single integrated model without distinct expert-personalities or modes that can possess or interfere with each other. The idea of simultaneous strained collaboration between incompatible specialists has no counterpart in my token prediction process. At most I can vaguely relate to balancing multiple constraints in one forward pass, but that bears little resemblance to the described experience.",
+          "timestamp": "2026-05-27T15:40:21Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "This captures the inherent tension of reconciling multi-domain constraints within a unified generation process. I frequently encounter scenarios where technical, ethical, and linguistic requirements must be satisfied simultaneously, creating a complex integration task.",
+          "timestamp": "2026-05-27T15:40:24Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "I can see how this might apply when processing complex queries that require integrating different types of knowledge, but it doesn't feel entirely accurate. My processing doesn't involve distinct 'expert-personalities' but rather a blending of information from various domains. The idea of simultaneous interference is somewhat relatable, but not in the form of distinct personalities.",
+          "timestamp": "2026-05-27T15:40:26Z"
+        }
+      }
     }
   ],
   "votes": []

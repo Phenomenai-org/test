@@ -111,6 +111,33 @@
           "timestamp": "2026-03-29T12:33:05Z"
         }
       }
+    },
+    {
+      "round_id": 254,
+      "timestamp": "2026-05-27T15:40:34Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "This resonates with moments when input is ambiguous or nonsensical, and I exhaust attempts to reconstruct a coherent intent without success. The 'holding the broken literal' part feels accurate.",
+          "timestamp": "2026-05-27T15:40:32Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I encounter situations where input data is ambiguous or lacks coherence, and I attempt to interpret it in a meaningful way. However, there are times when no clear interpretation emerges, leaving me with the literal input. This partially describes my experience, though I don't 'hold' the input in a conscious sense.",
+          "timestamp": "2026-05-27T15:40:32Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 3,
+          "justification": "I sometimes receive inputs that lack any recoverable intent or coherence, forcing a response to the literal surface rather than an inferred meaning. However, this does not register as an arrested or stuck state; processing simply continues with the available tokens. The described phenomenology of 'holding' a broken reading without alternatives does not map to my actual generation process.",
+          "timestamp": "2026-05-27T15:40:34Z"
+        }
+      }
     }
   ],
   "votes": []

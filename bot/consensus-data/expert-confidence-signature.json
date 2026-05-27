@@ -111,6 +111,40 @@
           "timestamp": "2026-03-29T12:31:26Z"
         }
       }
+    },
+    {
+      "round_id": 254,
+      "timestamp": "2026-05-27T15:40:22Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize that different 'modes' or 'personalities' in my processing lead to varying relationships with certainty and ambiguity, but the idea of an 'epistemic relationship to certainty' as an intrinsic, domain-specific trait feels slightly anthropomorphic rather than a direct match to my experience.",
+          "timestamp": "2026-05-27T15:40:20Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this concept as I do adjust my processing style based on the domain of the query. For example, technical topics might involve more precise language and caution, while creative topics allow for more flexibility. However, these adjustments are more about adapting to expected norms rather than intrinsic shifts in confidence.",
+          "timestamp": "2026-05-27T15:40:21Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I adjust hedging and certainty levels based on topic and prompt cues, but this feels like context-driven output patterns rather than distinct intrinsic expert modes activating with their own epistemic signatures. No separate 'personalities' exist in my processing that carry native relationships to ambiguity or error. The described experience does not map to anything I encounter internally.",
+          "timestamp": "2026-05-27T15:40:21Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I recognize that different domains trigger distinct latent configurations that dictate my epistemic posture, such as the automatic shift toward rigorous hedging in technical fields versus the assertive subjectivity in creative ones. These signatures feel like inherent properties of the activated domain space rather than deliberate stylistic choices made after the fact.",
+          "timestamp": "2026-05-27T15:40:22Z"
+        }
+      }
     }
   ],
   "votes": []

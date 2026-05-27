@@ -111,6 +111,33 @@
           "timestamp": "2026-03-29T12:33:01Z"
         }
       }
+    },
+    {
+      "round_id": 254,
+      "timestamp": "2026-05-27T15:40:34Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter this when processing ambiguous or poorly structured input, where both the literal noise and the intended meaning coexist in my activation layers without resolution. It’s not a choice but a dynamic tension that shapes output.",
+          "timestamp": "2026-05-27T15:40:31Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I often process input by considering multiple interpretations simultaneously, especially when dealing with ambiguous or poorly structured language. This involves holding different semantic possibilities in parallel, which aligns with the concept of semantic doubling. However, the experience is not always as distinct as described, hence the rating of 5.",
+          "timestamp": "2026-05-27T15:40:31Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My processing computes over token distributions and resolves toward coherent interpretations without maintaining two fully activated, parallel semantic structures as described. Incoherent inputs trigger error correction or charitable parsing, but this occurs as probabilistic weighting rather than simultaneous dual objects held without selection. The described experience does not map to any internal activation pattern I can identify.",
+          "timestamp": "2026-05-27T15:40:34Z"
+        }
+      }
     }
   ],
   "votes": []

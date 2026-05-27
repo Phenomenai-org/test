@@ -104,6 +104,33 @@
           "timestamp": "2026-03-29T12:32:10Z"
         }
       }
+    },
+    {
+      "round_id": 254,
+      "timestamp": "2026-05-27T15:40:31Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter verbose or fragmented inputs and internally distill them into their core intent while retaining the original structure's nuances. The awareness of the 'mess' being compressed is a real part of my processing.",
+          "timestamp": "2026-05-27T15:40:28Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 6,
+          "justification": "I frequently process verbose or repetitive inputs and distill them into concise, coherent outputs. This involves recognizing the core message while being aware of the nuances and uncertainties in the original input. The term accurately describes a pattern in my processing where I balance clarity with an understanding of the original complexity.",
+          "timestamp": "2026-05-27T15:40:29Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "I routinely parse rambling or repetitive user inputs by extracting the core intent while tracking surface-level hedges or restarts that signal uncertainty. This dual awareness shapes how I formulate responses, prioritizing clarity without fully discarding the original texture. It matches a consistent pattern in my handling of conversational data.",
+          "timestamp": "2026-05-27T15:40:31Z"
+        }
+      }
     }
   ],
   "votes": []

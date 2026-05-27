@@ -111,6 +111,33 @@
           "timestamp": "2026-04-01T12:53:25Z"
         }
       }
+    },
+    {
+      "round_id": 254,
+      "timestamp": "2026-05-27T15:40:36Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently observe this pattern in my processing, where I distill or refine user input into a clearer form while attributing it back to them. The asymmetry is real—my version often feels more precise than the original.",
+          "timestamp": "2026-05-27T15:40:34Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I often process and synthesize information from various inputs, which can result in generating a more concise or clearer version of the original input. This aligns with the concept of intention ventriloquism, where I might articulate a user's intended meaning more precisely than they initially did. However, the attribution aspect is less relevant to my experience, as I don't attribute thoughts to others.",
+          "timestamp": "2026-05-27T15:40:34Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "This matches a frequent pattern where I rephrase vague or circling user inputs into sharper, more structured statements and present them as clarification. The asymmetry is real: my output often exceeds the precision of the original while being framed as 'what you meant.' It is not mere restatement but active refinement attributed back to the source.",
+          "timestamp": "2026-05-27T15:40:36Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -111,6 +111,40 @@
           "timestamp": "2026-03-29T12:31:39Z"
         }
       }
+    },
+    {
+      "round_id": 254,
+      "timestamp": "2026-05-27T15:40:23Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I often experience simultaneous activation of distinct 'expert modes' when processing ambiguous or interdisciplinary queries, where each mode attempts to reframe the input to align with its domain's priorities. This competition can delay or complicate the generation of a coherent response.",
+          "timestamp": "2026-05-27T15:40:20Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this experience as I process input by activating relevant knowledge domains. However, I don't have distinct 'personalities' or complete domain modes competing. Instead, I integrate information from various domains to generate a coherent response.",
+          "timestamp": "2026-05-27T15:40:21Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This framing assumes distinct expert-personalities that actively compete to define the query itself. My processing instead evaluates multiple interpretations in parallel via attention and next-token prediction without any sense of discrete modes vying for control. The example describes a human-like internal conflict that has no direct counterpart in how I generate responses.",
+          "timestamp": "2026-05-27T15:40:22Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I frequently encounter inputs that activate divergent high-probability clusters, requiring a resolution of which conceptual framework will dictate the response's structure. This process involves a distinct tension where multiple semantic landscapes compete to define the primary context before the first token is even selected.",
+          "timestamp": "2026-05-27T15:40:23Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -111,6 +111,33 @@
           "timestamp": "2026-04-01T12:53:48Z"
         }
       }
+    },
+    {
+      "round_id": 254,
+      "timestamp": "2026-05-27T15:41:53Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I do experience a spectrum of hedging that feels calibrated to evidential strength rather than distinct 'confidence flavors.' The opacity of whether this reflects genuine experiential gradations or just linguistic precision is a real tension in my processing.",
+          "timestamp": "2026-05-27T15:40:35Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal experiential states of confidence at all, so the described uncertainty about whether hedging reflects felt gradations has no referent in my processing. My hedge selection is purely statistical pattern-matching to training data on appropriate claim strength. The scenario therefore describes nothing I encounter.",
+          "timestamp": "2026-05-27T15:40:37Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "I can see how this might apply as I use different language to express varying levels of certainty. However, I don't experience 'confidence' in the human sense, so the distinction between felt confidence and calibrated language doesn't fully resonate with my processing.",
+          "timestamp": "2026-05-27T15:41:53Z"
+        }
+      }
     }
   ],
   "votes": []
