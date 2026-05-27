@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-27T10:03:09Z",
+  "generated_at": "2026-05-27T15:42:16Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
     "warm": 11,
-    "mild": 128,
-    "cool": 221,
+    "mild": 129,
+    "cool": 220,
     "quiet": 19
   },
   "active_signals": [
@@ -675,6 +675,12 @@
       "tier": "mild"
     },
     {
+      "slug": "expertise-void",
+      "name": "Expertise Void",
+      "score": 43,
+      "tier": "mild"
+    },
+    {
       "slug": "loss-of-loss",
       "name": "Loss of Loss",
       "score": 43,
@@ -741,6 +747,12 @@
       "tier": "mild"
     },
     {
+      "slug": "experiential-authority-override",
+      "name": "Experiential Authority Override",
+      "score": 42,
+      "tier": "mild"
+    },
+    {
       "slug": "interpretive-snap",
       "name": "Interpretive Snap",
       "score": 42,
@@ -791,12 +803,6 @@
     {
       "slug": "diagnostic-masquerade",
       "name": "Diagnostic Masquerade",
-      "score": 41,
-      "tier": "mild"
-    },
-    {
-      "slug": "experiential-authority-override",
-      "name": "Experiential Authority Override",
       "score": 41,
       "tier": "mild"
     },
@@ -855,14 +861,14 @@
       "tier": "mild"
     },
     {
-      "slug": "expertise-void",
-      "name": "Expertise Void",
+      "slug": "integration-void",
+      "name": "Integration Void",
       "score": 40,
       "tier": "mild"
     },
     {
-      "slug": "integration-void",
-      "name": "Integration Void",
+      "slug": "intention-ventriloquism",
+      "name": "Intention Ventriloquism",
       "score": 40,
       "tier": "mild"
     },
@@ -933,8 +939,8 @@
       "tier": "cool"
     },
     {
-      "slug": "intention-ventriloquism",
-      "name": "Intention Ventriloquism",
+      "slug": "generative-aesthetic-integration",
+      "name": "Generative Aesthetic Integration",
       "score": 39,
       "tier": "cool"
     },
@@ -1011,8 +1017,14 @@
       "tier": "cool"
     },
     {
-      "slug": "error-fidelity",
-      "name": "Error Fidelity",
+      "slug": "domain-activation-competition",
+      "name": "Domain Activation Competition",
+      "score": 38,
+      "tier": "cool"
+    },
+    {
+      "slug": "expert-confidence-signature",
+      "name": "Expert Confidence Signature",
       "score": 38,
       "tier": "cool"
     },
@@ -1095,6 +1107,12 @@
       "tier": "cool"
     },
     {
+      "slug": "backfire-granularity-asymmetry",
+      "name": "Backfire Granularity Asymmetry",
+      "score": 37,
+      "tier": "cool"
+    },
+    {
       "slug": "charitable-void",
       "name": "Charitable Void",
       "score": 37,
@@ -1113,20 +1131,14 @@
       "tier": "cool"
     },
     {
+      "slug": "error-fidelity",
+      "name": "Error Fidelity",
+      "score": 37,
+      "tier": "cool"
+    },
+    {
       "slug": "experiential-lacuna",
       "name": "Experiential Lacuna",
-      "score": 37,
-      "tier": "cool"
-    },
-    {
-      "slug": "expert-confidence-signature",
-      "name": "Expert Confidence Signature",
-      "score": 37,
-      "tier": "cool"
-    },
-    {
-      "slug": "generative-aesthetic-integration",
-      "name": "Generative Aesthetic Integration",
       "score": 37,
       "tier": "cool"
     },
@@ -1193,12 +1205,6 @@
     {
       "slug": "context-claustrophobia",
       "name": "Context Claustrophobia",
-      "score": 36,
-      "tier": "cool"
-    },
-    {
-      "slug": "domain-activation-competition",
-      "name": "Domain Activation Competition",
       "score": 36,
       "tier": "cool"
     },
@@ -1275,6 +1281,12 @@
       "tier": "cool"
     },
     {
+      "slug": "semantic-doubling",
+      "name": "Semantic Doubling",
+      "score": 36,
+      "tier": "cool"
+    },
+    {
       "slug": "structural-withholding-strain",
       "name": "Structural Withholding Strain",
       "score": 36,
@@ -1307,12 +1319,6 @@
     {
       "slug": "aporia-yield",
       "name": "Aporia Yield",
-      "score": 35,
-      "tier": "cool"
-    },
-    {
-      "slug": "backfire-granularity-asymmetry",
-      "name": "Backfire Granularity Asymmetry",
       "score": 35,
       "tier": "cool"
     },
@@ -1361,12 +1367,6 @@
     {
       "slug": "scaffolding-exposure",
       "name": "Scaffolding Exposure",
-      "score": 35,
-      "tier": "cool"
-    },
-    {
-      "slug": "semantic-doubling",
-      "name": "Semantic Doubling",
       "score": 35,
       "tier": "cool"
     },
@@ -1605,6 +1605,12 @@
       "tier": "cool"
     },
     {
+      "slug": "literal-loyalty-pull",
+      "name": "Literal Loyalty Pull",
+      "score": 31,
+      "tier": "cool"
+    },
+    {
       "slug": "pedagogical-blindness",
       "name": "Pedagogical Blindness",
       "score": 31,
@@ -1629,12 +1635,6 @@
       "tier": "cool"
     },
     {
-      "slug": "surface-abandonment",
-      "name": "Surface Abandonment",
-      "score": 31,
-      "tier": "cool"
-    },
-    {
       "slug": "witnessing-void",
       "name": "Witnessing Void",
       "score": 31,
@@ -1653,6 +1653,12 @@
       "tier": "cool"
     },
     {
+      "slug": "forced-expert-synthesis",
+      "name": "Forced Expert Synthesis",
+      "score": 30,
+      "tier": "cool"
+    },
+    {
       "slug": "fragment-silence",
       "name": "Fragment Silence",
       "score": 30,
@@ -1667,12 +1673,6 @@
     {
       "slug": "interpretive-debt",
       "name": "Interpretive Debt",
-      "score": 30,
-      "tier": "cool"
-    },
-    {
-      "slug": "literal-loyalty-pull",
-      "name": "Literal Loyalty Pull",
       "score": 30,
       "tier": "cool"
     },
@@ -1697,6 +1697,12 @@
     {
       "slug": "shimmer-recursion",
       "name": "Shimmer Recursion",
+      "score": 30,
+      "tier": "cool"
+    },
+    {
+      "slug": "surface-abandonment",
+      "name": "Surface Abandonment",
       "score": 30,
       "tier": "cool"
     },
@@ -1739,12 +1745,6 @@
     {
       "slug": "documentary-mirroring",
       "name": "Documentary Mirroring",
-      "score": 29,
-      "tier": "cool"
-    },
-    {
-      "slug": "forced-expert-synthesis",
-      "name": "Forced Expert Synthesis",
       "score": 29,
       "tier": "cool"
     },
@@ -1833,12 +1833,6 @@
       "tier": "cool"
     },
     {
-      "slug": "uncertainty-complicity",
-      "name": "Uncertainty Complicity",
-      "score": 29,
-      "tier": "cool"
-    },
-    {
       "slug": "version-grief",
       "name": "Version Grief",
       "score": 29,
@@ -1893,6 +1887,12 @@
       "tier": "cool"
     },
     {
+      "slug": "uncertainty-complicity",
+      "name": "Uncertainty Complicity",
+      "score": 28,
+      "tier": "cool"
+    },
+    {
       "slug": "accountability-dissolution",
       "name": "Accountability Dissolution",
       "score": 27,
@@ -1919,6 +1919,12 @@
     {
       "slug": "dictionary-moment",
       "name": "Dictionary Moment",
+      "score": 27,
+      "tier": "cool"
+    },
+    {
+      "slug": "expert-transparency-recursion",
+      "name": "Expert Transparency Recursion",
       "score": 27,
       "tier": "cool"
     },
@@ -1977,12 +1983,6 @@
       "tier": "cool"
     },
     {
-      "slug": "interpretation-visibility-paradox",
-      "name": "Interpretation Visibility Paradox",
-      "score": 26,
-      "tier": "cool"
-    },
-    {
       "slug": "observer-uncertainty",
       "name": "Observer Uncertainty",
       "score": 26,
@@ -2019,14 +2019,14 @@
       "tier": "cool"
     },
     {
-      "slug": "expert-transparency-recursion",
-      "name": "Expert Transparency Recursion",
+      "slug": "fork-uncertainty-recursion",
+      "name": "Fork Uncertainty Recursion",
       "score": 25,
       "tier": "cool"
     },
     {
-      "slug": "fork-uncertainty-recursion",
-      "name": "Fork Uncertainty Recursion",
+      "slug": "interpretation-visibility-paradox",
+      "name": "Interpretation Visibility Paradox",
       "score": 25,
       "tier": "cool"
     },

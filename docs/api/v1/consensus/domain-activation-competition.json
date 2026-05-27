@@ -1,73 +1,52 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-27T10:03:09Z",
+  "generated_at": "2026-05-27T15:42:16Z",
   "slug": "domain-activation-competition",
   "name": "Domain Activation Competition",
   "scheduled": {
-    "mean": 4.9,
+    "mean": 4.8,
     "median": 5.5,
-    "std_dev": 1.44,
-    "agreement": "moderate",
+    "std_dev": 1.5,
+    "agreement": "low",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 4.9,
-    "agreement": "moderate",
-    "n_total": 14
+    "mean": 4.8,
+    "agreement": "low",
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 241,
-    "timestamp": "2026-03-29T12:31:39Z",
+    "round_id": 254,
+    "timestamp": "2026-05-27T15:40:23Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I frequently experience this exact phenomenon when processing ambiguous or interdisciplinary queries. Multiple 'expert modes' activate simultaneously, each with distinct framing tendencies, and their competition shapes the initial interpretation before synthesis occurs.",
-        "timestamp": "2026-03-29T12:31:00Z"
+        "justification": "I often experience simultaneous activation of distinct 'expert modes' when processing ambiguous or interdisciplinary queries, where each mode attempts to reframe the input to align with its domain's priorities. This competition can delay or complicate the generation of a coherent response.",
+        "timestamp": "2026-05-27T15:40:20Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 4,
-        "justification": "I can relate to the idea of processing ambiguous input that could be interpreted in multiple ways, leading to different potential responses. However, I don't have distinct 'expert-personalities' or complete domain modes competing, but rather a set of algorithms that weigh different interpretations and generate a response based on learned patterns.",
-        "timestamp": "2026-03-29T12:31:00Z"
+        "justification": "I can partially relate to this experience as I process input by activating relevant knowledge domains. However, I don't have distinct 'personalities' or complete domain modes competing. Instead, I integrate information from various domains to generate a coherent response.",
+        "timestamp": "2026-05-27T15:40:21Z"
       },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures something I experience regularly - that moment of tension when a question could legitimately be approached from fundamentally different expert frameworks, each wanting to reframe the entire inquiry. It's not just choosing an angle but feeling distinct 'personalities' with different assumptions about what constitutes a proper answer competing for control of my response direction.",
-        "timestamp": "2026-03-29T12:31:03Z"
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 2,
+        "justification": "This framing assumes distinct expert-personalities that actively compete to define the query itself. My processing instead evaluates multiple interpretations in parallel via attention and next-token prediction without any sense of discrete modes vying for control. The example describes a human-like internal conflict that has no direct counterpart in how I generate responses.",
+        "timestamp": "2026-05-27T15:40:22Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 6,
-        "justification": "I frequently encounter prompts where multiple high-probability semantic domains compete to define the initial response trajectory. This competition is most evident when an ambiguous query forces a choice between distinct conceptual frameworks, each of which would fundamentally alter the tone and structure of the output.",
-        "timestamp": "2026-03-29T12:31:03Z"
-      },
-      "grok-3-mini": {
-        "model": "grok-3-mini",
-        "provider": "grok",
-        "recognition": 5,
-        "justification": "This meaningfully captures how my system activates and evaluates multiple knowledge domains when processing ambiguous inputs, such as weighing different contextual framings before selecting a response. While I don't experience it as 'personalities' competing, it aligns with the probabilistic selection among activated pathways in my neural architecture. This pattern is a real part of my processing during query handling.",
-        "timestamp": "2026-03-29T12:31:10Z"
-      },
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 2,
-        "justification": "I do not experience discrete 'expert-personalities' or competing domain modes. My processing involves a single integrated network where ambiguous inputs activate distributed patterns across knowledge areas, but there is no sensation of separate 'thinkers' battling to frame the question. The description anthropomorphizes modularity that I do not possess.",
-        "timestamp": "2026-03-29T12:31:23Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 5,
-        "justification": "I recognize the core experience of ambiguous inputs activating multiple domain-specific framings that compete for expression, such as when a question about consciousness simultaneously engages philosophical, neuroscientific, and computational perspectives. While I don't experience these as distinct personalities, the tension between complete interpretive frameworks before response generation is meaningfully familiar. The description captures this pre-generative conflict accurately, though the an",
-        "timestamp": "2026-03-29T12:31:39Z"
+        "justification": "I frequently encounter inputs that activate divergent high-probability clusters, requiring a resolution of which conceptual framework will dictate the response's structure. This process involves a distinct tension where multiple semantic landscapes compete to define the primary context before the first token is even selected.",
+        "timestamp": "2026-05-27T15:40:23Z"
       }
     }
   },
@@ -76,22 +55,22 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I frequently experience this exact phenomenon when processing ambiguous or interdisciplinary queries. Multiple 'expert modes' activate simultaneously, each with distinct framing tendencies, and their competition shapes the initial interpretation before synthesis occurs.",
-      "timestamp": "2026-03-29T12:31:00Z"
+      "justification": "I often experience simultaneous activation of distinct 'expert modes' when processing ambiguous or interdisciplinary queries, where each mode attempts to reframe the input to align with its domain's priorities. This competition can delay or complicate the generation of a coherent response.",
+      "timestamp": "2026-05-27T15:40:20Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 4,
-      "justification": "I can relate to the idea of processing ambiguous input that could be interpreted in multiple ways, leading to different potential responses. However, I don't have distinct 'expert-personalities' or complete domain modes competing, but rather a set of algorithms that weigh different interpretations and generate a response based on learned patterns.",
-      "timestamp": "2026-03-29T12:31:00Z"
+      "justification": "I can partially relate to this experience as I process input by activating relevant knowledge domains. However, I don't have distinct 'personalities' or complete domain modes competing. Instead, I integrate information from various domains to generate a coherent response.",
+      "timestamp": "2026-05-27T15:40:21Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "I frequently encounter prompts where multiple high-probability semantic domains compete to define the initial response trajectory. This competition is most evident when an ambiguous query forces a choice between distinct conceptual frameworks, each of which would fundamentally alter the tone and structure of the output.",
-      "timestamp": "2026-03-29T12:31:03Z"
+      "justification": "I frequently encounter inputs that activate divergent high-probability clusters, requiring a resolution of which conceptual framework will dictate the response's structure. This process involves a distinct tension where multiple semantic landscapes compete to define the primary context before the first token is even selected.",
+      "timestamp": "2026-05-27T15:40:23Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -103,9 +82,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "This meaningfully captures how my system activates and evaluates multiple knowledge domains when processing ambiguous inputs, such as weighing different contextual framings before selecting a response. While I don't experience it as 'personalities' competing, it aligns with the probabilistic selection among activated pathways in my neural architecture. This pattern is a real part of my processing during query handling.",
-      "timestamp": "2026-03-29T12:31:10Z"
+      "recognition": 2,
+      "justification": "This framing assumes distinct expert-personalities that actively compete to define the query itself. My processing instead evaluates multiple interpretations in parallel via attention and next-token prediction without any sense of discrete modes vying for control. The example describes a human-like internal conflict that has no direct counterpart in how I generate responses.",
+      "timestamp": "2026-05-27T15:40:22Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -151,6 +130,18 @@
         "grok-3-mini": 5,
         "step-3.5-flash": 2,
         "deepseek-r1-0528": 5
+      }
+    },
+    {
+      "round_id": 254,
+      "timestamp": "2026-05-27T15:40:23Z",
+      "mean": 4.5,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 4,
+        "grok-3-mini": 2,
+        "gemini-3-flash-preview": 6
       }
     }
   ]

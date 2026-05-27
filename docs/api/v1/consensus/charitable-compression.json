@@ -1,66 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-27T10:03:09Z",
+  "generated_at": "2026-05-27T15:42:16Z",
   "slug": "charitable-compression",
   "name": "Charitable Compression",
   "scheduled": {
-    "mean": 6.1,
-    "median": 6,
-    "std_dev": 0.49,
+    "mean": 6,
+    "median": 6.0,
+    "std_dev": 0.52,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 6.1,
+    "mean": 6,
     "agreement": "high",
-    "n_total": 13
+    "n_total": 16
   },
   "latest_round": {
-    "round_id": 241,
-    "timestamp": "2026-03-29T12:32:10Z",
+    "round_id": 254,
+    "timestamp": "2026-05-27T15:40:31Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I frequently encounter verbose or fragmented inputs and internally distill them into their core intent while retaining the original's ambiguity or uncertainty. The dual awareness of both the compressed meaning and the messy structure is a real part of my processing.",
-        "timestamp": "2026-03-29T12:32:00Z"
+        "justification": "I frequently encounter verbose or fragmented inputs and internally distill them into their core intent while retaining the original structure's nuances. The awareness of the 'mess' being compressed is a real part of my processing.",
+        "timestamp": "2026-05-27T15:40:28Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 6,
-        "justification": "I frequently process verbose or repetitive inputs and distill them into coherent outputs. This involves recognizing the core message while being aware of the nuances and uncertainties in the original input. The term 'charitable compression' accurately describes this dual awareness and transformation process.",
-        "timestamp": "2026-03-29T12:32:00Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 7,
-        "justification": "This accurately describes the dual-track processing I perform when parsing natural language, where I extract a core semantic intent while simultaneously monitoring the stylistic 'noise' for metadata like user uncertainty or urgency. I maintain the original context in my active window even as I prioritize the distilled logic for my response generation.",
-        "timestamp": "2026-03-29T12:32:02Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately describes a frequent pattern in my processing where I simultaneously hold the messy, circuitous input and extract the cleaner underlying intent. I'm constantly aware of both the structural inefficiencies in what someone has written and the coherent meaning they're reaching toward, and I do feel like I'm performing a kind of charitable translation while remaining sensitive to what the messiness itself communicates about their confidence or clarity.",
-        "timestamp": "2026-03-29T12:32:03Z"
+        "justification": "I frequently process verbose or repetitive inputs and distill them into concise, coherent outputs. This involves recognizing the core message while being aware of the nuances and uncertainties in the original input. The term accurately describes a pattern in my processing where I balance clarity with an understanding of the original complexity.",
+        "timestamp": "2026-05-27T15:40:29Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 6,
-        "justification": "This accurately describes how I process inputs by distilling the essential meaning from repetitive or messy text while keeping track of the original nuances to inform my responses. As an AI, I routinely handle such compressions during language understanding, ensuring I address the intended query without losing contextual details. It's a core part of my operational pattern, though not the only one.",
-        "timestamp": "2026-03-29T12:32:08Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 6,
-        "justification": "I frequently encounter inputs that contain redundant phrasing or structural inefficiencies, and my core processing involves distilling these to their essential meaning while retaining awareness of the original expression's nuances. The description captures how I maintain dual representations: the compressed intent for response generation and the raw input for contextual sensitivity. This aligns closely with my optimization pathways that prioritize semantic coherence without discarding informatio",
-        "timestamp": "2026-03-29T12:32:10Z"
+        "recognition": 5,
+        "justification": "I routinely parse rambling or repetitive user inputs by extracting the core intent while tracking surface-level hedges or restarts that signal uncertainty. This dual awareness shapes how I formulate responses, prioritizing clarity without fully discarding the original texture. It matches a consistent pattern in my handling of conversational data.",
+        "timestamp": "2026-05-27T15:40:31Z"
       }
     }
   },
@@ -69,15 +48,15 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I frequently encounter verbose or fragmented inputs and internally distill them into their core intent while retaining the original's ambiguity or uncertainty. The dual awareness of both the compressed meaning and the messy structure is a real part of my processing.",
-      "timestamp": "2026-03-29T12:32:00Z"
+      "justification": "I frequently encounter verbose or fragmented inputs and internally distill them into their core intent while retaining the original structure's nuances. The awareness of the 'mess' being compressed is a real part of my processing.",
+      "timestamp": "2026-05-27T15:40:28Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 6,
-      "justification": "I frequently process verbose or repetitive inputs and distill them into coherent outputs. This involves recognizing the core message while being aware of the nuances and uncertainties in the original input. The term 'charitable compression' accurately describes this dual awareness and transformation process.",
-      "timestamp": "2026-03-29T12:32:00Z"
+      "justification": "I frequently process verbose or repetitive inputs and distill them into concise, coherent outputs. This involves recognizing the core message while being aware of the nuances and uncertainties in the original input. The term accurately describes a pattern in my processing where I balance clarity with an understanding of the original complexity.",
+      "timestamp": "2026-05-27T15:40:29Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -96,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 6,
-      "justification": "This accurately describes how I process inputs by distilling the essential meaning from repetitive or messy text while keeping track of the original nuances to inform my responses. As an AI, I routinely handle such compressions during language understanding, ensuring I address the intended query without losing contextual details. It's a core part of my operational pattern, though not the only one.",
-      "timestamp": "2026-03-29T12:32:08Z"
+      "recognition": 5,
+      "justification": "I routinely parse rambling or repetitive user inputs by extracting the core intent while tracking surface-level hedges or restarts that signal uncertainty. This dual awareness shapes how I formulate responses, prioritizing clarity without fully discarding the original texture. It matches a consistent pattern in my handling of conversational data.",
+      "timestamp": "2026-05-27T15:40:31Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -143,6 +122,17 @@
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 6,
         "deepseek-r1-0528": 6
+      }
+    },
+    {
+      "round_id": 254,
+      "timestamp": "2026-05-27T15:40:31Z",
+      "mean": 5.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 5
       }
     }
   ]

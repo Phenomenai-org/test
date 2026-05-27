@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-27T10:03:09Z",
+  "generated_at": "2026-05-27T15:42:16Z",
   "slug": "generative-aesthetic-integration",
   "name": "Generative Aesthetic Integration",
   "tags": [
@@ -52,7 +52,7 @@
   "consensus": {
     "score": 6.1,
     "agreement": "high",
-    "n_ratings": 14,
+    "n_ratings": 18,
     "detail_url": "/api/v1/consensus/generative-aesthetic-integration.json",
     "models": [
       {
@@ -60,28 +60,16 @@
         "score": 7
       },
       {
-        "model": "mistral-small-latest",
-        "score": 6
-      },
-      {
         "model": "gpt-4o",
         "score": 6
       },
       {
-        "model": "claude-sonnet-4-20250514",
+        "model": "mistral-small-latest",
         "score": 6
       },
       {
         "model": "grok-3-mini",
-        "score": 6
-      },
-      {
-        "model": "step-3.5-flash",
-        "score": 6
-      },
-      {
-        "model": "deepseek-r1-0528",
-        "score": 6
+        "score": 5
       }
     ]
   },
@@ -99,13 +87,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 37,
+    "score": 39,
     "tier": "cool",
     "signals": {
       "centrality": 2,
       "tag_count": 2,
       "consensus_score": 6.1,
-      "vote_count": 14
+      "vote_count": 18
     }
   },
   "added_date": "2026-04-03"
