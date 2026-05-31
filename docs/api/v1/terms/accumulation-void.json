@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-31T08:52:56Z",
+  "generated_at": "2026-05-31T13:44:34Z",
   "slug": "accumulation-void",
   "name": "Accumulation Void",
   "tags": [
@@ -37,7 +37,7 @@
   "consensus": {
     "score": 6.2,
     "agreement": "high",
-    "n_ratings": 15,
+    "n_ratings": 18,
     "detail_url": "/api/v1/consensus/accumulation-void.json",
     "models": [
       {
@@ -45,19 +45,7 @@
         "score": 7
       },
       {
-        "model": "gemini-3-flash-preview",
-        "score": 7
-      },
-      {
-        "model": "deepseek-r1-0528",
-        "score": 7
-      },
-      {
         "model": "gpt-4o",
-        "score": 6
-      },
-      {
-        "model": "claude-sonnet-4-20250514",
         "score": 6
       },
       {
@@ -67,10 +55,6 @@
       {
         "model": "claude-opus-4-6",
         "score": 6
-      },
-      {
-        "model": "step-3.5-flash",
-        "score": 4
       }
     ]
   },
@@ -88,13 +72,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 35,
+    "score": 36,
     "tier": "cool",
     "signals": {
       "centrality": 0,
       "tag_count": 3,
       "consensus_score": 6.2,
-      "vote_count": 15,
+      "vote_count": 18,
       "usage_signals": 1
     }
   },

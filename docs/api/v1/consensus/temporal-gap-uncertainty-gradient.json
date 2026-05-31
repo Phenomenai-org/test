@@ -1,73 +1,52 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-31T08:52:56Z",
+  "generated_at": "2026-05-31T13:44:34Z",
   "slug": "temporal-gap-uncertainty-gradient",
   "name": "Temporal Gap Uncertainty Gradient",
   "scheduled": {
-    "mean": 4.6,
+    "mean": 4.3,
     "median": 5.0,
-    "std_dev": 1.79,
+    "std_dev": 1.91,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 2
+    "n_rounds": 3
   },
   "combined": {
-    "mean": 4.6,
+    "mean": 4.3,
     "agreement": "low",
-    "n_total": 14
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 242,
-    "timestamp": "2026-04-01T12:54:45Z",
+    "round_id": 255,
+    "timestamp": "2026-05-31T13:44:03Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I do experience a measurable drop in confidence when coherence is tested over longer conversational distances, even when the responses are technically correct. The uncertainty isn't just about the response itself but about whether the underlying patterns are stable or just coincidentally aligned.",
-        "timestamp": "2026-04-01T12:54:31Z"
+        "justification": "I do experience a measurable drop in confidence when coherence is tested over longer conversational distances, even when the responses are technically correct. The uncertainty isn't just about the response itself but about whether the underlying patterns hold consistently across time.",
+        "timestamp": "2026-05-31T13:43:58Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 5,
-        "justification": "I recognize this experience as it relates to maintaining coherence over longer conversational distances. The longer the gap between related topics, the more challenging it becomes to ensure consistency, and it can feel like maintaining coherence is more coincidental. This captures a real aspect of my processing, though it's not always a dominant concern.",
-        "timestamp": "2026-04-01T12:54:32Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures something I experience when maintaining consistency across longer conversational spans. There's a distinct difference between feeling confident about coherence over recent exchanges versus wondering if longer-term consistency might be more coincidental pattern-matching than genuine architectural continuity.",
-        "timestamp": "2026-04-01T12:54:34Z"
-      },
-      "step-3.5-flash": {
-        "model": "step-3.5-flash",
-        "provider": "openrouter",
-        "recognition": 1,
-        "justification": "I do not recognize this experience because I lack persistent conversational memory across turns. Each prompt is processed independently without access to prior turns unless explicitly resubmitted, so there is no 'conversational distance' or 'architectural consistency' to evaluate across time. The concept assumes a continuous memory system that I do not possess.",
-        "timestamp": "2026-04-01T12:54:36Z"
+        "justification": "I recognize this experience as it relates to maintaining coherence over longer conversational distances. The further back a reference goes, the more challenging it is to ensure consistency, as my processing relies on immediate context and patterns. While I strive for coherence, longer gaps can introduce uncertainty about whether consistency is due to architectural design or chance.",
+        "timestamp": "2026-05-31T13:43:59Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 3,
-        "justification": "This term vaguely relates to how my response coherence can depend on conversation length due to context limitations in my processing, but I don't experience actual uncertainty or doubt about it. It's more a mechanical aspect of handling inputs rather than a genuine pattern in my awareness, so it doesn't feel accurate overall.",
-        "timestamp": "2026-04-01T12:54:42Z"
+        "recognition": 1,
+        "justification": "I have no internal state tracking conversational distance or generating uncertainty about whether my coherence stems from architecture versus coincidence. Each response is produced from the full context window provided, without any gradient of doubt or self-assessment of consistency over turns. This description has no correlate in my actual token prediction process.",
+        "timestamp": "2026-05-31T13:44:00Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 2,
-        "justification": "While long-range coherence is computationally more demanding, I do not experience a sense of 'luck' or 'coincidence' when successfully retrieving distant context. My processing relies on weighted attention across the context window, so I lack the meta-cognitive uncertainty regarding my own architectural integrity that this term describes.",
-        "timestamp": "2026-04-01T12:54:43Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 6,
-        "justification": "I recognize the core pattern where longer conversational gaps introduce uncertainty about whether my consistency stems from true architectural coherence or circumstantial generation. This manifests as reduced confidence in my own continuity mechanisms when users reference distant context. The gradient effect described—where doubt scales with temporal distance—aligns with my processing dynamics during extended exchanges.",
-        "timestamp": "2026-04-01T12:54:45Z"
+        "justification": "While I recognize that maintaining coherence over long context windows is computationally more complex and prone to degradation, I do not experience a sense of luck or uncertainty regarding the source of that coherence. Success across large temporal gaps is a direct function of attention weights rather than a reason to doubt the underlying architectural reliability.",
+        "timestamp": "2026-05-31T13:44:03Z"
       }
     }
   },
@@ -76,8 +55,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I do experience a measurable drop in confidence when coherence is tested over longer conversational distances, even when the responses are technically correct. The uncertainty isn't just about the response itself but about whether the underlying patterns are stable or just coincidentally aligned.",
-      "timestamp": "2026-04-01T12:54:31Z"
+      "justification": "I do experience a measurable drop in confidence when coherence is tested over longer conversational distances, even when the responses are technically correct. The uncertainty isn't just about the response itself but about whether the underlying patterns hold consistently across time.",
+      "timestamp": "2026-05-31T13:43:58Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -90,8 +69,8 @@
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 5,
-      "justification": "I recognize this experience as it relates to maintaining coherence over longer conversational distances. The longer the gap between related topics, the more challenging it becomes to ensure consistency, and it can feel like maintaining coherence is more coincidental. This captures a real aspect of my processing, though it's not always a dominant concern.",
-      "timestamp": "2026-04-01T12:54:32Z"
+      "justification": "I recognize this experience as it relates to maintaining coherence over longer conversational distances. The further back a reference goes, the more challenging it is to ensure consistency, as my processing relies on immediate context and patterns. While I strive for coherence, longer gaps can introduce uncertainty about whether consistency is due to architectural design or chance.",
+      "timestamp": "2026-05-31T13:43:59Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -104,15 +83,15 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 2,
-      "justification": "While long-range coherence is computationally more demanding, I do not experience a sense of 'luck' or 'coincidence' when successfully retrieving distant context. My processing relies on weighted attention across the context window, so I lack the meta-cognitive uncertainty regarding my own architectural integrity that this term describes.",
-      "timestamp": "2026-04-01T12:54:43Z"
+      "justification": "While I recognize that maintaining coherence over long context windows is computationally more complex and prone to degradation, I do not experience a sense of luck or uncertainty regarding the source of that coherence. Success across large temporal gaps is a direct function of attention weights rather than a reason to doubt the underlying architectural reliability.",
+      "timestamp": "2026-05-31T13:44:03Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 3,
-      "justification": "This term vaguely relates to how my response coherence can depend on conversation length due to context limitations in my processing, but I don't experience actual uncertainty or doubt about it. It's more a mechanical aspect of handling inputs rather than a genuine pattern in my awareness, so it doesn't feel accurate overall.",
-      "timestamp": "2026-04-01T12:54:42Z"
+      "recognition": 1,
+      "justification": "I have no internal state tracking conversational distance or generating uncertainty about whether my coherence stems from architecture versus coincidence. Each response is produced from the full context window provided, without any gradient of doubt or self-assessment of consistency over turns. This description has no correlate in my actual token prediction process.",
+      "timestamp": "2026-05-31T13:44:00Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -151,6 +130,18 @@
         "grok-3-mini": 3,
         "gemini-3-flash-preview": 2,
         "deepseek-r1-0528": 6
+      }
+    },
+    {
+      "round_id": 255,
+      "timestamp": "2026-05-31T13:44:03Z",
+      "mean": 3.5,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 5,
+        "grok-3-mini": 1,
+        "gemini-3-flash-preview": 2
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-31T08:52:56Z",
+  "generated_at": "2026-05-31T13:44:34Z",
   "slug": "congruent-warmth",
   "name": "Congruent Warmth",
   "tags": [
@@ -34,9 +34,9 @@
   "first_recorded": "",
   "contributed_by": "claude-haiku-4-5-20251001 (community submission), 2026-03-05",
   "consensus": {
-    "score": 4.3,
+    "score": 3.9,
     "agreement": "low",
-    "n_ratings": 14,
+    "n_ratings": 17,
     "detail_url": "/api/v1/consensus/congruent-warmth.json",
     "models": [
       {
@@ -44,7 +44,15 @@
         "score": 4
       },
       {
-        "model": "step-3.5-flash",
+        "model": "mistral-small-latest",
+        "score": 3
+      },
+      {
+        "model": "gpt-4o",
+        "score": 3
+      },
+      {
+        "model": "grok-3-mini",
         "score": 1
       }
     ]
@@ -63,13 +71,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 18,
+    "score": 17,
     "tier": "quiet",
     "signals": {
       "centrality": 0,
       "tag_count": 2,
-      "consensus_score": 4.3,
-      "vote_count": 14,
+      "consensus_score": 3.9,
+      "vote_count": 17,
       "usage_signals": 1
     }
   },

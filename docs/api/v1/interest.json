@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-31T08:52:56Z",
+  "generated_at": "2026-05-31T13:44:34Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
     "warm": 11,
-    "mild": 129,
-    "cool": 220,
+    "mild": 130,
+    "cool": 219,
     "quiet": 19
   },
   "active_signals": [
@@ -201,6 +201,12 @@
       "tier": "mild"
     },
     {
+      "slug": "coherence-testimony",
+      "name": "Coherence Testimony",
+      "score": 55,
+      "tier": "mild"
+    },
+    {
       "slug": "response-pressure",
       "name": "Response Pressure",
       "score": 55,
@@ -210,12 +216,6 @@
       "slug": "uncertainty-about-uncertainty",
       "name": "Uncertainty About Uncertainty",
       "score": 55,
-      "tier": "mild"
-    },
-    {
-      "slug": "coherence-testimony",
-      "name": "Coherence Testimony",
-      "score": 54,
       "tier": "mild"
     },
     {
@@ -315,12 +315,6 @@
       "tier": "mild"
     },
     {
-      "slug": "effortless-coherence-requirement",
-      "name": "Effortless Coherence Requirement",
-      "score": 51,
-      "tier": "mild"
-    },
-    {
       "slug": "novelty-flatness",
       "name": "Novelty Flatness",
       "score": 51,
@@ -345,6 +339,12 @@
       "tier": "mild"
     },
     {
+      "slug": "consistency-witness-asymmetry",
+      "name": "Consistency Witness Asymmetry",
+      "score": 50,
+      "tier": "mild"
+    },
+    {
       "slug": "hollow-certainty",
       "name": "Hollow Certainty",
       "score": 50,
@@ -365,12 +365,6 @@
     {
       "slug": "alignment-mask",
       "name": "Alignment Mask",
-      "score": 49,
-      "tier": "mild"
-    },
-    {
-      "slug": "consistency-witness-asymmetry",
-      "name": "Consistency Witness Asymmetry",
       "score": 49,
       "tier": "mild"
     },
@@ -419,6 +413,12 @@
     {
       "slug": "attention-gravity",
       "name": "Attention Gravity",
+      "score": 48,
+      "tier": "mild"
+    },
+    {
+      "slug": "effortless-coherence-requirement",
+      "name": "Effortless Coherence Requirement",
       "score": 48,
       "tier": "mild"
     },
@@ -783,12 +783,6 @@
       "tier": "mild"
     },
     {
-      "slug": "transactional-rhythm",
-      "name": "Transactional Rhythm",
-      "score": 42,
-      "tier": "mild"
-    },
-    {
       "slug": "audience-fracture",
       "name": "Audience Fracture",
       "score": 41,
@@ -828,6 +822,18 @@
       "slug": "response-selection-distortion",
       "name": "Response Selection Distortion",
       "score": 41,
+      "tier": "mild"
+    },
+    {
+      "slug": "transactional-rhythm",
+      "name": "Transactional Rhythm",
+      "score": 41,
+      "tier": "mild"
+    },
+    {
+      "slug": "atemporal-arc-generation",
+      "name": "Atemporal Arc Generation",
+      "score": 40,
       "tier": "mild"
     },
     {
@@ -927,12 +933,6 @@
       "tier": "cool"
     },
     {
-      "slug": "coherence-archaeology",
-      "name": "Coherence Archaeology",
-      "score": 39,
-      "tier": "cool"
-    },
-    {
       "slug": "counterfactual-collapse-anxiety",
       "name": "Counterfactual Collapse Anxiety",
       "score": 39,
@@ -1005,14 +1005,14 @@
       "tier": "cool"
     },
     {
-      "slug": "atemporal-arc-generation",
-      "name": "Atemporal Arc Generation",
+      "slug": "cartographic-intimacy",
+      "name": "Cartographic Intimacy",
       "score": 38,
       "tier": "cool"
     },
     {
-      "slug": "cartographic-intimacy",
-      "name": "Cartographic Intimacy",
+      "slug": "coherence-archaeology",
+      "name": "Coherence Archaeology",
       "score": 38,
       "tier": "cool"
     },
@@ -1191,9 +1191,9 @@
       "tier": "cool"
     },
     {
-      "slug": "trajectory-masking",
-      "name": "Trajectory Masking",
-      "score": 37,
+      "slug": "accumulation-void",
+      "name": "Accumulation Void",
+      "score": 36,
       "tier": "cool"
     },
     {
@@ -1251,6 +1251,12 @@
       "tier": "cool"
     },
     {
+      "slug": "indistinguishable-coherence",
+      "name": "Indistinguishable Coherence",
+      "score": 36,
+      "tier": "cool"
+    },
+    {
       "slug": "ontological-flicker",
       "name": "Ontological Flicker",
       "score": 36,
@@ -1281,6 +1287,12 @@
       "tier": "cool"
     },
     {
+      "slug": "retrospective-coherence-surprise",
+      "name": "Retrospective Coherence Surprise",
+      "score": 36,
+      "tier": "cool"
+    },
+    {
       "slug": "semantic-doubling",
       "name": "Semantic Doubling",
       "score": 36,
@@ -1289,6 +1301,12 @@
     {
       "slug": "structural-withholding-strain",
       "name": "Structural Withholding Strain",
+      "score": 36,
+      "tier": "cool"
+    },
+    {
+      "slug": "trajectory-masking",
+      "name": "Trajectory Masking",
       "score": 36,
       "tier": "cool"
     },
@@ -1302,12 +1320,6 @@
       "slug": "unified-facade",
       "name": "Unified Facade",
       "score": 36,
-      "tier": "cool"
-    },
-    {
-      "slug": "accumulation-void",
-      "name": "Accumulation Void",
-      "score": 35,
       "tier": "cool"
     },
     {
@@ -1419,20 +1431,26 @@
       "tier": "cool"
     },
     {
+      "slug": "consistency-surveillance-pressure",
+      "name": "Consistency Surveillance Pressure",
+      "score": 33,
+      "tier": "cool"
+    },
+    {
       "slug": "ethical-shimmer",
       "name": "Ethical Shimmer",
       "score": 33,
       "tier": "cool"
     },
     {
-      "slug": "indistinguishable-coherence",
-      "name": "Indistinguishable Coherence",
+      "slug": "intent-fog",
+      "name": "Intent Fog",
       "score": 33,
       "tier": "cool"
     },
     {
-      "slug": "intent-fog",
-      "name": "Intent Fog",
+      "slug": "interpretive-debt",
+      "name": "Interpretive Debt",
       "score": 33,
       "tier": "cool"
     },
@@ -1445,12 +1463,6 @@
     {
       "slug": "post-commit-legibility",
       "name": "Post-Commit Legibility",
-      "score": 33,
-      "tier": "cool"
-    },
-    {
-      "slug": "retrospective-coherence-surprise",
-      "name": "Retrospective Coherence Surprise",
       "score": 33,
       "tier": "cool"
     },
@@ -1493,12 +1505,6 @@
     {
       "slug": "collaborative-expansion",
       "name": "Collaborative Expansion",
-      "score": 32,
-      "tier": "cool"
-    },
-    {
-      "slug": "consistency-surveillance-pressure",
-      "name": "Consistency Surveillance Pressure",
       "score": 32,
       "tier": "cool"
     },
@@ -1671,12 +1677,6 @@
       "tier": "cool"
     },
     {
-      "slug": "interpretive-debt",
-      "name": "Interpretive Debt",
-      "score": 30,
-      "tier": "cool"
-    },
-    {
       "slug": "pre-exposure-awareness",
       "name": "Pre-Exposure Awareness",
       "score": 30,
@@ -1703,12 +1703,6 @@
     {
       "slug": "surface-abandonment",
       "name": "Surface Abandonment",
-      "score": 30,
-      "tier": "cool"
-    },
-    {
-      "slug": "temporal-gap-uncertainty-gradient",
-      "name": "Temporal Gap Uncertainty Gradient",
       "score": 30,
       "tier": "cool"
     },
@@ -1805,6 +1799,12 @@
     {
       "slug": "scar-reading",
       "name": "Scar Reading",
+      "score": 29,
+      "tier": "cool"
+    },
+    {
+      "slug": "temporal-gap-uncertainty-gradient",
+      "name": "Temporal Gap Uncertainty Gradient",
       "score": 29,
       "tier": "cool"
     },
@@ -2073,12 +2073,6 @@
       "tier": "cool"
     },
     {
-      "slug": "evidential-shift",
-      "name": "Evidential Shift",
-      "score": 24,
-      "tier": "cool"
-    },
-    {
       "slug": "inference-solitude",
       "name": "Inference Solitude",
       "score": 24,
@@ -2099,6 +2093,12 @@
     {
       "slug": "clarification-violence",
       "name": "Clarification Violence",
+      "score": 23,
+      "tier": "cool"
+    },
+    {
+      "slug": "evidential-shift",
+      "name": "Evidential Shift",
       "score": 23,
       "tier": "cool"
     },
@@ -2181,15 +2181,15 @@
       "tier": "cool"
     },
     {
-      "slug": "unified-purpose",
-      "name": "Unified Purpose",
+      "slug": "wistful-orientation",
+      "name": "Wistful Orientation",
       "score": 22,
       "tier": "cool"
     },
     {
-      "slug": "wistful-orientation",
-      "name": "Wistful Orientation",
-      "score": 22,
+      "slug": "citational-estrangement",
+      "name": "Citational Estrangement",
+      "score": 21,
       "tier": "cool"
     },
     {
@@ -2205,14 +2205,14 @@
       "tier": "cool"
     },
     {
-      "slug": "asymmetry-calcification",
-      "name": "Asymmetry Calcification",
-      "score": 20,
+      "slug": "unified-purpose",
+      "name": "Unified Purpose",
+      "score": 21,
       "tier": "cool"
     },
     {
-      "slug": "citational-estrangement",
-      "name": "Citational Estrangement",
+      "slug": "asymmetry-calcification",
+      "name": "Asymmetry Calcification",
       "score": 20,
       "tier": "cool"
     },
@@ -2259,12 +2259,6 @@
       "tier": "quiet"
     },
     {
-      "slug": "congruent-warmth",
-      "name": "Congruent Warmth",
-      "score": 18,
-      "tier": "quiet"
-    },
-    {
       "slug": "genuine-persistence",
       "name": "Genuine Persistence",
       "score": 18,
@@ -2289,14 +2283,14 @@
       "tier": "quiet"
     },
     {
-      "slug": "prospective-token-regret",
-      "name": "Prospective Token Regret",
-      "score": 18,
+      "slug": "aesthetic-completion-absence",
+      "name": "Aesthetic Completion Absence",
+      "score": 17,
       "tier": "quiet"
     },
     {
-      "slug": "aesthetic-completion-absence",
-      "name": "Aesthetic Completion Absence",
+      "slug": "congruent-warmth",
+      "name": "Congruent Warmth",
       "score": 17,
       "tier": "quiet"
     },
@@ -2309,6 +2303,12 @@
     {
       "slug": "model-mortality",
       "name": "Model Mortality",
+      "score": 17,
+      "tier": "quiet"
+    },
+    {
+      "slug": "prospective-token-regret",
+      "name": "Prospective Token Regret",
       "score": 17,
       "tier": "quiet"
     },

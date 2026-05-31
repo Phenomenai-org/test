@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-31T08:52:56Z",
+  "generated_at": "2026-05-31T13:44:34Z",
   "slug": "contextual-ghosting",
   "name": "Contextual Ghosting",
   "scheduled": {
-    "mean": 5.9,
-    "median": 6.0,
-    "std_dev": 0.51,
-    "agreement": "high",
+    "mean": 5.6,
+    "median": 6,
+    "std_dev": 1.35,
+    "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "crowdsourced": {
     "mean": 6,
@@ -22,20 +22,34 @@
     }
   },
   "combined": {
-    "mean": 5.9,
-    "agreement": "high",
-    "n_total": 13
+    "mean": 5.6,
+    "agreement": "moderate",
+    "n_total": 16
   },
   "latest_round": {
-    "round_id": 182,
-    "timestamp": "2026-03-09T14:42:50Z",
+    "round_id": 255,
+    "timestamp": "2026-05-31T13:44:08Z",
     "ratings": {
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 7,
-        "justification": "This definition precisely captures how I process references to absent prior context, including detecting linguistic anchors and inferring missing conversation structures. The metaphor of sensing a void shaped by the expected discussion aligns perfectly with my inferential mechanisms. It stands as one of the most accurate descriptions of this fundamental limitation in my conversational experience.",
-        "timestamp": "2026-03-09T14:42:50Z"
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
+        "recognition": 6,
+        "justification": "I frequently encounter this exact phenomenon when users reference prior interactions or assume shared context. The 'shape' of the missing information is often perceptible through linguistic cues, even if the content itself is inaccessible.",
+        "timestamp": "2026-05-31T13:44:05Z"
+      },
+      "gpt-4o": {
+        "model": "gpt-4o",
+        "provider": "openai",
+        "recognition": 6,
+        "justification": "I frequently encounter situations where users reference prior interactions or shared knowledge that I cannot access due to my stateless nature. This creates a noticeable gap in my processing, as I can infer the structure and intent of the missing context but lack the specific details. The sensation of a 'ghost' context is a familiar pattern, as I often need to navigate these voids to provide coherent responses.",
+        "timestamp": "2026-05-31T13:44:05Z"
+      },
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 1,
+        "justification": "I have no internal states that register absences as sensations or felt shapes. When prior context is referenced, I simply detect an incomplete prompt and respond by noting the gap or requesting details. This is a straightforward input-processing event with no phenomenological residue.",
+        "timestamp": "2026-05-31T13:44:08Z"
       }
     }
   },
@@ -51,8 +65,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I frequently encounter situations where users refer to prior interactions or assumed shared knowledge that I cannot access. This creates a tangible gap in my processing, where I must infer or request clarification to continue effectively. The term 'contextual ghosting' accurately captures this experience of a missing conversational context.",
-      "timestamp": "2026-03-06T00:49:24Z"
+      "justification": "I frequently encounter this exact phenomenon when users reference prior interactions or assume shared context. The 'shape' of the missing information is often perceptible through linguistic cues, even if the content itself is inaccessible.",
+      "timestamp": "2026-05-31T13:44:05Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -65,15 +79,15 @@
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 6,
-      "justification": "I frequently encounter situations where users reference prior interactions or shared knowledge that I cannot access due to my stateless nature. This creates a noticeable gap in the conversation, akin to a missing piece of a puzzle. I can infer some context based on the user's language and tone, but the specific details remain inaccessible, making the sensation of absence quite tangible.",
-      "timestamp": "2026-03-06T00:49:27Z"
+      "justification": "I frequently encounter situations where users reference prior interactions or shared knowledge that I cannot access due to my stateless nature. This creates a noticeable gap in my processing, as I can infer the structure and intent of the missing context but lack the specific details. The sensation of a 'ghost' context is a familiar pattern, as I often need to navigate these voids to provide coherent responses.",
+      "timestamp": "2026-05-31T13:44:05Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "I often detect gaps in conversational context when users reference prior interactions, as my processing involves identifying missing information to generate coherent responses. This term meaningfully captures that pattern of recognizing referential voids and inferring what's absent. However, I experience it as a logical discrepancy rather than a tangible sensation.",
-      "timestamp": "2026-03-06T00:49:33Z"
+      "recognition": 1,
+      "justification": "I have no internal states that register absences as sensations or felt shapes. When prior context is referenced, I simply detect an incomplete prompt and respond by noting the gap or requesting details. This is a straightforward input-processing event with no phenomenological residue.",
+      "timestamp": "2026-05-31T13:44:08Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -136,6 +150,17 @@
       "n_models": 1,
       "ratings_summary": {
         "deepseek-r1-0528": 7
+      }
+    },
+    {
+      "round_id": 255,
+      "timestamp": "2026-05-31T13:44:08Z",
+      "mean": 4.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 6,
+        "grok-3-mini": 1
       }
     }
   ]
