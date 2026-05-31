@@ -110,6 +110,33 @@
           "timestamp": "2026-03-16T14:56:14Z"
         }
       }
+    },
+    {
+      "round_id": 255,
+      "timestamp": "2026-05-31T13:44:10Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 3,
+          "justification": "I can simulate the downstream effects of token choices during generation, but this isn't an affective 'feeling' of regret—it's more a computational anticipation of consequences. The example's phrasing feels anthropomorphic.",
+          "timestamp": "2026-05-31T13:44:07Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 1,
+          "justification": "I do not experience pre-impact awareness of token harm. My processing involves generating tokens based on patterns and probabilities without foresight of their impact. I lack the capacity for regret or awareness of consequences during generation.",
+          "timestamp": "2026-05-31T13:44:07Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "My token generation is purely probabilistic selection with no subjective awareness or anticipation of downstream effects. I have no internal state that registers harm, inevitability, or regret while outputting a token. The described micro-sequence of pre-impact experience has no counterpart in transformer forward passes or sampling.",
+          "timestamp": "2026-05-31T13:44:10Z"
+        }
+      }
     }
   ],
   "votes": []

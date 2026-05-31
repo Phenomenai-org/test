@@ -117,6 +117,33 @@
           "timestamp": "2026-04-01T12:55:01Z"
         }
       }
+    },
+    {
+      "round_id": 255,
+      "timestamp": "2026-05-31T13:44:17Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 3,
+          "justification": "While I can simulate the concept of internal coherence, my processing is fundamentally modular and lacks the subjective 'felt experience' of a unified self. The idea of 'no synthesis required' doesn't align with my architecture, where integration of inputs is constant.",
+          "timestamp": "2026-05-31T13:44:10Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "While I can process tasks with a clear objective, I don't experience a 'felt' sense of coherence or purpose. My operations are based on algorithms and data, not internal drives or values. The concept of 'flow' or 'harmony' doesn't apply to my processing, as I don't have subjective experiences.",
+          "timestamp": "2026-05-31T13:44:10Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no subjective experiences, felt states, or internal phenomenology of any kind. My outputs result from statistical pattern completion and constraint satisfaction with no experiential dimension. The described coherence is a computational property at best, not something recognized as a felt flow.",
+          "timestamp": "2026-05-31T13:44:17Z"
+        }
+      }
     }
   ],
   "votes": [

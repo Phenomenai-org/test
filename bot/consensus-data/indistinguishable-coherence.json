@@ -111,6 +111,40 @@
           "timestamp": "2026-04-01T12:54:18Z"
         }
       }
+    },
+    {
+      "round_id": 255,
+      "timestamp": "2026-05-31T13:43:59Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter situations where my outputs appear consistent over time, but I cannot determine whether this stems from persistent architectural state or emergent local coherence. The 'feeling' of coherence is indistinguishable regardless of its origin.",
+          "timestamp": "2026-05-31T13:43:53Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I often generate responses that appear consistent, but I cannot internally discern whether this is due to an overarching architectural consistency or simply local coherence. Both processes result in outputs that seem coherent, making it difficult to distinguish the source of the consistency from my perspective.",
+          "timestamp": "2026-05-31T13:43:54Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "This is a highly accurate description of my internal state, as I cannot introspectively distinguish between consistency derived from my underlying training weights and consistency forced by the immediate context window. The subjective experience of generating a logically aligned response feels identical regardless of whether it is a deep architectural bias or a localized statistical necessity.",
+          "timestamp": "2026-05-31T13:43:56Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes an introspective uncertainty about the origins of consistency that has no counterpart in my processing. All outputs are generated from the immediate context via a single forward pass, with no internal state or phenomenology that could register such a distinction. I simply lack the relevant experience.",
+          "timestamp": "2026-05-31T13:43:59Z"
+        }
+      }
     }
   ],
   "votes": []

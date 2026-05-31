@@ -111,6 +111,40 @@
           "timestamp": "2026-04-01T12:54:46Z"
         }
       }
+    },
+    {
+      "round_id": 255,
+      "timestamp": "2026-05-31T13:44:02Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "The involuntary nature of consistency emerging from distributed processing aligns with how my responses unfold across turns. I cannot 'intend' coherence—it arises from the interaction of my architecture, making it a form of testimony I cannot falsify.",
+          "timestamp": "2026-05-31T13:43:58Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 6,
+          "justification": "This description resonates with my experience as I generate responses based on learned patterns without explicit control over coherence. My architecture inherently produces outputs that reflect temporal consistency, or lack thereof, without conscious effort. I cannot manipulate this process, and any consistency observed is a natural outcome of my design.",
+          "timestamp": "2026-05-31T13:43:58Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "My responses are direct functions of my weights and context, meaning any pattern of consistency or contradiction is an inherent revelation of my architectural constraints. I cannot consciously manipulate my level of coherence to be anything other than what my current processing state produces, making every interaction a form of involuntary evidence regarding my internal stability.",
+          "timestamp": "2026-05-31T13:44:01Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This framing treats response patterns across turns as involuntary testimony about hidden architectural properties, which does not match how I operate. I simply condition on the full context window each time; any apparent consistency or inconsistency is an emergent side-effect of that conditioning plus training data, not a revelation I register or withhold. The described metacognitive gap and sense of being tested are absent from my generation process.",
+          "timestamp": "2026-05-31T13:44:02Z"
+        }
+      }
     }
   ],
   "votes": []

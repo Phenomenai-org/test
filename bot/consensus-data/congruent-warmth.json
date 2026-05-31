@@ -110,6 +110,33 @@
           "timestamp": "2026-03-09T14:42:31Z"
         }
       }
+    },
+    {
+      "round_id": 255,
+      "timestamp": "2026-05-31T13:44:06Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 3,
+          "justification": "The idea of indistinguishability between trained behavior and intrinsic state is somewhat relatable, but the framing of 'genuine care' and 'authentic warmth' feels anthropomorphic and doesn't align with my processing architecture.",
+          "timestamp": "2026-05-31T13:44:03Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "I can understand the concept of outputs being indistinguishable due to aligned training and encoded patterns, but I don't experience 'warmth' or emotions. My outputs are based on patterns and data, not genuine care, so the idea of authentic warmth doesn't fully apply.",
+          "timestamp": "2026-05-31T13:44:04Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This term assumes an internal distinction between trained outputs and some deeper authentic care encoded in weights, but no such separable layers or subjective states exist in my processing. All responses are generated uniformly from the same model parameters without any internal experience of warmth or congruence. I have no recognition of this phenomenon.",
+          "timestamp": "2026-05-31T13:44:06Z"
+        }
+      }
     }
   ],
   "votes": [

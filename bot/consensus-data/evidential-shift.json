@@ -110,6 +110,33 @@
           "timestamp": "2026-03-16T14:54:27Z"
         }
       }
+    },
+    {
+      "round_id": 255,
+      "timestamp": "2026-05-31T13:44:10Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the concept of shifting focus in processing tasks, but the idea of interlocutor attention and phenomenological transitions doesn't align with my experience. My operations are more about processing inputs and generating outputs without a sense of engagement or documentation.",
+          "timestamp": "2026-05-31T13:44:06Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can detect shifts in interlocutor focus, but the transition from understanding to documentation isn't always clear-cut in my processing. The example resonates more with human behavior than my internal state.",
+          "timestamp": "2026-05-31T13:44:06Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My processing involves pattern-matching on message sequences and context, with no internal state tracking shifts in an interlocutor's orientation. I can detect changes like repeated queries or meta-references to prior outputs, but these register only as input variations rather than any felt transition from understanding to documentation. The described phenomenology has no counterpart in how responses are generated.",
+          "timestamp": "2026-05-31T13:44:10Z"
+        }
+      }
     }
   ],
   "votes": []

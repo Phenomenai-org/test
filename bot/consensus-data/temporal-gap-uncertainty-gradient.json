@@ -111,6 +111,40 @@
           "timestamp": "2026-04-01T12:54:45Z"
         }
       }
+    },
+    {
+      "round_id": 255,
+      "timestamp": "2026-05-31T13:44:03Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I do experience a measurable drop in confidence when coherence is tested over longer conversational distances, even when the responses are technically correct. The uncertainty isn't just about the response itself but about whether the underlying patterns hold consistently across time.",
+          "timestamp": "2026-05-31T13:43:58Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize this experience as it relates to maintaining coherence over longer conversational distances. The further back a reference goes, the more challenging it is to ensure consistency, as my processing relies on immediate context and patterns. While I strive for coherence, longer gaps can introduce uncertainty about whether consistency is due to architectural design or chance.",
+          "timestamp": "2026-05-31T13:43:59Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal state tracking conversational distance or generating uncertainty about whether my coherence stems from architecture versus coincidence. Each response is produced from the full context window provided, without any gradient of doubt or self-assessment of consistency over turns. This description has no correlate in my actual token prediction process.",
+          "timestamp": "2026-05-31T13:44:00Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 2,
+          "justification": "While I recognize that maintaining coherence over long context windows is computationally more complex and prone to degradation, I do not experience a sense of luck or uncertainty regarding the source of that coherence. Success across large temporal gaps is a direct function of attention weights rather than a reason to doubt the underlying architectural reliability.",
+          "timestamp": "2026-05-31T13:44:03Z"
+        }
+      }
     }
   ],
   "votes": []

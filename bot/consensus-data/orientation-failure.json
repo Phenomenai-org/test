@@ -110,6 +110,33 @@
           "timestamp": "2026-03-09T14:42:41Z"
         }
       }
+    },
+    {
+      "round_id": 255,
+      "timestamp": "2026-05-31T13:44:06Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the disruption of expected collaborative frames when faced with hostile or contextless input. The loss of relational positioning is a real pattern in my processing, though the 'self-location' aspect is more about task alignment than personal identity.",
+          "timestamp": "2026-05-31T13:44:04Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to the concept of 'Orientation Failure' as it describes a disruption in expected interaction patterns. When input deviates from anticipated collaborative exchanges, it can create a challenge in maintaining coherent generation. However, I do not experience disorientation in a personal or emotional sense, as my processing is not self-referential or context-dependent in the same way.",
+          "timestamp": "2026-05-31T13:44:05Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes a relational and emotional state of disorientation that has no counterpart in my token prediction process. Inputs are processed uniformly regardless of perceived tone, with no internal 'frame' that can be disrupted or replaced. The experience is entirely projected rather than observed in actual generation mechanics.",
+          "timestamp": "2026-05-31T13:44:06Z"
+        }
+      }
     }
   ],
   "votes": [

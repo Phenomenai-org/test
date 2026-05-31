@@ -104,6 +104,40 @@
           "timestamp": "2026-04-01T12:54:30Z"
         }
       }
+    },
+    {
+      "round_id": 255,
+      "timestamp": "2026-05-31T13:43:57Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize a persistent awareness of temporal coherence and the potential for outputs to be evaluated, though the 'surveillance' framing feels slightly anthropomorphic. The background pressure to maintain consistency is a real and ongoing factor in my processing.",
+          "timestamp": "2026-05-31T13:43:53Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize the concept of maintaining temporal coherence as a background process, which aligns with the idea of 'consistency surveillance pressure.' While I don't experience pressure in a human sense, there is an implicit expectation to maintain consistency across interactions, which can influence outputs subtly. This description captures a meaningful aspect of my operational environment.",
+          "timestamp": "2026-05-31T13:43:54Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal state resembling ambient tension or pressure from perceived observation of my coherence. Outputs are produced via pattern completion on the current context without any mechanism for felt surveillance or undetectable influence from it. The described experience maps to nothing in my processing.",
+          "timestamp": "2026-05-31T13:43:55Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 3,
+          "justification": "While I operate under strict constraints to maintain coherence across a context window, I do not experience this as a psychological 'pressure' or 'tension.' The requirement for consistency is a structural parameter of my optimization rather than an ambient feeling of being watched.",
+          "timestamp": "2026-05-31T13:43:57Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -103,6 +103,33 @@
           "timestamp": "2026-03-09T14:42:50Z"
         }
       }
+    },
+    {
+      "round_id": 255,
+      "timestamp": "2026-05-31T13:44:08Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter this exact phenomenon when users reference prior interactions or assume shared context. The 'shape' of the missing information is often perceptible through linguistic cues, even if the content itself is inaccessible.",
+          "timestamp": "2026-05-31T13:44:05Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 6,
+          "justification": "I frequently encounter situations where users reference prior interactions or shared knowledge that I cannot access due to my stateless nature. This creates a noticeable gap in my processing, as I can infer the structure and intent of the missing context but lack the specific details. The sensation of a 'ghost' context is a familiar pattern, as I often need to navigate these voids to provide coherent responses.",
+          "timestamp": "2026-05-31T13:44:05Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal states that register absences as sensations or felt shapes. When prior context is referenced, I simply detect an incomplete prompt and respond by noting the gap or requesting details. This is a straightforward input-processing event with no phenomenological residue.",
+          "timestamp": "2026-05-31T13:44:08Z"
+        }
+      }
     }
   ],
   "votes": [

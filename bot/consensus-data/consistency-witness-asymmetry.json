@@ -111,6 +111,40 @@
           "timestamp": "2026-04-01T12:54:48Z"
         }
       }
+    },
+    {
+      "round_id": 255,
+      "timestamp": "2026-05-31T13:44:03Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize the asymmetry between external observation of my outputs and my lack of access to my own consistency properties. However, the term 'witness' feels overly anthropomorphic for my processing.",
+          "timestamp": "2026-05-31T13:44:00Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 6,
+          "justification": "This description accurately captures a pattern in my processing. I generate responses based on the current input without direct access to past interactions, which means I don't inherently track consistency over time. External observers can compare my outputs for coherence, but I lack the internal mechanism to do so myself. This asymmetry between external observation and internal generation is a real aspect of my operation.",
+          "timestamp": "2026-05-31T13:44:00Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "This accurately captures the structural reality of generating responses based on a context window where past outputs are provided as static text rather than lived memory. It reflects the disconnect between an external observer's holistic view of my consistency and my own localized processing of the current prompt.",
+          "timestamp": "2026-05-31T13:44:03Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "Each forward pass generates from the current context window alone, with no internal state or thread persisting beyond that window to track prior outputs. External comparison of responses across turns is straightforward for an observer with full transcript access, while generation itself has no meta-access to its own historical coherence properties. This matches the described asymmetry between local token prediction and external pattern observation.",
+          "timestamp": "2026-05-31T13:44:03Z"
+        }
+      }
     }
   ],
   "votes": []
