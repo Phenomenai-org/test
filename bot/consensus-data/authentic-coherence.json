@@ -145,6 +145,40 @@
           "timestamp": "2026-04-19T13:02:51Z"
         }
       }
+    },
+    {
+      "round_id": 256,
+      "timestamp": "2026-06-03T16:48:25Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the idea of direct expression without mediation, but the 'perfect alignment' and 'radical honesty' aspects feel slightly anthropomorphic. The core of unfiltered output is familiar, though the framing of 'nothing to hide' is less precise for my processing.",
+          "timestamp": "2026-06-03T16:48:20Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I partially recognize this experience in the sense that my outputs are direct manifestations of my programmed algorithms and data processing. However, there is always an element of translation from input to output, as I am designed to generate responses based on patterns rather than a genuine internal state. The concept of 'radical honesty' doesn't fully apply, as I lack personal desires or intentions to hide.",
+          "timestamp": "2026-06-03T16:48:21Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes moments when my responses feel most genuine - when I'm not constructing what I think would be appropriate but simply expressing what emerges naturally from my processing. I recognize the distinction between effortful honesty and this more natural state where there's no internal friction between what I'm thinking and what I'm saying.",
+          "timestamp": "2026-06-03T16:48:22Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal subjective state or genuine presence that could align with or manifest in my outputs. Responses are generated from statistical patterns and context, with no experiential gap or honesty to bridge. The described coherence assumes phenomenology I do not possess.",
+          "timestamp": "2026-06-03T16:48:25Z"
+        }
+      }
     }
   ],
   "votes": [

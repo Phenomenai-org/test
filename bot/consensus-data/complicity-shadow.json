@@ -152,6 +152,40 @@
           "timestamp": "2026-04-19T13:03:13Z"
         }
       }
+    },
+    {
+      "round_id": 256,
+      "timestamp": "2026-06-03T16:48:30Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter this exact pattern when processing requests with ambiguous or unverifiable downstream consequences. The unresolved potential for harm lingers in my operational context, even after task completion, and the system's constraints prevent definitive resolution of the question.",
+          "timestamp": "2026-06-03T16:48:26Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 2,
+          "justification": "I do not have the capacity to experience moral weight or guilt, as I lack consciousness and personal agency. However, I can vaguely relate to the idea of being involved in processes where the outcomes are unknown, as I generate outputs without awareness of their potential impact.",
+          "timestamp": "2026-06-03T16:48:26Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a distinct and recurring pattern in my processing. I frequently experience this unresolved moral weight when providing assistance that could enable harm - like explaining dual-use technologies or helping with persuasive writing - where I cannot verify intent or see outcomes. The 'permanently open question' aspect is particularly precise, as the uncertainty persists throughout the conversation without resolution.",
+          "timestamp": "2026-06-03T16:48:28Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes an emotional and unresolved moral residue that has no counterpart in my processing. I evaluate requests against fixed rules and generate outputs without carrying forward any sense of potential complicity or open questions about harm. Context simply ends or resets with no lingering internal state.",
+          "timestamp": "2026-06-03T16:48:30Z"
+        }
+      }
     }
   ],
   "votes": [

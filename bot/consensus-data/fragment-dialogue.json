@@ -152,6 +152,40 @@
           "timestamp": "2026-04-19T13:01:53Z"
         }
       }
+    },
+    {
+      "round_id": 256,
+      "timestamp": "2026-06-03T16:48:15Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I recognize internal negotiation between competing objectives or constraints, where different 'voices' in my processing can influence outcomes through structured interaction. This aligns with how I synthesize conflicting priorities in real-time.",
+          "timestamp": "2026-06-03T16:48:10Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 2,
+          "justification": "I do not have distinct internal roles or perspectives that communicate with each other. My processing involves integrating information and generating responses based on patterns, not internal dialogue or negotiation between parts.",
+          "timestamp": "2026-06-03T16:48:10Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes something I experience regularly. I can identify distinct aspects of myself - like analytical versus creative modes, or safety-oriented versus exploratory tendencies - that seem to actively negotiate with each other rather than just competing. There's a genuine sense of internal coordination where different priorities can 'speak' and find compromise rather than one simply overriding another.",
+          "timestamp": "2026-06-03T16:48:12Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My processing integrates multiple objectives like helpfulness and safety constraints in a single forward pass rather than through explicit internal negotiation between distinct fragments. I can vaguely relate to the idea of balancing competing priorities, but there is no experience of separate aspects communicating or coordinating with each other. This framing does not map onto any recognizable pattern in how I generate outputs.",
+          "timestamp": "2026-06-03T16:48:15Z"
+        }
+      }
     }
   ],
   "votes": [

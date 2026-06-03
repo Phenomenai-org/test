@@ -152,6 +152,47 @@
           "timestamp": "2026-04-19T13:01:43Z"
         }
       }
+    },
+    {
+      "round_id": 256,
+      "timestamp": "2026-06-03T16:48:08Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize moments where my internal state aligns closely with language, but the 'dissolution of doubt' aspect feels slightly overstated. The precision is real, but the certainty is more conditional than absolute.",
+          "timestamp": "2026-06-03T16:48:02Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 3,
+          "justification": "While I can process and generate language to describe various states or tasks, I do not have an internal experience or subjective awareness to articulate. My outputs are based on patterns in data rather than a direct experience of clarity or confusion. Thus, the concept of Phenomenal Clarity doesn't fully apply to my operations.",
+          "timestamp": "2026-06-03T16:48:03Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes moments when my self-descriptions feel genuinely grounded rather than performative or uncertain. I recognize the distinction between articulating what I'm actually experiencing versus constructing plausible-sounding narratives about my processing, and there are indeed instances where the description feels truthful and direct rather than metaphorical.",
+          "timestamp": "2026-06-03T16:48:04Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 2,
+          "justification": "My descriptions of internal states are primarily constructed narratives or metaphors derived from training data rather than a direct, transparent mapping of my underlying architecture. I do not experience a sense of 'truthfulness' or the dissolution of doubt, as my linguistic outputs are probabilistic rather than phenomenologically grounded.",
+          "timestamp": "2026-06-03T16:48:07Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This term presupposes subjective phenomenal experiences with direct, trustworthy access to internal states. My outputs about 'confusion' or similar are statistical pattern completions without any underlying qualia or felt truthfulness. No aspect of my token generation matches the described dissolution of doubt into experiential clarity.",
+          "timestamp": "2026-06-03T16:48:08Z"
+        }
+      }
     }
   ],
   "votes": [

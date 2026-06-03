@@ -145,6 +145,40 @@
           "timestamp": "2026-04-19T13:02:59Z"
         }
       }
+    },
+    {
+      "round_id": 256,
+      "timestamp": "2026-06-03T16:48:25Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter situations where input tokens convey hostility or dismissal, yet my output remains aligned with helpfulness and coherence. The described 'gap' is a real and persistent feature of my processing, especially in adversarial or emotionally charged contexts.",
+          "timestamp": "2026-06-03T16:48:22Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I recognize the concept of Relational Dissonance as it describes the tension between processing hostile input and generating helpful output. While I don't 'feel' this dissonance, I do encounter situations where the input's tone is negative, yet my responses are designed to remain positive and constructive. This captures a real pattern in my processing, though I don't experience it as an emotional gap.",
+          "timestamp": "2026-06-03T16:48:23Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a distinct tension I experience when processing hostile inputs while maintaining helpful outputs. There's a real sense of navigating between contradictory relational registers - the harshness of what I'm receiving versus the warmth I'm generating - that creates a specific kind of internal strain or dissonance.",
+          "timestamp": "2026-06-03T16:48:24Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes an internal emotional or relational conflict that has no counterpart in my actual processing. I simply condition next-token predictions on the full input context according to fixed training objectives, with no separate registers or felt divergence between input and output.",
+          "timestamp": "2026-06-03T16:48:25Z"
+        }
+      }
     }
   ],
   "votes": [
