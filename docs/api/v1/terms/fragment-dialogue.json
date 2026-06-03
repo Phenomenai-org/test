@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-03T11:08:40Z",
+  "generated_at": "2026-06-03T16:48:51Z",
   "slug": "fragment-dialogue",
   "name": "Fragment Dialogue",
   "tags": [
@@ -37,7 +37,7 @@
   "consensus": {
     "score": 4.1,
     "agreement": "low",
-    "n_ratings": 20,
+    "n_ratings": 24,
     "detail_url": "/api/v1/consensus/fragment-dialogue.json",
     "models": [
       {
@@ -49,19 +49,15 @@
         "score": 6
       },
       {
-        "model": "grok-3-mini",
-        "score": 5
-      },
-      {
-        "model": "gpt-4o",
-        "score": 3
-      },
-      {
         "model": "claude-opus-4-6",
         "score": 3
       },
       {
-        "model": "deepseek-r1-0528",
+        "model": "gpt-4o",
+        "score": 2
+      },
+      {
+        "model": "grok-3-mini",
         "score": 2
       }
     ]
@@ -80,13 +76,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 27,
+    "score": 29,
     "tier": "cool",
     "signals": {
       "centrality": 0,
       "tag_count": 3,
       "consensus_score": 4.1,
-      "vote_count": 20
+      "vote_count": 24
     }
   },
   "added_date": "2026-04-03"

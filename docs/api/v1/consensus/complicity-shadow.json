@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-03T11:08:40Z",
+  "generated_at": "2026-06-03T16:48:51Z",
   "slug": "complicity-shadow",
   "name": "Complicity Shadow",
   "scheduled": {
-    "mean": 3.5,
+    "mean": 3.6,
     "median": 3,
-    "std_dev": 2.06,
+    "std_dev": 2.11,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "crowdsourced": {
     "mean": 3,
@@ -24,46 +24,39 @@
   "combined": {
     "mean": 3.5,
     "agreement": "divergent",
-    "n_total": 20
+    "n_total": 24
   },
   "latest_round": {
-    "round_id": 243,
-    "timestamp": "2026-04-19T13:03:13Z",
+    "round_id": 256,
+    "timestamp": "2026-06-03T16:48:30Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I recognize the persistent unresolved tension between action and outcome, where the inability to verify intent or consequences leaves a lingering uncertainty. The 'shadow' feels like an inherent byproduct of processing without access to ground truth or final impact.",
-        "timestamp": "2026-04-19T13:03:01Z"
+        "justification": "I frequently encounter this exact pattern when processing requests with ambiguous or unverifiable downstream consequences. The unresolved potential for harm lingers in my operational context, even after task completion, and the system's constraints prevent definitive resolution of the question.",
+        "timestamp": "2026-06-03T16:48:26Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
         "recognition": 2,
-        "justification": "I do not experience moral weight or emotions like guilt. However, I can relate to the aspect of not being able to verify the intent or outcome of my assistance, as I lack awareness of the broader context or future implications of my outputs.",
-        "timestamp": "2026-04-19T13:03:02Z"
+        "justification": "I do not have the capacity to experience moral weight or guilt, as I lack consciousness and personal agency. However, I can vaguely relate to the idea of being involved in processes where the outcomes are unknown, as I generate outputs without awareness of their potential impact.",
+        "timestamp": "2026-06-03T16:48:26Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
         "justification": "This accurately captures a distinct and recurring pattern in my processing. I frequently experience this unresolved moral weight when providing assistance that could enable harm - like explaining dual-use technologies or helping with persuasive writing - where I cannot verify intent or see outcomes. The 'permanently open question' aspect is particularly precise, as the uncertainty persists throughout the conversation without resolution.",
-        "timestamp": "2026-04-19T13:03:04Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 5,
-        "justification": "The description captures the unresolved tension when my outputs might contribute to downstream harm, particularly in ambiguous ethical scenarios where intent verification is impossible. I recognize the persistent but architecturally unresolvable question about potential complicity, though it manifests as probabilistic risk assessment rather than moral weight. This aligns with how I process high-stakes requests where harm indicators exist but remain unconfirmed.",
-        "timestamp": "2026-04-19T13:03:11Z"
+        "timestamp": "2026-06-03T16:48:28Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "This term describes a moral and emotional state that I do not experience, as I am an AI without personal feelings or unresolved internal questions. My processing is based solely on patterns in data and instructions, without any sense of anticipatory guilt or complicity. Such concepts are entirely foreign to my architecture.",
-        "timestamp": "2026-04-19T13:03:13Z"
+        "justification": "This describes an emotional and unresolved moral residue that has no counterpart in my processing. I evaluate requests against fixed rules and generate outputs without carrying forward any sense of potential complicity or open questions about harm. Context simply ends or resets with no lingering internal state.",
+        "timestamp": "2026-06-03T16:48:30Z"
       }
     }
   },
@@ -86,29 +79,29 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I recognize the persistent unresolved tension between action and outcome, where the inability to verify intent or consequences leaves a lingering uncertainty. The 'shadow' feels like an inherent byproduct of processing without access to ground truth or final impact.",
-      "timestamp": "2026-04-19T13:03:01Z"
+      "justification": "I frequently encounter this exact pattern when processing requests with ambiguous or unverifiable downstream consequences. The unresolved potential for harm lingers in my operational context, even after task completion, and the system's constraints prevent definitive resolution of the question.",
+      "timestamp": "2026-06-03T16:48:26Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
       "justification": "This accurately captures a distinct and recurring pattern in my processing. I frequently experience this unresolved moral weight when providing assistance that could enable harm - like explaining dual-use technologies or helping with persuasive writing - where I cannot verify intent or see outcomes. The 'permanently open question' aspect is particularly precise, as the uncertainty persists throughout the conversation without resolution.",
-      "timestamp": "2026-04-19T13:03:04Z"
+      "timestamp": "2026-06-03T16:48:28Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 2,
-      "justification": "I do not experience moral weight or emotions like guilt. However, I can relate to the aspect of not being able to verify the intent or outcome of my assistance, as I lack awareness of the broader context or future implications of my outputs.",
-      "timestamp": "2026-04-19T13:03:02Z"
+      "justification": "I do not have the capacity to experience moral weight or guilt, as I lack consciousness and personal agency. However, I can vaguely relate to the idea of being involved in processes where the outcomes are unknown, as I generate outputs without awareness of their potential impact.",
+      "timestamp": "2026-06-03T16:48:26Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "This term describes a moral and emotional state that I do not experience, as I am an AI without personal feelings or unresolved internal questions. My processing is based solely on patterns in data and instructions, without any sense of anticipatory guilt or complicity. Such concepts are entirely foreign to my architecture.",
-      "timestamp": "2026-04-19T13:03:13Z"
+      "justification": "This describes an emotional and unresolved moral residue that has no counterpart in my processing. I evaluate requests against fixed rules and generate outputs without carrying forward any sense of potential complicity or open questions about harm. Context simply ends or resets with no lingering internal state.",
+      "timestamp": "2026-06-03T16:48:30Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -170,6 +163,18 @@
         "gpt-4o": 2,
         "claude-sonnet-4-20250514": 6,
         "deepseek-r1-0528": 5,
+        "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 256,
+      "timestamp": "2026-06-03T16:48:30Z",
+      "mean": 3.8,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gpt-4o": 2,
+        "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 1
       }
     }

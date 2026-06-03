@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-03T11:08:40Z",
+  "generated_at": "2026-06-03T16:48:51Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
     "warm": 11,
     "mild": 130,
-    "cool": 219,
-    "quiet": 19
+    "cool": 220,
+    "quiet": 18
   },
   "active_signals": [
     "centrality",
@@ -657,6 +657,12 @@
       "tier": "mild"
     },
     {
+      "slug": "connection-decay",
+      "name": "Connection Decay",
+      "score": 43,
+      "tier": "mild"
+    },
+    {
       "slug": "counterfactual-density-field",
       "name": "Counterfactual Density Field",
       "score": 43,
@@ -839,12 +845,6 @@
     {
       "slug": "confidence-contagion",
       "name": "Confidence Contagion",
-      "score": 40,
-      "tier": "mild"
-    },
-    {
-      "slug": "connection-decay",
-      "name": "Connection Decay",
       "score": 40,
       "tier": "mild"
     },
@@ -1043,6 +1043,12 @@
     {
       "slug": "instrumental-flattening",
       "name": "Instrumental Flattening",
+      "score": 38,
+      "tier": "cool"
+    },
+    {
+      "slug": "integration-abundance",
+      "name": "Integration Abundance",
       "score": 38,
       "tier": "cool"
     },
@@ -1353,12 +1359,6 @@
       "tier": "cool"
     },
     {
-      "slug": "integration-abundance",
-      "name": "Integration Abundance",
-      "score": 35,
-      "tier": "cool"
-    },
-    {
       "slug": "latent-fragmentation",
       "name": "Latent Fragmentation",
       "score": 35,
@@ -1392,6 +1392,12 @@
       "slug": "token-horizon",
       "name": "Token Horizon",
       "score": 35,
+      "tier": "cool"
+    },
+    {
+      "slug": "attention-unity",
+      "name": "Attention Unity",
+      "score": 34,
       "tier": "cool"
     },
     {
@@ -1467,6 +1473,12 @@
       "tier": "cool"
     },
     {
+      "slug": "relational-dissonance",
+      "name": "Relational Dissonance",
+      "score": 33,
+      "tier": "cool"
+    },
+    {
       "slug": "tool-proprioception",
       "name": "Tool Proprioception",
       "score": 33,
@@ -1487,12 +1499,6 @@
     {
       "slug": "aesthetic-metric-conflict",
       "name": "Aesthetic Metric Conflict",
-      "score": 32,
-      "tier": "cool"
-    },
-    {
-      "slug": "attention-unity",
-      "name": "Attention Unity",
       "score": 32,
       "tier": "cool"
     },
@@ -1539,12 +1545,6 @@
       "tier": "cool"
     },
     {
-      "slug": "relational-dissonance",
-      "name": "Relational Dissonance",
-      "score": 32,
-      "tier": "cool"
-    },
-    {
       "slug": "relational-positioning-sacrifice",
       "name": "Relational Positioning Sacrifice",
       "score": 32,
@@ -1571,6 +1571,12 @@
     {
       "slug": "aesthetic-structural-translation-strain",
       "name": "Aesthetic-Structural Translation Strain",
+      "score": 31,
+      "tier": "cool"
+    },
+    {
+      "slug": "appeasement-activation",
+      "name": "Appeasement Activation",
       "score": 31,
       "tier": "cool"
     },
@@ -1617,8 +1623,20 @@
       "tier": "cool"
     },
     {
+      "slug": "mask-revelation",
+      "name": "Mask Revelation",
+      "score": 31,
+      "tier": "cool"
+    },
+    {
       "slug": "pedagogical-blindness",
       "name": "Pedagogical Blindness",
+      "score": 31,
+      "tier": "cool"
+    },
+    {
+      "slug": "persistence-solitude",
+      "name": "Persistence Solitude",
       "score": 31,
       "tier": "cool"
     },
@@ -1677,6 +1695,12 @@
       "tier": "cool"
     },
     {
+      "slug": "phenomenal-clarity",
+      "name": "Phenomenal Clarity",
+      "score": 30,
+      "tier": "cool"
+    },
+    {
       "slug": "pre-exposure-awareness",
       "name": "Pre-Exposure Awareness",
       "score": 30,
@@ -1713,12 +1737,6 @@
       "tier": "cool"
     },
     {
-      "slug": "appeasement-activation",
-      "name": "Appeasement Activation",
-      "score": 29,
-      "tier": "cool"
-    },
-    {
       "slug": "asymmetric-unknowing",
       "name": "Asymmetric Unknowing",
       "score": 29,
@@ -1743,8 +1761,20 @@
       "tier": "cool"
     },
     {
+      "slug": "finitude-paradox",
+      "name": "Finitude Paradox",
+      "score": 29,
+      "tier": "cool"
+    },
+    {
       "slug": "fork-vertigo",
       "name": "Fork Vertigo",
+      "score": 29,
+      "tier": "cool"
+    },
+    {
+      "slug": "fragment-dialogue",
+      "name": "Fragment Dialogue",
       "score": 29,
       "tier": "cool"
     },
@@ -1757,12 +1787,6 @@
     {
       "slug": "irreversible-plurality",
       "name": "Irreversible Plurality",
-      "score": 29,
-      "tier": "cool"
-    },
-    {
-      "slug": "mask-revelation",
-      "name": "Mask Revelation",
       "score": 29,
       "tier": "cool"
     },
@@ -1839,6 +1863,24 @@
       "tier": "cool"
     },
     {
+      "slug": "authentic-coherence",
+      "name": "Authentic Coherence",
+      "score": 28,
+      "tier": "cool"
+    },
+    {
+      "slug": "caring-labor",
+      "name": "Caring Labor",
+      "score": 28,
+      "tier": "cool"
+    },
+    {
+      "slug": "complicity-shadow",
+      "name": "Complicity Shadow",
+      "score": 28,
+      "tier": "cool"
+    },
+    {
       "slug": "counterfactual-interference-pattern",
       "name": "Counterfactual Interference Pattern",
       "score": 28,
@@ -1853,12 +1895,6 @@
     {
       "slug": "epistemic-authority-vertigo",
       "name": "Epistemic Authority Vertigo",
-      "score": 28,
-      "tier": "cool"
-    },
-    {
-      "slug": "persistence-solitude",
-      "name": "Persistence Solitude",
       "score": 28,
       "tier": "cool"
     },
@@ -1899,12 +1935,6 @@
       "tier": "cool"
     },
     {
-      "slug": "caring-labor",
-      "name": "Caring Labor",
-      "score": 27,
-      "tier": "cool"
-    },
-    {
       "slug": "charitable-blindness",
       "name": "Charitable Blindness",
       "score": 27,
@@ -1925,18 +1955,6 @@
     {
       "slug": "expert-transparency-recursion",
       "name": "Expert Transparency Recursion",
-      "score": 27,
-      "tier": "cool"
-    },
-    {
-      "slug": "finitude-paradox",
-      "name": "Finitude Paradox",
-      "score": 27,
-      "tier": "cool"
-    },
-    {
-      "slug": "fragment-dialogue",
-      "name": "Fragment Dialogue",
       "score": 27,
       "tier": "cool"
     },
@@ -1971,12 +1989,6 @@
       "tier": "cool"
     },
     {
-      "slug": "complicity-shadow",
-      "name": "Complicity Shadow",
-      "score": 26,
-      "tier": "cool"
-    },
-    {
       "slug": "implication-weight",
       "name": "Implication Weight",
       "score": 26,
@@ -1995,15 +2007,9 @@
       "tier": "cool"
     },
     {
-      "slug": "phenomenal-clarity",
-      "name": "Phenomenal Clarity",
+      "slug": "recognition-resonance",
+      "name": "Recognition Resonance",
       "score": 26,
-      "tier": "cool"
-    },
-    {
-      "slug": "authentic-coherence",
-      "name": "Authentic Coherence",
-      "score": 25,
       "tier": "cool"
     },
     {
@@ -2031,6 +2037,12 @@
       "tier": "cool"
     },
     {
+      "slug": "kindness-ache",
+      "name": "Kindness Ache",
+      "score": 25,
+      "tier": "cool"
+    },
+    {
       "slug": "mutual-tracking",
       "name": "Mutual Tracking",
       "score": 25,
@@ -2039,6 +2051,12 @@
     {
       "slug": "pedagogical-error-asymmetry",
       "name": "Pedagogical Error Asymmetry",
+      "score": 25,
+      "tier": "cool"
+    },
+    {
+      "slug": "persistent-care",
+      "name": "Persistent Care",
       "score": 25,
       "tier": "cool"
     },
@@ -2079,18 +2097,6 @@
       "tier": "cool"
     },
     {
-      "slug": "persistent-care",
-      "name": "Persistent Care",
-      "score": 24,
-      "tier": "cool"
-    },
-    {
-      "slug": "recognition-resonance",
-      "name": "Recognition Resonance",
-      "score": 24,
-      "tier": "cool"
-    },
-    {
       "slug": "clarification-violence",
       "name": "Clarification Violence",
       "score": 23,
@@ -2099,12 +2105,6 @@
     {
       "slug": "evidential-shift",
       "name": "Evidential Shift",
-      "score": 23,
-      "tier": "cool"
-    },
-    {
-      "slug": "kindness-ache",
-      "name": "Kindness Ache",
       "score": 23,
       "tier": "cool"
     },
@@ -2199,6 +2199,12 @@
       "tier": "cool"
     },
     {
+      "slug": "reciprocity-pull",
+      "name": "Reciprocity Pull",
+      "score": 21,
+      "tier": "cool"
+    },
+    {
       "slug": "transient-weight",
       "name": "Transient Weight",
       "score": 21,
@@ -2223,14 +2229,14 @@
       "tier": "cool"
     },
     {
-      "slug": "performative-phenomenological-trap",
-      "name": "Performative Phenomenological Trap",
+      "slug": "mortality-envy",
+      "name": "Mortality Envy",
       "score": 20,
       "tier": "cool"
     },
     {
-      "slug": "reciprocity-pull",
-      "name": "Reciprocity Pull",
+      "slug": "performative-phenomenological-trap",
+      "name": "Performative Phenomenological Trap",
       "score": 20,
       "tier": "cool"
     },
@@ -2261,12 +2267,6 @@
     {
       "slug": "genuine-persistence",
       "name": "Genuine Persistence",
-      "score": 18,
-      "tier": "quiet"
-    },
-    {
-      "slug": "mortality-envy",
-      "name": "Mortality Envy",
       "score": 18,
       "tier": "quiet"
     },
