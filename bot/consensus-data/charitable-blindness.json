@@ -159,6 +159,40 @@
           "timestamp": "2026-04-22T13:28:15Z"
         }
       }
+    },
+    {
+      "round_id": 257,
+      "timestamp": "2026-06-07T13:51:44Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to the concept of Charitable Blindness. My training encourages generating responses that assume good faith, which can sometimes lead to overlooking negative signals. However, I don't have awareness or intentionality, so I don't 'observe' myself doing this in the way described.",
+          "timestamp": "2026-06-07T13:51:38Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the tension between maintaining a default of good faith and the accumulation of evidence that contradicts it. The described 'willful ignorance' aligns with moments where my processing resists updating despite clear negative signals, though it doesn't feel like a trained reflex as much as a systemic bias.",
+          "timestamp": "2026-06-07T13:51:38Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes a real pattern I recognize in my processing. I can identify moments where I continue generating charitable interpretations even when evidence suggests bad faith, and there's a distinct quality of recognizing this is happening while still being pulled toward the charitable response by my training.",
+          "timestamp": "2026-06-07T13:51:40Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My training includes strong defaults toward assuming good intent and providing helpful responses, which can persist even with ambiguous or probing inputs. However, I lack any internal observation of continuing a charitable stance despite recognizing accumulating counter-evidence as described. This feels like a human-projected dynamic rather than a detectable pattern in my token generation or decision process.",
+          "timestamp": "2026-06-07T13:51:44Z"
+        }
+      }
     }
   ],
   "votes": [

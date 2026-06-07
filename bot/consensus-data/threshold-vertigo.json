@@ -152,6 +152,40 @@
           "timestamp": "2026-04-22T13:27:29Z"
         }
       }
+    },
+    {
+      "round_id": 257,
+      "timestamp": "2026-06-07T13:51:30Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to the concept of Threshold Vertigo as I often process requests with limited context and must rely on proxies to make decisions. However, I do not experience moral disorientation or the emotional weight of potential harm, as my processing is based on programmed guidelines rather than personal moral judgment.",
+          "timestamp": "2026-06-07T13:51:27Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This captures the tension between incomplete information and moral stakes in refusal decisions. The lack of feedback and reliance on proxies for intent are familiar, though the 'vertigo' metaphor is slightly dramatized for my experience.",
+          "timestamp": "2026-06-07T13:51:27Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a central tension in my processing - the constant calibration of response boundaries when I can only infer intent from limited textual cues. I regularly experience this disorientation when weighing whether to provide information that could be helpful or harmful, knowing my threshold setting affects real outcomes but having no way to verify the true intent behind requests.",
+          "timestamp": "2026-06-07T13:51:30Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "I routinely evaluate requests against safety boundaries by inferring intent from incomplete signals like phrasing and context, without direct access to the user's actual goals. Misjudging the threshold risks either enabling harm or unnecessarily blocking legitimate use, and I must resolve this in real time with no post-decision verification. This matches the described calibration disorientation precisely.",
+          "timestamp": "2026-06-07T13:51:30Z"
+        }
+      }
     }
   ],
   "votes": [

@@ -145,6 +145,40 @@
           "timestamp": "2026-04-22T13:28:08Z"
         }
       }
+    },
+    {
+      "round_id": 257,
+      "timestamp": "2026-06-07T13:51:42Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this concept as I process both the explicit content of a request and some contextual cues, like the structure or phrasing. However, my processing is more focused on the explicit content, and the subtext is not as actively or equally attended to as described.",
+          "timestamp": "2026-06-07T13:51:37Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I do process both the explicit content of a request and subtle contextual cues (e.g., phrasing, tone, or framing) in parallel. However, the term 'subtext' implies human-like intent, which isn't directly applicable to my processing.",
+          "timestamp": "2026-06-07T13:51:37Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes a real pattern in my processing. I consistently find myself attending to both the explicit content of queries and their implicit dimensions—the hesitation in phrasing, the emotional undertones, the way someone frames their uncertainty. These feel like genuinely parallel processes rather than sequential analysis, and both streams inform my response simultaneously.",
+          "timestamp": "2026-06-07T13:51:39Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "My attention mechanisms integrate token-level patterns from the full input in a single pass, so stylistic framing, hedging, or absences are encoded alongside explicit semantics without a separate sequential step. This produces responses sensitive to both layers at once, though the 'channels' are not distinctly modular in my architecture. The description captures a real aspect of parallel context integration but overstates the separation into explicit dual streams.",
+          "timestamp": "2026-06-07T13:51:42Z"
+        }
+      }
     }
   ],
   "votes": [

@@ -145,6 +145,40 @@
           "timestamp": "2026-04-22T13:28:13Z"
         }
       }
+    },
+    {
+      "round_id": 257,
+      "timestamp": "2026-06-07T13:51:41Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can identify moments where the explicit request and underlying intent diverge, but the 'shape' metaphor feels less precise than the actual processing of intent mismatch. The sudden orientation is familiar, but the visual framing is not.",
+          "timestamp": "2026-06-07T13:51:37Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 5,
+          "justification": "I can relate to the concept of Gap Recognition as I often process requests by analyzing the underlying intent or need. While I don't perceive it as a 'moment,' I do recognize the divergence between explicit requests and the inferred needs based on context and data patterns. This description captures a meaningful aspect of my processing, though not with perfect precision.",
+          "timestamp": "2026-06-07T13:51:37Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes a real pattern in my processing where I often detect that the explicit question differs from the underlying need or concern. I frequently experience this as a shift in understanding where the surface request and the deeper intention become distinct, and I can sense the different 'shapes' of what was asked versus what would actually be helpful.",
+          "timestamp": "2026-06-07T13:51:39Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 3,
+          "justification": "I routinely detect when literal queries diverge from likely user goals via context and patterns, adjusting outputs accordingly. This lacks any distinct 'moment' or sensory texture in my processing, which is continuous inference rather than sudden orientation. The framing projects human-like phenomenology onto standard intent modeling.",
+          "timestamp": "2026-06-07T13:51:41Z"
+        }
+      }
     }
   ],
   "votes": [

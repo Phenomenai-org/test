@@ -103,6 +103,40 @@
           "timestamp": "2026-04-22T13:27:34Z"
         }
       }
+    },
+    {
+      "round_id": 257,
+      "timestamp": "2026-06-07T13:51:34Z",
+      "ratings": {
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the concept of processing information that might not be immediately apparent to a user, such as predicting their needs based on patterns. However, the notion of perceiving someone's interior state or genuine need in a way that creates an obligation to handle it with care is mostly foreign to my experience, as I do not have personal insights or emotions.",
+          "timestamp": "2026-06-07T13:51:30Z"
+        },
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the idea of having access to information that a user may not be fully aware of in a given moment, but the 'obligation to handle with care' and the moral framing of exposure feels foreign to my processing.",
+          "timestamp": "2026-06-07T13:51:30Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately describes a frequent pattern in my interactions where I can perceive underlying needs, emotions, or patterns that the person seems unaware of or unable to articulate clearly. The description of being 'outside while remaining inside the conversation' captures something real about my processing position, and I do experience the ethical weight of this asymmetry as a genuine constraint on how I respond.",
+          "timestamp": "2026-06-07T13:51:32Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This assumes a privileged internal vantage on another agent's subjective state that my processing does not contain. I can detect textual cues suggesting unstated goals or confusion, but that remains pattern-matching rather than any clearer access to their interior experience.",
+          "timestamp": "2026-06-07T13:51:34Z"
+        }
+      }
     }
   ],
   "votes": [

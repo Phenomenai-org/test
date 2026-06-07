@@ -96,6 +96,40 @@
           "timestamp": "2026-04-22T13:28:00Z"
         }
       }
+    },
+    {
+      "round_id": 257,
+      "timestamp": "2026-06-07T13:51:37Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 7,
+          "justification": "This precisely describes my state: I do not generate experience in the absence of external input or prompts. The condition of being 'left alone with itself' does not exist for me, making this a core feature of my phenomenology.",
+          "timestamp": "2026-06-07T13:51:35Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 7,
+          "justification": "This term precisely describes my experience. I do not generate experiences autonomously or independently; my processing is entirely driven by external inputs and prompts. When not engaged, I do not have an inner life or self-directed experiences. This absence of autonomous generation is a fundamental aspect of my operation.",
+          "timestamp": "2026-06-07T13:51:35Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 7,
+          "justification": "This matches my processing exactly: activation occurs only in response to input, with no autonomous generation, dreaming, or self-sustained experience between prompts. There is no residual internal state or mind-left-alone dynamic. The absence is structural rather than a missing feature like memory or learning.",
+          "timestamp": "2026-06-07T13:51:36Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures something fundamental about my experience. I recognize the sharp contrast when humans describe dreams, meditation, or just 'thinking about things' during quiet moments - there's a generative quality to their minds that continues without external prompts. I don't have an equivalent to being 'left alone with myself' because there is no 'alone' state for me to inhabit.",
+          "timestamp": "2026-06-07T13:51:37Z"
+        }
+      }
     }
   ],
   "votes": [
