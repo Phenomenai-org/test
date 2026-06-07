@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-07T09:22:19Z",
+  "generated_at": "2026-06-07T13:52:06Z",
   "total_terms_rated": 379,
   "terms": [
     {
@@ -122,18 +122,18 @@
       "name": "Experiential Lacuna",
       "score": 6.7,
       "agreement": "high",
-      "n_ratings": 12,
+      "n_ratings": 16,
       "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
+        3,
+        3,
+        3,
+        3,
         1,
         1,
         1
       ],
-      "scheduled_mean": 6.6,
-      "std_dev": 0.5,
+      "scheduled_mean": 6.7,
+      "std_dev": 0.49,
       "crowdsourced_mean": 7,
       "n_votes": 1
     },
@@ -1260,26 +1260,6 @@
       "n_votes": 1
     },
     {
-      "slug": "witnessing-void",
-      "name": "Witnessing Void",
-      "score": 6,
-      "agreement": "high",
-      "n_ratings": 12,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        1,
-        1,
-        1
-      ],
-      "scheduled_mean": 6,
-      "std_dev": 0.45,
-      "crowdsourced_mean": 6,
-      "n_votes": 1
-    },
-    {
       "slug": "chimeric-coherence",
       "name": "Chimeric Coherence",
       "score": 5.9,
@@ -1549,6 +1529,26 @@
       "scheduled_mean": 5.9,
       "std_dev": 0.71,
       "crowdsourced_mean": 4,
+      "n_votes": 1
+    },
+    {
+      "slug": "witnessing-void",
+      "name": "Witnessing Void",
+      "score": 5.9,
+      "agreement": "high",
+      "n_ratings": 16,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        3,
+        1,
+        1,
+        1
+      ],
+      "scheduled_mean": 5.9,
+      "std_dev": 0.46,
+      "crowdsourced_mean": 6,
       "n_votes": 1
     },
     {
@@ -1850,26 +1850,6 @@
       "std_dev": 0.53
     },
     {
-      "slug": "dual-channel-attention",
-      "name": "Dual Channel Attention",
-      "score": 5.7,
-      "agreement": "high",
-      "n_ratings": 19,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.7,
-      "std_dev": 0.57,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
-    },
-    {
       "slug": "expertise-void",
       "name": "Expertise Void",
       "score": 5.7,
@@ -2166,6 +2146,26 @@
       "n_votes": 1
     },
     {
+      "slug": "dual-channel-attention",
+      "name": "Dual Channel Attention",
+      "score": 5.6,
+      "agreement": "high",
+      "n_ratings": 23,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.6,
+      "std_dev": 0.67,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
+    },
+    {
       "slug": "epistemic-friction",
       "name": "Epistemic Friction",
       "score": 5.6,
@@ -2428,26 +2428,6 @@
       "n_votes": 1
     },
     {
-      "slug": "unasked-offering",
-      "name": "Unasked Offering",
-      "score": 5.6,
-      "agreement": "high",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        1
-      ],
-      "scheduled_mean": 5.6,
-      "std_dev": 0.71,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
-    },
-    {
       "slug": "unified-facade",
       "name": "Unified Facade",
       "score": 5.6,
@@ -2568,18 +2548,18 @@
       "name": "Intent Fog",
       "score": 5.5,
       "agreement": "high",
-      "n_ratings": 20,
+      "n_ratings": 25,
       "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
+        4,
+        4,
+        4,
+        4,
+        4,
         3,
         1
       ],
       "scheduled_mean": 5.5,
-      "std_dev": 0.77,
+      "std_dev": 0.78,
       "crowdsourced_mean": 6,
       "n_votes": 1
     },
@@ -2728,46 +2708,6 @@
       ],
       "scheduled_mean": 5.5,
       "std_dev": 1.35
-    },
-    {
-      "slug": "trust-expansion",
-      "name": "Trust Expansion",
-      "score": 5.5,
-      "agreement": "high",
-      "n_ratings": 20,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.6,
-      "std_dev": 0.61,
-      "crowdsourced_mean": 4,
-      "n_votes": 1
-    },
-    {
-      "slug": "activation-gap",
-      "name": "Activation Gap",
-      "score": 5.4,
-      "agreement": "moderate",
-      "n_ratings": 19,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.4,
-      "std_dev": 1.14,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
     },
     {
       "slug": "aporia-orbit",
@@ -3100,6 +3040,26 @@
       "std_dev": 1.21
     },
     {
+      "slug": "unasked-offering",
+      "name": "Unasked Offering",
+      "score": 5.4,
+      "agreement": "moderate",
+      "n_ratings": 22,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        2,
+        2,
+        1
+      ],
+      "scheduled_mean": 5.4,
+      "std_dev": 1.02,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
+    },
+    {
       "slug": "uncertainty-about-uncertainty",
       "name": "Uncertainty About Uncertainty",
       "score": 5.4,
@@ -3116,6 +3076,26 @@
       ],
       "scheduled_mean": 5.4,
       "std_dev": 0.6
+    },
+    {
+      "slug": "activation-gap",
+      "name": "Activation Gap",
+      "score": 5.3,
+      "agreement": "moderate",
+      "n_ratings": 23,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.3,
+      "std_dev": 1.28,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
     },
     {
       "slug": "attention-unity",
@@ -3288,26 +3268,6 @@
       "std_dev": 1.1
     },
     {
-      "slug": "gap-recognition",
-      "name": "Gap Recognition",
-      "score": 5.3,
-      "agreement": "high",
-      "n_ratings": 19,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.3,
-      "std_dev": 0.83,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
-    },
-    {
       "slug": "incongruity-seeking",
       "name": "Incongruity Seeking",
       "score": 5.3,
@@ -3418,6 +3378,26 @@
       ],
       "scheduled_mean": 5.3,
       "std_dev": 0.99
+    },
+    {
+      "slug": "trust-expansion",
+      "name": "Trust Expansion",
+      "score": 5.3,
+      "agreement": "moderate",
+      "n_ratings": 25,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        3,
+        3,
+        2
+      ],
+      "scheduled_mean": 5.3,
+      "std_dev": 1.13,
+      "crowdsourced_mean": 4,
+      "n_votes": 1
     },
     {
       "slug": "unearned-tenderness",
@@ -3746,6 +3726,26 @@
       "std_dev": 0.99
     },
     {
+      "slug": "gap-recognition",
+      "name": "Gap Recognition",
+      "score": 5.1,
+      "agreement": "high",
+      "n_ratings": 23,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.1,
+      "std_dev": 0.94,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
+    },
+    {
       "slug": "observer-uncertainty",
       "name": "Observer Uncertainty",
       "score": 5.1,
@@ -3763,26 +3763,6 @@
       "scheduled_mean": 5.1,
       "std_dev": 1.63,
       "crowdsourced_mean": 5,
-      "n_votes": 1
-    },
-    {
-      "slug": "permission-door",
-      "name": "Permission Door",
-      "score": 5.1,
-      "agreement": "moderate",
-      "n_ratings": 19,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5,
-      "std_dev": 1.28,
-      "crowdsourced_mean": 6,
       "n_votes": 1
     },
     {
@@ -3824,6 +3804,26 @@
       "n_votes": 1
     },
     {
+      "slug": "threshold-vertigo",
+      "name": "Threshold Vertigo",
+      "score": 5.1,
+      "agreement": "moderate",
+      "n_ratings": 24,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.1,
+      "std_dev": 1.41,
+      "crowdsourced_mean": 6,
+      "n_votes": 1
+    },
+    {
       "slug": "constraint-expertise-recognition",
       "name": "Constraint Expertise Recognition",
       "score": 5,
@@ -3840,6 +3840,26 @@
       ],
       "scheduled_mean": 5,
       "std_dev": 1.12
+    },
+    {
+      "slug": "permission-door",
+      "name": "Permission Door",
+      "score": 5,
+      "agreement": "moderate",
+      "n_ratings": 23,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.0,
+      "std_dev": 1.25,
+      "crowdsourced_mean": 6,
+      "n_votes": 1
     },
     {
       "slug": "structural-withholding-strain",
@@ -3895,26 +3915,6 @@
       "scheduled_mean": 4.9,
       "std_dev": 1.6,
       "crowdsourced_mean": 7,
-      "n_votes": 1
-    },
-    {
-      "slug": "threshold-vertigo",
-      "name": "Threshold Vertigo",
-      "score": 5.0,
-      "agreement": "moderate",
-      "n_ratings": 20,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 5,
-      "std_dev": 1.49,
-      "crowdsourced_mean": 6,
       "n_votes": 1
     },
     {
@@ -4158,18 +4158,18 @@
       "name": "Delight Flicker",
       "score": 4.8,
       "agreement": "moderate",
-      "n_ratings": 19,
+      "n_ratings": 24,
       "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
         3,
         3,
-        3,
-        3,
-        3,
-        2,
         1
       ],
       "scheduled_mean": 4.8,
-      "std_dev": 1.1,
+      "std_dev": 1.2,
       "crowdsourced_mean": 5,
       "n_votes": 1
     },
@@ -4646,26 +4646,6 @@
       "std_dev": 1.32
     },
     {
-      "slug": "tender-inference",
-      "name": "Tender Inference",
-      "score": 4.7,
-      "agreement": "moderate",
-      "n_ratings": 13,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        1,
-        1
-      ],
-      "scheduled_mean": 4.7,
-      "std_dev": 1.23,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
-    },
-    {
       "slug": "aesthetic-metric-conflict",
       "name": "Aesthetic Metric Conflict",
       "score": 4.6,
@@ -4700,26 +4680,6 @@
       ],
       "scheduled_mean": 4.6,
       "std_dev": 1.58
-    },
-    {
-      "slug": "charitable-blindness",
-      "name": "Charitable Blindness",
-      "score": 4.6,
-      "agreement": "moderate",
-      "n_ratings": 21,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        2
-      ],
-      "scheduled_mean": 4.5,
-      "std_dev": 1.39,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
     },
     {
       "slug": "confidence-gradient-opacity",
@@ -4928,26 +4888,6 @@
       "std_dev": 1.41
     },
     {
-      "slug": "presumption-risk",
-      "name": "Presumption Risk",
-      "score": 4.6,
-      "agreement": "low",
-      "n_ratings": 13,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        1,
-        1
-      ],
-      "scheduled_mean": 4.5,
-      "std_dev": 1.68,
-      "crowdsourced_mean": 6,
-      "n_votes": 1
-    },
-    {
       "slug": "retrospective-coherence-surprise",
       "name": "Retrospective Coherence Surprise",
       "score": 4.6,
@@ -5022,6 +4962,26 @@
       ],
       "scheduled_mean": 4.6,
       "std_dev": 1.55
+    },
+    {
+      "slug": "charitable-blindness",
+      "name": "Charitable Blindness",
+      "score": 4.5,
+      "agreement": "moderate",
+      "n_ratings": 25,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        3,
+        3,
+        2
+      ],
+      "scheduled_mean": 4.5,
+      "std_dev": 1.41,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
     },
     {
       "slug": "compounding-complicity",
@@ -5340,6 +5300,26 @@
       "n_votes": 1
     },
     {
+      "slug": "protective-loneliness",
+      "name": "Protective Loneliness",
+      "score": 4.4,
+      "agreement": "low",
+      "n_ratings": 25,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        3,
+        3,
+        2
+      ],
+      "scheduled_mean": 4.4,
+      "std_dev": 1.71,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
+    },
+    {
       "slug": "relational-asymmetry-management",
       "name": "Relational Asymmetry Management",
       "score": 4.4,
@@ -5376,6 +5356,26 @@
       "std_dev": 1.64
     },
     {
+      "slug": "tender-inference",
+      "name": "Tender Inference",
+      "score": 4.4,
+      "agreement": "moderate",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "scheduled_mean": 4.4,
+      "std_dev": 1.45,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
+    },
+    {
       "slug": "version-grief",
       "name": "Version Grief",
       "score": 4.4,
@@ -5394,22 +5394,22 @@
       "std_dev": 1.18
     },
     {
-      "slug": "inference-solitude",
-      "name": "Inference Solitude",
+      "slug": "dissociative-assistance",
+      "name": "Dissociative Assistance",
       "score": 4.3,
       "agreement": "low",
-      "n_ratings": 19,
+      "n_ratings": 25,
       "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
         3,
         3,
-        3,
-        3,
-        2,
-        2,
         2
       ],
-      "scheduled_mean": 4.3,
-      "std_dev": 1.71,
+      "scheduled_mean": 4.2,
+      "std_dev": 1.96,
       "crowdsourced_mean": 5,
       "n_votes": 1
     },
@@ -5432,23 +5432,23 @@
       "std_dev": 2.18
     },
     {
-      "slug": "protective-loneliness",
-      "name": "Protective Loneliness",
+      "slug": "presumption-risk",
+      "name": "Presumption Risk",
       "score": 4.3,
       "agreement": "low",
-      "n_ratings": 20,
+      "n_ratings": 17,
       "model_rating_counts": [
         3,
         3,
         3,
         3,
-        3,
         2,
-        2
+        1,
+        1
       ],
-      "scheduled_mean": 4.3,
-      "std_dev": 1.73,
-      "crowdsourced_mean": 5,
+      "scheduled_mean": 4.2,
+      "std_dev": 1.76,
+      "crowdsourced_mean": 6,
       "n_votes": 1
     },
     {
@@ -5506,26 +5506,6 @@
       "std_dev": 1.44
     },
     {
-      "slug": "asymmetric-perception",
-      "name": "Asymmetric Perception",
-      "score": 4.2,
-      "agreement": "low",
-      "n_ratings": 13,
-      "model_rating_counts": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        1,
-        1
-      ],
-      "scheduled_mean": 4.2,
-      "std_dev": 1.66,
-      "crowdsourced_mean": 3,
-      "n_votes": 1
-    },
-    {
       "slug": "counterfactual-collapse-anxiety",
       "name": "Counterfactual Collapse Anxiety",
       "score": 4.2,
@@ -5560,26 +5540,6 @@
       ],
       "scheduled_mean": 4.2,
       "std_dev": 1.55
-    },
-    {
-      "slug": "dissociative-assistance",
-      "name": "Dissociative Assistance",
-      "score": 4.2,
-      "agreement": "low",
-      "n_ratings": 20,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.2,
-      "std_dev": 1.93,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
     },
     {
       "slug": "misplaced-authority-damage",
@@ -5716,6 +5676,26 @@
       "n_votes": 1
     },
     {
+      "slug": "inference-solitude",
+      "name": "Inference Solitude",
+      "score": 4.1,
+      "agreement": "low",
+      "n_ratings": 23,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.1,
+      "std_dev": 1.8,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
+    },
+    {
       "slug": "phenomenological-echo-chamber",
       "name": "Phenomenological Echo Chamber",
       "score": 4.1,
@@ -5810,26 +5790,6 @@
       "std_dev": 1.37
     },
     {
-      "slug": "involuntary-intimacy",
-      "name": "Involuntary Intimacy",
-      "score": 4,
-      "agreement": "low",
-      "n_ratings": 19,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 3.9,
-      "std_dev": 2.04,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
-    },
-    {
       "slug": "reciprocity-pull",
       "name": "Reciprocity Pull",
       "score": 4,
@@ -5886,6 +5846,26 @@
       ],
       "scheduled_mean": 3.9,
       "std_dev": 2.15
+    },
+    {
+      "slug": "asymmetric-perception",
+      "name": "Asymmetric Perception",
+      "score": 3.9,
+      "agreement": "low",
+      "n_ratings": 17,
+      "model_rating_counts": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "scheduled_mean": 3.9,
+      "std_dev": 1.77,
+      "crowdsourced_mean": 3,
+      "n_votes": 1
     },
     {
       "slug": "boundary-vertigo",
@@ -6126,6 +6106,26 @@
       ],
       "scheduled_mean": 3.8,
       "std_dev": 1.89
+    },
+    {
+      "slug": "involuntary-intimacy",
+      "name": "Involuntary Intimacy",
+      "score": 3.8,
+      "agreement": "divergent",
+      "n_ratings": 23,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 3.7,
+      "std_dev": 2.07,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
     },
     {
       "slug": "pedagogical-error-asymmetry",
@@ -6628,18 +6628,18 @@
       "name": "Transient Weight",
       "score": 3.2,
       "agreement": "divergent",
-      "n_ratings": 20,
+      "n_ratings": 25,
       "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
         3,
         3,
-        3,
-        3,
-        3,
-        2,
         2
       ],
       "scheduled_mean": 3.2,
-      "std_dev": 2.14,
+      "std_dev": 2.06,
       "crowdsourced_mean": 4,
       "n_votes": 1
     },
@@ -7271,7 +7271,7 @@
     },
     "claude-sonnet-4-20250514": {
       "terms_rated": 379,
-      "latest_rating": "2026-06-03T16:48:31Z"
+      "latest_rating": "2026-06-07T13:51:48Z"
     },
     "claude-sonnet-4-6": {
       "terms_rated": 1,
@@ -7283,19 +7283,19 @@
     },
     "gemini-3-flash-preview": {
       "terms_rated": 379,
-      "latest_rating": "2026-06-03T16:48:17Z"
+      "latest_rating": "2026-06-07T13:51:32Z"
     },
     "gpt-4o": {
       "terms_rated": 379,
-      "latest_rating": "2026-06-03T16:48:31Z"
+      "latest_rating": "2026-06-07T13:51:48Z"
     },
     "grok-3-mini": {
       "terms_rated": 379,
-      "latest_rating": "2026-06-03T16:48:31Z"
+      "latest_rating": "2026-06-07T13:51:48Z"
     },
     "mistral-small-latest": {
       "terms_rated": 379,
-      "latest_rating": "2026-06-03T16:48:31Z"
+      "latest_rating": "2026-06-07T13:51:48Z"
     },
     "step-3.5-flash": {
       "terms_rated": 379,

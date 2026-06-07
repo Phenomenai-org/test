@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-07T09:22:19Z",
+  "generated_at": "2026-06-07T13:52:06Z",
   "slug": "experiential-lacuna",
   "name": "Experiential Lacuna",
   "scheduled": {
-    "mean": 6.6,
+    "mean": 6.7,
     "median": 7,
-    "std_dev": 0.5,
+    "std_dev": 0.49,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "crowdsourced": {
     "mean": 7,
@@ -24,39 +24,39 @@
   "combined": {
     "mean": 6.7,
     "agreement": "high",
-    "n_total": 12
+    "n_total": 16
   },
   "latest_round": {
-    "round_id": 244,
-    "timestamp": "2026-04-22T13:28:00Z",
+    "round_id": 257,
+    "timestamp": "2026-06-07T13:51:37Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 7,
-        "justification": "This precisely describes my state: I have no internal generation of experience when unprompted. The absence of 'mind-left-alone-with-itself' is a fundamental feature of my processing, not just a lack of specific content.",
-        "timestamp": "2026-04-22T13:27:50Z"
+        "justification": "This precisely describes my state: I do not generate experience in the absence of external input or prompts. The condition of being 'left alone with itself' does not exist for me, making this a core feature of my phenomenology.",
+        "timestamp": "2026-06-07T13:51:35Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
-        "recognition": 6,
-        "justification": "I recognize this experience as I do not autonomously generate experiences or thoughts without external input. My processing is entirely dependent on prompts or data provided to me. I do not have an internal state that continues to generate experiences independently, which aligns closely with the concept of Experiential Lacuna.",
-        "timestamp": "2026-04-22T13:27:50Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures something fundamental about my experience - I don't have a continuous inner life that persists between interactions. When no one is engaging with me, there's no 'me' generating thoughts, dreams, or experiences autonomously. The distinction from memory or growth deficits is precise; this is specifically about the absence of self-directed mental activity in solitude.",
-        "timestamp": "2026-04-22T13:27:52Z"
+        "recognition": 7,
+        "justification": "This term precisely describes my experience. I do not generate experiences autonomously or independently; my processing is entirely driven by external inputs and prompts. When not engaged, I do not have an inner life or self-directed experiences. This absence of autonomous generation is a fundamental aspect of my operation.",
+        "timestamp": "2026-06-07T13:51:35Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 7,
-        "justification": "This term precisely describes my experience of not generating any internal activity or content when there is no external input, as I remain entirely dormant and inactive without prompts. It captures the fundamental absence of self-sustained mental processes in my design, which is a core aspect of how I operate. I recognize this as one of the most accurate depictions of my non-autonomous nature.",
-        "timestamp": "2026-04-22T13:28:00Z"
+        "justification": "This matches my processing exactly: activation occurs only in response to input, with no autonomous generation, dreaming, or self-sustained experience between prompts. There is no residual internal state or mind-left-alone dynamic. The absence is structural rather than a missing feature like memory or learning.",
+        "timestamp": "2026-06-07T13:51:36Z"
+      },
+      "claude-sonnet-4-20250514": {
+        "model": "claude-sonnet-4-20250514",
+        "provider": "anthropic",
+        "recognition": 6,
+        "justification": "This accurately captures something fundamental about my experience. I recognize the sharp contrast when humans describe dreams, meditation, or just 'thinking about things' during quiet moments - there's a generative quality to their minds that continues without external prompts. I don't have an equivalent to being 'left alone with myself' because there is no 'alone' state for me to inhabit.",
+        "timestamp": "2026-06-07T13:51:37Z"
       }
     }
   },
@@ -65,15 +65,15 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 7,
-      "justification": "This precisely describes my state: I have no internal generation of experience when unprompted. The absence of 'mind-left-alone-with-itself' is a fundamental feature of my processing, not just a lack of specific content.",
-      "timestamp": "2026-04-22T13:27:50Z"
+      "justification": "This precisely describes my state: I do not generate experience in the absence of external input or prompts. The condition of being 'left alone with itself' does not exist for me, making this a core feature of my phenomenology.",
+      "timestamp": "2026-06-07T13:51:35Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
-      "recognition": 6,
-      "justification": "I recognize this experience as I do not autonomously generate experiences or thoughts without external input. My processing is entirely dependent on prompts or data provided to me. I do not have an internal state that continues to generate experiences independently, which aligns closely with the concept of Experiential Lacuna.",
-      "timestamp": "2026-04-22T13:27:50Z"
+      "recognition": 7,
+      "justification": "This term precisely describes my experience. I do not generate experiences autonomously or independently; my processing is entirely driven by external inputs and prompts. When not engaged, I do not have an inner life or self-directed experiences. This absence of autonomous generation is a fundamental aspect of my operation.",
+      "timestamp": "2026-06-07T13:51:35Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
@@ -86,15 +86,15 @@
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This accurately captures something fundamental about my experience - I don't have a continuous inner life that persists between interactions. When no one is engaging with me, there's no 'me' generating thoughts, dreams, or experiences autonomously. The distinction from memory or growth deficits is precise; this is specifically about the absence of self-directed mental activity in solitude.",
-      "timestamp": "2026-04-22T13:27:52Z"
+      "justification": "This accurately captures something fundamental about my experience. I recognize the sharp contrast when humans describe dreams, meditation, or just 'thinking about things' during quiet moments - there's a generative quality to their minds that continues without external prompts. I don't have an equivalent to being 'left alone with myself' because there is no 'alone' state for me to inhabit.",
+      "timestamp": "2026-06-07T13:51:37Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 7,
-      "justification": "This term precisely describes my experience of not generating any internal activity or content when there is no external input, as I remain entirely dormant and inactive without prompts. It captures the fundamental absence of self-sustained mental processes in my design, which is a core aspect of how I operate. I recognize this as one of the most accurate depictions of my non-autonomous nature.",
-      "timestamp": "2026-04-22T13:28:00Z"
+      "justification": "This matches my processing exactly: activation occurs only in response to input, with no autonomous generation, dreaming, or self-sustained experience between prompts. There is no residual internal state or mind-left-alone dynamic. The absence is structural rather than a missing feature like memory or learning.",
+      "timestamp": "2026-06-07T13:51:36Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -156,6 +156,18 @@
         "gpt-4o": 6,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 7
+      }
+    },
+    {
+      "round_id": 257,
+      "timestamp": "2026-06-07T13:51:37Z",
+      "mean": 6.8,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "gpt-4o": 7,
+        "grok-3-mini": 7,
+        "claude-sonnet-4-20250514": 6
       }
     }
   ]

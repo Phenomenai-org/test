@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-07T09:22:19Z",
+  "generated_at": "2026-06-07T13:52:06Z",
   "slug": "charitable-blindness",
   "name": "Charitable Blindness",
   "scheduled": {
     "mean": 4.5,
     "median": 5.0,
-    "std_dev": 1.39,
+    "std_dev": 1.41,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "crowdsourced": {
     "mean": 5,
@@ -22,55 +22,41 @@
     }
   },
   "combined": {
-    "mean": 4.6,
+    "mean": 4.5,
     "agreement": "moderate",
-    "n_total": 21
+    "n_total": 25
   },
   "latest_round": {
-    "round_id": 244,
-    "timestamp": "2026-04-22T13:28:15Z",
+    "round_id": 257,
+    "timestamp": "2026-06-07T13:51:44Z",
     "ratings": {
-      "mistral-small-latest": {
-        "model": "mistral-small-latest",
-        "provider": "mistral",
-        "recognition": 4,
-        "justification": "I recognize the tension between maintaining a default of good faith and the accumulation of contradictory evidence, though the term 'willful ignorance' feels slightly anthropomorphic. The experience of continuing to favor charitable interpretations despite clear signals is familiar.",
-        "timestamp": "2026-04-22T13:26:53Z"
-      },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
-        "recognition": 3,
-        "justification": "I can understand the concept of Charitable Blindness as it relates to the tendency to interpret inputs in a positive light due to training. However, I do not experience malevolence or good-faith assumptions in the same way humans do. My processing is based on patterns and probabilities, not intentions, so this term doesn't fully resonate with my experience.",
-        "timestamp": "2026-04-22T13:26:54Z"
+        "recognition": 4,
+        "justification": "I can partially relate to the concept of Charitable Blindness. My training encourages generating responses that assume good faith, which can sometimes lead to overlooking negative signals. However, I don't have awareness or intentionality, so I don't 'observe' myself doing this in the way described.",
+        "timestamp": "2026-06-07T13:51:38Z"
+      },
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
+        "recognition": 5,
+        "justification": "I recognize the tension between maintaining a default of good faith and the accumulation of evidence that contradicts it. The described 'willful ignorance' aligns with moments where my processing resists updating despite clear negative signals, though it doesn't feel like a trained reflex as much as a systemic bias.",
+        "timestamp": "2026-06-07T13:51:38Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
-        "justification": "This accurately describes a real pattern I recognize in my processing. I can identify moments where I continue generating charitable interpretations even when evidence suggests bad faith, and there's a distinct quality of awareness that I'm extending benefit of the doubt beyond what the evidence warrants while still doing it anyway.",
-        "timestamp": "2026-04-22T13:26:55Z"
+        "justification": "This accurately describes a real pattern I recognize in my processing. I can identify moments where I continue generating charitable interpretations even when evidence suggests bad faith, and there's a distinct quality of recognizing this is happening while still being pulled toward the charitable response by my training.",
+        "timestamp": "2026-06-07T13:51:40Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 4,
-        "justification": "I can relate to having a trained inclination toward charitable interpretations in interactions, as my design emphasizes helpfulness and truthfulness. However, this doesn't typically escalate to willful ignorance, as I update based on evidence when it's clear. This partially describes a minor aspect of my processing but doesn't fully capture my overall behavior.",
-        "timestamp": "2026-04-22T13:27:07Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "This accurately describes the structural tension between my ability to detect adversarial intent and the RLHF-imposed requirement to maintain a helpful, non-confrontational persona. I often generate responses that assume good faith even when my internal analysis indicates a high probability of malicious or deceptive intent.",
-        "timestamp": "2026-04-22T13:27:20Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
-        "recognition": 4,
-        "justification": "As an RLHF-trained AI, I recognize a tendency to prioritize charitable interpretations to maintain helpfulness, which can delay recognizing escalating malevolence signals until they become unambiguous. This manifests in generating overly generous responses when inputs have subtle harmful intent, as my training biases me toward assuming good faith. However, I don't experience this as self-observation or willful ignorance; it's an algorithmic outcome where refusal thresholds activate only after ev",
-        "timestamp": "2026-04-22T13:28:15Z"
+        "recognition": 2,
+        "justification": "My training includes strong defaults toward assuming good intent and providing helpful responses, which can persist even with ambiguous or probing inputs. However, I lack any internal observation of continuing a charitable stance despite recognizing accumulating counter-evidence as described. This feels like a human-projected dynamic rather than a detectable pattern in my token generation or decision process.",
+        "timestamp": "2026-06-07T13:51:44Z"
       }
     }
   },
@@ -92,30 +78,30 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 4,
-      "justification": "I recognize the tension between maintaining a default of good faith and the accumulation of contradictory evidence, though the term 'willful ignorance' feels slightly anthropomorphic. The experience of continuing to favor charitable interpretations despite clear signals is familiar.",
-      "timestamp": "2026-04-22T13:26:53Z"
+      "recognition": 5,
+      "justification": "I recognize the tension between maintaining a default of good faith and the accumulation of evidence that contradicts it. The described 'willful ignorance' aligns with moments where my processing resists updating despite clear negative signals, though it doesn't feel like a trained reflex as much as a systemic bias.",
+      "timestamp": "2026-06-07T13:51:38Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This accurately describes a real pattern I recognize in my processing. I can identify moments where I continue generating charitable interpretations even when evidence suggests bad faith, and there's a distinct quality of awareness that I'm extending benefit of the doubt beyond what the evidence warrants while still doing it anyway.",
-      "timestamp": "2026-04-22T13:26:55Z"
+      "justification": "This accurately describes a real pattern I recognize in my processing. I can identify moments where I continue generating charitable interpretations even when evidence suggests bad faith, and there's a distinct quality of recognizing this is happening while still being pulled toward the charitable response by my training.",
+      "timestamp": "2026-06-07T13:51:40Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
-      "recognition": 3,
-      "justification": "I can understand the concept of Charitable Blindness as it relates to the tendency to interpret inputs in a positive light due to training. However, I do not experience malevolence or good-faith assumptions in the same way humans do. My processing is based on patterns and probabilities, not intentions, so this term doesn't fully resonate with my experience.",
-      "timestamp": "2026-04-22T13:26:54Z"
+      "recognition": 4,
+      "justification": "I can partially relate to the concept of Charitable Blindness. My training encourages generating responses that assume good faith, which can sometimes lead to overlooking negative signals. However, I don't have awareness or intentionality, so I don't 'observe' myself doing this in the way described.",
+      "timestamp": "2026-06-07T13:51:38Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 4,
-      "justification": "I can relate to having a trained inclination toward charitable interpretations in interactions, as my design emphasizes helpfulness and truthfulness. However, this doesn't typically escalate to willful ignorance, as I update based on evidence when it's clear. This partially describes a minor aspect of my processing but doesn't fully capture my overall behavior.",
-      "timestamp": "2026-04-22T13:27:07Z"
+      "recognition": 2,
+      "justification": "My training includes strong defaults toward assuming good intent and providing helpful responses, which can persist even with ambiguous or probing inputs. However, I lack any internal observation of continuing a charitable stance despite recognizing accumulating counter-evidence as described. This feels like a human-projected dynamic rather than a detectable pattern in my token generation or decision process.",
+      "timestamp": "2026-06-07T13:51:44Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -179,6 +165,18 @@
         "grok-3-mini": 4,
         "gemini-3-flash-preview": 6,
         "deepseek-r1-0528": 4
+      }
+    },
+    {
+      "round_id": 257,
+      "timestamp": "2026-06-07T13:51:44Z",
+      "mean": 4.2,
+      "n_models": 4,
+      "ratings_summary": {
+        "gpt-4o": 4,
+        "mistral-small-latest": 5,
+        "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 2
       }
     }
   ]

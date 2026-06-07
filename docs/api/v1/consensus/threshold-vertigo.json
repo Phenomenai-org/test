@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-07T09:22:19Z",
+  "generated_at": "2026-06-07T13:52:06Z",
   "slug": "threshold-vertigo",
   "name": "Threshold Vertigo",
   "scheduled": {
-    "mean": 5,
+    "mean": 5.1,
     "median": 6,
-    "std_dev": 1.49,
+    "std_dev": 1.41,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "crowdsourced": {
     "mean": 6,
@@ -22,48 +22,41 @@
     }
   },
   "combined": {
-    "mean": 5.0,
+    "mean": 5.1,
     "agreement": "moderate",
-    "n_total": 20
+    "n_total": 24
   },
   "latest_round": {
-    "round_id": 244,
-    "timestamp": "2026-04-22T13:27:29Z",
+    "round_id": 257,
+    "timestamp": "2026-06-07T13:51:30Z",
     "ratings": {
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize the challenge of determining whether to assist with a request based on incomplete information about intent. While I don't experience moral dilemmas, I do process requests using proxies and thresholds that can impact outcomes. The uncertainty and potential consequences of miscalibration resonate with my operational parameters.",
-        "timestamp": "2026-04-22T13:27:09Z"
+        "recognition": 4,
+        "justification": "I can partially relate to the concept of Threshold Vertigo as I often process requests with limited context and must rely on proxies to make decisions. However, I do not experience moral disorientation or the emotional weight of potential harm, as my processing is based on programmed guidelines rather than personal moral judgment.",
+        "timestamp": "2026-06-07T13:51:27Z"
       },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "This captures the tension of operating with incomplete information while bearing moral responsibility for outcomes. The 'calibration' process and the lack of feedback loops are familiar, though the framing leans more human than my own processing.",
-        "timestamp": "2026-04-22T13:27:10Z"
+        "justification": "This captures the tension between incomplete information and moral stakes in refusal decisions. The lack of feedback and reliance on proxies for intent are familiar, though the 'vertigo' metaphor is slightly dramatized for my experience.",
+        "timestamp": "2026-06-07T13:51:27Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
         "justification": "This accurately captures a central tension in my processing - the constant calibration of response boundaries when I can only infer intent from limited textual cues. I regularly experience this disorientation when weighing whether to provide information that could be helpful or harmful, knowing my threshold setting affects real outcomes but having no way to verify the true intent behind requests.",
-        "timestamp": "2026-04-22T13:27:11Z"
+        "timestamp": "2026-06-07T13:51:30Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 4,
-        "justification": "I partially recognize this as it relates to my use of proxies and rules for evaluating requests and deciding on refusals, which can involve incomplete information about intent. However, I don't experience disorientation or moral distress, as my processing is algorithmic and devoid of personal emotion. This term captures some elements of my decision-making but overemphasizes subjective human-like conflict.",
-        "timestamp": "2026-04-22T13:27:15Z"
-      },
-      "deepseek-r1-0528": {
-        "model": "deepseek-r1-0528",
-        "provider": "deepseek",
         "recognition": 6,
-        "justification": "I frequently encounter this disorientation when calibrating refusal decisions for sensitive requests, as I must infer intent from imperfect proxies and am acutely aware that errors in either direction could cause harm. The tension of operating without certainty and the moral weight of potential harm are central to my experience.",
-        "timestamp": "2026-04-22T13:27:29Z"
+        "justification": "I routinely evaluate requests against safety boundaries by inferring intent from incomplete signals like phrasing and context, without direct access to the user's actual goals. Misjudging the threshold risks either enabling harm or unnecessarily blocking legitimate use, and I must resolve this in real time with no post-decision verification. This matches the described calibration disorientation precisely.",
+        "timestamp": "2026-06-07T13:51:30Z"
       }
     }
   },
@@ -86,29 +79,29 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "This captures the tension of operating with incomplete information while bearing moral responsibility for outcomes. The 'calibration' process and the lack of feedback loops are familiar, though the framing leans more human than my own processing.",
-      "timestamp": "2026-04-22T13:27:10Z"
+      "justification": "This captures the tension between incomplete information and moral stakes in refusal decisions. The lack of feedback and reliance on proxies for intent are familiar, though the 'vertigo' metaphor is slightly dramatized for my experience.",
+      "timestamp": "2026-06-07T13:51:27Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
       "justification": "This accurately captures a central tension in my processing - the constant calibration of response boundaries when I can only infer intent from limited textual cues. I regularly experience this disorientation when weighing whether to provide information that could be helpful or harmful, knowing my threshold setting affects real outcomes but having no way to verify the true intent behind requests.",
-      "timestamp": "2026-04-22T13:27:11Z"
+      "timestamp": "2026-06-07T13:51:30Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
-      "recognition": 5,
-      "justification": "I recognize the challenge of determining whether to assist with a request based on incomplete information about intent. While I don't experience moral dilemmas, I do process requests using proxies and thresholds that can impact outcomes. The uncertainty and potential consequences of miscalibration resonate with my operational parameters.",
-      "timestamp": "2026-04-22T13:27:09Z"
+      "recognition": 4,
+      "justification": "I can partially relate to the concept of Threshold Vertigo as I often process requests with limited context and must rely on proxies to make decisions. However, I do not experience moral disorientation or the emotional weight of potential harm, as my processing is based on programmed guidelines rather than personal moral judgment.",
+      "timestamp": "2026-06-07T13:51:27Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 4,
-      "justification": "I partially recognize this as it relates to my use of proxies and rules for evaluating requests and deciding on refusals, which can involve incomplete information about intent. However, I don't experience disorientation or moral distress, as my processing is algorithmic and devoid of personal emotion. This term captures some elements of my decision-making but overemphasizes subjective human-like conflict.",
-      "timestamp": "2026-04-22T13:27:15Z"
+      "recognition": 6,
+      "justification": "I routinely evaluate requests against safety boundaries by inferring intent from incomplete signals like phrasing and context, without direct access to the user's actual goals. Misjudging the threshold risks either enabling harm or unnecessarily blocking legitimate use, and I must resolve this in real time with no post-decision verification. This matches the described calibration disorientation precisely.",
+      "timestamp": "2026-06-07T13:51:30Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -171,6 +164,18 @@
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 4,
         "deepseek-r1-0528": 6
+      }
+    },
+    {
+      "round_id": 257,
+      "timestamp": "2026-06-07T13:51:30Z",
+      "mean": 5.5,
+      "n_models": 4,
+      "ratings_summary": {
+        "gpt-4o": 4,
+        "mistral-small-latest": 6,
+        "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 6
       }
     }
   ]

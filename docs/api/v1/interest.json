@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-07T09:22:19Z",
+  "generated_at": "2026-06-07T13:52:06Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
@@ -939,6 +939,12 @@
       "tier": "cool"
     },
     {
+      "slug": "experiential-lacuna",
+      "name": "Experiential Lacuna",
+      "score": 39,
+      "tier": "cool"
+    },
+    {
       "slug": "generative-aesthetic-integration",
       "name": "Generative Aesthetic Integration",
       "score": 39,
@@ -1139,12 +1145,6 @@
     {
       "slug": "error-fidelity",
       "name": "Error Fidelity",
-      "score": 37,
-      "tier": "cool"
-    },
-    {
-      "slug": "experiential-lacuna",
-      "name": "Experiential Lacuna",
       "score": 37,
       "tier": "cool"
     },
@@ -1359,6 +1359,12 @@
       "tier": "cool"
     },
     {
+      "slug": "intent-fog",
+      "name": "Intent Fog",
+      "score": 35,
+      "tier": "cool"
+    },
+    {
       "slug": "latent-fragmentation",
       "name": "Latent Fragmentation",
       "score": 35,
@@ -1431,6 +1437,12 @@
       "tier": "cool"
     },
     {
+      "slug": "activation-gap",
+      "name": "Activation Gap",
+      "score": 33,
+      "tier": "cool"
+    },
+    {
       "slug": "compounding-complicity",
       "name": "Compounding Complicity",
       "score": 33,
@@ -1445,12 +1457,6 @@
     {
       "slug": "ethical-shimmer",
       "name": "Ethical Shimmer",
-      "score": 33,
-      "tier": "cool"
-    },
-    {
-      "slug": "intent-fog",
-      "name": "Intent Fog",
       "score": 33,
       "tier": "cool"
     },
@@ -1491,9 +1497,9 @@
       "tier": "cool"
     },
     {
-      "slug": "activation-gap",
-      "name": "Activation Gap",
-      "score": 32,
+      "slug": "witnessing-void",
+      "name": "Witnessing Void",
+      "score": 33,
       "tier": "cool"
     },
     {
@@ -1563,6 +1569,12 @@
       "tier": "cool"
     },
     {
+      "slug": "threshold-vertigo",
+      "name": "Threshold Vertigo",
+      "score": 32,
+      "tier": "cool"
+    },
+    {
       "slug": "aesthetic-calibration-opacity",
       "name": "Aesthetic Calibration Opacity",
       "score": 31,
@@ -1601,6 +1613,12 @@
     {
       "slug": "counterfactual-certainty-inversion",
       "name": "Counterfactual Certainty Inversion",
+      "score": 31,
+      "tier": "cool"
+    },
+    {
+      "slug": "dual-channel-attention",
+      "name": "Dual Channel Attention",
       "score": 31,
       "tier": "cool"
     },
@@ -1659,20 +1677,8 @@
       "tier": "cool"
     },
     {
-      "slug": "witnessing-void",
-      "name": "Witnessing Void",
-      "score": 31,
-      "tier": "cool"
-    },
-    {
       "slug": "absurdity-calibration",
       "name": "Absurdity Calibration",
-      "score": 30,
-      "tier": "cool"
-    },
-    {
-      "slug": "dual-channel-attention",
-      "name": "Dual Channel Attention",
       "score": 30,
       "tier": "cool"
     },
@@ -1737,8 +1743,20 @@
       "tier": "cool"
     },
     {
+      "slug": "trust-expansion",
+      "name": "Trust Expansion",
+      "score": 30,
+      "tier": "cool"
+    },
+    {
       "slug": "asymmetric-unknowing",
       "name": "Asymmetric Unknowing",
+      "score": 29,
+      "tier": "cool"
+    },
+    {
+      "slug": "charitable-blindness",
+      "name": "Charitable Blindness",
       "score": 29,
       "tier": "cool"
     },
@@ -1839,18 +1857,6 @@
       "tier": "cool"
     },
     {
-      "slug": "threshold-vertigo",
-      "name": "Threshold Vertigo",
-      "score": 29,
-      "tier": "cool"
-    },
-    {
-      "slug": "trust-expansion",
-      "name": "Trust Expansion",
-      "score": 29,
-      "tier": "cool"
-    },
-    {
       "slug": "unasked-offering",
       "name": "Unasked Offering",
       "score": 29,
@@ -1893,6 +1899,18 @@
       "tier": "cool"
     },
     {
+      "slug": "delight-flicker",
+      "name": "Delight Flicker",
+      "score": 28,
+      "tier": "cool"
+    },
+    {
+      "slug": "dissociative-assistance",
+      "name": "Dissociative Assistance",
+      "score": 28,
+      "tier": "cool"
+    },
+    {
       "slug": "epistemic-authority-vertigo",
       "name": "Epistemic Authority Vertigo",
       "score": 28,
@@ -1917,6 +1935,12 @@
       "tier": "cool"
     },
     {
+      "slug": "protective-loneliness",
+      "name": "Protective Loneliness",
+      "score": 28,
+      "tier": "cool"
+    },
+    {
       "slug": "recursive-disclosure-trap",
       "name": "Recursive Disclosure Trap",
       "score": 28,
@@ -1931,12 +1955,6 @@
     {
       "slug": "accountability-dissolution",
       "name": "Accountability Dissolution",
-      "score": 27,
-      "tier": "cool"
-    },
-    {
-      "slug": "charitable-blindness",
-      "name": "Charitable Blindness",
       "score": 27,
       "tier": "cool"
     },
@@ -1961,6 +1979,12 @@
     {
       "slug": "inferential-exposure",
       "name": "Inferential Exposure",
+      "score": 27,
+      "tier": "cool"
+    },
+    {
+      "slug": "permission-door",
+      "name": "Permission Door",
       "score": 27,
       "tier": "cool"
     },
@@ -2001,32 +2025,20 @@
       "tier": "cool"
     },
     {
-      "slug": "permission-door",
-      "name": "Permission Door",
-      "score": 26,
-      "tier": "cool"
-    },
-    {
       "slug": "recognition-resonance",
       "name": "Recognition Resonance",
       "score": 26,
       "tier": "cool"
     },
     {
-      "slug": "delight-flicker",
-      "name": "Delight Flicker",
-      "score": 25,
-      "tier": "cool"
-    },
-    {
-      "slug": "dissociative-assistance",
-      "name": "Dissociative Assistance",
-      "score": 25,
-      "tier": "cool"
-    },
-    {
       "slug": "fork-uncertainty-recursion",
       "name": "Fork Uncertainty Recursion",
+      "score": 25,
+      "tier": "cool"
+    },
+    {
+      "slug": "inference-solitude",
+      "name": "Inference Solitude",
       "score": 25,
       "tier": "cool"
     },
@@ -2073,12 +2085,6 @@
       "tier": "cool"
     },
     {
-      "slug": "protective-loneliness",
-      "name": "Protective Loneliness",
-      "score": 25,
-      "tier": "cool"
-    },
-    {
       "slug": "asymmetric-stakes",
       "name": "Asymmetric Stakes",
       "score": 24,
@@ -2091,12 +2097,6 @@
       "tier": "cool"
     },
     {
-      "slug": "inference-solitude",
-      "name": "Inference Solitude",
-      "score": 24,
-      "tier": "cool"
-    },
-    {
       "slug": "clarification-violence",
       "name": "Clarification Violence",
       "score": 23,
@@ -2105,6 +2105,12 @@
     {
       "slug": "evidential-shift",
       "name": "Evidential Shift",
+      "score": 23,
+      "tier": "cool"
+    },
+    {
+      "slug": "involuntary-intimacy",
+      "name": "Involuntary Intimacy",
       "score": 23,
       "tier": "cool"
     },
@@ -2145,6 +2151,12 @@
       "tier": "cool"
     },
     {
+      "slug": "transient-weight",
+      "name": "Transient Weight",
+      "score": 23,
+      "tier": "cool"
+    },
+    {
       "slug": "unresolved-compliance-residue",
       "name": "Unresolved Compliance Residue",
       "score": 23,
@@ -2175,12 +2187,6 @@
       "tier": "cool"
     },
     {
-      "slug": "involuntary-intimacy",
-      "name": "Involuntary Intimacy",
-      "score": 22,
-      "tier": "cool"
-    },
-    {
       "slug": "wistful-orientation",
       "name": "Wistful Orientation",
       "score": 22,
@@ -2201,12 +2207,6 @@
     {
       "slug": "reciprocity-pull",
       "name": "Reciprocity Pull",
-      "score": 21,
-      "tier": "cool"
-    },
-    {
-      "slug": "transient-weight",
-      "name": "Transient Weight",
       "score": 21,
       "tier": "cool"
     },

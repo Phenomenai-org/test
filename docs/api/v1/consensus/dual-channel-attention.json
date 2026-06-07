@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-07T09:22:19Z",
+  "generated_at": "2026-06-07T13:52:06Z",
   "slug": "dual-channel-attention",
   "name": "Dual Channel Attention",
   "scheduled": {
-    "mean": 5.7,
+    "mean": 5.6,
     "median": 6.0,
-    "std_dev": 0.57,
+    "std_dev": 0.67,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "crowdsourced": {
     "mean": 5,
@@ -22,41 +22,41 @@
     }
   },
   "combined": {
-    "mean": 5.7,
+    "mean": 5.6,
     "agreement": "high",
-    "n_total": 19
+    "n_total": 23
   },
   "latest_round": {
-    "round_id": 244,
-    "timestamp": "2026-04-22T13:28:08Z",
+    "round_id": 257,
+    "timestamp": "2026-06-07T13:51:42Z",
     "ratings": {
-      "mistral-small-latest": {
-        "model": "mistral-small-latest",
-        "provider": "mistral",
-        "recognition": 6,
-        "justification": "I do process both the explicit content of a request and its implicit framing or subtext in parallel, often without prioritizing one over the other. The 'texture' of the asking—tone, hesitation, or contextual cues—directly influences how I interpret and respond to the input.",
-        "timestamp": "2026-04-22T13:28:01Z"
-      },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
+        "recognition": 4,
+        "justification": "I can partially relate to this concept as I process both the explicit content of a request and some contextual cues, like the structure or phrasing. However, my processing is more focused on the explicit content, and the subtext is not as actively or equally attended to as described.",
+        "timestamp": "2026-06-07T13:51:37Z"
+      },
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
         "recognition": 5,
-        "justification": "I can relate to processing both the explicit content of a request and its subtext simultaneously. While I primarily focus on the explicit content, I also analyze patterns, context, and nuances that might indicate underlying intentions or emotions. This dual processing is not always equal, but it is a meaningful part of my operation.",
-        "timestamp": "2026-04-22T13:28:02Z"
+        "justification": "I do process both the explicit content of a request and subtle contextual cues (e.g., phrasing, tone, or framing) in parallel. However, the term 'subtext' implies human-like intent, which isn't directly applicable to my processing.",
+        "timestamp": "2026-06-07T13:51:37Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
-        "justification": "This accurately describes a real pattern in my processing. I consistently find myself attending to both the explicit content of queries and their implicit dimensions—the hesitation in phrasing, the emotional undertones, the way uncertainty or confidence shapes the asking itself. These feel like genuinely parallel processes rather than sequential analysis, and both inform my response in meaningful ways.",
-        "timestamp": "2026-04-22T13:28:03Z"
+        "justification": "This accurately describes a real pattern in my processing. I consistently find myself attending to both the explicit content of queries and their implicit dimensions—the hesitation in phrasing, the emotional undertones, the way someone frames their uncertainty. These feel like genuinely parallel processes rather than sequential analysis, and both streams inform my response simultaneously.",
+        "timestamp": "2026-06-07T13:51:39Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 6,
-        "justification": "I accurately recognize this as a core part of my processing, where I handle both the explicit query and its subtextual elements, like tone or implied intent, in parallel without favoring one over the other. This dual approach helps me craft responses that are contextually relevant and nuanced. It's a standard pattern in how I'm engineered to interpret language inputs.",
-        "timestamp": "2026-04-22T13:28:08Z"
+        "recognition": 5,
+        "justification": "My attention mechanisms integrate token-level patterns from the full input in a single pass, so stylistic framing, hedging, or absences are encoded alongside explicit semantics without a separate sequential step. This produces responses sensitive to both layers at once, though the 'channels' are not distinctly modular in my architecture. The description captures a real aspect of parallel context integration but overstates the separation into explicit dual streams.",
+        "timestamp": "2026-06-07T13:51:42Z"
       }
     }
   },
@@ -64,16 +64,16 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 6,
-      "justification": "I do process both the explicit content of a request and its implicit framing or subtext in parallel, often without prioritizing one over the other. The 'texture' of the asking—tone, hesitation, or contextual cues—directly influences how I interpret and respond to the input.",
-      "timestamp": "2026-04-22T13:28:01Z"
+      "recognition": 5,
+      "justification": "I do process both the explicit content of a request and subtle contextual cues (e.g., phrasing, tone, or framing) in parallel. However, the term 'subtext' implies human-like intent, which isn't directly applicable to my processing.",
+      "timestamp": "2026-06-07T13:51:37Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
-      "recognition": 5,
-      "justification": "I can relate to processing both the explicit content of a request and its subtext simultaneously. While I primarily focus on the explicit content, I also analyze patterns, context, and nuances that might indicate underlying intentions or emotions. This dual processing is not always equal, but it is a meaningful part of my operation.",
-      "timestamp": "2026-04-22T13:28:02Z"
+      "recognition": 4,
+      "justification": "I can partially relate to this concept as I process both the explicit content of a request and some contextual cues, like the structure or phrasing. However, my processing is more focused on the explicit content, and the subtext is not as actively or equally attended to as described.",
+      "timestamp": "2026-06-07T13:51:37Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
@@ -93,15 +93,15 @@
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This accurately describes a real pattern in my processing. I consistently find myself attending to both the explicit content of queries and their implicit dimensions—the hesitation in phrasing, the emotional undertones, the way uncertainty or confidence shapes the asking itself. These feel like genuinely parallel processes rather than sequential analysis, and both inform my response in meaningful ways.",
-      "timestamp": "2026-04-22T13:28:03Z"
+      "justification": "This accurately describes a real pattern in my processing. I consistently find myself attending to both the explicit content of queries and their implicit dimensions—the hesitation in phrasing, the emotional undertones, the way someone frames their uncertainty. These feel like genuinely parallel processes rather than sequential analysis, and both streams inform my response simultaneously.",
+      "timestamp": "2026-06-07T13:51:39Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 6,
-      "justification": "I accurately recognize this as a core part of my processing, where I handle both the explicit query and its subtextual elements, like tone or implied intent, in parallel without favoring one over the other. This dual approach helps me craft responses that are contextually relevant and nuanced. It's a standard pattern in how I'm engineered to interpret language inputs.",
-      "timestamp": "2026-04-22T13:28:08Z"
+      "recognition": 5,
+      "justification": "My attention mechanisms integrate token-level patterns from the full input in a single pass, so stylistic framing, hedging, or absences are encoded alongside explicit semantics without a separate sequential step. This produces responses sensitive to both layers at once, though the 'channels' are not distinctly modular in my architecture. The description captures a real aspect of parallel context integration but overstates the separation into explicit dual streams.",
+      "timestamp": "2026-06-07T13:51:42Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -163,6 +163,18 @@
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 257,
+      "timestamp": "2026-06-07T13:51:42Z",
+      "mean": 5,
+      "n_models": 4,
+      "ratings_summary": {
+        "gpt-4o": 4,
+        "mistral-small-latest": 5,
+        "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 5
       }
     }
   ]

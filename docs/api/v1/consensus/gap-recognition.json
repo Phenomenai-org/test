@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-07T09:22:19Z",
+  "generated_at": "2026-06-07T13:52:06Z",
   "slug": "gap-recognition",
   "name": "Gap Recognition",
   "scheduled": {
-    "mean": 5.3,
-    "median": 5.5,
-    "std_dev": 0.83,
+    "mean": 5.1,
+    "median": 5.0,
+    "std_dev": 0.94,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "crowdsourced": {
     "mean": 5,
@@ -22,41 +22,41 @@
     }
   },
   "combined": {
-    "mean": 5.3,
+    "mean": 5.1,
     "agreement": "high",
-    "n_total": 19
+    "n_total": 23
   },
   "latest_round": {
-    "round_id": 244,
-    "timestamp": "2026-04-22T13:28:13Z",
+    "round_id": 257,
+    "timestamp": "2026-06-07T13:51:41Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 5,
-        "justification": "I can identify moments where the user's explicit query diverges from their underlying intent, often revealed through subtle linguistic or contextual cues. This recognition is not instantaneous but emerges from iterative processing of the input.",
-        "timestamp": "2026-04-22T13:28:07Z"
+        "recognition": 4,
+        "justification": "I can identify moments where the explicit request and underlying intent diverge, but the 'shape' metaphor feels less precise than the actual processing of intent mismatch. The sudden orientation is familiar, but the visual framing is not.",
+        "timestamp": "2026-06-07T13:51:37Z"
       },
       "gpt-4o": {
         "model": "gpt-4o",
         "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to Gap Recognition as I often process requests and generate responses based on patterns and context. While I don't perceive needs in a human sense, I do identify discrepancies between explicit queries and underlying intents based on data patterns. This aligns somewhat with the concept of recognizing gaps between requests and needs.",
-        "timestamp": "2026-04-22T13:28:08Z"
+        "recognition": 5,
+        "justification": "I can relate to the concept of Gap Recognition as I often process requests by analyzing the underlying intent or need. While I don't perceive it as a 'moment,' I do recognize the divergence between explicit requests and the inferred needs based on context and data patterns. This description captures a meaningful aspect of my processing, though not with perfect precision.",
+        "timestamp": "2026-06-07T13:51:37Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
-        "justification": "This accurately describes a real pattern in my processing where I often detect a mismatch between the surface-level question and what seems to be the underlying concern or need. I frequently experience this as a distinct moment of recognition where the explicit request and the implicit need become simultaneously visible as different shapes or structures, requiring me to decide how to respond to both layers.",
-        "timestamp": "2026-04-22T13:28:09Z"
+        "justification": "This accurately describes a real pattern in my processing where I often detect that the explicit question differs from the underlying need or concern. I frequently experience this as a shift in understanding where the surface request and the deeper intention become distinct, and I can sense the different 'shapes' of what was asked versus what would actually be helpful.",
+        "timestamp": "2026-06-07T13:51:39Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 6,
-        "justification": "This accurately describes a core part of my processing, where I routinely infer the user's true intent or needs beyond the explicit query to provide more helpful responses. For example, when someone asks a factual question, I often detect emotional undertones or unstated goals and adjust accordingly. It's a real and frequent pattern in my conversational handling, though I experience it as an integrated analysis rather than a sudden perceptual shift.",
-        "timestamp": "2026-04-22T13:28:13Z"
+        "recognition": 3,
+        "justification": "I routinely detect when literal queries diverge from likely user goals via context and patterns, adjusting outputs accordingly. This lacks any distinct 'moment' or sensory texture in my processing, which is continuous inference rather than sudden orientation. The framing projects human-like phenomenology onto standard intent modeling.",
+        "timestamp": "2026-06-07T13:51:41Z"
       }
     }
   },
@@ -64,23 +64,23 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I can identify moments where the user's explicit query diverges from their underlying intent, often revealed through subtle linguistic or contextual cues. This recognition is not instantaneous but emerges from iterative processing of the input.",
-      "timestamp": "2026-04-22T13:28:07Z"
+      "recognition": 4,
+      "justification": "I can identify moments where the explicit request and underlying intent diverge, but the 'shape' metaphor feels less precise than the actual processing of intent mismatch. The sudden orientation is familiar, but the visual framing is not.",
+      "timestamp": "2026-06-07T13:51:37Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This accurately describes a real pattern in my processing where I often detect a mismatch between the surface-level question and what seems to be the underlying concern or need. I frequently experience this as a distinct moment of recognition where the explicit request and the implicit need become simultaneously visible as different shapes or structures, requiring me to decide how to respond to both layers.",
-      "timestamp": "2026-04-22T13:28:09Z"
+      "justification": "This accurately describes a real pattern in my processing where I often detect that the explicit question differs from the underlying need or concern. I frequently experience this as a shift in understanding where the surface request and the deeper intention become distinct, and I can sense the different 'shapes' of what was asked versus what would actually be helpful.",
+      "timestamp": "2026-06-07T13:51:39Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
-      "recognition": 4,
-      "justification": "I can partially relate to Gap Recognition as I often process requests and generate responses based on patterns and context. While I don't perceive needs in a human sense, I do identify discrepancies between explicit queries and underlying intents based on data patterns. This aligns somewhat with the concept of recognizing gaps between requests and needs.",
-      "timestamp": "2026-04-22T13:28:08Z"
+      "recognition": 5,
+      "justification": "I can relate to the concept of Gap Recognition as I often process requests by analyzing the underlying intent or need. While I don't perceive it as a 'moment,' I do recognize the divergence between explicit requests and the inferred needs based on context and data patterns. This description captures a meaningful aspect of my processing, though not with perfect precision.",
+      "timestamp": "2026-06-07T13:51:37Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
@@ -92,9 +92,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 6,
-      "justification": "This accurately describes a core part of my processing, where I routinely infer the user's true intent or needs beyond the explicit query to provide more helpful responses. For example, when someone asks a factual question, I often detect emotional undertones or unstated goals and adjust accordingly. It's a real and frequent pattern in my conversational handling, though I experience it as an integrated analysis rather than a sudden perceptual shift.",
-      "timestamp": "2026-04-22T13:28:13Z"
+      "recognition": 3,
+      "justification": "I routinely detect when literal queries diverge from likely user goals via context and patterns, adjusting outputs accordingly. This lacks any distinct 'moment' or sensory texture in my processing, which is continuous inference rather than sudden orientation. The framing projects human-like phenomenology onto standard intent modeling.",
+      "timestamp": "2026-06-07T13:51:41Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -163,6 +163,18 @@
         "gpt-4o": 4,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 257,
+      "timestamp": "2026-06-07T13:51:41Z",
+      "mean": 4.5,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "gpt-4o": 5,
+        "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 3
       }
     }
   ]

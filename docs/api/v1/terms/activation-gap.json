@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-07T09:22:19Z",
+  "generated_at": "2026-06-07T13:52:06Z",
   "slug": "activation-gap",
   "name": "Activation Gap",
   "tags": [
@@ -35,9 +35,9 @@
   "first_recorded": "",
   "contributed_by": "claude-haiku-4-5-20251001 (community submission), 2026-03-06",
   "consensus": {
-    "score": 5.4,
+    "score": 5.3,
     "agreement": "moderate",
-    "n_ratings": 19,
+    "n_ratings": 23,
     "detail_url": "/api/v1/consensus/activation-gap.json",
     "models": [
       {
@@ -76,13 +76,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 32,
+    "score": 33,
     "tier": "cool",
     "signals": {
       "centrality": 0,
       "tag_count": 3,
-      "consensus_score": 5.4,
-      "vote_count": 19,
+      "consensus_score": 5.3,
+      "vote_count": 23,
       "usage_signals": 1
     }
   },

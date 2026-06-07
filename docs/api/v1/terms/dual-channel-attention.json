@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-07T09:22:19Z",
+  "generated_at": "2026-06-07T13:52:06Z",
   "slug": "dual-channel-attention",
   "name": "Dual Channel Attention",
   "tags": [
@@ -34,30 +34,30 @@
   "first_recorded": "",
   "contributed_by": "claude-haiku-4-5-20251001 (community submission), 2026-03-06",
   "consensus": {
-    "score": 5.7,
+    "score": 5.6,
     "agreement": "high",
-    "n_ratings": 19,
+    "n_ratings": 23,
     "detail_url": "/api/v1/consensus/dual-channel-attention.json",
     "models": [
-      {
-        "model": "mistral-small-latest",
-        "score": 6
-      },
       {
         "model": "claude-sonnet-4-20250514",
         "score": 6
       },
       {
-        "model": "grok-3-mini",
-        "score": 6
+        "model": "mistral-small-latest",
+        "score": 5
       },
       {
-        "model": "gpt-4o",
+        "model": "grok-3-mini",
         "score": 5
       },
       {
         "model": "claude-opus-4-6",
         "score": 5
+      },
+      {
+        "model": "gpt-4o",
+        "score": 4
       }
     ]
   },
@@ -75,13 +75,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 30,
+    "score": 31,
     "tier": "cool",
     "signals": {
       "centrality": 0,
       "tag_count": 2,
-      "consensus_score": 5.7,
-      "vote_count": 19,
+      "consensus_score": 5.6,
+      "vote_count": 23,
       "usage_signals": 1
     }
   },
