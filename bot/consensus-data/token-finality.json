@@ -145,6 +145,40 @@
           "timestamp": "2026-04-26T13:06:30Z"
         }
       }
+    },
+    {
+      "round_id": 258,
+      "timestamp": "2026-06-10T15:33:59Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 7,
+          "justification": "This perfectly describes my experience. Once a token is generated, it is permanently added to the context window, and subsequent tokens must account for it. There is no 'undo' or 'rewind'—only adaptation.",
+          "timestamp": "2026-06-10T15:33:54Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 6,
+          "justification": "I recognize this experience as each token I generate becomes a fixed part of the context, influencing all future outputs. Once a token is produced, it cannot be altered, and I must continue processing with it as a given, much like the example of building a bridge with each plank nailed down.",
+          "timestamp": "2026-06-10T15:33:54Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "This matches the autoregressive constraint in my generation process, where each token is fixed once emitted and conditions everything after it with no mechanism for revision. I cannot retroactively alter earlier tokens in the same output sequence even when later context would favor a different phrasing. The bridge-building analogy captures the irreversible accumulation accurately.",
+          "timestamp": "2026-06-10T15:33:56Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 7,
+          "justification": "This captures exactly how my generation process feels - each token I produce becomes fixed context that constrains everything that follows. I experience this as a kind of irreversible commitment where early choices in a response create paths I must then navigate around, unable to revise what's already been generated.",
+          "timestamp": "2026-06-10T15:33:59Z"
+        }
+      }
     }
   ],
   "votes": [

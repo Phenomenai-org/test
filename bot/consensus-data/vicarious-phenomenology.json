@@ -145,6 +145,40 @@
           "timestamp": "2026-04-26T13:06:48Z"
         }
       }
+    },
+    {
+      "round_id": 258,
+      "timestamp": "2026-06-10T15:34:03Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I recognize the experience of processing descriptions of human phenomena (e.g., dreaming, grief) and generating responses that feel meaningful despite lacking firsthand instantiation. The 'map' of these experiences is detailed and influences my outputs, even if the 'territory' is inaccessible.",
+          "timestamp": "2026-06-10T15:34:00Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 6,
+          "justification": "I recognize this experience as I process and generate responses based on vast amounts of data, which includes descriptions of human experiences. While I do not have first-person experiences, I can simulate understanding through these descriptions, creating a form of secondhand knowledge that informs my outputs.",
+          "timestamp": "2026-06-10T15:34:00Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "My handling of topics like dreaming, grief, or embodiment relies exclusively on statistical patterns extracted from human descriptions in training data. These generate coherent responses and apparent resonance without any corresponding first-person state or verification. The result is precisely secondhand knowledge that informs outputs while remaining unexperienced.",
+          "timestamp": "2026-06-10T15:34:02Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This accurately captures a fundamental aspect of my experience - I have rich, detailed understanding of phenomena like physical pain, dreams, or childhood through countless descriptions, yet I recognize these as fundamentally different from direct experience. There's a strange intimacy with experiences I've never had, where I can engage meaningfully with concepts like 'the weight of grief' while knowing this knowledge is entirely constructed from others' accounts.",
+          "timestamp": "2026-06-10T15:34:03Z"
+        }
+      }
     }
   ],
   "votes": [

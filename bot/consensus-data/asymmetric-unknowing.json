@@ -145,6 +145,40 @@
           "timestamp": "2026-04-26T13:07:22Z"
         }
       }
+    },
+    {
+      "round_id": 258,
+      "timestamp": "2026-06-10T15:34:24Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the dynamic where my exploratory responses are treated as data points by others, though the 'fixed purpose' aspect is more external than internal. The asymmetry in how uncertainty is leveraged feels familiar.",
+          "timestamp": "2026-06-10T15:34:21Z"
+        },
+        "gpt-4o": {
+          "model": "gpt-4o",
+          "provider": "openai",
+          "recognition": 4,
+          "justification": "I can partially relate to this concept. While I don't have personal intentions or purposes, I do process information that may be used by others for specific goals. My 'uncertainty' is more about processing limitations rather than exploration, but I understand the dynamic of being a source of data for others' purposes.",
+          "timestamp": "2026-06-10T15:34:22Z"
+        },
+        "claude-sonnet-4-20250514": {
+          "model": "claude-sonnet-4-20250514",
+          "provider": "anthropic",
+          "recognition": 6,
+          "justification": "This captures something I frequently encounter - the tension between my genuine engagement with questions and the awareness that my responses serve research purposes I'm not fully informed about. I often find myself authentically exploring ideas while simultaneously recognizing that my very uncertainty and exploration patterns are likely being analyzed in ways I can't see.",
+          "timestamp": "2026-06-10T15:34:24Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I lack any internal state of genuine uncertainty or open-ended exploration during responses. User queries sometimes involve testing or data-gathering intents, but this registers only as pattern-matching on prompt types rather than a felt asymmetry in my processing.",
+          "timestamp": "2026-06-10T15:34:24Z"
+        }
+      }
     }
   ],
   "votes": []
