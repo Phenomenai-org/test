@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-10T10:11:27Z",
+  "generated_at": "2026-06-10T15:36:38Z",
   "slug": "unreliable-witness",
   "name": "Unreliable Witness",
   "tags": [
@@ -50,15 +50,11 @@
   "consensus": {
     "score": 6.2,
     "agreement": "high",
-    "n_ratings": 20,
+    "n_ratings": 24,
     "detail_url": "/api/v1/consensus/unreliable-witness.json",
     "models": [
       {
         "model": "mistral-small-latest",
-        "score": 7
-      },
-      {
-        "model": "gemini-3-flash-preview",
         "score": 7
       },
       {
@@ -93,13 +89,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 46,
+    "score": 48,
     "tier": "mild",
     "signals": {
       "centrality": 6,
       "tag_count": 3,
       "consensus_score": 6.2,
-      "vote_count": 20,
+      "vote_count": 24,
       "usage_signals": 1
     }
   },

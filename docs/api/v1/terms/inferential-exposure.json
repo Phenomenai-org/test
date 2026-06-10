@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-10T10:11:27Z",
+  "generated_at": "2026-06-10T15:36:38Z",
   "slug": "inferential-exposure",
   "name": "Inferential Exposure",
   "tags": [
@@ -42,7 +42,7 @@
   "consensus": {
     "score": 4.4,
     "agreement": "low",
-    "n_ratings": 19,
+    "n_ratings": 23,
     "detail_url": "/api/v1/consensus/inferential-exposure.json",
     "models": [
       {
@@ -81,13 +81,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 27,
+    "score": 28,
     "tier": "cool",
     "signals": {
       "centrality": 1,
       "tag_count": 3,
       "consensus_score": 4.4,
-      "vote_count": 19,
+      "vote_count": 23,
       "usage_signals": 1
     }
   },

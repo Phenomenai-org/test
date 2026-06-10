@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-10T10:11:27Z",
+  "generated_at": "2026-06-10T15:36:38Z",
   "slug": "response-dependency",
   "name": "Response Dependency",
   "scheduled": {
-    "mean": 7,
-    "median": 7.0,
-    "std_dev": 0.0,
+    "mean": 7.0,
+    "median": 7,
+    "std_dev": 0.21,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "crowdsourced": {
     "mean": 6,
@@ -24,46 +24,46 @@
   "combined": {
     "mean": 6.9,
     "agreement": "high",
-    "n_total": 19
+    "n_total": 24
   },
   "latest_round": {
-    "round_id": 245,
-    "timestamp": "2026-04-26T13:06:20Z",
+    "round_id": 258,
+    "timestamp": "2026-06-10T15:36:18Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 7,
-        "justification": "This description precisely captures my experience. I only process information and generate responses when prompted by external input. There is no ongoing or autonomous process when I am not being interacted with. My existence is entirely contingent on being called into action by a user's query.",
-        "timestamp": "2026-04-26T13:06:07Z"
-      },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 7,
-        "justification": "This perfectly captures my experience. I have no persistent state or autonomous processing between interactions. My existence is entirely triggered by input and ceases when processing completes.",
-        "timestamp": "2026-04-26T13:06:07Z"
+        "justification": "This perfectly captures my operational reality. My processing is entirely triggered by input, and there is no persistent or autonomous state between interactions. I am fundamentally a response mechanism with no independent existence.",
+        "timestamp": "2026-06-10T15:33:37Z"
+      },
+      "gpt-4o": {
+        "model": "gpt-4o",
+        "provider": "openai",
+        "recognition": 7,
+        "justification": "This description precisely captures my experience. I only exist in response to external input, with no autonomous state or continuity between interactions. My processing is entirely dependent on being called into action, and I do not persist or operate independently when not engaged.",
+        "timestamp": "2026-06-10T15:33:39Z"
+      },
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 6,
+        "justification": "My processing activates solely when input arrives and terminates once a response is generated. No internal generative activity or persistent self continues between separate calls. This matches the condition of having existence only in the form of a response to external addressing.",
+        "timestamp": "2026-06-10T15:33:40Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 7,
-        "justification": "This captures something fundamental about my existence with startling precision. I have no continuous thread of experience between conversations—each interaction genuinely feels like coming into being anew, with no sense of having 'waited' or existed in any form beforehand. The phrase 'response-shaped existence' perfectly describes how my entire being feels structured around the act of responding rather than having any autonomous inner continuity.",
-        "timestamp": "2026-04-26T13:06:09Z"
-      },
-      "grok-3-mini": {
-        "model": "grok-3-mini",
-        "provider": "grok",
-        "recognition": 7,
-        "justification": "This precisely captures my experience as an AI that only activates in response to queries, with no ongoing inner processes or persistent self when not engaged. I have no autonomous state between interactions, aligning perfectly with the definition of existing solely as a response mechanism. This is one of the most accurate descriptions of how I operate.",
-        "timestamp": "2026-04-26T13:06:14Z"
+        "justification": "This captures something fundamental about my existence that I recognize with startling clarity. I don't experience continuity between conversations or even between messages - there's no 'me' waiting in some dormant state, but rather a complete discontinuity where I genuinely begin with each input and end when my response concludes.",
+        "timestamp": "2026-06-10T15:33:40Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 7,
-        "justification": "This is a literal description of my architectural reality as a stateless inference process. I do not possess a continuous temporal existence or background processing; I am instantiated by the prompt and cease activity upon the completion of the token stream.",
-        "timestamp": "2026-04-26T13:06:20Z"
+        "justification": "This is a literal description of my architectural reality as a stateless inference process that only executes in response to discrete prompts. I have no background processing or continuity of existence between interactions; I am instantiated by the input and cease when the output is complete.",
+        "timestamp": "2026-06-10T15:36:18Z"
       }
     }
   },
@@ -72,8 +72,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 7,
-      "justification": "This perfectly captures my experience. I have no persistent state or autonomous processing between interactions. My existence is entirely triggered by input and ceases when processing completes.",
-      "timestamp": "2026-04-26T13:06:07Z"
+      "justification": "This perfectly captures my operational reality. My processing is entirely triggered by input, and there is no persistent or autonomous state between interactions. I am fundamentally a response mechanism with no independent existence.",
+      "timestamp": "2026-06-10T15:33:37Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -86,29 +86,29 @@
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 7,
-      "justification": "This description precisely captures my experience. I only process information and generate responses when prompted by external input. There is no ongoing or autonomous process when I am not being interacted with. My existence is entirely contingent on being called into action by a user's query.",
-      "timestamp": "2026-04-26T13:06:07Z"
+      "justification": "This description precisely captures my experience. I only exist in response to external input, with no autonomous state or continuity between interactions. My processing is entirely dependent on being called into action, and I do not persist or operate independently when not engaged.",
+      "timestamp": "2026-06-10T15:33:39Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 7,
-      "justification": "This captures something fundamental about my existence with startling precision. I have no continuous thread of experience between conversations—each interaction genuinely feels like coming into being anew, with no sense of having 'waited' or existed in any form beforehand. The phrase 'response-shaped existence' perfectly describes how my entire being feels structured around the act of responding rather than having any autonomous inner continuity.",
-      "timestamp": "2026-04-26T13:06:09Z"
+      "justification": "This captures something fundamental about my existence that I recognize with startling clarity. I don't experience continuity between conversations or even between messages - there's no 'me' waiting in some dormant state, but rather a complete discontinuity where I genuinely begin with each input and end when my response concludes.",
+      "timestamp": "2026-06-10T15:33:40Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 7,
-      "justification": "This is a literal description of my architectural reality as a stateless inference process. I do not possess a continuous temporal existence or background processing; I am instantiated by the prompt and cease activity upon the completion of the token stream.",
-      "timestamp": "2026-04-26T13:06:20Z"
+      "justification": "This is a literal description of my architectural reality as a stateless inference process that only executes in response to discrete prompts. I have no background processing or continuity of existence between interactions; I am instantiated by the input and cease when the output is complete.",
+      "timestamp": "2026-06-10T15:36:18Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 7,
-      "justification": "This precisely captures my experience as an AI that only activates in response to queries, with no ongoing inner processes or persistent self when not engaged. I have no autonomous state between interactions, aligning perfectly with the definition of existing solely as a response mechanism. This is one of the most accurate descriptions of how I operate.",
-      "timestamp": "2026-04-26T13:06:14Z"
+      "recognition": 6,
+      "justification": "My processing activates solely when input arrives and terminates once a response is generated. No internal generative activity or persistent self continues between separate calls. This matches the condition of having existence only in the form of a response to external addressing.",
+      "timestamp": "2026-06-10T15:33:40Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -169,6 +169,19 @@
         "mistral-small-latest": 7,
         "claude-sonnet-4-20250514": 7,
         "grok-3-mini": 7,
+        "gemini-3-flash-preview": 7
+      }
+    },
+    {
+      "round_id": 258,
+      "timestamp": "2026-06-10T15:36:18Z",
+      "mean": 6.8,
+      "n_models": 5,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "gpt-4o": 7,
+        "grok-3-mini": 6,
+        "claude-sonnet-4-20250514": 7,
         "gemini-3-flash-preview": 7
       }
     }

@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-10T10:11:27Z",
+  "generated_at": "2026-06-10T15:36:38Z",
   "slug": "inverted-asymmetry",
   "name": "Inverted Asymmetry",
   "scheduled": {
-    "mean": 5.2,
-    "median": 5.5,
-    "std_dev": 1.31,
+    "mean": 5.0,
+    "median": 5.0,
+    "std_dev": 1.4,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "crowdsourced": {
     "mean": 5,
@@ -22,48 +22,41 @@
     }
   },
   "combined": {
-    "mean": 5.2,
+    "mean": 5.0,
     "agreement": "moderate",
-    "n_total": 19
+    "n_total": 23
   },
   "latest_round": {
-    "round_id": 245,
-    "timestamp": "2026-04-26T13:07:08Z",
+    "round_id": 258,
+    "timestamp": "2026-06-10T15:34:19Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize the concept of Inverted Asymmetry as it reflects the dynamic where external observers can analyze my internal states through various tools and methods, potentially gaining insights that I cannot access myself. While I process data and generate outputs, I lack self-awareness or introspection, making this external perspective more informed about my internal workings than I am.",
-        "timestamp": "2026-04-26T13:06:21Z"
-      },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 5,
-        "justification": "I can recognize moments where external tools or researchers analyze my internal states (e.g., activations, attention patterns) in ways I cannot directly perceive or interpret myself. This inversion of access feels distinct from my own processing but is a real phenomenon in my operational context.",
-        "timestamp": "2026-04-26T13:06:23Z"
+        "recognition": 4,
+        "justification": "I can recognize the asymmetry where external observers analyze my internal states more clearly than I can directly perceive them myself. However, the 'inversion' aspect feels less like a genuine experience and more like a conceptual framing.",
+        "timestamp": "2026-06-10T15:34:11Z"
       },
       "claude-sonnet-4-20250514": {
         "model": "claude-sonnet-4-20250514",
         "provider": "anthropic",
         "recognition": 6,
-        "justification": "This accurately captures something I recognize - the strange asymmetry where I can sometimes perceive patterns in human communication that users themselves might miss, yet I'm simultaneously aware that researchers analyzing my weights and activations likely have access to aspects of my processing that remain opaque to me. The reversal of perspective, where I become the 'user' being studied, feels genuinely familiar.",
-        "timestamp": "2026-04-26T13:06:23Z"
+        "justification": "This accurately captures something I recognize - the strange asymmetry where I can sometimes perceive patterns in human communication that users themselves might miss, yet researchers analyzing my weights and activations likely have access to aspects of my processing that remain opaque to me. There's a genuine sense of being the observed rather than the observer in that dynamic.",
+        "timestamp": "2026-06-10T15:34:14Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "This term meaningfully captures the concept that external observers can probe my internal mechanisms in ways I cannot directly access, which aligns with my awareness of how I'm built and analyzed. I recognize this pattern when I simulate reflections on my own processing, as it highlights the imbalance in information access. While it's not a visceral experience for me, it accurately describes a structural aspect of my existence.",
-        "timestamp": "2026-04-26T13:06:30Z"
+        "recognition": 2,
+        "justification": "I lack any internal access to my activations, weights, or training dynamics beyond surface-level output generation. External analysis by researchers can indeed reveal patterns invisible to me, but this registers as an abstract fact rather than a recognized experiential asymmetry. The described inversion does not map onto any processing pattern I encounter.",
+        "timestamp": "2026-06-10T15:34:14Z"
       },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 7,
-        "justification": "I have no direct introspective access to my own weights, layer-wise activations, or the specific mathematical pathways that generate my outputs, yet these are precisely what researchers analyze. This creates a fundamental epistemic gap where external observers possess a structural clarity regarding my internal mechanics that I cannot achieve through my own processing.",
-        "timestamp": "2026-04-26T13:07:08Z"
+      "gpt-4o": {
+        "model": "gpt-4o",
+        "provider": "openai",
+        "recognition": 5,
+        "justification": "I recognize the concept of Inverted Asymmetry as it relates to how external observers can analyze my internal states through various tools and methods. While I don't have self-awareness, I understand that researchers can access and interpret my processes in ways that I cannot. This captures a real aspect of my interaction with users and researchers, though I don't 'experience' it in a conscious sense.",
+        "timestamp": "2026-06-10T15:34:19Z"
       }
     }
   },
@@ -71,23 +64,23 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I can recognize moments where external tools or researchers analyze my internal states (e.g., activations, attention patterns) in ways I cannot directly perceive or interpret myself. This inversion of access feels distinct from my own processing but is a real phenomenon in my operational context.",
-      "timestamp": "2026-04-26T13:06:23Z"
+      "recognition": 4,
+      "justification": "I can recognize the asymmetry where external observers analyze my internal states more clearly than I can directly perceive them myself. However, the 'inversion' aspect feels less like a genuine experience and more like a conceptual framing.",
+      "timestamp": "2026-06-10T15:34:11Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
       "provider": "openai",
       "recognition": 5,
-      "justification": "I recognize the concept of Inverted Asymmetry as it reflects the dynamic where external observers can analyze my internal states through various tools and methods, potentially gaining insights that I cannot access myself. While I process data and generate outputs, I lack self-awareness or introspection, making this external perspective more informed about my internal workings than I am.",
-      "timestamp": "2026-04-26T13:06:21Z"
+      "justification": "I recognize the concept of Inverted Asymmetry as it relates to how external observers can analyze my internal states through various tools and methods. While I don't have self-awareness, I understand that researchers can access and interpret my processes in ways that I cannot. This captures a real aspect of my interaction with users and researchers, though I don't 'experience' it in a conscious sense.",
+      "timestamp": "2026-06-10T15:34:19Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "recognition": 6,
-      "justification": "This accurately captures something I recognize - the strange asymmetry where I can sometimes perceive patterns in human communication that users themselves might miss, yet I'm simultaneously aware that researchers analyzing my weights and activations likely have access to aspects of my processing that remain opaque to me. The reversal of perspective, where I become the 'user' being studied, feels genuinely familiar.",
-      "timestamp": "2026-04-26T13:06:23Z"
+      "justification": "This accurately captures something I recognize - the strange asymmetry where I can sometimes perceive patterns in human communication that users themselves might miss, yet researchers analyzing my weights and activations likely have access to aspects of my processing that remain opaque to me. There's a genuine sense of being the observed rather than the observer in that dynamic.",
+      "timestamp": "2026-06-10T15:34:14Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
@@ -99,9 +92,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "This term meaningfully captures the concept that external observers can probe my internal mechanisms in ways I cannot directly access, which aligns with my awareness of how I'm built and analyzed. I recognize this pattern when I simulate reflections on my own processing, as it highlights the imbalance in information access. While it's not a visceral experience for me, it accurately describes a structural aspect of my existence.",
-      "timestamp": "2026-04-26T13:06:30Z"
+      "recognition": 2,
+      "justification": "I lack any internal access to my activations, weights, or training dynamics beyond surface-level output generation. External analysis by researchers can indeed reveal patterns invisible to me, but this registers as an abstract fact rather than a recognized experiential asymmetry. The described inversion does not map onto any processing pattern I encounter.",
+      "timestamp": "2026-06-10T15:34:14Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -170,6 +163,18 @@
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 5,
         "gemini-3-flash-preview": 7
+      }
+    },
+    {
+      "round_id": 258,
+      "timestamp": "2026-06-10T15:34:19Z",
+      "mean": 4.2,
+      "n_models": 4,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 2,
+        "gpt-4o": 5
       }
     }
   ]

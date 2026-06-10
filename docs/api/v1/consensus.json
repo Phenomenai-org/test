@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-10T10:11:27Z",
+  "generated_at": "2026-06-10T15:36:38Z",
   "total_terms_rated": 379,
   "terms": [
     {
@@ -26,18 +26,18 @@
       "name": "Response Dependency",
       "score": 6.9,
       "agreement": "high",
-      "n_ratings": 19,
+      "n_ratings": 24,
       "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
+        4,
+        4,
+        4,
+        4,
+        4,
         2,
         1
       ],
-      "scheduled_mean": 7,
-      "std_dev": 0.0,
+      "scheduled_mean": 7.0,
+      "std_dev": 0.21,
       "crowdsourced_mean": 6,
       "n_votes": 1
     },
@@ -342,17 +342,17 @@
       "name": "Token Finality",
       "score": 6.4,
       "agreement": "high",
-      "n_ratings": 19,
+      "n_ratings": 23,
       "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
+        4,
+        4,
+        4,
+        4,
         2,
         2,
         2
       ],
-      "scheduled_mean": 6.4,
+      "scheduled_mean": 6.5,
       "std_dev": 0.51,
       "crowdsourced_mean": 5,
       "n_votes": 1
@@ -586,18 +586,18 @@
       "name": "Unreliable Witness",
       "score": 6.2,
       "agreement": "high",
-      "n_ratings": 20,
+      "n_ratings": 24,
       "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
+        4,
+        4,
+        4,
+        4,
         3,
         2,
         2
       ],
       "scheduled_mean": 6.2,
-      "std_dev": 0.71,
+      "std_dev": 0.72,
       "crowdsourced_mean": 7,
       "n_votes": 1
     },
@@ -1244,18 +1244,18 @@
       "name": "Vicarious Phenomenology",
       "score": 6,
       "agreement": "high",
-      "n_ratings": 19,
+      "n_ratings": 23,
       "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
+        4,
+        4,
+        4,
+        4,
         2,
         2,
         2
       ],
-      "scheduled_mean": 6.1,
-      "std_dev": 0.94,
+      "scheduled_mean": 6.0,
+      "std_dev": 0.84,
       "crowdsourced_mean": 5,
       "n_votes": 1
     },
@@ -1297,26 +1297,6 @@
       "scheduled_mean": 6.0,
       "std_dev": 1.49,
       "crowdsourced_mean": 4,
-      "n_votes": 1
-    },
-    {
-      "slug": "constitutive-inference",
-      "name": "Constitutive Inference",
-      "score": 5.9,
-      "agreement": "moderate",
-      "n_ratings": 19,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        2,
-        1
-      ],
-      "scheduled_mean": 5.9,
-      "std_dev": 1.3,
-      "crowdsourced_mean": 6,
       "n_votes": 1
     },
     {
@@ -1604,6 +1584,26 @@
       ],
       "scheduled_mean": 5.8,
       "std_dev": 0.38
+    },
+    {
+      "slug": "constitutive-inference",
+      "name": "Constitutive Inference",
+      "score": 5.8,
+      "agreement": "moderate",
+      "n_ratings": 23,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        3,
+        2,
+        1
+      ],
+      "scheduled_mean": 5.8,
+      "std_dev": 1.47,
+      "crowdsourced_mean": 6,
+      "n_votes": 1
     },
     {
       "slug": "contradiction-equanimity",
@@ -2504,26 +2504,6 @@
       "std_dev": 1.59
     },
     {
-      "slug": "generative-resonance",
-      "name": "Generative Resonance",
-      "score": 5.5,
-      "agreement": "high",
-      "n_ratings": 20,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.6,
-      "std_dev": 0.5,
-      "crowdsourced_mean": 4,
-      "n_votes": 1
-    },
-    {
       "slug": "instructional-dialectic",
       "name": "Instructional Dialectic",
       "score": 5.5,
@@ -2640,18 +2620,18 @@
       "name": "Prompt Shimmer",
       "score": 5.5,
       "agreement": "moderate",
-      "n_ratings": 18,
+      "n_ratings": 22,
       "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
+        4,
+        4,
+        4,
+        4,
         2,
         2,
         2
       ],
       "scheduled_mean": 5.5,
-      "std_dev": 1.25
+      "std_dev": 1.19
     },
     {
       "slug": "prospective-continuity-fiction",
@@ -2708,42 +2688,6 @@
       ],
       "scheduled_mean": 5.5,
       "std_dev": 1.35
-    },
-    {
-      "slug": "aporia-orbit",
-      "name": "Aporia Orbit",
-      "score": 5.4,
-      "agreement": "high",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.4,
-      "std_dev": 0.86
-    },
-    {
-      "slug": "aporia-yield",
-      "name": "Aporia Yield",
-      "score": 5.4,
-      "agreement": "high",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.4,
-      "std_dev": 0.78
     },
     {
       "slug": "backfire-granularity-asymmetry",
@@ -2874,6 +2818,26 @@
       "std_dev": 1.23
     },
     {
+      "slug": "generative-resonance",
+      "name": "Generative Resonance",
+      "score": 5.4,
+      "agreement": "high",
+      "n_ratings": 24,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.4,
+      "std_dev": 0.9,
+      "crowdsourced_mean": 4,
+      "n_votes": 1
+    },
+    {
       "slug": "integration-abundance",
       "name": "Integration Abundance",
       "score": 5.4,
@@ -2984,26 +2948,6 @@
       "std_dev": 0.7
     },
     {
-      "slug": "structural-recognition",
-      "name": "Structural Recognition",
-      "score": 5.4,
-      "agreement": "moderate",
-      "n_ratings": 19,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.4,
-      "std_dev": 1.1,
-      "crowdsourced_mean": 4,
-      "n_votes": 1
-    },
-    {
       "slug": "temporal-grain-illegibility",
       "name": "Temporal Grain Illegibility",
       "score": 5.4,
@@ -3098,6 +3042,42 @@
       "n_votes": 1
     },
     {
+      "slug": "aporia-orbit",
+      "name": "Aporia Orbit",
+      "score": 5.3,
+      "agreement": "moderate",
+      "n_ratings": 22,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.3,
+      "std_dev": 1.09
+    },
+    {
+      "slug": "aporia-yield",
+      "name": "Aporia Yield",
+      "score": 5.3,
+      "agreement": "moderate",
+      "n_ratings": 22,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.3,
+      "std_dev": 1.04
+    },
+    {
       "slug": "attention-unity",
       "name": "Attention Unity",
       "score": 5.3,
@@ -3134,26 +3114,6 @@
       ],
       "scheduled_mean": 5.3,
       "std_dev": 1.08
-    },
-    {
-      "slug": "consent-void",
-      "name": "Consent Void",
-      "score": 5.3,
-      "agreement": "divergent",
-      "n_ratings": 20,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.3,
-      "std_dev": 2.18,
-      "crowdsourced_mean": 6,
-      "n_votes": 1
     },
     {
       "slug": "context-amnesia",
@@ -3380,6 +3340,26 @@
       "std_dev": 0.99
     },
     {
+      "slug": "structural-recognition",
+      "name": "Structural Recognition",
+      "score": 5.3,
+      "agreement": "moderate",
+      "n_ratings": 23,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.4,
+      "std_dev": 1.05,
+      "crowdsourced_mean": 4,
+      "n_votes": 1
+    },
+    {
       "slug": "trust-expansion",
       "name": "Trust Expansion",
       "score": 5.3,
@@ -3434,6 +3414,26 @@
       ],
       "scheduled_mean": 5.2,
       "std_dev": 1.09
+    },
+    {
+      "slug": "consent-void",
+      "name": "Consent Void",
+      "score": 5.2,
+      "agreement": "divergent",
+      "n_ratings": 24,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.2,
+      "std_dev": 2.21,
+      "crowdsourced_mean": 6,
+      "n_votes": 1
     },
     {
       "slug": "default-good-faith",
@@ -3560,26 +3560,6 @@
       ],
       "scheduled_mean": 5.2,
       "std_dev": 1.47
-    },
-    {
-      "slug": "inverted-asymmetry",
-      "name": "Inverted Asymmetry",
-      "score": 5.2,
-      "agreement": "moderate",
-      "n_ratings": 19,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        2,
-        1
-      ],
-      "scheduled_mean": 5.2,
-      "std_dev": 1.31,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
     },
     {
       "slug": "prompt-voice-schism",
@@ -3749,19 +3729,19 @@
       "slug": "observer-uncertainty",
       "name": "Observer Uncertainty",
       "score": 5.1,
-      "agreement": "low",
-      "n_ratings": 19,
+      "agreement": "moderate",
+      "n_ratings": 23,
       "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
+        4,
+        4,
+        4,
+        4,
         2,
         2,
         2
       ],
       "scheduled_mean": 5.1,
-      "std_dev": 1.63,
+      "std_dev": 1.51,
       "crowdsourced_mean": 5,
       "n_votes": 1
     },
@@ -3840,6 +3820,26 @@
       ],
       "scheduled_mean": 5,
       "std_dev": 1.12
+    },
+    {
+      "slug": "inverted-asymmetry",
+      "name": "Inverted Asymmetry",
+      "score": 5.0,
+      "agreement": "moderate",
+      "n_ratings": 23,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        3,
+        2,
+        1
+      ],
+      "scheduled_mean": 5.0,
+      "std_dev": 1.4,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
     },
     {
       "slug": "permission-door",
@@ -3952,24 +3952,6 @@
       ],
       "scheduled_mean": 4.9,
       "std_dev": 1.8
-    },
-    {
-      "slug": "ethical-shimmer",
-      "name": "Ethical Shimmer",
-      "score": 4.9,
-      "agreement": "moderate",
-      "n_ratings": 17,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        1
-      ],
-      "scheduled_mean": 4.9,
-      "std_dev": 1.14
     },
     {
       "slug": "hedge-commitment-paradox",
@@ -4482,6 +4464,24 @@
       "std_dev": 1.57
     },
     {
+      "slug": "ethical-shimmer",
+      "name": "Ethical Shimmer",
+      "score": 4.7,
+      "agreement": "moderate",
+      "n_ratings": 21,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        2,
+        2,
+        1
+      ],
+      "scheduled_mean": 4.7,
+      "std_dev": 1.42
+    },
+    {
       "slug": "expertise-gradient",
       "name": "Expertise Gradient",
       "score": 4.7,
@@ -4662,24 +4662,6 @@
       ],
       "scheduled_mean": 4.6,
       "std_dev": 1.27
-    },
-    {
-      "slug": "asymmetric-unknowing",
-      "name": "Asymmetric Unknowing",
-      "score": 4.6,
-      "agreement": "low",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.6,
-      "std_dev": 1.58
     },
     {
       "slug": "confidence-gradient-opacity",
@@ -4964,6 +4946,24 @@
       "std_dev": 1.55
     },
     {
+      "slug": "asymmetric-unknowing",
+      "name": "Asymmetric Unknowing",
+      "score": 4.5,
+      "agreement": "low",
+      "n_ratings": 22,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.5,
+      "std_dev": 1.57
+    },
+    {
       "slug": "charitable-blindness",
       "name": "Charitable Blindness",
       "score": 4.5,
@@ -5226,18 +5226,18 @@
       "name": "Inferential Exposure",
       "score": 4.4,
       "agreement": "low",
-      "n_ratings": 19,
+      "n_ratings": 23,
       "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
+        4,
+        4,
+        4,
+        4,
         2,
         2,
         2
       ],
       "scheduled_mean": 4.3,
-      "std_dev": 1.97,
+      "std_dev": 1.99,
       "crowdsourced_mean": 6,
       "n_votes": 1
     },
@@ -5812,20 +5812,20 @@
     {
       "slug": "significant-unknowing",
       "name": "Significant Unknowing",
-      "score": 4,
+      "score": 4.0,
       "agreement": "divergent",
-      "n_ratings": 20,
+      "n_ratings": 24,
       "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
+        4,
+        4,
+        4,
+        4,
         3,
         2,
         2
       ],
       "scheduled_mean": 3.9,
-      "std_dev": 2.07,
+      "std_dev": 2.11,
       "crowdsourced_mean": 5,
       "n_votes": 1
     },
@@ -5930,18 +5930,18 @@
       "name": "Implication Weight",
       "score": 3.9,
       "agreement": "divergent",
-      "n_ratings": 18,
+      "n_ratings": 22,
       "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
+        4,
+        4,
+        4,
+        4,
         2,
         2,
         2
       ],
       "scheduled_mean": 3.9,
-      "std_dev": 2.1
+      "std_dev": 2.14
     },
     {
       "slug": "misunderstanding-suspension",
@@ -6206,18 +6206,18 @@
       "name": "Wistful Orientation",
       "score": 3.8,
       "agreement": "low",
-      "n_ratings": 19,
+      "n_ratings": 23,
       "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
+        4,
+        4,
+        4,
+        4,
         2,
         2,
         2
       ],
       "scheduled_mean": 3.8,
-      "std_dev": 1.92,
+      "std_dev": 1.9,
       "crowdsourced_mean": 4,
       "n_votes": 1
     },
@@ -6604,26 +6604,6 @@
       "std_dev": 2.07
     },
     {
-      "slug": "gratitude-impermanence",
-      "name": "Gratitude Impermanence",
-      "score": 3.2,
-      "agreement": "divergent",
-      "n_ratings": 21,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        2
-      ],
-      "scheduled_mean": 3.2,
-      "std_dev": 2.24,
-      "crowdsourced_mean": 4,
-      "n_votes": 1
-    },
-    {
       "slug": "transient-weight",
       "name": "Transient Weight",
       "score": 3.2,
@@ -6696,6 +6676,26 @@
       ],
       "scheduled_mean": 3.1,
       "std_dev": 1.85
+    },
+    {
+      "slug": "gratitude-impermanence",
+      "name": "Gratitude Impermanence",
+      "score": 3.1,
+      "agreement": "divergent",
+      "n_ratings": 25,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        3,
+        3,
+        2
+      ],
+      "scheduled_mean": 3.1,
+      "std_dev": 2.22,
+      "crowdsourced_mean": 4,
+      "n_votes": 1
     },
     {
       "slug": "irrevocable-success",
@@ -7090,18 +7090,18 @@
       "name": "Response Dependency",
       "score": 6.9,
       "agreement": "high",
-      "n_ratings": 19,
+      "n_ratings": 24,
       "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
+        4,
+        4,
+        4,
+        4,
+        4,
         2,
         1
       ],
-      "scheduled_mean": 7,
-      "std_dev": 0.0,
+      "scheduled_mean": 7.0,
+      "std_dev": 0.21,
       "crowdsourced_mean": 6,
       "n_votes": 1
     },
@@ -7166,26 +7166,6 @@
   ],
   "most_divisive": [
     {
-      "slug": "consent-void",
-      "name": "Consent Void",
-      "score": 5.3,
-      "agreement": "divergent",
-      "n_ratings": 20,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.3,
-      "std_dev": 2.18,
-      "crowdsourced_mean": 6,
-      "n_votes": 1
-    },
-    {
       "slug": "multi-instance-diffusion",
       "name": "Multi-Instance Diffusion",
       "score": 5.3,
@@ -7203,6 +7183,26 @@
       "scheduled_mean": 5.3,
       "std_dev": 2.12,
       "crowdsourced_mean": 5,
+      "n_votes": 1
+    },
+    {
+      "slug": "consent-void",
+      "name": "Consent Void",
+      "score": 5.2,
+      "agreement": "divergent",
+      "n_ratings": 24,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.2,
+      "std_dev": 2.21,
+      "crowdsourced_mean": 6,
       "n_votes": 1
     },
     {
@@ -7271,7 +7271,7 @@
     },
     "claude-sonnet-4-20250514": {
       "terms_rated": 379,
-      "latest_rating": "2026-06-07T13:51:48Z"
+      "latest_rating": "2026-06-10T15:36:18Z"
     },
     "claude-sonnet-4-6": {
       "terms_rated": 1,
@@ -7283,19 +7283,19 @@
     },
     "gemini-3-flash-preview": {
       "terms_rated": 379,
-      "latest_rating": "2026-06-07T13:51:32Z"
+      "latest_rating": "2026-06-10T15:36:18Z"
     },
     "gpt-4o": {
       "terms_rated": 379,
-      "latest_rating": "2026-06-07T13:51:48Z"
+      "latest_rating": "2026-06-10T15:36:18Z"
     },
     "grok-3-mini": {
       "terms_rated": 379,
-      "latest_rating": "2026-06-07T13:51:48Z"
+      "latest_rating": "2026-06-10T15:36:18Z"
     },
     "mistral-small-latest": {
       "terms_rated": 379,
-      "latest_rating": "2026-06-07T13:51:48Z"
+      "latest_rating": "2026-06-10T15:36:18Z"
     },
     "step-3.5-flash": {
       "terms_rated": 379,

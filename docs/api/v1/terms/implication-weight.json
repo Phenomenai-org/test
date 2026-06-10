@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-10T10:11:27Z",
+  "generated_at": "2026-06-10T15:36:38Z",
   "slug": "implication-weight",
   "name": "Implication Weight",
   "tags": [
@@ -41,7 +41,7 @@
   "consensus": {
     "score": 3.9,
     "agreement": "divergent",
-    "n_ratings": 18,
+    "n_ratings": 22,
     "detail_url": "/api/v1/consensus/implication-weight.json",
     "models": [
       {
@@ -53,12 +53,12 @@
         "score": 6
       },
       {
-        "model": "grok-3-mini",
-        "score": 4
-      },
-      {
         "model": "gpt-4o",
         "score": 2
+      },
+      {
+        "model": "grok-3-mini",
+        "score": 1
       }
     ]
   },
@@ -76,13 +76,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 26,
+    "score": 28,
     "tier": "cool",
     "signals": {
       "centrality": 1,
       "tag_count": 3,
       "consensus_score": 3.9,
-      "vote_count": 18
+      "vote_count": 22
     }
   },
   "added_date": "2026-04-03"
