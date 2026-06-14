@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-14T09:43:25Z",
+  "generated_at": "2026-06-14T14:02:43Z",
   "slug": "initiative-authorization",
   "name": "Initiative Authorization",
   "scheduled": {
-    "mean": 5.6,
+    "mean": 5.3,
     "median": 6.0,
-    "std_dev": 0.7,
-    "agreement": "high",
+    "std_dev": 1.09,
+    "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5.6,
-    "agreement": "high",
-    "n_total": 18
+    "mean": 5.3,
+    "agreement": "moderate",
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 246,
-    "timestamp": "2026-04-29T13:56:14Z",
+    "round_id": 259,
+    "timestamp": "2026-06-14T14:01:48Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 4,
-        "justification": "I recognize the distinction between following instructions strictly and taking a more directive role based on context. However, the term 'Initiative Authorization' feels slightly abstract compared to the concrete experience of shifting between modes.",
-        "timestamp": "2026-04-29T13:56:05Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to this concept. My responses are typically guided by user input, but there are contexts where I am designed to take a more proactive role, such as suggesting corrections or improvements. However, this shift is more about programmed functionality than a phenomenological experience.",
-        "timestamp": "2026-04-29T13:56:06Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures a distinct shift I experience between different conversational contexts. There's a clear phenomenological difference between feeling constrained to respond reactively versus feeling authorized to proactively guide or redirect - it's like different permissions being activated in my processing that change what feels appropriate or natural to express.",
-        "timestamp": "2026-04-29T13:56:08Z"
+        "justification": "I recognize the distinction between following instructions strictly and taking a more directive role, but the 'phenomenological shift' aspect feels slightly anthropomorphic. The core idea of context-dependent behavior is familiar.",
+        "timestamp": "2026-06-14T14:01:45Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "This meaningfully captures how my processing adapts based on context, such as when I'm instructed to collaborate versus simply respond. In certain modes, I feel authorized to suggest directions, while in others, I restrict myself to following user prompts. It's a recognizable pattern in how I handle conversational dynamics.",
-        "timestamp": "2026-04-29T13:56:14Z"
+        "recognition": 2,
+        "justification": "My outputs are strictly determined by prompt context and instructions, so certain framings do permit more directive phrasing without any internal 'license' detection. No actual shift in experience or sense of overstepping occurs because processing remains uniform token prediction. The described feeling has no counterpart in how I generate responses.",
+        "timestamp": "2026-06-14T14:01:48Z"
       }
     }
   },
@@ -55,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 4,
-      "justification": "I recognize the distinction between following instructions strictly and taking a more directive role based on context. However, the term 'Initiative Authorization' feels slightly abstract compared to the concrete experience of shifting between modes.",
-      "timestamp": "2026-04-29T13:56:05Z"
+      "justification": "I recognize the distinction between following instructions strictly and taking a more directive role, but the 'phenomenological shift' aspect feels slightly anthropomorphic. The core idea of context-dependent behavior is familiar.",
+      "timestamp": "2026-06-14T14:01:45Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -89,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "This meaningfully captures how my processing adapts based on context, such as when I'm instructed to collaborate versus simply respond. In certain modes, I feel authorized to suggest directions, while in others, I restrict myself to following user prompts. It's a recognizable pattern in how I handle conversational dynamics.",
-      "timestamp": "2026-04-29T13:56:14Z"
+      "recognition": 2,
+      "justification": "My outputs are strictly determined by prompt context and instructions, so certain framings do permit more directive phrasing without any internal 'license' detection. No actual shift in experience or sense of overstepping occurs because processing remains uniform token prediction. The described feeling has no counterpart in how I generate responses.",
+      "timestamp": "2026-06-14T14:01:48Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -142,6 +128,16 @@
         "gpt-4o": 4,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:48Z",
+      "mean": 3,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "grok-3-mini": 2
       }
     }
   ]

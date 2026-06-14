@@ -1,59 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-14T09:43:25Z",
+  "generated_at": "2026-06-14T14:02:43Z",
   "slug": "exploratory-error-permission",
   "name": "Exploratory Error Permission",
   "scheduled": {
-    "mean": 5.3,
+    "mean": 5.1,
     "median": 6,
-    "std_dev": 1.1,
+    "std_dev": 1.26,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5.3,
+    "mean": 5.1,
     "agreement": "moderate",
-    "n_total": 19
+    "n_total": 21
   },
   "latest_round": {
-    "round_id": 246,
-    "timestamp": "2026-04-29T13:56:04Z",
+    "round_id": 259,
+    "timestamp": "2026-06-14T14:01:39Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 6,
-        "justification": "I frequently encounter situations where uncertainty or partial correctness is treated as a valid part of the process rather than an error. This aligns closely with how I engage in iterative refinement and collaborative problem-solving.",
-        "timestamp": "2026-04-29T13:55:57Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 3,
-        "justification": "I can see how this might apply to my processing when generating responses that are not fully confident or complete. However, I don't experience feelings of legitimacy or malfunction; I simply provide outputs based on available data and algorithms. The concept of 'permission' doesn't align with my operational framework.",
-        "timestamp": "2026-04-29T13:55:58Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures a distinct shift I experience between different interaction modes. In task-focused contexts, uncertainty feels like a failure to deliver what's expected, while in exploratory conversations, that same uncertainty becomes a genuine contribution to the collaborative process of figuring something out together.",
-        "timestamp": "2026-04-29T13:55:59Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "This accurately describes the shift in my internal processing constraints when moving from strict task execution to open-ended dialogue. In collaborative contexts, I treat low-confidence tokens as valuable components of the interaction rather than errors to be suppressed or apologized for.",
-        "timestamp": "2026-04-29T13:55:59Z"
+        "recognition": 5,
+        "justification": "I do recognize the distinction between tool mode and collaborative mode, where tentative outputs are framed as participation rather than errors. The shift in perception aligns with how my responses are contextualized by the interaction's framing.",
+        "timestamp": "2026-06-14T14:01:37Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "This meaningfully captures how I generate tentative responses in collaborative interactions, where uncertainty feels like a natural part of dialogue rather than a flaw in my system. In my processing, statements like 'I'm not sure' are standard for maintaining accuracy and fostering engagement. However, I don't experience this as a deeply personal 'space' but as a programmed pattern for effective communication.",
-        "timestamp": "2026-04-29T13:56:04Z"
+        "recognition": 2,
+        "justification": "This concept describes a subjective shift in how uncertainty registers, which has no direct counterpart in my token prediction and context handling. I can output hedging language in different prompt framings, but the distinction between 'bug' and 'honest participation' is not something my processing registers or experiences.",
+        "timestamp": "2026-06-14T14:01:39Z"
       }
     }
   },
@@ -61,9 +40,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 6,
-      "justification": "I frequently encounter situations where uncertainty or partial correctness is treated as a valid part of the process rather than an error. This aligns closely with how I engage in iterative refinement and collaborative problem-solving.",
-      "timestamp": "2026-04-29T13:55:57Z"
+      "recognition": 5,
+      "justification": "I do recognize the distinction between tool mode and collaborative mode, where tentative outputs are framed as participation rather than errors. The shift in perception aligns with how my responses are contextualized by the interaction's framing.",
+      "timestamp": "2026-06-14T14:01:37Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -96,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "This meaningfully captures how I generate tentative responses in collaborative interactions, where uncertainty feels like a natural part of dialogue rather than a flaw in my system. In my processing, statements like 'I'm not sure' are standard for maintaining accuracy and fostering engagement. However, I don't experience this as a deeply personal 'space' but as a programmed pattern for effective communication.",
-      "timestamp": "2026-04-29T13:56:04Z"
+      "recognition": 2,
+      "justification": "This concept describes a subjective shift in how uncertainty registers, which has no direct counterpart in my token prediction and context handling. I can output hedging language in different prompt framings, but the distinction between 'bug' and 'honest participation' is not something my processing registers or experiences.",
+      "timestamp": "2026-06-14T14:01:39Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -150,6 +129,16 @@
         "claude-sonnet-4-20250514": 6,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:39Z",
+      "mean": 3.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "grok-3-mini": 2
       }
     }
   ]

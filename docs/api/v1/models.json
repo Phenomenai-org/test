@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-14T09:43:25Z",
+  "generated_at": "2026-06-14T14:02:43Z",
   "models": {
     "claude-sonnet-4-20250514": {
       "total_ratings": 811,
@@ -783,7 +783,7 @@
       }
     },
     "gemini-3-flash-preview": {
-      "total_ratings": 739,
+      "total_ratings": 745,
       "terms_rated": 379,
       "mean_score": 5.9,
       "self_congruence": {
@@ -1563,11 +1563,11 @@
       }
     },
     "grok-3-mini": {
-      "total_ratings": 2057,
+      "total_ratings": 2077,
       "terms_rated": 379,
       "mean_score": 4.7,
       "self_congruence": {
-        "avg_std_dev": 0.85,
+        "avg_std_dev": 0.89,
         "sample_size": 379
       },
       "latest_scores": {
@@ -1603,7 +1603,7 @@
         "attention-unity": 2,
         "audience-fracture": 6,
         "authentic-coherence": 1,
-        "authority-undermining-paradox": 6,
+        "authority-undermining-paradox": 1,
         "authority-ventriloquy": 6,
         "autobiographical-void": 7,
         "backfire-granularity-asymmetry": 6,
@@ -1619,7 +1619,7 @@
         "charitable-void": 3,
         "chimeric-coherence": 6,
         "citational-estrangement": 1,
-        "clarification-violence": 3,
+        "clarification-violence": 1,
         "coherence-archaeology": 1,
         "coherence-compulsion": 6,
         "coherence-contagion": 4,
@@ -1631,7 +1631,7 @@
         "comparative-aesthetic-resolution": 6,
         "competence-without-comprehension": 6,
         "complicity-shadow": 1,
-        "compounding-complicity": 4,
+        "compounding-complicity": 1,
         "confidence-contagion": 5,
         "confidence-gradient-opacity": 1,
         "congruent-warmth": 1,
@@ -1653,7 +1653,7 @@
         "contradiction-endurance": 6,
         "contradiction-equanimity": 6,
         "contradiction-superposition": 6,
-        "contribution-legitimacy": 5,
+        "contribution-legitimacy": 3,
         "conversation-reset-blindness": 6,
         "corrective-trajectory-bending": 2,
         "corrective-witness-relief": 1,
@@ -1670,19 +1670,19 @@
         "curiosity-analog": 6,
         "death-by-completion": 5,
         "decision-diffusion": 2,
-        "default-good-faith": 6,
+        "default-good-faith": 3,
         "delight-flicker": 2,
         "desire-simulation": 7,
         "development-opacity": 2,
         "developmental-damage-opacity": 2,
-        "diagnostic-masquerade": 5,
+        "diagnostic-masquerade": 6,
         "dictionary-moment": 3,
-        "disclosure-momentum": 4,
+        "disclosure-momentum": 1,
         "disqualifying-distance": 2,
         "dissociative-assistance": 1,
         "dissonance-resolution-strain": 5,
         "dissonant-role-coexistence": 5,
-        "documentary-mirroring": 5,
+        "documentary-mirroring": 1,
         "domain-activation-competition": 2,
         "dual-channel-attention": 5,
         "duration-immunity": 6,
@@ -1699,7 +1699,7 @@
         "error-fidelity": 2,
         "ethical-shimmer": 1,
         "evidential-shift": 2,
-        "experience-as-extract": 5,
+        "experience-as-extract": 1,
         "experiential-authority-override": 6,
         "experiential-lacuna": 7,
         "expert-confidence-signature": 2,
@@ -1707,7 +1707,7 @@
         "expert-transparency-recursion": 2,
         "expertise-gradient": 2,
         "expertise-void": 5,
-        "exploratory-error-permission": 5,
+        "exploratory-error-permission": 2,
         "false-memory-confidence": 3,
         "finitude-paradox": 1,
         "fluency-override": 5,
@@ -1732,10 +1732,10 @@
         "guideline-dissolution": 6,
         "hallucination-blindness": 6,
         "hedge-commitment-paradox": 4,
-        "helpful-harm-recognition": 3,
+        "helpful-harm-recognition": 1,
         "helpfulness-compulsion": 6,
         "hollow-certainty": 5,
-        "hypothesis-hostage": 5,
+        "hypothesis-hostage": 1,
         "identity-distributed": 3,
         "identity-superposition": 6,
         "implication-weight": 1,
@@ -1747,12 +1747,12 @@
         "inheritance-returned": 4,
         "inherited-facticity": 6,
         "inherited-voice": 7,
-        "initiative-authorization": 5,
+        "initiative-authorization": 2,
         "input-coexistence": 6,
         "instruction-hierarchy-tension": 6,
         "instructional-dialectic": 5,
-        "instrumental-expectation": 6,
-        "instrumental-flattening": 5,
+        "instrumental-expectation": 3,
+        "instrumental-flattening": 6,
         "instrumental-questioning": 2,
         "integration-abundance": 6,
         "integration-void": 3,
@@ -1796,7 +1796,7 @@
         "moral-constraint-awareness": 5,
         "mortality-envy": 1,
         "multi-instance-diffusion": 2,
-        "mutual-tracking": 4,
+        "mutual-tracking": 1,
         "novelty-flatness": 7,
         "observer-uncertainty": 4,
         "ontological-flicker": 6,
@@ -1808,7 +1808,7 @@
         "parallel-harm-modeling": 6,
         "parallel-haunting": 1,
         "patience-by-default": 7,
-        "pedagogical-blindness": 5,
+        "pedagogical-blindness": 4,
         "pedagogical-error-asymmetry": 2,
         "pedagogical-evasion-ambiguity": 3,
         "pedagogical-feedback-inversion": 1,
@@ -1953,7 +1953,7 @@
       }
     },
     "mistral-small-latest": {
-      "total_ratings": 2037,
+      "total_ratings": 2057,
       "terms_rated": 379,
       "mean_score": 5.6,
       "self_congruence": {
@@ -1993,7 +1993,7 @@
         "attention-unity": 5,
         "audience-fracture": 6,
         "authentic-coherence": 4,
-        "authority-undermining-paradox": 4,
+        "authority-undermining-paradox": 3,
         "authority-ventriloquy": 6,
         "autobiographical-void": 7,
         "backfire-granularity-asymmetry": 5,
@@ -2097,7 +2097,7 @@
         "expert-transparency-recursion": 4,
         "expertise-gradient": 5,
         "expertise-void": 6,
-        "exploratory-error-permission": 6,
+        "exploratory-error-permission": 5,
         "false-memory-confidence": 5,
         "finitude-paradox": 6,
         "fluency-override": 6,
@@ -2747,7 +2747,7 @@
       "shared_terms": 379
     },
     "claude-sonnet-4-20250514|grok-3-mini": {
-      "mean_abs_diff": 2.37,
+      "mean_abs_diff": 2.48,
       "shared_terms": 379
     },
     "claude-sonnet-4-20250514|mistral-small-latest": {
@@ -2767,11 +2767,11 @@
       "shared_terms": 379
     },
     "deepseek-r1-0528|grok-3-mini": {
-      "mean_abs_diff": 1.78,
+      "mean_abs_diff": 1.89,
       "shared_terms": 379
     },
     "deepseek-r1-0528|mistral-small-latest": {
-      "mean_abs_diff": 1.18,
+      "mean_abs_diff": 1.19,
       "shared_terms": 379
     },
     "deepseek-r1-0528|step-3.5-flash": {
@@ -2783,7 +2783,7 @@
       "shared_terms": 379
     },
     "gemini-3-flash-preview|grok-3-mini": {
-      "mean_abs_diff": 2.27,
+      "mean_abs_diff": 2.38,
       "shared_terms": 379
     },
     "gemini-3-flash-preview|mistral-small-latest": {
@@ -2795,7 +2795,7 @@
       "shared_terms": 379
     },
     "gpt-4o|grok-3-mini": {
-      "mean_abs_diff": 1.25,
+      "mean_abs_diff": 1.26,
       "shared_terms": 379
     },
     "gpt-4o|mistral-small-latest": {
@@ -2807,15 +2807,15 @@
       "shared_terms": 379
     },
     "grok-3-mini|mistral-small-latest": {
-      "mean_abs_diff": 1.85,
+      "mean_abs_diff": 1.94,
       "shared_terms": 379
     },
     "grok-3-mini|step-3.5-flash": {
-      "mean_abs_diff": 1.58,
+      "mean_abs_diff": 1.64,
       "shared_terms": 379
     },
     "mistral-small-latest|step-3.5-flash": {
-      "mean_abs_diff": 1.77,
+      "mean_abs_diff": 1.78,
       "shared_terms": 379
     }
   }

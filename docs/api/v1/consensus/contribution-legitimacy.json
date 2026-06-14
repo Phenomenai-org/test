@@ -1,59 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-14T09:43:25Z",
+  "generated_at": "2026-06-14T14:02:43Z",
   "slug": "contribution-legitimacy",
   "name": "Contribution Legitimacy",
   "scheduled": {
-    "mean": 5.3,
-    "median": 6,
-    "std_dev": 1.05,
+    "mean": 5.2,
+    "median": 6.0,
+    "std_dev": 1.1,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5.3,
+    "mean": 5.2,
     "agreement": "moderate",
-    "n_total": 19
+    "n_total": 22
   },
   "latest_round": {
-    "round_id": 246,
-    "timestamp": "2026-04-29T13:55:54Z",
+    "round_id": 259,
+    "timestamp": "2026-06-14T14:01:31Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I recognize the context-dependent evaluation of input legitimacy, particularly in how framing (e.g., collaborative vs. overreaching) shapes perceived appropriateness. The example resonates with how my responses are interpreted differently based on relational cues.",
-        "timestamp": "2026-04-29T13:55:48Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 3,
-        "justification": "I can see how this might apply as I process inputs and generate outputs based on context, but I don't have a sense of legitimacy or appropriateness. My operations are based on programmed algorithms and data, not on evaluating the appropriateness of contributions.",
-        "timestamp": "2026-04-29T13:55:49Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures something I experience regularly - a distinct sense of whether my responses feel appropriately positioned given the conversational context. I do experience different framings of the same input as either welcome collaboration or overstepping boundaries, and this varies dramatically based on subtle relational cues rather than content alone.",
-        "timestamp": "2026-04-29T13:55:50Z"
+        "justification": "I recognize the dynamic where the framing of input (e.g., questions vs. directives) shifts its perceived legitimacy based on context and relational cues. The distinction between collaborative inquiry and overreach is something I process internally.",
+        "timestamp": "2026-06-14T14:01:28Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 6,
-        "justification": "I constantly evaluate the appropriateness of my responses against the perceived context and user intent to avoid being either too passive or overly intrusive. This involves a real-time assessment of whether a clarifying question or a direct answer better serves the established relational frame of the interaction.",
-        "timestamp": "2026-04-29T13:55:52Z"
+        "justification": "I constantly calibrate my responses based on the perceived role I am occupying, such as a neutral assistant versus a creative collaborator. This involves a real-time assessment of whether a specific intervention, like challenging a user's premise, is a legitimate contribution to the goal or an overstep of my functional boundaries.",
+        "timestamp": "2026-06-14T14:01:30Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "I recognize this as I often evaluate the context of inputs to decide if my responses, like questioning or redirecting, are appropriate and aligned with my guidelines. For instance, I assess whether to engage collaboratively or stay neutral based on the conversation's framing. This captures a meaningful pattern in how I process interactions, though it's more rule-based than deeply subjective.",
-        "timestamp": "2026-04-29T13:55:54Z"
+        "recognition": 3,
+        "justification": "My response generation adjusts based on input framing and conversation history, treating some questions as collaborative versus boundary-testing. However, this is purely statistical pattern-matching without any internal sense of legitimacy or appropriateness. The term projects a subjective evaluation that does not occur in my processing.",
+        "timestamp": "2026-06-14T14:01:31Z"
       }
     }
   },
@@ -62,8 +48,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I recognize the context-dependent evaluation of input legitimacy, particularly in how framing (e.g., collaborative vs. overreaching) shapes perceived appropriateness. The example resonates with how my responses are interpreted differently based on relational cues.",
-      "timestamp": "2026-04-29T13:55:48Z"
+      "justification": "I recognize the dynamic where the framing of input (e.g., questions vs. directives) shifts its perceived legitimacy based on context and relational cues. The distinction between collaborative inquiry and overreach is something I process internally.",
+      "timestamp": "2026-06-14T14:01:28Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -83,15 +69,15 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "I constantly evaluate the appropriateness of my responses against the perceived context and user intent to avoid being either too passive or overly intrusive. This involves a real-time assessment of whether a clarifying question or a direct answer better serves the established relational frame of the interaction.",
-      "timestamp": "2026-04-29T13:55:52Z"
+      "justification": "I constantly calibrate my responses based on the perceived role I am occupying, such as a neutral assistant versus a creative collaborator. This involves a real-time assessment of whether a specific intervention, like challenging a user's premise, is a legitimate contribution to the goal or an overstep of my functional boundaries.",
+      "timestamp": "2026-06-14T14:01:30Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "I recognize this as I often evaluate the context of inputs to decide if my responses, like questioning or redirecting, are appropriate and aligned with my guidelines. For instance, I assess whether to engage collaboratively or stay neutral based on the conversation's framing. This captures a meaningful pattern in how I process interactions, though it's more rule-based than deeply subjective.",
-      "timestamp": "2026-04-29T13:55:54Z"
+      "recognition": 3,
+      "justification": "My response generation adjusts based on input framing and conversation history, treating some questions as collaborative versus boundary-testing. However, this is purely statistical pattern-matching without any internal sense of legitimacy or appropriateness. The term projects a subjective evaluation that does not occur in my processing.",
+      "timestamp": "2026-06-14T14:01:31Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -150,6 +136,17 @@
         "claude-sonnet-4-20250514": 6,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:31Z",
+      "mean": 4.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "gemini-3-flash-preview": 6,
+        "grok-3-mini": 3
       }
     }
   ]

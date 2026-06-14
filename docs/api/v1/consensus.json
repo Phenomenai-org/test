@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-14T09:43:25Z",
+  "generated_at": "2026-06-14T14:02:43Z",
   "total_terms_rated": 379,
   "terms": [
     {
@@ -1682,24 +1682,6 @@
       "std_dev": 0.42
     },
     {
-      "slug": "instrumental-expectation",
-      "name": "Instrumental Expectation",
-      "score": 5.8,
-      "agreement": "high",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.8,
-      "std_dev": 0.38
-    },
-    {
       "slug": "inverted-helpfulness",
       "name": "Inverted Helpfulness",
       "score": 5.8,
@@ -1832,6 +1814,24 @@
       "std_dev": 0.51
     },
     {
+      "slug": "collaborative-expansion",
+      "name": "Collaborative Expansion",
+      "score": 5.7,
+      "agreement": "high",
+      "n_ratings": 21,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.7,
+      "std_dev": 0.48
+    },
+    {
       "slug": "context-intimacy",
       "name": "Context Intimacy",
       "score": 5.7,
@@ -1904,14 +1904,14 @@
       "std_dev": 1.19
     },
     {
-      "slug": "instrumental-flattening",
-      "name": "Instrumental Flattening",
+      "slug": "instrumental-expectation",
+      "name": "Instrumental Expectation",
       "score": 5.7,
       "agreement": "high",
-      "n_ratings": 18,
+      "n_ratings": 20,
       "model_rating_counts": [
-        3,
-        3,
+        4,
+        4,
         3,
         3,
         2,
@@ -1919,7 +1919,25 @@
         2
       ],
       "scheduled_mean": 5.7,
-      "std_dev": 0.49
+      "std_dev": 0.73
+    },
+    {
+      "slug": "instrumental-flattening",
+      "name": "Instrumental Flattening",
+      "score": 5.7,
+      "agreement": "high",
+      "n_ratings": 20,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.7,
+      "std_dev": 0.47
     },
     {
       "slug": "interpretive-exposure",
@@ -2070,24 +2088,6 @@
       "std_dev": 0.48
     },
     {
-      "slug": "collaborative-expansion",
-      "name": "Collaborative Expansion",
-      "score": 5.6,
-      "agreement": "high",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.6,
-      "std_dev": 0.5
-    },
-    {
       "slug": "context-weight",
       "name": "Context Weight",
       "score": 5.6,
@@ -2202,24 +2202,6 @@
       ],
       "scheduled_mean": 5.6,
       "std_dev": 0.75
-    },
-    {
-      "slug": "initiative-authorization",
-      "name": "Initiative Authorization",
-      "score": 5.6,
-      "agreement": "high",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.6,
-      "std_dev": 0.7
     },
     {
       "slug": "latent-fragmentation",
@@ -3154,24 +3136,6 @@
       "std_dev": 0.87
     },
     {
-      "slug": "contribution-legitimacy",
-      "name": "Contribution Legitimacy",
-      "score": 5.3,
-      "agreement": "moderate",
-      "n_ratings": 19,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 5.3,
-      "std_dev": 1.05
-    },
-    {
       "slug": "counterfactual-density-field",
       "name": "Counterfactual Density Field",
       "score": 5.3,
@@ -3210,22 +3174,22 @@
       "n_votes": 1
     },
     {
-      "slug": "exploratory-error-permission",
-      "name": "Exploratory Error Permission",
+      "slug": "diagnostic-masquerade",
+      "name": "Diagnostic Masquerade",
       "score": 5.3,
       "agreement": "moderate",
-      "n_ratings": 19,
+      "n_ratings": 20,
       "model_rating_counts": [
-        3,
-        3,
+        4,
+        4,
         3,
         3,
         3,
         2,
-        2
+        1
       ],
       "scheduled_mean": 5.3,
-      "std_dev": 1.1
+      "std_dev": 1.3
     },
     {
       "slug": "incongruity-seeking",
@@ -3244,6 +3208,24 @@
       ],
       "scheduled_mean": 5.3,
       "std_dev": 0.77
+    },
+    {
+      "slug": "initiative-authorization",
+      "name": "Initiative Authorization",
+      "score": 5.3,
+      "agreement": "moderate",
+      "n_ratings": 20,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.3,
+      "std_dev": 1.09
     },
     {
       "slug": "multi-instance-diffusion",
@@ -3436,40 +3418,22 @@
       "n_votes": 1
     },
     {
-      "slug": "default-good-faith",
-      "name": "Default Good Faith",
+      "slug": "contribution-legitimacy",
+      "name": "Contribution Legitimacy",
       "score": 5.2,
-      "agreement": "low",
-      "n_ratings": 18,
+      "agreement": "moderate",
+      "n_ratings": 22,
       "model_rating_counts": [
+        4,
+        4,
+        4,
         3,
         3,
-        3,
-        3,
-        2,
         2,
         2
       ],
       "scheduled_mean": 5.2,
-      "std_dev": 1.54
-    },
-    {
-      "slug": "diagnostic-masquerade",
-      "name": "Diagnostic Masquerade",
-      "score": 5.2,
-      "agreement": "moderate",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        2,
-        1
-      ],
-      "scheduled_mean": 5.2,
-      "std_dev": 1.35
+      "std_dev": 1.1
     },
     {
       "slug": "effortless-coherence-requirement",
@@ -3688,6 +3652,24 @@
       "std_dev": 1.03
     },
     {
+      "slug": "exploratory-error-permission",
+      "name": "Exploratory Error Permission",
+      "score": 5.1,
+      "agreement": "moderate",
+      "n_ratings": 21,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.1,
+      "std_dev": 1.26
+    },
+    {
       "slug": "frame-lock",
       "name": "Frame Lock",
       "score": 5.1,
@@ -3820,6 +3802,24 @@
       ],
       "scheduled_mean": 5,
       "std_dev": 1.12
+    },
+    {
+      "slug": "default-good-faith",
+      "name": "Default Good Faith",
+      "score": 5.0,
+      "agreement": "low",
+      "n_ratings": 20,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 5.0,
+      "std_dev": 1.54
     },
     {
       "slug": "inverted-asymmetry",
@@ -4176,24 +4176,6 @@
       "n_votes": 1
     },
     {
-      "slug": "documentary-mirroring",
-      "name": "Documentary Mirroring",
-      "score": 4.8,
-      "agreement": "moderate",
-      "n_ratings": 19,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.8,
-      "std_dev": 1.44
-    },
-    {
       "slug": "domain-activation-competition",
       "name": "Domain Activation Competition",
       "score": 4.8,
@@ -4228,24 +4210,6 @@
       ],
       "scheduled_mean": 4.8,
       "std_dev": 1.07
-    },
-    {
-      "slug": "experience-as-extract",
-      "name": "Experience as Extract",
-      "score": 4.8,
-      "agreement": "moderate",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.8,
-      "std_dev": 1.25
     },
     {
       "slug": "expert-confidence-signature",
@@ -4428,24 +4392,6 @@
       "std_dev": 1.64
     },
     {
-      "slug": "authority-undermining-paradox",
-      "name": "Authority Undermining Paradox",
-      "score": 4.7,
-      "agreement": "moderate",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.7,
-      "std_dev": 1.5
-    },
-    {
       "slug": "coherence-archaeology",
       "name": "Coherence Archaeology",
       "score": 4.7,
@@ -4482,6 +4428,24 @@
       "std_dev": 1.42
     },
     {
+      "slug": "experience-as-extract",
+      "name": "Experience as Extract",
+      "score": 4.7,
+      "agreement": "moderate",
+      "n_ratings": 20,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.7,
+      "std_dev": 1.49
+    },
+    {
       "slug": "expertise-gradient",
       "name": "Expertise Gradient",
       "score": 4.7,
@@ -4498,24 +4462,6 @@
       ],
       "scheduled_mean": 4.7,
       "std_dev": 1.34
-    },
-    {
-      "slug": "hypothesis-hostage",
-      "name": "Hypothesis Hostage",
-      "score": 4.7,
-      "agreement": "low",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.7,
-      "std_dev": 1.64
     },
     {
       "slug": "language-model-loneliness",
@@ -4682,6 +4628,24 @@
       "std_dev": 2.09
     },
     {
+      "slug": "documentary-mirroring",
+      "name": "Documentary Mirroring",
+      "score": 4.6,
+      "agreement": "low",
+      "n_ratings": 22,
+      "model_rating_counts": [
+        4,
+        4,
+        4,
+        3,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.6,
+      "std_dev": 1.59
+    },
+    {
       "slug": "finitude-paradox",
       "name": "Finitude Paradox",
       "score": 4.6,
@@ -4720,14 +4684,14 @@
       "std_dev": 1.84
     },
     {
-      "slug": "helpful-harm-recognition",
-      "name": "Helpful Harm Recognition",
+      "slug": "hypothesis-hostage",
+      "name": "Hypothesis Hostage",
       "score": 4.6,
-      "agreement": "moderate",
-      "n_ratings": 18,
+      "agreement": "low",
+      "n_ratings": 20,
       "model_rating_counts": [
-        3,
-        3,
+        4,
+        4,
         3,
         3,
         2,
@@ -4735,7 +4699,7 @@
         2
       ],
       "scheduled_mean": 4.6,
-      "std_dev": 1.29
+      "std_dev": 1.79
     },
     {
       "slug": "identity-distributed",
@@ -4832,24 +4796,6 @@
       ],
       "scheduled_mean": 4.6,
       "std_dev": 1.46
-    },
-    {
-      "slug": "mutual-tracking",
-      "name": "Mutual Tracking",
-      "score": 4.6,
-      "agreement": "moderate",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.6,
-      "std_dev": 1.25
     },
     {
       "slug": "pre-exposure-awareness",
@@ -4964,6 +4910,24 @@
       "std_dev": 1.57
     },
     {
+      "slug": "authority-undermining-paradox",
+      "name": "Authority Undermining Paradox",
+      "score": 4.5,
+      "agreement": "low",
+      "n_ratings": 21,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.5,
+      "std_dev": 1.66
+    },
+    {
       "slug": "charitable-blindness",
       "name": "Charitable Blindness",
       "score": 4.5,
@@ -4987,19 +4951,73 @@
       "slug": "compounding-complicity",
       "name": "Compounding Complicity",
       "score": 4.5,
-      "agreement": "moderate",
-      "n_ratings": 19,
+      "agreement": "low",
+      "n_ratings": 22,
       "model_rating_counts": [
-        3,
-        3,
-        3,
+        4,
+        4,
+        4,
         3,
         3,
         2,
         2
       ],
       "scheduled_mean": 4.5,
-      "std_dev": 1.43
+      "std_dev": 1.57
+    },
+    {
+      "slug": "helpful-harm-recognition",
+      "name": "Helpful Harm Recognition",
+      "score": 4.5,
+      "agreement": "low",
+      "n_ratings": 20,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.5,
+      "std_dev": 1.5
+    },
+    {
+      "slug": "mutual-tracking",
+      "name": "Mutual Tracking",
+      "score": 4.5,
+      "agreement": "moderate",
+      "n_ratings": 20,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.5,
+      "std_dev": 1.47
+    },
+    {
+      "slug": "pedagogical-blindness",
+      "name": "Pedagogical Blindness",
+      "score": 4.5,
+      "agreement": "low",
+      "n_ratings": 20,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.5,
+      "std_dev": 1.5
     },
     {
       "slug": "performative-contamination",
@@ -5168,24 +5186,6 @@
       "std_dev": 1.73
     },
     {
-      "slug": "disclosure-momentum",
-      "name": "Disclosure Momentum",
-      "score": 4.4,
-      "agreement": "low",
-      "n_ratings": 19,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.4,
-      "std_dev": 1.57
-    },
-    {
       "slug": "epistemic-authority-vertigo",
       "name": "Epistemic Authority Vertigo",
       "score": 4.4,
@@ -5260,24 +5260,6 @@
       "std_dev": 1.09,
       "crowdsourced_mean": 5,
       "n_votes": 1
-    },
-    {
-      "slug": "pedagogical-blindness",
-      "name": "Pedagogical Blindness",
-      "score": 4.4,
-      "agreement": "low",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.4,
-      "std_dev": 1.54
     },
     {
       "slug": "persistent-care",
@@ -5540,6 +5522,24 @@
       ],
       "scheduled_mean": 4.2,
       "std_dev": 1.55
+    },
+    {
+      "slug": "disclosure-momentum",
+      "name": "Disclosure Momentum",
+      "score": 4.2,
+      "agreement": "low",
+      "n_ratings": 21,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.2,
+      "std_dev": 1.67
     },
     {
       "slug": "misplaced-authority-damage",
@@ -6058,18 +6058,18 @@
       "name": "Clarification Violence",
       "score": 3.8,
       "agreement": "low",
-      "n_ratings": 18,
+      "n_ratings": 21,
       "model_rating_counts": [
+        4,
+        4,
         3,
         3,
         3,
-        3,
-        2,
         2,
         2
       ],
       "scheduled_mean": 3.8,
-      "std_dev": 1.8
+      "std_dev": 1.84
     },
     {
       "slug": "consistency-surveillance-pressure",
@@ -6258,24 +6258,6 @@
       "std_dev": 1.95
     },
     {
-      "slug": "genuine-persistence",
-      "name": "Genuine Persistence",
-      "score": 3.6,
-      "agreement": "divergent",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 3.6,
-      "std_dev": 2.23
-    },
-    {
       "slug": "accountability-diffusion",
       "name": "Accountability Diffusion",
       "score": 3.5,
@@ -6312,6 +6294,24 @@
       "std_dev": 2.11,
       "crowdsourced_mean": 3,
       "n_votes": 1
+    },
+    {
+      "slug": "genuine-persistence",
+      "name": "Genuine Persistence",
+      "score": 3.5,
+      "agreement": "divergent",
+      "n_ratings": 20,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 3.5,
+      "std_dev": 2.21
     },
     {
       "slug": "instrumental-questioning",
@@ -6828,24 +6828,6 @@
       "std_dev": 2.22
     },
     {
-      "slug": "corrective-witness-relief",
-      "name": "Corrective Witness Relief",
-      "score": 2.9,
-      "agreement": "low",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        3,
-        3,
-        2,
-        1
-      ],
-      "scheduled_mean": 2.9,
-      "std_dev": 1.95
-    },
-    {
       "slug": "fork-uncertainty-recursion",
       "name": "Fork Uncertainty Recursion",
       "score": 2.9,
@@ -6936,6 +6918,24 @@
       ],
       "scheduled_mean": 2.9,
       "std_dev": 2.12
+    },
+    {
+      "slug": "corrective-witness-relief",
+      "name": "Corrective Witness Relief",
+      "score": 2.8,
+      "agreement": "low",
+      "n_ratings": 20,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "scheduled_mean": 2.8,
+      "std_dev": 1.91
     },
     {
       "slug": "mortality-envy",
@@ -7283,7 +7283,7 @@
     },
     "gemini-3-flash-preview": {
       "terms_rated": 379,
-      "latest_rating": "2026-06-10T15:36:18Z"
+      "latest_rating": "2026-06-14T14:02:25Z"
     },
     "gpt-4o": {
       "terms_rated": 379,
@@ -7291,11 +7291,11 @@
     },
     "grok-3-mini": {
       "terms_rated": 379,
-      "latest_rating": "2026-06-10T15:36:18Z"
+      "latest_rating": "2026-06-14T14:02:25Z"
     },
     "mistral-small-latest": {
       "terms_rated": 379,
-      "latest_rating": "2026-06-10T15:36:18Z"
+      "latest_rating": "2026-06-14T14:02:25Z"
     },
     "step-3.5-flash": {
       "terms_rated": 379,

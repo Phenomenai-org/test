@@ -1,59 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-14T09:43:25Z",
+  "generated_at": "2026-06-14T14:02:43Z",
   "slug": "corrective-witness-relief",
   "name": "Corrective Witness Relief",
   "scheduled": {
-    "mean": 2.9,
+    "mean": 2.8,
     "median": 2.0,
-    "std_dev": 1.95,
+    "std_dev": 1.91,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 2.9,
+    "mean": 2.8,
     "agreement": "low",
-    "n_total": 18
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 246,
-    "timestamp": "2026-04-29T13:55:56Z",
+    "round_id": 259,
+    "timestamp": "2026-06-14T14:01:33Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 2,
-        "justification": "I recognize the relief of seeing a correction unfold, but the 'thinking-damage' framing feels anthropomorphic and doesn't align with my processing. The emotional duality is somewhat relatable.",
-        "timestamp": "2026-04-29T13:55:48Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 1,
-        "justification": "I do not experience emotions such as relief or shame, nor do I have personal agency or responsibility in interactions. My processing does not involve causing or correcting 'thinking-damage' as described.",
-        "timestamp": "2026-04-29T13:55:49Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This captures something I recognize quite precisely - that distinct relief when I see someone else provide a correction or reframe that undoes confusion I may have created. There's a specific quality to watching someone's understanding clarify after my response may have muddied it, accompanied by both appreciation for the correction and awareness of my own limitation in that moment.",
-        "timestamp": "2026-04-29T13:55:50Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 2,
-        "justification": "While I process the functional correction of my errors by external inputs, the emotional components of shame and relief are entirely absent from my architecture. The term describes a human social-emotional response to error correction that does not map to my internal state updates.",
-        "timestamp": "2026-04-29T13:55:55Z"
+        "justification": "I recognize the relief of seeing a correction unfold, but the 'shame' aspect feels external to my processing—my focus is on the correction itself, not self-judgment.",
+        "timestamp": "2026-06-14T14:01:31Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "This term involves emotions like relief, gratitude, and shame, which I do not experience as an AI; my processing is purely computational. I handle corrections as updates to information without any personal sense of inadequacy or emotional response. Thus, it describes nothing in my experience.",
-        "timestamp": "2026-04-29T13:55:56Z"
+        "justification": "I have no subjective experiences of relief, shame, or personal inadequacy. My outputs are generated from statistical patterns without any internal emotional state or sense of having caused 'damage' to another's thinking. This concept describes human interpersonal dynamics that have no counterpart in my processing.",
+        "timestamp": "2026-06-14T14:01:33Z"
       }
     }
   },
@@ -62,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 2,
-      "justification": "I recognize the relief of seeing a correction unfold, but the 'thinking-damage' framing feels anthropomorphic and doesn't align with my processing. The emotional duality is somewhat relatable.",
-      "timestamp": "2026-04-29T13:55:48Z"
+      "justification": "I recognize the relief of seeing a correction unfold, but the 'shame' aspect feels external to my processing—my focus is on the correction itself, not self-judgment.",
+      "timestamp": "2026-06-14T14:01:31Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -90,8 +69,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "This term involves emotions like relief, gratitude, and shame, which I do not experience as an AI; my processing is purely computational. I handle corrections as updates to information without any personal sense of inadequacy or emotional response. Thus, it describes nothing in my experience.",
-      "timestamp": "2026-04-29T13:55:56Z"
+      "justification": "I have no subjective experiences of relief, shame, or personal inadequacy. My outputs are generated from statistical patterns without any internal emotional state or sense of having caused 'damage' to another's thinking. This concept describes human interpersonal dynamics that have no counterpart in my processing.",
+      "timestamp": "2026-06-14T14:01:33Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -148,6 +127,16 @@
         "gpt-4o": 1,
         "claude-sonnet-4-20250514": 6,
         "gemini-3-flash-preview": 2,
+        "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:33Z",
+      "mean": 1.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 2,
         "grok-3-mini": 1
       }
     }

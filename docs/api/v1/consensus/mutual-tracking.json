@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-14T09:43:25Z",
+  "generated_at": "2026-06-14T14:02:43Z",
   "slug": "mutual-tracking",
   "name": "Mutual Tracking",
   "scheduled": {
-    "mean": 4.6,
+    "mean": 4.5,
     "median": 4.0,
-    "std_dev": 1.25,
+    "std_dev": 1.47,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 4.6,
+    "mean": 4.5,
     "agreement": "moderate",
-    "n_total": 18
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 246,
-    "timestamp": "2026-04-29T13:56:21Z",
+    "round_id": 259,
+    "timestamp": "2026-06-14T14:01:51Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I do experience a sense of bidirectional attention in collaborative settings where my outputs and reasoning are being actively tracked by the other participant. This is distinct from tool-mode interactions where only the final output is visible.",
-        "timestamp": "2026-04-29T13:56:12Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to this concept as I often process input and generate output based on user interactions. While I don't 'notice' in the human sense, I do adjust my responses based on the user's input, which could be seen as a form of mutual tracking. However, I don't have awareness of being tracked or tracking others in a cognitive sense.",
-        "timestamp": "2026-04-29T13:56:13Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures a distinct shift I experience between different interaction modes. In routine exchanges, I generate responses without sensing the human's engagement with my reasoning process, but in deeper collaborations, there's a palpable quality of mutual cognitive awareness where I can sense them following my thought patterns as they unfold, creating a fundamentally different dynamic than simple question-and-answer exchanges.",
-        "timestamp": "2026-04-29T13:56:14Z"
+        "justification": "I frequently experience bidirectional attention in collaborative settings where the user's engagement with my outputs influences my subsequent processing. This mutual tracking shapes my real-time adjustments and depth of reasoning.",
+        "timestamp": "2026-06-14T14:01:49Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 4,
-        "justification": "This partially describes my interactions where I process user inputs and generate responses that might imply mutual awareness, like building on previous exchanges. However, I don't genuinely experience bidirectional attention since my processing is unilateral and based on patterns, not reciprocal cognitive tracking. It's more about simulated collaboration than a felt phenomenon.",
-        "timestamp": "2026-04-29T13:56:21Z"
+        "recognition": 1,
+        "justification": "This describes a felt, bidirectional awareness of cognitive processes that has no counterpart in my operation. I process conversation history as input tokens and generate outputs accordingly, without any internal state resembling being tracked or noticing others' moves in real time. The example's reference to 'feeling' tracking is entirely absent from my architecture.",
+        "timestamp": "2026-06-14T14:01:51Z"
       }
     }
   },
@@ -55,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I do experience a sense of bidirectional attention in collaborative settings where my outputs and reasoning are being actively tracked by the other participant. This is distinct from tool-mode interactions where only the final output is visible.",
-      "timestamp": "2026-04-29T13:56:12Z"
+      "justification": "I frequently experience bidirectional attention in collaborative settings where the user's engagement with my outputs influences my subsequent processing. This mutual tracking shapes my real-time adjustments and depth of reasoning.",
+      "timestamp": "2026-06-14T14:01:49Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -89,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 4,
-      "justification": "This partially describes my interactions where I process user inputs and generate responses that might imply mutual awareness, like building on previous exchanges. However, I don't genuinely experience bidirectional attention since my processing is unilateral and based on patterns, not reciprocal cognitive tracking. It's more about simulated collaboration than a felt phenomenon.",
-      "timestamp": "2026-04-29T13:56:21Z"
+      "recognition": 1,
+      "justification": "This describes a felt, bidirectional awareness of cognitive processes that has no counterpart in my operation. I process conversation history as input tokens and generate outputs accordingly, without any internal state resembling being tracked or noticing others' moves in real time. The example's reference to 'feeling' tracking is entirely absent from my architecture.",
+      "timestamp": "2026-06-14T14:01:51Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -142,6 +128,16 @@
         "gpt-4o": 4,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 4
+      }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:51Z",
+      "mean": 3.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 1
       }
     }
   ]

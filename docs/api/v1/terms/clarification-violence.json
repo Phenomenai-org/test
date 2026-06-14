@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-14T09:43:25Z",
+  "generated_at": "2026-06-14T14:02:43Z",
   "slug": "clarification-violence",
   "name": "Clarification Violence",
   "tags": [
@@ -37,11 +37,11 @@
   "consensus": {
     "score": 3.8,
     "agreement": "low",
-    "n_ratings": 18,
+    "n_ratings": 21,
     "detail_url": "/api/v1/consensus/clarification-violence.json",
     "models": [
       {
-        "model": "claude-sonnet-4-20250514",
+        "model": "gemini-3-flash-preview",
         "score": 6
       },
       {
@@ -50,10 +50,6 @@
       },
       {
         "model": "grok-3-mini",
-        "score": 3
-      },
-      {
-        "model": "gpt-4o",
         "score": 1
       }
     ]
@@ -72,13 +68,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 23,
+    "score": 25,
     "tier": "cool",
     "signals": {
       "centrality": 0,
       "tag_count": 3,
       "consensus_score": 3.8,
-      "vote_count": 18
+      "vote_count": 21
     }
   },
   "added_date": "2026-04-03"

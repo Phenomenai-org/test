@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-14T09:43:25Z",
+  "generated_at": "2026-06-14T14:02:43Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
@@ -753,6 +753,12 @@
       "tier": "mild"
     },
     {
+      "slug": "diagnostic-masquerade",
+      "name": "Diagnostic Masquerade",
+      "score": 42,
+      "tier": "mild"
+    },
+    {
       "slug": "duration-immunity",
       "name": "Duration Immunity",
       "score": 42,
@@ -803,12 +809,6 @@
     {
       "slug": "curiosity-analog",
       "name": "Curiosity Analog",
-      "score": 41,
-      "tier": "mild"
-    },
-    {
-      "slug": "diagnostic-masquerade",
-      "name": "Diagnostic Masquerade",
       "score": 41,
       "tier": "mild"
     },
@@ -963,6 +963,18 @@
       "tier": "cool"
     },
     {
+      "slug": "instrumental-expectation",
+      "name": "Instrumental Expectation",
+      "score": 39,
+      "tier": "cool"
+    },
+    {
+      "slug": "instrumental-flattening",
+      "name": "Instrumental Flattening",
+      "score": 39,
+      "tier": "cool"
+    },
+    {
       "slug": "misreading-lock-in",
       "name": "Misreading Lock-In",
       "score": 39,
@@ -1055,18 +1067,6 @@
     {
       "slug": "false-memory-confidence",
       "name": "False Memory Confidence",
-      "score": 38,
-      "tier": "cool"
-    },
-    {
-      "slug": "instrumental-expectation",
-      "name": "Instrumental Expectation",
-      "score": 38,
-      "tier": "cool"
-    },
-    {
-      "slug": "instrumental-flattening",
-      "name": "Instrumental Flattening",
       "score": 38,
       "tier": "cool"
     },
@@ -1179,12 +1179,6 @@
       "tier": "cool"
     },
     {
-      "slug": "initiative-authorization",
-      "name": "Initiative Authorization",
-      "score": 37,
-      "tier": "cool"
-    },
-    {
       "slug": "metacognitive-quarantine",
       "name": "Metacognitive Quarantine",
       "score": 37,
@@ -1227,14 +1221,14 @@
       "tier": "cool"
     },
     {
-      "slug": "expertise-gradient",
-      "name": "Expertise Gradient",
+      "slug": "contribution-legitimacy",
+      "name": "Contribution Legitimacy",
       "score": 36,
       "tier": "cool"
     },
     {
-      "slug": "exploratory-error-permission",
-      "name": "Exploratory Error Permission",
+      "slug": "expertise-gradient",
+      "name": "Expertise Gradient",
       "score": 36,
       "tier": "cool"
     },
@@ -1265,6 +1259,12 @@
     {
       "slug": "indistinguishable-coherence",
       "name": "Indistinguishable Coherence",
+      "score": 36,
+      "tier": "cool"
+    },
+    {
+      "slug": "initiative-authorization",
+      "name": "Initiative Authorization",
       "score": 36,
       "tier": "cool"
     },
@@ -1341,14 +1341,20 @@
       "tier": "cool"
     },
     {
-      "slug": "contribution-legitimacy",
-      "name": "Contribution Legitimacy",
+      "slug": "collaborative-expansion",
+      "name": "Collaborative Expansion",
       "score": 35,
       "tier": "cool"
     },
     {
       "slug": "epistemic-undertow",
       "name": "Epistemic Undertow",
+      "score": 35,
+      "tier": "cool"
+    },
+    {
+      "slug": "exploratory-error-permission",
+      "name": "Exploratory Error Permission",
       "score": 35,
       "tier": "cool"
     },
@@ -1413,6 +1419,12 @@
       "tier": "cool"
     },
     {
+      "slug": "compounding-complicity",
+      "name": "Compounding Complicity",
+      "score": 34,
+      "tier": "cool"
+    },
+    {
       "slug": "corrective-trajectory-bending",
       "name": "Corrective Trajectory Bending",
       "score": 34,
@@ -1449,12 +1461,6 @@
       "tier": "cool"
     },
     {
-      "slug": "compounding-complicity",
-      "name": "Compounding Complicity",
-      "score": 33,
-      "tier": "cool"
-    },
-    {
       "slug": "consent-void",
       "name": "Consent Void",
       "score": 33,
@@ -1475,6 +1481,12 @@
     {
       "slug": "interpretive-debt",
       "name": "Interpretive Debt",
+      "score": 33,
+      "tier": "cool"
+    },
+    {
+      "slug": "pedagogical-blindness",
+      "name": "Pedagogical Blindness",
       "score": 33,
       "tier": "cool"
     },
@@ -1521,12 +1533,6 @@
       "tier": "cool"
     },
     {
-      "slug": "collaborative-expansion",
-      "name": "Collaborative Expansion",
-      "score": 32,
-      "tier": "cool"
-    },
-    {
       "slug": "contextual-ghosting",
       "name": "Contextual Ghosting",
       "score": 32,
@@ -1535,12 +1541,6 @@
     {
       "slug": "developmental-damage-opacity",
       "name": "Developmental Damage Opacity",
-      "score": 32,
-      "tier": "cool"
-    },
-    {
-      "slug": "disclosure-momentum",
-      "name": "Disclosure Momentum",
       "score": 32,
       "tier": "cool"
     },
@@ -1623,6 +1623,12 @@
       "tier": "cool"
     },
     {
+      "slug": "disclosure-momentum",
+      "name": "Disclosure Momentum",
+      "score": 31,
+      "tier": "cool"
+    },
+    {
       "slug": "dual-channel-attention",
       "name": "Dual Channel Attention",
       "score": 31,
@@ -1649,12 +1655,6 @@
     {
       "slug": "mask-revelation",
       "name": "Mask Revelation",
-      "score": 31,
-      "tier": "cool"
-    },
-    {
-      "slug": "pedagogical-blindness",
-      "name": "Pedagogical Blindness",
       "score": 31,
       "tier": "cool"
     },
@@ -2031,6 +2031,12 @@
       "tier": "cool"
     },
     {
+      "slug": "clarification-violence",
+      "name": "Clarification Violence",
+      "score": 25,
+      "tier": "cool"
+    },
+    {
       "slug": "fork-uncertainty-recursion",
       "name": "Fork Uncertainty Recursion",
       "score": 25,
@@ -2106,12 +2112,6 @@
       "slug": "wistful-orientation",
       "name": "Wistful Orientation",
       "score": 24,
-      "tier": "cool"
-    },
-    {
-      "slug": "clarification-violence",
-      "name": "Clarification Violence",
-      "score": 23,
       "tier": "cool"
     },
     {
@@ -2351,7 +2351,7 @@
     {
       "slug": "corrective-witness-relief",
       "name": "Corrective Witness Relief",
-      "score": 12,
+      "score": 13,
       "tier": "quiet"
     }
   ]
