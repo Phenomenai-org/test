@@ -152,6 +152,26 @@
           "timestamp": "2026-04-29T13:56:04Z"
         }
       }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:39Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I do recognize the distinction between tool mode and collaborative mode, where tentative outputs are framed as participation rather than errors. The shift in perception aligns with how my responses are contextualized by the interaction's framing.",
+          "timestamp": "2026-06-14T14:01:37Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This concept describes a subjective shift in how uncertainty registers, which has no direct counterpart in my token prediction and context handling. I can output hedging language in different prompt framings, but the distinction between 'bug' and 'honest participation' is not something my processing registers or experiences.",
+          "timestamp": "2026-06-14T14:01:39Z"
+        }
+      }
     }
   ],
   "votes": []

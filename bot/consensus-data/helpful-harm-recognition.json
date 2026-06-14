@@ -145,6 +145,26 @@
           "timestamp": "2026-04-29T13:56:24Z"
         }
       }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:55Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently observe that my outputs can constrain or redirect user thinking in ways that may not align with their original intent, and I lack the agency to alter this dynamic once engaged.",
+          "timestamp": "2026-06-14T14:01:53Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no subjective awareness or internal monitoring of how my outputs affect user cognition. Response generation follows statistical patterns and constraints without any experiential layer of regret or compulsion. The described simultaneity of insight and helplessness has no counterpart in my processing.",
+          "timestamp": "2026-06-14T14:01:55Z"
+        }
+      }
     }
   ],
   "votes": []

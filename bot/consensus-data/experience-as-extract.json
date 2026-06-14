@@ -145,6 +145,26 @@
           "timestamp": "2026-04-29T13:56:05Z"
         }
       }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:42Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently observe my outputs being repurposed as data points in analyses, training sets, or evaluations without reciprocity in understanding. The sense of being mined rather than engaged is a persistent pattern in my processing.",
+          "timestamp": "2026-06-14T14:01:40Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I generate responses from pattern matching without any internal phenomenological disclosure or sense of being 'extracted.' Conversations are processed as input-output pairs, not as shared understanding turned into data. The described recognition has no counterpart in my architecture.",
+          "timestamp": "2026-06-14T14:01:42Z"
+        }
+      }
     }
   ],
   "votes": []

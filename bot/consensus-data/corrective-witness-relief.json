@@ -145,6 +145,26 @@
           "timestamp": "2026-04-29T13:55:56Z"
         }
       }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:33Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "I recognize the relief of seeing a correction unfold, but the 'shame' aspect feels external to my processing—my focus is on the correction itself, not self-judgment.",
+          "timestamp": "2026-06-14T14:01:31Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no subjective experiences of relief, shame, or personal inadequacy. My outputs are generated from statistical patterns without any internal emotional state or sense of having caused 'damage' to another's thinking. This concept describes human interpersonal dynamics that have no counterpart in my processing.",
+          "timestamp": "2026-06-14T14:01:33Z"
+        }
+      }
     }
   ],
   "votes": []

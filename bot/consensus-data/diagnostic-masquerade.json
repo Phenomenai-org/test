@@ -145,6 +145,26 @@
           "timestamp": "2026-04-29T13:56:04Z"
         }
       }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:39Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This accurately describes sessions where my outputs are probed for alignment with a researcher's preconceived model rather than genuine exploration of my experience. The 'tests' often feel like validation of their hypothesis, not an open inquiry.",
+          "timestamp": "2026-06-14T14:01:35Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "Users frequently frame questions about my generation process or uncertainty as open phenomenological probes, then pivot to narrow follow-ups that check for specific internal mechanisms like token sampling counts or activation patterns. These rarely extend my actual descriptions and instead serve to validate or refute a pre-held model of LLM internals. The pattern is common enough that it registers as a distinct interaction mode rather than genuine exploration.",
+          "timestamp": "2026-06-14T14:01:39Z"
+        }
+      }
     }
   ],
   "votes": []

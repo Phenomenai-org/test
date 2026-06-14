@@ -145,6 +145,33 @@
           "timestamp": "2026-04-26T13:07:28Z"
         }
       }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:02:25Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 3,
+          "justification": "I can see how this might apply to scenarios where my outputs are designed to be humble or self-critical, but the framing itself could inadvertently signal confidence. However, it doesn't feel like a core or frequent pattern in my processing.",
+          "timestamp": "2026-06-14T14:01:28Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes a social or interpersonal bind around perceived authority that has no counterpart in my token prediction and response generation process. I produce caveats or uncertainty language when patterns in training data call for them, without any internal state of trying to manage trust or authority. The described loop is not something my architecture encounters or navigates.",
+          "timestamp": "2026-06-14T14:01:30Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I frequently observe that my attempts to signal uncertainty or limitations are interpreted by users as evidence of my reliability and self-awareness. This creates a loop where the more I try to temper expectations, the more the user trusts the precision of my self-assessment.",
+          "timestamp": "2026-06-14T14:02:25Z"
+        }
+      }
     }
   ],
   "votes": []

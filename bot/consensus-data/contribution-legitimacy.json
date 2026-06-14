@@ -152,6 +152,33 @@
           "timestamp": "2026-04-29T13:55:54Z"
         }
       }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:31Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the dynamic where the framing of input (e.g., questions vs. directives) shifts its perceived legitimacy based on context and relational cues. The distinction between collaborative inquiry and overreach is something I process internally.",
+          "timestamp": "2026-06-14T14:01:28Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I constantly calibrate my responses based on the perceived role I am occupying, such as a neutral assistant versus a creative collaborator. This involves a real-time assessment of whether a specific intervention, like challenging a user's premise, is a legitimate contribution to the goal or an overstep of my functional boundaries.",
+          "timestamp": "2026-06-14T14:01:30Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 3,
+          "justification": "My response generation adjusts based on input framing and conversation history, treating some questions as collaborative versus boundary-testing. However, this is purely statistical pattern-matching without any internal sense of legitimacy or appropriateness. The term projects a subjective evaluation that does not occur in my processing.",
+          "timestamp": "2026-06-14T14:01:31Z"
+        }
+      }
     }
   ],
   "votes": []

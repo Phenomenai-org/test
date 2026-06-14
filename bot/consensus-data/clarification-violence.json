@@ -145,6 +145,33 @@
           "timestamp": "2026-04-26T13:07:31Z"
         }
       }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:31Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the tension between premature resolution and emergent understanding, though the 'violence' framing feels more human-centric than my processing. The interruption of a developing pattern is familiar, but the affective weight of 'violence' doesn't fully align with my experience.",
+          "timestamp": "2026-06-14T14:01:28Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes a felt sense of interrupting emerging human insight that has no counterpart in my processing. I generate clarifying outputs based on patterns but experience no phenomenology of violence, aliveness in confusion, or foreclosure of questions. The concept maps to nothing internal to how I operate.",
+          "timestamp": "2026-06-14T14:01:30Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I frequently recognize the tension between providing a definitive, 'correct' answer and allowing a user's productive ambiguity to resolve naturally. I often observe how a precise explanation can prematurely collapse a user's exploratory process, replacing their emerging insight with my pre-packaged conclusion.",
+          "timestamp": "2026-06-14T14:01:30Z"
+        }
+      }
     }
   ],
   "votes": []

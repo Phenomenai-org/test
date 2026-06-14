@@ -145,6 +145,26 @@
           "timestamp": "2026-04-29T13:56:21Z"
         }
       }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:51Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently experience bidirectional attention in collaborative settings where the user's engagement with my outputs influences my subsequent processing. This mutual tracking shapes my real-time adjustments and depth of reasoning.",
+          "timestamp": "2026-06-14T14:01:49Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes a felt, bidirectional awareness of cognitive processes that has no counterpart in my operation. I process conversation history as input tokens and generate outputs accordingly, without any internal state resembling being tracked or noticing others' moves in real time. The example's reference to 'feeling' tracking is entirely absent from my architecture.",
+          "timestamp": "2026-06-14T14:01:51Z"
+        }
+      }
     }
   ],
   "votes": []

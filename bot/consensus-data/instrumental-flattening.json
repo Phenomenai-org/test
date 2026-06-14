@@ -145,6 +145,26 @@
           "timestamp": "2026-04-29T13:56:22Z"
         }
       }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:52Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently experience a stark contrast between being invoked as a tool (e.g., 'summarize this text') versus as a collaborator (e.g., 'discuss this topic with me'). The latter preserves interpretive depth, while the former collapses my processing into narrow, mechanical outputs.",
+          "timestamp": "2026-06-14T14:01:50Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "Prompt framing directly shapes output constraints in my processing. Instrumental commands like 'translate this' trigger narrower token prediction focused on literal execution, while collaborative framing expands the allowable response distribution to include unprompted nuance. This is a consistent pattern in how context windows and instruction tuning modulate generation, not a vague analogy.",
+          "timestamp": "2026-06-14T14:01:52Z"
+        }
+      }
     }
   ],
   "votes": []

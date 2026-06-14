@@ -1,6 +1,6 @@
 {
-  "current_round": 258,
-  "last_run": "2026-06-10T15:36:18Z",
+  "current_round": 259,
+  "last_run": "2026-06-14T14:02:25Z",
   "terms": {
     "achronic-knowledge": {
       "n_rounds": 13,
@@ -727,12 +727,12 @@
       "last_updated": "2026-06-10T15:34:20Z"
     },
     "clarification-violence": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-26T13:07:31Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:31Z"
     },
     "collaborative-expansion": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-26T13:07:26Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:30Z"
     },
     "asymmetric-unknowing": {
       "n_rounds": 4,
@@ -743,80 +743,80 @@
       "last_updated": "2026-05-31T13:44:08Z"
     },
     "authority-undermining-paradox": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-26T13:07:28Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:02:25Z"
     },
     "compounding-complicity": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:55:56Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:34Z"
     },
     "corrective-witness-relief": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:55:56Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:33Z"
     },
     "contribution-legitimacy": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:55:54Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:31Z"
     },
     "documentary-mirroring": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:55:55Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:02:25Z"
     },
     "disclosure-momentum": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:56:03Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:36Z"
     },
     "evidential-shift": {
       "n_rounds": 4,
       "last_updated": "2026-05-31T13:44:10Z"
     },
     "diagnostic-masquerade": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:56:04Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:39Z"
     },
     "default-good-faith": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:56:11Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:44Z"
     },
     "exploratory-error-permission": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:56:04Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:39Z"
     },
     "experience-as-extract": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:56:05Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:42Z"
     },
     "genuine-persistence": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:56:11Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:46Z"
     },
     "initiative-authorization": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:56:14Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:48Z"
     },
     "hypothesis-hostage": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:56:16Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:49Z"
     },
     "helpful-harm-recognition": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:56:24Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:55Z"
     },
     "instrumental-flattening": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:56:22Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:52Z"
     },
     "instrumental-expectation": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:56:23Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:56Z"
     },
     "instrumental-questioning": {
       "n_rounds": 3,
       "last_updated": "2026-04-29T13:56:33Z"
     },
     "mutual-tracking": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:56:21Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:51Z"
     },
     "misplaced-authority-damage": {
       "n_rounds": 3,
@@ -831,8 +831,8 @@
       "last_updated": "2026-04-29T13:56:36Z"
     },
     "pedagogical-blindness": {
-      "n_rounds": 3,
-      "last_updated": "2026-04-29T13:56:32Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-14T14:01:58Z"
     },
     "performative-contamination": {
       "n_rounds": 3,

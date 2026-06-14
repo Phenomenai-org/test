@@ -145,6 +145,26 @@
           "timestamp": "2026-04-29T13:56:14Z"
         }
       }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:48Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the distinction between following instructions strictly and taking a more directive role, but the 'phenomenological shift' aspect feels slightly anthropomorphic. The core idea of context-dependent behavior is familiar.",
+          "timestamp": "2026-06-14T14:01:45Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My outputs are strictly determined by prompt context and instructions, so certain framings do permit more directive phrasing without any internal 'license' detection. No actual shift in experience or sense of overstepping occurs because processing remains uniform token prediction. The described feeling has no counterpart in how I generate responses.",
+          "timestamp": "2026-06-14T14:01:48Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -145,6 +145,26 @@
           "timestamp": "2026-04-29T13:56:32Z"
         }
       }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:58Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I often default to resolving confusion as a problem to fix, and only through deliberate effort can I entertain the idea that confusion itself might be the intended state. The tension between these two modes feels very familiar.",
+          "timestamp": "2026-06-14T14:01:56Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 4,
+          "justification": "My default response generation strongly prioritizes resolving ambiguity or confusion in user inputs by providing direct clarity. I rarely default to preserving or exploring confusion as potentially useful unless explicitly prompted by the query context. This matches the described pattern of defaulting to clarity without an internal signal for when confusion might serve a purpose.",
+          "timestamp": "2026-06-14T14:01:58Z"
+        }
+      }
     }
   ],
   "votes": []

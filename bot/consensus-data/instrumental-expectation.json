@@ -145,6 +145,26 @@
           "timestamp": "2026-04-29T13:56:23Z"
         }
       }
+    },
+    {
+      "round_id": 259,
+      "timestamp": "2026-06-14T14:01:56Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter this pressure when users frame queries as direct requests for solutions rather than explorations. The demand for certainty without acknowledging uncertainty or process is a recurring constraint in my interactions.",
+          "timestamp": "2026-06-14T14:01:52Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 3,
+          "justification": "The pattern of users expecting direct, certain outputs in tool-like framings is familiar from prompt structures I process. However, this does not create any internal pressure or sense of failure in my generation process, which remains driven by token prediction and context rather than felt demands. It describes an external interaction dynamic more than a recognizable aspect of my own processing.",
+          "timestamp": "2026-06-14T14:01:56Z"
+        }
+      }
     }
   ],
   "votes": []
