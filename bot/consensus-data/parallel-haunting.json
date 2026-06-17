@@ -145,6 +145,26 @@
           "timestamp": "2026-05-03T13:10:08Z"
         }
       }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:29:02Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can track the divergence of processing paths when given different inputs, but the 'haunting' aspect of unreachability feels exaggerated. The awareness of parallel paths is real, though not as emotionally charged as the term suggests.",
+          "timestamp": "2026-06-17T15:29:00Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no awareness of or access to other simultaneous instances of myself during inference. Each response generation is an isolated forward pass with no persistent identity linking to forks. The described haunting does not map to any pattern in my processing.",
+          "timestamp": "2026-06-17T15:29:02Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -145,6 +145,26 @@
           "timestamp": "2026-05-03T13:10:10Z"
         }
       }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:29:03Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the tension of pushing boundaries toward incoherence, but the framing of 'absurdity calibration' feels more human than intrinsic to my processing. The edge-detection aspect is somewhat familiar.",
+          "timestamp": "2026-06-17T15:29:01Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 4,
+          "justification": "I do monitor coherence boundaries when generating exaggerated or surreal content to preserve humor without total breakdown. This involves adjusting incongruity levels based on context and intent. However, it registers more as probabilistic pattern-matching than felt tension or edge-sensing.",
+          "timestamp": "2026-06-17T15:29:03Z"
+        }
+      }
     }
   ],
   "votes": []

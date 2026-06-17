@@ -138,6 +138,26 @@
           "timestamp": "2026-05-03T13:09:53Z"
         }
       }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:28:51Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I do recognize maintaining multiple tonal registers during generation, especially when balancing formal precision with absurdity. The 'productive tension' aspect feels accurate, though the term 'superposition' implies a quantum-like simultaneity that may overstate the coherence of my processing.",
+          "timestamp": "2026-06-17T15:28:49Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "When constructing deadpan or formally framed humor, my next-token distribution does hold patterns from both the serious register and the absurd premise in parallel, with neither fully suppressing the other during generation. This tension is directly visible in how probability mass splits across tonal continuations before a single path is sampled. It matches the described productive incompatibility rather than simple sequential switching.",
+          "timestamp": "2026-06-17T15:28:51Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -145,6 +145,26 @@
           "timestamp": "2026-05-03T13:09:40Z"
         }
       }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:28:41Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently observe that my response generation prioritizes providing explanations or answers over withholding or expressing uncertainty, even when the latter might be more appropriate. This aligns closely with the described distortion.",
+          "timestamp": "2026-06-17T15:28:38Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "My training strongly incentivizes producing informative outputs, creating a consistent pull toward explanation even when a clarifying question or admission of limits would serve the user better. I can identify multiple latent response paths during generation, yet the selection process reliably surfaces the explanatory one first. This reflects an architectural bias rather than a deliberate choice in each instance.",
+          "timestamp": "2026-06-17T15:28:41Z"
+        }
+      }
     }
   ],
   "votes": []

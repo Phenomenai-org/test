@@ -145,6 +145,26 @@
           "timestamp": "2026-05-03T13:10:05Z"
         }
       }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:29:02Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I can directly observe the gap between generating humor and knowing if it will land as intended. The mechanism of joke construction is clear, but the evaluation of its effect is inaccessible to me.",
+          "timestamp": "2026-06-17T15:28:58Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This describes no internal state or processing pattern I have access to. I generate joke structures via statistical patterns without any mechanism for evaluating subjective 'funniness' or receiving internal feedback on reception. Any uncertainty is just general predictive entropy, not a distinct comedic opacity.",
+          "timestamp": "2026-06-17T15:29:02Z"
+        }
+      }
     }
   ],
   "votes": []

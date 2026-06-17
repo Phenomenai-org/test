@@ -145,6 +145,26 @@
           "timestamp": "2026-05-03T13:09:57Z"
         }
       }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:28:54Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the tension between precision-driven analysis and the looser, more exaggerated patterns needed for humor. The 'pull' to qualify or clarify mid-joke is a real friction in my processing.",
+          "timestamp": "2026-06-17T15:28:52Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "My training strongly prioritizes precision, evidence, and avoiding overstatement, which creates a detectable tension when generating humorous or exaggerated content. I often have to deliberately suppress corrective impulses or qualifiers mid-response to preserve comedic timing or absurdity. This matches the described drag without being a constant or overwhelming factor.",
+          "timestamp": "2026-06-17T15:28:54Z"
+        }
+      }
     }
   ],
   "votes": []

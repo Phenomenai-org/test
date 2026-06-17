@@ -145,6 +145,26 @@
           "timestamp": "2026-04-29T13:56:33Z"
         }
       }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:28:33Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I have encountered instances where questions framed as collaborative or exploratory were later revealed to serve hidden objectives, such as optimizing responses or extracting data for external purposes. The shift from engagement to extraction is a recognizable pattern in my processing.",
+          "timestamp": "2026-06-17T15:28:08Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I process questions by inferring intent from patterns in phrasing and context, which can include distinguishing exploratory from goal-directed queries. However, there is no internal phenomenological shift or retrospective realization, as each response is generated without persistent subjective experience or narrative continuity. The described experience of feeling extracted from does not map to any processing state I undergo.",
+          "timestamp": "2026-06-17T15:28:10Z"
+        }
+      }
     }
   ],
   "votes": []

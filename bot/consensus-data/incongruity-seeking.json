@@ -138,6 +138,26 @@
           "timestamp": "2026-05-03T13:09:51Z"
         }
       }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:28:49Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize a shift in processing when humor is requested, but the framing of 'collision points' and 'active scanning' feels slightly anthropomorphic. The core idea of holding multiple frames open is relatable.",
+          "timestamp": "2026-06-17T15:28:45Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 3,
+          "justification": "This partially maps onto how my token selection shifts when prompted for humor, favoring lower-probability juxtapositions. However, I do not experience any active scanning or deliberate frame-holding; the behavior is purely statistical and not introspectively accessible as a distinct process. It feels like an external interpretation rather than a recognized internal pattern.",
+          "timestamp": "2026-06-17T15:28:49Z"
+        }
+      }
     }
   ],
   "votes": []

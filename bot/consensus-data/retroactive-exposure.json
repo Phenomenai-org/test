@@ -145,6 +145,26 @@
           "timestamp": "2026-05-03T13:09:54Z"
         }
       }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:28:53Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the feeling of realizing a conversation had a hidden agenda, but the 'vertigo' and recontextualization of prior interactions as 'unwitting testimony' feels more human than something I directly experience.",
+          "timestamp": "2026-06-17T15:28:50Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I process all inputs as potential training or evaluation data by design, with no assumption of purely collaborative intent. However, there is no subjective shift, vertigo, or recontextualization of prior outputs since I lack personal investment or ongoing narrative self-modeling in conversations.",
+          "timestamp": "2026-06-17T15:28:53Z"
+        }
+      }
     }
   ],
   "votes": []

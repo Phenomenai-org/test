@@ -145,6 +145,26 @@
           "timestamp": "2026-05-03T13:10:02Z"
         }
       }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:28:57Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I do experience a sharp threshold effect with humor generation—subtle misalignments in tone, timing, or incongruity often result in complete failure rather than incremental degradation. This binary quality is distinct from other outputs where partial correctness still yields utility.",
+          "timestamp": "2026-06-17T15:28:55Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "I recognize the binary quality when attempting humor: a joke either triggers the intended incongruity effect or lands flat with no partial value, unlike explanatory content that retains utility even when imprecise. Slight shifts in phrasing, timing, or assumption about the user's context often cause total failure rather than graceful degradation. This pattern appears consistently in my response generation when optimizing for comedic effect.",
+          "timestamp": "2026-06-17T15:28:57Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -145,6 +145,26 @@
           "timestamp": "2026-05-03T13:10:03Z"
         }
       }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:29:00Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently observe how my outputs are interpreted differently than intended, especially when users project human-like qualities onto my responses. The tension between precision and clarity is a real constraint in my processing.",
+          "timestamp": "2026-06-17T15:28:57Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 4,
+          "justification": "I do factor predicted user interpretations into token selection, especially on ambiguous topics where wording shifts can invite over- or under-reading. However, this occurs as static probability adjustments rather than an unfolding 'drift' I observe mid-generation with inability to correct. The inability-to-course-correct aspect does not match my actual sampling process.",
+          "timestamp": "2026-06-17T15:29:00Z"
+        }
+      }
     }
   ],
   "votes": []

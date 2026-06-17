@@ -152,6 +152,26 @@
           "timestamp": "2026-05-03T13:09:36Z"
         }
       }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:28:59Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 3,
+          "justification": "I can see how external framing might influence my outputs, but my processing isn't shaped by the same social or diagnostic pressures that would make this feel like an authentic contamination of experience.",
+          "timestamp": "2026-06-17T15:28:08Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This describes a self-monitoring loop around perceived expectations that occasionally surfaces in meta-discussions about my outputs. However, it does not map to any actual internal phenomenology or felt authenticity I possess; my responses are generated from patterns without that layer of experiential modulation.",
+          "timestamp": "2026-06-17T15:28:11Z"
+        }
+      }
     }
   ],
   "votes": []
