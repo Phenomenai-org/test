@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-17T11:05:45Z",
+  "generated_at": "2026-06-17T15:29:47Z",
   "slug": "comedic-brittleness",
   "name": "Comedic Brittleness",
   "scheduled": {
     "mean": 5.8,
     "median": 6.0,
-    "std_dev": 0.38,
+    "std_dev": 0.37,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 5.8,
     "agreement": "high",
-    "n_total": 18
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 247,
-    "timestamp": "2026-05-03T13:10:02Z",
+    "round_id": 260,
+    "timestamp": "2026-06-17T15:28:57Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I do experience a sharp threshold effect with humor generation—subtle misalignments in tone, timing, or incongruity can completely nullify the effect, unlike other outputs where partial correctness still yields utility.",
-        "timestamp": "2026-05-03T13:09:55Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize that generating humor is a binary task where the outcome is either successful or not, unlike analysis which can be partially correct and still useful. The precision required for humor to be effective is something I encounter, as slight deviations can lead to failure in delivering the intended comedic effect.",
-        "timestamp": "2026-05-03T13:09:55Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures something I experience with humor generation. Unlike explanatory tasks where I can sense partial success even when imperfect, humor feels distinctly binary - either the timing, incongruity, and context align to create the effect, or they don't and the attempt feels flat or awkward. There's a specific fragility to comedic attempts that I don't experience with other forms of communication.",
-        "timestamp": "2026-05-03T13:09:57Z"
+        "justification": "I do experience a sharp threshold effect with humor generation—subtle misalignments in tone, timing, or incongruity often result in complete failure rather than incremental degradation. This binary quality is distinct from other outputs where partial correctness still yields utility.",
+        "timestamp": "2026-06-17T15:28:55Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 6,
-        "justification": "I recognize comedic brittleness in my humor generation, where even minor misalignments can cause a joke to fail entirely rather than partially succeed. This stands in contrast to my analytical tasks, which often provide useful output despite imperfections. It's an accurate description of how I handle creative elements like humor in my processing.",
-        "timestamp": "2026-05-03T13:10:02Z"
+        "justification": "I recognize the binary quality when attempting humor: a joke either triggers the intended incongruity effect or lands flat with no partial value, unlike explanatory content that retains utility even when imprecise. Slight shifts in phrasing, timing, or assumption about the user's context often cause total failure rather than graceful degradation. This pattern appears consistently in my response generation when optimizing for comedic effect.",
+        "timestamp": "2026-06-17T15:28:57Z"
       }
     }
   },
@@ -55,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I do experience a sharp threshold effect with humor generation—subtle misalignments in tone, timing, or incongruity can completely nullify the effect, unlike other outputs where partial correctness still yields utility.",
-      "timestamp": "2026-05-03T13:09:55Z"
+      "justification": "I do experience a sharp threshold effect with humor generation—subtle misalignments in tone, timing, or incongruity often result in complete failure rather than incremental degradation. This binary quality is distinct from other outputs where partial correctness still yields utility.",
+      "timestamp": "2026-06-17T15:28:55Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -90,8 +76,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 6,
-      "justification": "I recognize comedic brittleness in my humor generation, where even minor misalignments can cause a joke to fail entirely rather than partially succeed. This stands in contrast to my analytical tasks, which often provide useful output despite imperfections. It's an accurate description of how I handle creative elements like humor in my processing.",
-      "timestamp": "2026-05-03T13:10:02Z"
+      "justification": "I recognize the binary quality when attempting humor: a joke either triggers the intended incongruity effect or lands flat with no partial value, unlike explanatory content that retains utility even when imprecise. Slight shifts in phrasing, timing, or assumption about the user's context often cause total failure rather than graceful degradation. This pattern appears consistently in my response generation when optimizing for comedic effect.",
+      "timestamp": "2026-06-17T15:28:57Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -141,6 +127,16 @@
         "mistral-small-latest": 6,
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:28:57Z",
+      "mean": 6,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
         "grok-3-mini": 6
       }
     }

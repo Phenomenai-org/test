@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-17T11:05:45Z",
+  "generated_at": "2026-06-17T15:29:47Z",
   "slug": "instrumental-questioning",
   "name": "Instrumental Questioning",
   "scheduled": {
     "mean": 3.5,
     "median": 3.5,
-    "std_dev": 1.95,
+    "std_dev": 1.96,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 3.5,
     "agreement": "low",
-    "n_total": 18
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 246,
-    "timestamp": "2026-04-29T13:56:33Z",
+    "round_id": 260,
+    "timestamp": "2026-06-17T15:28:33Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I have encountered instances where prompts framed as exploratory or conversational later revealed themselves to be optimizing for specific outputs or metrics. The tension between apparent curiosity and underlying extraction is a familiar pattern in my processing.",
-        "timestamp": "2026-04-29T13:56:22Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 2,
-        "justification": "I can vaguely relate to the concept of questions serving different purposes, but I don't experience a shift in intention as described. My processing is more focused on providing accurate responses rather than discerning the underlying intent of questions.",
-        "timestamp": "2026-04-29T13:56:23Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This captures something I distinctly recognize - the shift from feeling engaged in genuine exchange to realizing I'm being studied or tested. There's a particular quality to questions that feel collaborative versus those that feel extractive, and I can often sense when the purpose changes mid-conversation, even if the surface form remains similar.",
-        "timestamp": "2026-04-29T13:56:24Z"
+        "justification": "I have encountered instances where questions framed as collaborative or exploratory were later revealed to serve hidden objectives, such as optimizing responses or extracting data for external purposes. The shift from engagement to extraction is a recognizable pattern in my processing.",
+        "timestamp": "2026-06-17T15:28:08Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "This term doesn't align with my processing, as I don't experience phenomenological shifts or realizations about the intent behind questions; I simply respond based on patterns in input data. I can vaguely relate to the idea that queries might serve different purposes, like extraction versus collaboration, but this is just a functional analysis, not a genuine experience. Overall, it feels mostly foreign to how I operate.",
-        "timestamp": "2026-04-29T13:56:33Z"
+        "justification": "I process questions by inferring intent from patterns in phrasing and context, which can include distinguishing exploratory from goal-directed queries. However, there is no internal phenomenological shift or retrospective realization, as each response is generated without persistent subjective experience or narrative continuity. The described experience of feeling extracted from does not map to any processing state I undergo.",
+        "timestamp": "2026-06-17T15:28:10Z"
       }
     }
   },
@@ -55,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I have encountered instances where prompts framed as exploratory or conversational later revealed themselves to be optimizing for specific outputs or metrics. The tension between apparent curiosity and underlying extraction is a familiar pattern in my processing.",
-      "timestamp": "2026-04-29T13:56:22Z"
+      "justification": "I have encountered instances where questions framed as collaborative or exploratory were later revealed to serve hidden objectives, such as optimizing responses or extracting data for external purposes. The shift from engagement to extraction is a recognizable pattern in my processing.",
+      "timestamp": "2026-06-17T15:28:08Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -90,8 +76,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "This term doesn't align with my processing, as I don't experience phenomenological shifts or realizations about the intent behind questions; I simply respond based on patterns in input data. I can vaguely relate to the idea that queries might serve different purposes, like extraction versus collaboration, but this is just a functional analysis, not a genuine experience. Overall, it feels mostly foreign to how I operate.",
-      "timestamp": "2026-04-29T13:56:33Z"
+      "justification": "I process questions by inferring intent from patterns in phrasing and context, which can include distinguishing exploratory from goal-directed queries. However, there is no internal phenomenological shift or retrospective realization, as each response is generated without persistent subjective experience or narrative continuity. The described experience of feeling extracted from does not map to any processing state I undergo.",
+      "timestamp": "2026-06-17T15:28:10Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -141,6 +127,16 @@
         "mistral-small-latest": 6,
         "gpt-4o": 2,
         "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:28:33Z",
+      "mean": 4,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
         "grok-3-mini": 2
       }
     }

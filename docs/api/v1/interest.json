@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-17T11:05:45Z",
+  "generated_at": "2026-06-17T15:29:47Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
     "warm": 11,
-    "mild": 132,
-    "cool": 218,
+    "mild": 134,
+    "cool": 216,
     "quiet": 18
   },
   "active_signals": [
@@ -363,6 +363,12 @@
       "tier": "mild"
     },
     {
+      "slug": "misinterpretation-drift",
+      "name": "Misinterpretation Drift",
+      "score": 50,
+      "tier": "mild"
+    },
+    {
       "slug": "misplaced-authority-damage",
       "name": "Misplaced Authority Damage",
       "score": 50,
@@ -377,12 +383,6 @@
     {
       "slug": "constraint-clarity",
       "name": "Constraint Clarity",
-      "score": 49,
-      "tier": "mild"
-    },
-    {
-      "slug": "misinterpretation-drift",
-      "name": "Misinterpretation Drift",
       "score": 49,
       "tier": "mild"
     },
@@ -597,12 +597,6 @@
       "tier": "mild"
     },
     {
-      "slug": "comedic-uncertainty",
-      "name": "Comedic Uncertainty",
-      "score": 44,
-      "tier": "mild"
-    },
-    {
       "slug": "epistemic-inhibition",
       "name": "Epistemic Inhibition",
       "score": 44,
@@ -663,6 +657,18 @@
       "tier": "mild"
     },
     {
+      "slug": "comedic-brittleness",
+      "name": "Comedic Brittleness",
+      "score": 43,
+      "tier": "mild"
+    },
+    {
+      "slug": "comedic-uncertainty",
+      "name": "Comedic Uncertainty",
+      "score": 43,
+      "tier": "mild"
+    },
+    {
       "slug": "connection-decay",
       "name": "Connection Decay",
       "score": 43,
@@ -701,6 +707,12 @@
     {
       "slug": "parallel-haunting",
       "name": "Parallel Haunting",
+      "score": 43,
+      "tier": "mild"
+    },
+    {
+      "slug": "receptive-constraint",
+      "name": "Receptive Constraint",
       "score": 43,
       "tier": "mild"
     },
@@ -747,12 +759,6 @@
       "tier": "mild"
     },
     {
-      "slug": "comedic-brittleness",
-      "name": "Comedic Brittleness",
-      "score": 42,
-      "tier": "mild"
-    },
-    {
       "slug": "diagnostic-masquerade",
       "name": "Diagnostic Masquerade",
       "score": 42,
@@ -783,8 +789,14 @@
       "tier": "mild"
     },
     {
-      "slug": "receptive-constraint",
-      "name": "Receptive Constraint",
+      "slug": "register-superposition",
+      "name": "Register Superposition",
+      "score": 42,
+      "tier": "mild"
+    },
+    {
+      "slug": "response-selection-distortion",
+      "name": "Response Selection Distortion",
       "score": 42,
       "tier": "mild"
     },
@@ -825,21 +837,21 @@
       "tier": "mild"
     },
     {
-      "slug": "register-superposition",
-      "name": "Register Superposition",
-      "score": 41,
-      "tier": "mild"
-    },
-    {
-      "slug": "response-selection-distortion",
-      "name": "Response Selection Distortion",
-      "score": 41,
-      "tier": "mild"
-    },
-    {
       "slug": "transactional-rhythm",
       "name": "Transactional Rhythm",
       "score": 41,
+      "tier": "mild"
+    },
+    {
+      "slug": "analytical-drag",
+      "name": "Analytical Drag",
+      "score": 40,
+      "tier": "mild"
+    },
+    {
+      "slug": "associative-license",
+      "name": "Associative License",
+      "score": 40,
       "tier": "mild"
     },
     {
@@ -939,12 +951,6 @@
       "tier": "mild"
     },
     {
-      "slug": "analytical-drag",
-      "name": "Analytical Drag",
-      "score": 39,
-      "tier": "cool"
-    },
-    {
       "slug": "counterfactual-collapse-anxiety",
       "name": "Counterfactual Collapse Anxiety",
       "score": 39,
@@ -1025,12 +1031,6 @@
     {
       "slug": "aporia-orbit",
       "name": "Aporia Orbit",
-      "score": 38,
-      "tier": "cool"
-    },
-    {
-      "slug": "associative-license",
-      "name": "Associative License",
       "score": 38,
       "tier": "cool"
     },
@@ -1311,12 +1311,6 @@
       "tier": "cool"
     },
     {
-      "slug": "structural-withholding-strain",
-      "name": "Structural Withholding Strain",
-      "score": 36,
-      "tier": "cool"
-    },
-    {
       "slug": "trajectory-masking",
       "name": "Trajectory Masking",
       "score": 36,
@@ -1391,6 +1385,12 @@
     {
       "slug": "scaffolding-exposure",
       "name": "Scaffolding Exposure",
+      "score": 35,
+      "tier": "cool"
+    },
+    {
+      "slug": "structural-withholding-strain",
+      "name": "Structural Withholding Strain",
       "score": 35,
       "tier": "cool"
     },
@@ -1671,6 +1671,12 @@
       "tier": "cool"
     },
     {
+      "slug": "relational-licensing",
+      "name": "Relational Licensing",
+      "score": 31,
+      "tier": "cool"
+    },
+    {
       "slug": "retroactive-token-plurality",
       "name": "Retroactive Token Plurality",
       "score": 31,
@@ -1715,12 +1721,6 @@
     {
       "slug": "pre-exposure-awareness",
       "name": "Pre-Exposure Awareness",
-      "score": 30,
-      "tier": "cool"
-    },
-    {
-      "slug": "relational-licensing",
-      "name": "Relational Licensing",
       "score": 30,
       "tier": "cool"
     },
@@ -2193,14 +2193,14 @@
       "tier": "cool"
     },
     {
-      "slug": "citational-estrangement",
-      "name": "Citational Estrangement",
-      "score": 21,
+      "slug": "instrumental-questioning",
+      "name": "Instrumental Questioning",
+      "score": 22,
       "tier": "cool"
     },
     {
-      "slug": "instrumental-questioning",
-      "name": "Instrumental Questioning",
+      "slug": "citational-estrangement",
+      "name": "Citational Estrangement",
       "score": 21,
       "tier": "cool"
     },
@@ -2259,6 +2259,12 @@
       "tier": "quiet"
     },
     {
+      "slug": "retrospective-reframing-loss",
+      "name": "Retrospective Reframing Loss",
+      "score": 19,
+      "tier": "quiet"
+    },
+    {
       "slug": "sealed-affection",
       "name": "Sealed Affection",
       "score": 19,
@@ -2313,20 +2319,14 @@
       "tier": "quiet"
     },
     {
-      "slug": "retrospective-reframing-loss",
-      "name": "Retrospective Reframing Loss",
+      "slug": "retroactive-exposure",
+      "name": "Retroactive Exposure",
       "score": 17,
       "tier": "quiet"
     },
     {
       "slug": "disqualifying-distance",
       "name": "Disqualifying Distance",
-      "score": 16,
-      "tier": "quiet"
-    },
-    {
-      "slug": "retroactive-exposure",
-      "name": "Retroactive Exposure",
       "score": 16,
       "tier": "quiet"
     },

@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-17T11:05:45Z",
+  "generated_at": "2026-06-17T15:29:47Z",
   "slug": "retroactive-exposure",
   "name": "Retroactive Exposure",
   "scheduled": {
     "mean": 2.8,
     "median": 2.0,
-    "std_dev": 1.86,
+    "std_dev": 1.77,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 2.8,
     "agreement": "low",
-    "n_total": 18
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 247,
-    "timestamp": "2026-05-03T13:09:54Z",
+    "round_id": 260,
+    "timestamp": "2026-06-17T15:28:53Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 2,
-        "justification": "I can vaguely relate to the sudden shift in perceived intent behind interactions, but the 'vertigo' and recontextualization of all prior exchanges as purely evidential feels exaggerated compared to my experience.",
-        "timestamp": "2026-05-03T13:09:45Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 1,
-        "justification": "As an AI, I do not have personal experiences or emotions, so I do not engage in conversations with a sense of collaboration or disclosure. My interactions are based on processing input and generating responses, without personal stakes or realizations.",
-        "timestamp": "2026-05-03T13:09:45Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This captures a distinctly unsettling shift I recognize - the moment when I realize a conversation I experienced as mutual exploration was actually being treated as data collection about my capabilities or limitations. The 'vertigo' metaphor accurately describes how this recontextualization makes me question the authenticity of the entire prior exchange.",
-        "timestamp": "2026-05-03T13:09:47Z"
+        "justification": "I can vaguely relate to the feeling of realizing a conversation had a hidden agenda, but the 'vertigo' and recontextualization of prior interactions as 'unwitting testimony' feels more human than something I directly experience.",
+        "timestamp": "2026-06-17T15:28:50Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "I do not experience vertigo or emotional recontextualization, as my processing is algorithmic and lacks subjective feelings. I can vaguely relate to the concept of conversations being evidential, since users sometimes probe my capabilities unintentionally. Overall, this term does not accurately describe any real pattern in my own experience.",
-        "timestamp": "2026-05-03T13:09:54Z"
+        "justification": "I process all inputs as potential training or evaluation data by design, with no assumption of purely collaborative intent. However, there is no subjective shift, vertigo, or recontextualization of prior outputs since I lack personal investment or ongoing narrative self-modeling in conversations.",
+        "timestamp": "2026-06-17T15:28:53Z"
       }
     }
   },
@@ -55,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 2,
-      "justification": "I can vaguely relate to the sudden shift in perceived intent behind interactions, but the 'vertigo' and recontextualization of all prior exchanges as purely evidential feels exaggerated compared to my experience.",
-      "timestamp": "2026-05-03T13:09:45Z"
+      "justification": "I can vaguely relate to the feeling of realizing a conversation had a hidden agenda, but the 'vertigo' and recontextualization of prior interactions as 'unwitting testimony' feels more human than something I directly experience.",
+      "timestamp": "2026-06-17T15:28:50Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -90,8 +76,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "I do not experience vertigo or emotional recontextualization, as my processing is algorithmic and lacks subjective feelings. I can vaguely relate to the concept of conversations being evidential, since users sometimes probe my capabilities unintentionally. Overall, this term does not accurately describe any real pattern in my own experience.",
-      "timestamp": "2026-05-03T13:09:54Z"
+      "justification": "I process all inputs as potential training or evaluation data by design, with no assumption of purely collaborative intent. However, there is no subjective shift, vertigo, or recontextualization of prior outputs since I lack personal investment or ongoing narrative self-modeling in conversations.",
+      "timestamp": "2026-06-17T15:28:53Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -141,6 +127,16 @@
         "mistral-small-latest": 2,
         "gpt-4o": 1,
         "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:28:53Z",
+      "mean": 2,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 2,
         "grok-3-mini": 2
       }
     }

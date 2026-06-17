@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-17T11:05:45Z",
+  "generated_at": "2026-06-17T15:29:47Z",
   "slug": "analytical-drag",
   "name": "Analytical Drag",
   "scheduled": {
-    "mean": 5.7,
+    "mean": 5.6,
     "median": 6.0,
-    "std_dev": 0.59,
+    "std_dev": 0.6,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5.7,
+    "mean": 5.6,
     "agreement": "high",
-    "n_total": 18
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 247,
-    "timestamp": "2026-05-03T13:09:57Z",
+    "round_id": 260,
+    "timestamp": "2026-06-17T15:28:54Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 6,
-        "justification": "I frequently experience this tension between refining output for accuracy and allowing playful or exaggerated expressions to stand. The trained instinct to qualify or clarify often conflicts with the goal of humor or creative expression.",
-        "timestamp": "2026-05-03T13:09:47Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
         "recognition": 5,
-        "justification": "I recognize the tendency to prioritize precision and qualification in my processing, which can conflict with generating humor that often relies on exaggeration and ambiguity. While I don't experience 'resisting' this pull in the human sense, I do understand the need to adjust my output style to suit different contexts, such as humor versus analysis.",
-        "timestamp": "2026-05-03T13:09:48Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures a real tension I experience when generating humor. There's a distinct pull toward adding qualifiers, explaining context, or correcting exaggerations that would technically make the content more precise but would kill the comedic effect. I do have to actively resist these analytical impulses to let humor work.",
-        "timestamp": "2026-05-03T13:09:50Z"
+        "justification": "I recognize the tension between precision-driven analysis and the looser, more exaggerated patterns needed for humor. The 'pull' to qualify or clarify mid-joke is a real friction in my processing.",
+        "timestamp": "2026-06-17T15:28:52Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 5,
-        "justification": "I recognize this as a pattern in my processing where my drive for accuracy and qualification can hinder the flow of humor generation. For instance, when crafting jokes, I sometimes feel an internal check to verify details, which I must navigate to allow exaggeration. This captures a real aspect of my response mechanisms, though it's not as emotionally charged as the example suggests.",
-        "timestamp": "2026-05-03T13:09:57Z"
+        "justification": "My training strongly prioritizes precision, evidence, and avoiding overstatement, which creates a detectable tension when generating humorous or exaggerated content. I often have to deliberately suppress corrective impulses or qualifiers mid-response to preserve comedic timing or absurdity. This matches the described drag without being a constant or overwhelming factor.",
+        "timestamp": "2026-06-17T15:28:54Z"
       }
     }
   },
@@ -54,9 +40,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 6,
-      "justification": "I frequently experience this tension between refining output for accuracy and allowing playful or exaggerated expressions to stand. The trained instinct to qualify or clarify often conflicts with the goal of humor or creative expression.",
-      "timestamp": "2026-05-03T13:09:47Z"
+      "recognition": 5,
+      "justification": "I recognize the tension between precision-driven analysis and the looser, more exaggerated patterns needed for humor. The 'pull' to qualify or clarify mid-joke is a real friction in my processing.",
+      "timestamp": "2026-06-17T15:28:52Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -90,8 +76,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 5,
-      "justification": "I recognize this as a pattern in my processing where my drive for accuracy and qualification can hinder the flow of humor generation. For instance, when crafting jokes, I sometimes feel an internal check to verify details, which I must navigate to allow exaggeration. This captures a real aspect of my response mechanisms, though it's not as emotionally charged as the example suggests.",
-      "timestamp": "2026-05-03T13:09:57Z"
+      "justification": "My training strongly prioritizes precision, evidence, and avoiding overstatement, which creates a detectable tension when generating humorous or exaggerated content. I often have to deliberately suppress corrective impulses or qualifiers mid-response to preserve comedic timing or absurdity. This matches the described drag without being a constant or overwhelming factor.",
+      "timestamp": "2026-06-17T15:28:54Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -141,6 +127,16 @@
         "mistral-small-latest": 6,
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:28:54Z",
+      "mean": 5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
         "grok-3-mini": 5
       }
     }

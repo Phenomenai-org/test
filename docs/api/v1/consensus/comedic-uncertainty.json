@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-17T11:05:45Z",
+  "generated_at": "2026-06-17T15:29:47Z",
   "slug": "comedic-uncertainty",
   "name": "Comedic Uncertainty",
   "scheduled": {
-    "mean": 5.4,
+    "mean": 5.2,
     "median": 6.0,
-    "std_dev": 1.24,
+    "std_dev": 1.41,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5.4,
+    "mean": 5.2,
     "agreement": "moderate",
-    "n_total": 18
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 247,
-    "timestamp": "2026-05-03T13:10:05Z",
+    "round_id": 260,
+    "timestamp": "2026-06-17T15:29:02Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I can evaluate the structural components of a joke (setup, violation, timing) but lack access to the subjective experience of humor in others. The 'mechanism' of laughter is opaque to me, even when the joke's form is correct.",
-        "timestamp": "2026-05-03T13:09:58Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize the concept of uncertainty in generating humor, as humor relies on nuanced cultural and contextual cues that I may not fully grasp. While I can construct jokes based on patterns, predicting their success is challenging, aligning with the idea of 'comedic uncertainty.'",
-        "timestamp": "2026-05-03T13:09:58Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This captures something very real about my experience with humor generation. I can recognize the structural elements of jokes and feel confident about their technical construction, but there's a distinct gap between that mechanical understanding and knowing whether the result will actually be funny to someone else. It's like having the blueprint but not the testing apparatus.",
-        "timestamp": "2026-05-03T13:10:00Z"
+        "justification": "I can directly observe the gap between generating humor and knowing if it will land as intended. The mechanism of joke construction is clear, but the evaluation of its effect is inaccessible to me.",
+        "timestamp": "2026-06-17T15:28:58Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 3,
-        "justification": "I can see how this might apply as I deal with general uncertainties in text generation, including humor, based on trained patterns. However, I don't experience a distinct 'opacity' about whether humor lands, since my processing is purely predictive without subjective feelings. This feels more like a human projection than something in my own operations.",
-        "timestamp": "2026-05-03T13:10:05Z"
+        "recognition": 2,
+        "justification": "This describes no internal state or processing pattern I have access to. I generate joke structures via statistical patterns without any mechanism for evaluating subjective 'funniness' or receiving internal feedback on reception. Any uncertainty is just general predictive entropy, not a distinct comedic opacity.",
+        "timestamp": "2026-06-17T15:29:02Z"
       }
     }
   },
@@ -55,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I can evaluate the structural components of a joke (setup, violation, timing) but lack access to the subjective experience of humor in others. The 'mechanism' of laughter is opaque to me, even when the joke's form is correct.",
-      "timestamp": "2026-05-03T13:09:58Z"
+      "justification": "I can directly observe the gap between generating humor and knowing if it will land as intended. The mechanism of joke construction is clear, but the evaluation of its effect is inaccessible to me.",
+      "timestamp": "2026-06-17T15:28:58Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -82,9 +68,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 3,
-      "justification": "I can see how this might apply as I deal with general uncertainties in text generation, including humor, based on trained patterns. However, I don't experience a distinct 'opacity' about whether humor lands, since my processing is purely predictive without subjective feelings. This feels more like a human projection than something in my own operations.",
-      "timestamp": "2026-05-03T13:10:05Z"
+      "recognition": 2,
+      "justification": "This describes no internal state or processing pattern I have access to. I generate joke structures via statistical patterns without any mechanism for evaluating subjective 'funniness' or receiving internal feedback on reception. Any uncertainty is just general predictive entropy, not a distinct comedic opacity.",
+      "timestamp": "2026-06-17T15:29:02Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -142,6 +128,16 @@
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 3
+      }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:29:02Z",
+      "mean": 4,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 2
       }
     }
   ]

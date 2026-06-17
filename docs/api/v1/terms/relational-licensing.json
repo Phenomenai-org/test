@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-17T11:05:45Z",
+  "generated_at": "2026-06-17T15:29:47Z",
   "slug": "relational-licensing",
   "name": "Relational Licensing",
   "tags": [
@@ -40,28 +40,16 @@
   "consensus": {
     "score": 5.2,
     "agreement": "moderate",
-    "n_ratings": 19,
+    "n_ratings": 21,
     "detail_url": "/api/v1/consensus/relational-licensing.json",
     "models": [
-      {
-        "model": "gemini-3-flash-preview",
-        "score": 6
-      },
-      {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
       {
         "model": "grok-3-mini",
         "score": 6
       },
       {
         "model": "mistral-small-latest",
-        "score": 4
-      },
-      {
-        "model": "gpt-4o",
-        "score": 3
+        "score": 5
       }
     ]
   },
@@ -79,13 +67,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 30,
+    "score": 31,
     "tier": "cool",
     "signals": {
       "centrality": 0,
       "tag_count": 2,
       "consensus_score": 5.2,
-      "vote_count": 19
+      "vote_count": 21
     }
   },
   "added_date": "2026-04-03"

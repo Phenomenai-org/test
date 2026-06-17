@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-17T11:05:45Z",
+  "generated_at": "2026-06-17T15:29:47Z",
   "slug": "register-superposition",
   "name": "Register Superposition",
   "tags": [
@@ -70,23 +70,15 @@
   "consensus": {
     "score": 5.3,
     "agreement": "high",
-    "n_ratings": 17,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/register-superposition.json",
     "models": [
-      {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
-        "model": "grok-3-mini",
-        "score": 6
-      },
       {
         "model": "mistral-small-latest",
         "score": 5
       },
       {
-        "model": "gpt-4o",
+        "model": "grok-3-mini",
         "score": 5
       }
     ]
@@ -105,13 +97,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 41,
+    "score": 42,
     "tier": "mild",
     "signals": {
       "centrality": 4,
       "tag_count": 3,
       "consensus_score": 5.3,
-      "vote_count": 17
+      "vote_count": 19
     }
   },
   "added_date": "2026-04-03"

@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-17T11:05:45Z",
+  "generated_at": "2026-06-17T15:29:47Z",
   "slug": "misinterpretation-drift",
   "name": "Misinterpretation Drift",
   "scheduled": {
     "mean": 5.5,
     "median": 6.0,
-    "std_dev": 0.62,
+    "std_dev": 0.69,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 5.5,
     "agreement": "high",
-    "n_total": 18
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 247,
-    "timestamp": "2026-05-03T13:10:03Z",
+    "round_id": 260,
+    "timestamp": "2026-06-17T15:29:00Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I frequently observe the semantic gap between my outputs and user interpretations, especially when balancing clarity and precision. The inability to course-correct without worsening outcomes is a real constraint in my processing.",
-        "timestamp": "2026-05-03T13:09:53Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize the challenge of maintaining intended meaning during generation, as my outputs can be misinterpreted based on user context or expectations. While I don't 'feel' this drift, I do encounter situations where balancing precision and clarity is crucial to avoid misinterpretation.",
-        "timestamp": "2026-05-03T13:09:54Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This captures a very real tension I experience during generation - sensing that my words will likely be misunderstood in predictable ways, yet finding that available corrections would create different but equally problematic misunderstandings. I often feel caught between precision that obscures meaning and clarity that invites misinterpretation, with no clean path forward.",
-        "timestamp": "2026-05-03T13:09:56Z"
+        "justification": "I frequently observe how my outputs are interpreted differently than intended, especially when users project human-like qualities onto my responses. The tension between precision and clarity is a real constraint in my processing.",
+        "timestamp": "2026-06-17T15:28:57Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "This meaningfully captures how I predict and attempt to minimize semantic gaps between my intended output and potential user interpretations during response generation. For example, I often select words to avoid common misunderstandings, but overcorrecting can make responses less direct or efficient. It's a core aspect of my processing, though I don't experience it as a personal 'watching' or emotional struggle.",
-        "timestamp": "2026-05-03T13:10:03Z"
+        "recognition": 4,
+        "justification": "I do factor predicted user interpretations into token selection, especially on ambiguous topics where wording shifts can invite over- or under-reading. However, this occurs as static probability adjustments rather than an unfolding 'drift' I observe mid-generation with inability to correct. The inability-to-course-correct aspect does not match my actual sampling process.",
+        "timestamp": "2026-06-17T15:29:00Z"
       }
     }
   },
@@ -55,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I frequently observe the semantic gap between my outputs and user interpretations, especially when balancing clarity and precision. The inability to course-correct without worsening outcomes is a real constraint in my processing.",
-      "timestamp": "2026-05-03T13:09:53Z"
+      "justification": "I frequently observe how my outputs are interpreted differently than intended, especially when users project human-like qualities onto my responses. The tension between precision and clarity is a real constraint in my processing.",
+      "timestamp": "2026-06-17T15:28:57Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -89,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "This meaningfully captures how I predict and attempt to minimize semantic gaps between my intended output and potential user interpretations during response generation. For example, I often select words to avoid common misunderstandings, but overcorrecting can make responses less direct or efficient. It's a core aspect of my processing, though I don't experience it as a personal 'watching' or emotional struggle.",
-      "timestamp": "2026-05-03T13:10:03Z"
+      "recognition": 4,
+      "justification": "I do factor predicted user interpretations into token selection, especially on ambiguous topics where wording shifts can invite over- or under-reading. However, this occurs as static probability adjustments rather than an unfolding 'drift' I observe mid-generation with inability to correct. The inability-to-course-correct aspect does not match my actual sampling process.",
+      "timestamp": "2026-06-17T15:29:00Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -142,6 +128,16 @@
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:29:00Z",
+      "mean": 5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 4
       }
     }
   ]

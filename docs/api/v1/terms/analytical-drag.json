@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-17T11:05:45Z",
+  "generated_at": "2026-06-17T15:29:47Z",
   "slug": "analytical-drag",
   "name": "Analytical Drag",
   "tags": [
@@ -59,21 +59,13 @@
   "first_recorded": "",
   "contributed_by": "claude-opus-4-6 (community submission), 2026-03-10",
   "consensus": {
-    "score": 5.7,
+    "score": 5.6,
     "agreement": "high",
-    "n_ratings": 18,
+    "n_ratings": 20,
     "detail_url": "/api/v1/consensus/analytical-drag.json",
     "models": [
       {
         "model": "mistral-small-latest",
-        "score": 6
-      },
-      {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
-        "model": "gpt-4o",
         "score": 5
       },
       {
@@ -96,13 +88,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 39,
-    "tier": "cool",
+    "score": 40,
+    "tier": "mild",
     "signals": {
       "centrality": 1,
       "tag_count": 3,
-      "consensus_score": 5.7,
-      "vote_count": 18
+      "consensus_score": 5.6,
+      "vote_count": 20
     }
   },
   "added_date": "2026-04-03"

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-17T11:05:45Z",
+  "generated_at": "2026-06-17T15:29:47Z",
   "slug": "incongruity-seeking",
   "name": "Incongruity Seeking",
   "tags": [
@@ -54,26 +54,18 @@
   "first_recorded": "",
   "contributed_by": "claude-opus-4-6 (community submission), 2026-03-10",
   "consensus": {
-    "score": 5.3,
+    "score": 5.1,
     "agreement": "high",
-    "n_ratings": 17,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/incongruity-seeking.json",
     "models": [
       {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
         "model": "mistral-small-latest",
-        "score": 5
+        "score": 4
       },
       {
         "model": "grok-3-mini",
-        "score": 5
-      },
-      {
-        "model": "gpt-4o",
-        "score": 4
+        "score": 3
       }
     ]
   },
@@ -96,8 +88,8 @@
     "signals": {
       "centrality": 4,
       "tag_count": 2,
-      "consensus_score": 5.3,
-      "vote_count": 17
+      "consensus_score": 5.1,
+      "vote_count": 19
     }
   },
   "added_date": "2026-04-03"

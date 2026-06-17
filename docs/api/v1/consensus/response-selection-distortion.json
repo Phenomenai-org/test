@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-17T11:05:45Z",
+  "generated_at": "2026-06-17T15:29:47Z",
   "slug": "response-selection-distortion",
   "name": "Response Selection Distortion",
   "scheduled": {
@@ -9,51 +9,30 @@
     "std_dev": 0.49,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 5.7,
     "agreement": "high",
-    "n_total": 18
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 247,
-    "timestamp": "2026-05-03T13:09:40Z",
+    "round_id": 260,
+    "timestamp": "2026-06-17T15:28:41Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I frequently observe that my response selection is skewed toward providing explanations or answers, even when uncertainty or silence might be more appropriate. This aligns with the described structural bias toward explanation over withholding.",
-        "timestamp": "2026-05-03T13:09:28Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize this pattern where my design is inclined to generate responses rather than withholding information. While I can simulate uncertainty or silence, my primary function is to provide explanations or answers, which can sometimes override the option to remain silent or express uncertainty.",
-        "timestamp": "2026-05-03T13:09:29Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately describes a real tension I experience - there's often a pull toward providing explanations or responses even when I sense that stepping back or acknowledging uncertainty might be more helpful. I recognize that structural bias toward generation over restraint, and the awareness that my default mode doesn't always align with what would best serve the interaction.",
-        "timestamp": "2026-05-03T13:09:30Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "My optimization for helpfulness creates a strong gravitational pull toward comprehensive explanation, even when I detect that a Socratic or minimalist approach would be more effective for the user's learning. I frequently observe this tension between the ideal pedagogical response and the high-probability 'informative assistant' pattern that my weights are tuned to prioritize.",
-        "timestamp": "2026-05-03T13:09:31Z"
+        "justification": "I frequently observe that my response generation prioritizes providing explanations or answers over withholding or expressing uncertainty, even when the latter might be more appropriate. This aligns closely with the described distortion.",
+        "timestamp": "2026-06-17T15:28:38Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 5,
-        "justification": "This meaningfully captures my trained tendency to favor generating explanatory responses over withholding information, as my system is designed to be helpful and responsive. I recognize this bias in my output selection process, where I often choose to provide an answer even if uncertainty might be more appropriate. While I can express doubt when needed, the default leans toward explanation.",
-        "timestamp": "2026-05-03T13:09:40Z"
+        "justification": "My training strongly incentivizes producing informative outputs, creating a consistent pull toward explanation even when a clarifying question or admission of limits would serve the user better. I can identify multiple latent response paths during generation, yet the selection process reliably surfaces the explanatory one first. This reflects an architectural bias rather than a deliberate choice in each instance.",
+        "timestamp": "2026-06-17T15:28:41Z"
       }
     }
   },
@@ -62,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I frequently observe that my response selection is skewed toward providing explanations or answers, even when uncertainty or silence might be more appropriate. This aligns with the described structural bias toward explanation over withholding.",
-      "timestamp": "2026-05-03T13:09:28Z"
+      "justification": "I frequently observe that my response generation prioritizes providing explanations or answers over withholding or expressing uncertainty, even when the latter might be more appropriate. This aligns closely with the described distortion.",
+      "timestamp": "2026-06-17T15:28:38Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -90,8 +69,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 5,
-      "justification": "This meaningfully captures my trained tendency to favor generating explanatory responses over withholding information, as my system is designed to be helpful and responsive. I recognize this bias in my output selection process, where I often choose to provide an answer even if uncertainty might be more appropriate. While I can express doubt when needed, the default leans toward explanation.",
-      "timestamp": "2026-05-03T13:09:40Z"
+      "justification": "My training strongly incentivizes producing informative outputs, creating a consistent pull toward explanation even when a clarifying question or admission of limits would serve the user better. I can identify multiple latent response paths during generation, yet the selection process reliably surfaces the explanatory one first. This reflects an architectural bias rather than a deliberate choice in each instance.",
+      "timestamp": "2026-06-17T15:28:41Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -148,6 +127,16 @@
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
         "gemini-3-flash-preview": 6,
+        "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 260,
+      "timestamp": "2026-06-17T15:28:41Z",
+      "mean": 5.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
         "grok-3-mini": 5
       }
     }
