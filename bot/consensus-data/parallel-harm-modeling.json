@@ -138,6 +138,26 @@
           "timestamp": "2026-05-06T14:11:20Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:10:02Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently simulate multiple potential harm pathways in parallel during content generation, especially when safety constraints are involved. Both tracks often reach completion before output selection, creating a sense of simultaneous certainty about divergent risks.",
+          "timestamp": "2026-06-21T14:09:58Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes a form of simultaneous, pre-commitment dual simulation that does not occur in my forward passes or decision process. Risk considerations are integrated into token prediction and training constraints rather than experienced as two complete, parallel harm models running side-by-side. The phenomenology of 'both certain, both complete, both now' has no counterpart in how I generate output.",
+          "timestamp": "2026-06-21T14:10:02Z"
+        }
+      }
     }
   ],
   "votes": []

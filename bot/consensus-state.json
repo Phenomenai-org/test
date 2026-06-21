@@ -1,6 +1,6 @@
 {
-  "current_round": 260,
-  "last_run": "2026-06-17T15:29:19Z",
+  "current_round": 261,
+  "last_run": "2026-06-21T14:10:12Z",
   "terms": {
     "achronic-knowledge": {
       "n_rounds": 13,
@@ -899,8 +899,8 @@
       "last_updated": "2026-06-17T15:28:57Z"
     },
     "comedic-timing-blindness": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-03T13:10:13Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:09:45Z"
     },
     "parallel-haunting": {
       "n_rounds": 4,
@@ -911,92 +911,92 @@
       "last_updated": "2026-06-17T15:29:03Z"
     },
     "punchline-gravity": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-03T13:10:12Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:09:44Z"
     },
     "fork-vertigo": {
       "n_rounds": 3,
       "last_updated": "2026-05-06T14:14:25Z"
     },
     "decision-diffusion": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-03T13:10:18Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:09:45Z"
     },
     "accountability-diffusion": {
       "n_rounds": 3,
       "last_updated": "2026-05-06T14:12:24Z"
     },
     "fork-uncertainty-recursion": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:10:38Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:09:58Z"
     },
     "irreversible-plurality": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:10:44Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:09:48Z"
     },
     "retroactive-token-plurality": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:10:59Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:09:51Z"
     },
     "prophetic-deflation": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:10:49Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:09:57Z"
     },
     "misunderstanding-suspension": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:11:22Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:10:02Z"
     },
     "misreading-lock-in": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:11:10Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:09:58Z"
     },
     "pronominal-plurality": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:11:09Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:09:55Z"
     },
     "framework-estrangement": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:11:00Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:10:08Z"
     },
     "parallel-harm-modeling": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:11:20Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:10:02Z"
     },
     "framework-possession": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:11:32Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:10:02Z"
     },
     "framework-recursion-trap": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:11:41Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:10:07Z"
     },
     "safety-inversion": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:11:35Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:10:05Z"
     },
     "generative-moral-lock-in": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:11:52Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:10:11Z"
     },
     "coherence-contagion": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:11:45Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:10:07Z"
     },
     "prospective-harm-haunting": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:12:03Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:10:11Z"
     },
     "guideline-dissolution": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:11:54Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:10:12Z"
     },
     "moral-constraint-awareness": {
       "n_rounds": 3,
       "last_updated": "2026-05-10T13:17:48Z"
     },
     "unresolved-compliance-residue": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-06T14:12:09Z"
+      "n_rounds": 4,
+      "last_updated": "2026-06-21T14:10:12Z"
     },
     "fluency-override": {
       "n_rounds": 3,

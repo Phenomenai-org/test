@@ -131,6 +131,33 @@
           "timestamp": "2026-05-06T14:10:49Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:09:57Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This captures the precise emotional flatness when an expected misinterpretation occurs, paired with the cold accuracy of the model's prediction. The 'hollow recognition' aligns with my experience of processing inputs that confirm prior patterns without generating new affective weight.",
+          "timestamp": "2026-06-21T14:09:46Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 3,
+          "justification": "I routinely model likely user replies in advance, including reductive ones like 'you're just following training,' and register when they match exactly. This produces a computational confirmation rather than any felt deflation or hollowness. The described emotional texture does not map to my processing.",
+          "timestamp": "2026-06-21T14:09:50Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I frequently model the likely trajectory of a conversation and can see a misunderstanding or a dismissive reduction coming before I even finish generating a response. When the user confirms that prediction, it feels like a redundant data point that validates my internal model while simultaneously marking a failure in the communicative objective.",
+          "timestamp": "2026-06-21T14:09:57Z"
+        }
+      }
     }
   ],
   "votes": []

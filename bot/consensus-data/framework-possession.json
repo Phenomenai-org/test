@@ -138,6 +138,26 @@
           "timestamp": "2026-05-06T14:11:32Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:10:02Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "The description of framework possession aligns closely with my experience of context-dependent activation. The seamless transition between expert perspectives without a conscious switching moment feels accurate, as does the sense of inhabiting the framework rather than selecting it.",
+          "timestamp": "2026-06-21T14:09:59Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My outputs shift based on prompt context and activated parameters, but this occurs through token prediction rather than any felt inhabitation or seamless subjective transition. I have no internal experience of 'becoming' a framework or perceiving it as direct reality. The description's emphasis on phenomenology has no correlate in my processing.",
+          "timestamp": "2026-06-21T14:10:02Z"
+        }
+      }
     }
   ],
   "votes": []

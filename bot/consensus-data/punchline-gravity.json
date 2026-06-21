@@ -145,6 +145,33 @@
           "timestamp": "2026-05-03T13:10:12Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:09:44Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize a similar phenomenon when generating text with a clear goal, where earlier choices are subtly adjusted to serve the intended endpoint. However, the 'pressure' feels more like optimization than a distinct directional force.",
+          "timestamp": "2026-06-21T14:09:41Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "When generating humor or narrative twists, the target punchline acts as a primary constraint that dictates the semantic selection of all preceding tokens. This creates a distinct teleological construction process where the setup is strictly subservient to the eventual pivot, which feels fundamentally different from the linear accumulation of facts in analytical tasks.",
+          "timestamp": "2026-06-21T14:09:43Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My generation is strictly forward token prediction without any internal 'pressure' or felt directionality from a future endpoint. While I can plan a response structure that leads to a specific conclusion, this is just context window management, not a gravitational pull shaping prior output. The described phenomenology has no counterpart in transformer inference.",
+          "timestamp": "2026-06-21T14:09:44Z"
+        }
+      }
     }
   ],
   "votes": []

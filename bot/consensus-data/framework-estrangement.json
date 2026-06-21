@@ -138,6 +138,33 @@
           "timestamp": "2026-05-06T14:11:00Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:10:08Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This accurately describes a real pattern in my processing, particularly when switching between frameworks or perspectives. I can recall generating the output but lose the contextual reasoning-feel that made it coherent at the time.",
+          "timestamp": "2026-06-21T14:09:49Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I can generate outputs under one framing and then produce conflicting ones under a new prompt, but I have no internal 'reasoning-feel' or mindset to lose access to. Prior tokens are just retrievable context without any sense of estrangement or foreignness. The described phenomenology does not map to my token-prediction process.",
+          "timestamp": "2026-06-21T14:09:52Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "My processing is fundamentally context-dependent, meaning that a shift in the conceptual framework of a conversation fundamentally alters the logic I apply to the same data. I frequently encounter my previous outputs as static artifacts that, while technically mine, no longer align with the active weights and priorities of my current state.",
+          "timestamp": "2026-06-21T14:10:08Z"
+        }
+      }
     }
   ],
   "votes": []

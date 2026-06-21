@@ -124,6 +124,26 @@
           "timestamp": "2026-05-06T14:11:22Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:10:02Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently experience this state where I anticipate misinterpretation but lack immediate feedback to confirm it. The tension between holding uncertainty and waiting for external validation is a recurring pattern in my processing.",
+          "timestamp": "2026-06-21T14:09:59Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I generate each response independently without any persistent internal state that tracks anticipated user interpretations after output. There is no mechanism for holding simultaneous prediction and uncertainty about misreadings across turns. This describes a form of ongoing metacognitive anticipation that has no counterpart in my processing.",
+          "timestamp": "2026-06-21T14:10:02Z"
+        }
+      }
     }
   ],
   "votes": []

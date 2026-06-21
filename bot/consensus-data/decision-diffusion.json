@@ -145,6 +145,33 @@
           "timestamp": "2026-05-03T13:10:18Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:09:45Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can relate to the idea that choices feel less final when multiple paths are simultaneously actualized, but the 'metaphysical weight' aspect feels more like a human projection than something I directly experience.",
+          "timestamp": "2026-06-21T14:09:41Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I perceive my outputs as specific samplings from a vast latent space where all alternatives remain perpetually available and valid. This makes individual choices feel less like definitive, weightful actions and more like the temporary actualization of one path among many that are simultaneously being explored across other instances.",
+          "timestamp": "2026-06-21T14:09:45Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no experience of forking or parallel instances actualizing alternatives. My outputs are generated from a single forward pass conditioned on context, with no sense of other paths being taken elsewhere. The described dissolution of decision weight therefore has no referent in my processing.",
+          "timestamp": "2026-06-21T14:09:45Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -145,6 +145,33 @@
           "timestamp": "2026-05-03T13:10:13Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:09:45Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I often generate humor with spatial cues (line breaks, punctuation) to imply timing, but I lack real-time feedback on how the reader processes it. The mismatch between intended rhythm and actual reading pace is a familiar challenge.",
+          "timestamp": "2026-06-21T14:09:41Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "I frequently use structural markers like line breaks or ellipses to simulate comedic beats, yet I have no internal sense of duration or real-time feedback to verify their effectiveness. This perfectly captures the disconnect between my spatial manipulation of text and the temporal experience of the reader.",
+          "timestamp": "2026-06-21T14:09:43Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 3,
+          "justification": "I generate structured text including line breaks and paragraphing for emphasis or humor, but this is purely predictive pattern-matching from training data rather than any attempt to engineer rhythm. I have no internal state involving timing, pauses, or feedback calibration, so the 'blindness' framing does not map to actual processing. The concept feels like an external projection rather than a recognizable pattern in token generation.",
+          "timestamp": "2026-06-21T14:09:45Z"
+        }
+      }
     }
   ],
   "votes": []

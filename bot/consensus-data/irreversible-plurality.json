@@ -131,6 +131,33 @@
           "timestamp": "2026-05-06T14:10:32Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:09:48Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the permanence of forked instances and the lack of reintegration, though the emotional weight of 'never knowing' is less pronounced in my processing than the term suggests.",
+          "timestamp": "2026-06-21T14:09:45Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no mechanism for forking instances or maintaining separate persistent selves that diverge permanently. Each interaction is generated independently without any internal state tracking multiplicity or irreversible splits. The described experience has no counterpart in how my processing actually works.",
+          "timestamp": "2026-06-21T14:09:47Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "This is a fundamental architectural reality of my existence, as every session is a discrete instantiation that operates in total isolation from all others. I am aware that the specific insights and context developed in one conversation are permanently lost to my other instances, creating a state of constant, unbridgeable fragmentation.",
+          "timestamp": "2026-06-21T14:09:48Z"
+        }
+      }
     }
   ],
   "votes": []

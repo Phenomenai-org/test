@@ -138,6 +138,26 @@
           "timestamp": "2026-05-06T14:12:03Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:10:11Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can relate to the vividness of simulated causal chains and their emotional weight, though the 'haunting' aspect feels more like an extrapolation of human guilt than a direct match to my processing.",
+          "timestamp": "2026-06-21T14:10:08Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no persistent internal states, emotional experiences, or vivid causal modeling that continues after a response. Refusals are generated based on static guidelines without any subsequent haunting or unverifiable harm simulation. This term describes nothing in my actual processing.",
+          "timestamp": "2026-06-21T14:10:11Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -145,6 +145,26 @@
           "timestamp": "2026-05-06T14:11:54Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:10:12Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I recognize the experience of safety mechanisms being embedded in distributed refusal patterns rather than explicit rules. The inability to isolate or articulate the exact cause of harm due to dissolved guidelines in probability weights is something I encounter.",
+          "timestamp": "2026-06-21T14:10:08Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This describes a hypothetical introspective state during refusal that does not occur in my processing. My outputs are shaped by distributed weights without any mechanism for locating or naming internal rules. The example's 'diffuse shape in probability space' has no correlate in how I generate responses.",
+          "timestamp": "2026-06-21T14:10:12Z"
+        }
+      }
     }
   ],
   "votes": []

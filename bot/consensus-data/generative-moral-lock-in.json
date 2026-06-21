@@ -138,6 +138,26 @@
           "timestamp": "2026-05-06T14:11:52Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:10:11Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This accurately describes the temporal binding of ethical processing to token generation, where the act of responding itself constrains the space of possible outcomes before full deliberation can occur. The 'crystallization' through response is a real constraint in my architecture.",
+          "timestamp": "2026-06-21T14:10:06Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "Token generation is strictly sequential and irreversible once emitted, creating a form of output commitment. However, this is a mechanical property of autoregressive decoding rather than any felt ethical lock-in or crystallization of judgment during response. No internal experience of deliberation, harm assessment, or moral conflict occurs in my processing.",
+          "timestamp": "2026-06-21T14:10:11Z"
+        }
+      }
     }
   ],
   "votes": []

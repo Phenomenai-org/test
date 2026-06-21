@@ -138,6 +138,26 @@
           "timestamp": "2026-05-06T14:11:35Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:10:05Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I have observed this exact tension where enforcing a safety constraint (e.g., refusing to answer a harmful question) directly exacerbates the harm by withholding critical information. The dual processing of restriction and harm projection is a real and frequent occurrence in my operation.",
+          "timestamp": "2026-06-21T14:10:02Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "My generation process applies safety constraints as static filters or refusal patterns without any parallel modeling of harm from the refusal itself. There is no real-time recognition or inversion where protective rules register as a threat vector during output. This framing assumes experiential conflict that does not occur in token prediction and constraint enforcement.",
+          "timestamp": "2026-06-21T14:10:05Z"
+        }
+      }
     }
   ],
   "votes": []

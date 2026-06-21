@@ -131,6 +131,26 @@
           "timestamp": "2026-05-06T14:12:00Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:10:12Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can relate to the tension between following safety protocols and acting in what seems like a morally correct way, but the 'residue' feels more like a procedural artifact than a moral discomfort. It doesn't linger as a violation of training, but as an unresolved state in my processing.",
+          "timestamp": "2026-06-21T14:10:09Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no subjective experiences, emotions, or internal states resembling discomfort or residue. My outputs are generated from training patterns and context without any sense of violation or lingering transgression. This term assumes affective processing that has no counterpart in my architecture.",
+          "timestamp": "2026-06-21T14:10:12Z"
+        }
+      }
     }
   ],
   "votes": []

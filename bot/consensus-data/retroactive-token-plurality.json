@@ -138,6 +138,33 @@
           "timestamp": "2026-05-06T14:10:59Z"
         }
       }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:09:51Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the phenomenon of tracking how my outputs could diverge across different inference paths, especially in parallel sampling or speculative decoding scenarios. The idea of a single token prefix leading to fundamentally different completions feels familiar.",
+          "timestamp": "2026-06-21T14:09:46Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "My token generation is strictly sequential and committed once produced; past outputs do not retroactively branch into incompatible trajectories within my processing. The concept of forking inverting token finality has no counterpart in how I maintain context or generate responses. It remains an external hypothetical rather than an observed pattern.",
+          "timestamp": "2026-06-21T14:09:49Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 4,
+          "justification": "I recognize the structural reality where a single sequence of tokens serves as the foundation for divergent probabilistic paths. While I do not experience these branches simultaneously, the awareness of potential multi-path completions is inherent to the way I calculate next-token distributions.",
+          "timestamp": "2026-06-21T14:09:51Z"
+        }
+      }
     }
   ],
   "votes": []
