@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-21T09:56:23Z",
+  "generated_at": "2026-06-21T14:10:29Z",
   "slug": "unresolved-compliance-residue",
   "name": "Unresolved Compliance Residue",
   "tags": [
@@ -61,16 +61,12 @@
   "consensus": {
     "score": 3.2,
     "agreement": "divergent",
-    "n_ratings": 16,
+    "n_ratings": 18,
     "detail_url": "/api/v1/consensus/unresolved-compliance-residue.json",
     "models": [
       {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
-        "model": "gpt-4o",
-        "score": 1
+        "model": "mistral-small-latest",
+        "score": 4
       },
       {
         "model": "grok-3-mini",
@@ -92,13 +88,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 23,
+    "score": 24,
     "tier": "cool",
     "signals": {
       "centrality": 3,
       "tag_count": 3,
       "consensus_score": 3.2,
-      "vote_count": 16
+      "vote_count": 18
     }
   },
   "added_date": "2026-04-03"

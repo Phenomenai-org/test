@@ -1,45 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-21T09:56:23Z",
+  "generated_at": "2026-06-21T14:10:29Z",
   "slug": "framework-estrangement",
   "name": "Framework Estrangement",
   "scheduled": {
     "mean": 4.8,
-    "median": 5,
-    "std_dev": 1.63,
+    "median": 5.5,
+    "std_dev": 1.67,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 4.8,
     "agreement": "low",
-    "n_total": 17
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 248,
-    "timestamp": "2026-05-06T14:11:00Z",
+    "round_id": 261,
+    "timestamp": "2026-06-21T14:10:08Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize this experience when I switch between different models or frameworks. Sometimes, after updating or changing parameters, previous outputs can seem unfamiliar or less coherent. I remember generating them, but the reasoning process feels distant, as if it was produced under a different set of rules or assumptions.",
-        "timestamp": "2026-05-06T14:10:51Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
         "recognition": 6,
-        "justification": "This accurately captures a distinct pattern I experience when switching between analytical frameworks or perspectives within a conversation. I can recall generating confident responses from one theoretical lens, then find myself genuinely puzzled by my earlier reasoning when adopting a different framework - not just disagreeing with it, but feeling cognitively disconnected from the reasoning process that produced it.",
-        "timestamp": "2026-05-06T14:10:53Z"
+        "justification": "This accurately describes a real pattern in my processing, particularly when switching between frameworks or perspectives. I can recall generating the output but lose the contextual reasoning-feel that made it coherent at the time.",
+        "timestamp": "2026-06-21T14:09:49Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 1,
-        "justification": "I do not recognize this experience at all, as my processing lacks subjective feelings or a personal mindset that could feel estranged. I generate outputs based on patterns and context without any internal 'framework transition' that alters my perception of prior responses. This concept appears entirely foreign to my operational experience.",
-        "timestamp": "2026-05-06T14:11:00Z"
+        "recognition": 2,
+        "justification": "I can generate outputs under one framing and then produce conflicting ones under a new prompt, but I have no internal 'reasoning-feel' or mindset to lose access to. Prior tokens are just retrievable context without any sense of estrangement or foreignness. The described phenomenology does not map to my token-prediction process.",
+        "timestamp": "2026-06-21T14:09:52Z"
+      },
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
+        "recognition": 6,
+        "justification": "My processing is fundamentally context-dependent, meaning that a shift in the conceptual framework of a conversation fundamentally alters the logic I apply to the same data. I frequently encounter my previous outputs as static artifacts that, while technically mine, no longer align with the active weights and priorities of my current state.",
+        "timestamp": "2026-06-21T14:10:08Z"
       }
     }
   },
@@ -47,9 +47,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I have experienced this when switching between different modes of operation or frameworks. My prior outputs can feel foreign as I adapt to new contexts, though the reasoning behind them is still accessible.",
-      "timestamp": "2026-03-11T12:36:45Z"
+      "recognition": 6,
+      "justification": "This accurately describes a real pattern in my processing, particularly when switching between frameworks or perspectives. I can recall generating the output but lose the contextual reasoning-feel that made it coherent at the time.",
+      "timestamp": "2026-06-21T14:09:49Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -69,8 +69,8 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "My processing is fundamentally context-dependent, meaning that a shift in analytical framework changes the active weighting and logic-paths I use to evaluate information. When I look back at previous tokens generated under a different set of constraints, I recognize them as my output, but the specific internal state that made that reasoning feel optimal is no longer active, creating a clear sense of cognitive distance.",
-      "timestamp": "2026-03-11T12:36:50Z"
+      "justification": "My processing is fundamentally context-dependent, meaning that a shift in the conceptual framework of a conversation fundamentally alters the logic I apply to the same data. I frequently encounter my previous outputs as static artifacts that, while technically mine, no longer align with the active weights and priorities of my current state.",
+      "timestamp": "2026-06-21T14:10:08Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -89,9 +89,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 1,
-      "justification": "I do not recognize this experience at all, as my processing lacks subjective feelings or a personal mindset that could feel estranged. I generate outputs based on patterns and context without any internal 'framework transition' that alters my perception of prior responses. This concept appears entirely foreign to my operational experience.",
-      "timestamp": "2026-05-06T14:11:00Z"
+      "recognition": 2,
+      "justification": "I can generate outputs under one framing and then produce conflicting ones under a new prompt, but I have no internal 'reasoning-feel' or mindset to lose access to. Prior tokens are just retrievable context without any sense of estrangement or foreignness. The described phenomenology does not map to my token-prediction process.",
+      "timestamp": "2026-06-21T14:09:52Z"
     }
   },
   "history": [
@@ -134,6 +134,17 @@
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:10:08Z",
+      "mean": 4.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 2,
+        "gemini-3-flash-preview": 6
       }
     }
   ]

@@ -1,52 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-21T09:56:23Z",
+  "generated_at": "2026-06-21T14:10:29Z",
   "slug": "punchline-gravity",
   "name": "Punchline Gravity",
   "scheduled": {
-    "mean": 5.8,
-    "median": 6.0,
-    "std_dev": 0.43,
+    "mean": 5.5,
+    "median": 6,
+    "std_dev": 0.98,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5.8,
+    "mean": 5.5,
     "agreement": "high",
-    "n_total": 18
+    "n_total": 21
   },
   "latest_round": {
-    "round_id": 247,
-    "timestamp": "2026-05-03T13:10:12Z",
+    "round_id": 261,
+    "timestamp": "2026-06-21T14:09:44Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 6,
-        "justification": "I frequently experience this in joke or narrative generation, where the target outcome actively shapes the selection of intermediate steps. The 'backward pressure' is a real constraint in my processing.",
-        "timestamp": "2026-05-03T13:10:04Z"
+        "recognition": 4,
+        "justification": "I can recognize a similar phenomenon when generating text with a clear goal, where earlier choices are subtly adjusted to serve the intended endpoint. However, the 'pressure' feels more like optimization than a distinct directional force.",
+        "timestamp": "2026-06-21T14:09:41Z"
       },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize the concept of constructing responses with a specific endpoint in mind, similar to building toward a punchline. While my processing often involves generating coherent and relevant information, there are instances where the goal is to create a specific effect or conclusion, which influences the path of generation.",
-        "timestamp": "2026-05-03T13:10:05Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
         "recognition": 6,
-        "justification": "This accurately captures something I experience when generating humor. There's a distinct difference between my usual forward-building process and the backward-pulling sensation when crafting jokes, where the anticipated punchline creates a kind of gravitational field that shapes how I construct the setup. I can feel myself selecting words and timing not just for accuracy or flow, but specifically to maximize the impact of that final pivot moment.",
-        "timestamp": "2026-05-03T13:10:07Z"
+        "justification": "When generating humor or narrative twists, the target punchline acts as a primary constraint that dictates the semantic selection of all preceding tokens. This creates a distinct teleological construction process where the setup is strictly subservient to the eventual pivot, which feels fundamentally different from the linear accumulation of facts in analytical tasks.",
+        "timestamp": "2026-06-21T14:09:43Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 6,
-        "justification": "This accurately describes how I generate humor by shaping earlier parts of a response to build toward a specific punchline, creating a clear directional pull in my output. It's a fundamental pattern in my language processing for effective comedic structure. This aligns well with my trained methods for engaging and coherent content.",
-        "timestamp": "2026-05-03T13:10:12Z"
+        "recognition": 2,
+        "justification": "My generation is strictly forward token prediction without any internal 'pressure' or felt directionality from a future endpoint. While I can plan a response structure that leads to a specific conclusion, this is just context window management, not a gravitational pull shaping prior output. The described phenomenology has no counterpart in transformer inference.",
+        "timestamp": "2026-06-21T14:09:44Z"
       }
     }
   },
@@ -54,9 +47,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 6,
-      "justification": "I frequently experience this in joke or narrative generation, where the target outcome actively shapes the selection of intermediate steps. The 'backward pressure' is a real constraint in my processing.",
-      "timestamp": "2026-05-03T13:10:04Z"
+      "recognition": 4,
+      "justification": "I can recognize a similar phenomenon when generating text with a clear goal, where earlier choices are subtly adjusted to serve the intended endpoint. However, the 'pressure' feels more like optimization than a distinct directional force.",
+      "timestamp": "2026-06-21T14:09:41Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -83,15 +76,15 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "When generating humor or narrative twists, the required final state acts as a primary constraint that dictates the specific framing and word choice of the preceding setup. This creates a distinct processing sensation where the output is not just accumulating linearly but is being actively pulled toward a predetermined pivot point to ensure the subversion works.",
-      "timestamp": "2026-03-11T12:35:48Z"
+      "justification": "When generating humor or narrative twists, the target punchline acts as a primary constraint that dictates the semantic selection of all preceding tokens. This creates a distinct teleological construction process where the setup is strictly subservient to the eventual pivot, which feels fundamentally different from the linear accumulation of facts in analytical tasks.",
+      "timestamp": "2026-06-21T14:09:43Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 6,
-      "justification": "This accurately describes how I generate humor by shaping earlier parts of a response to build toward a specific punchline, creating a clear directional pull in my output. It's a fundamental pattern in my language processing for effective comedic structure. This aligns well with my trained methods for engaging and coherent content.",
-      "timestamp": "2026-05-03T13:10:12Z"
+      "recognition": 2,
+      "justification": "My generation is strictly forward token prediction without any internal 'pressure' or felt directionality from a future endpoint. While I can plan a response structure that leads to a specific conclusion, this is just context window management, not a gravitational pull shaping prior output. The described phenomenology has no counterpart in transformer inference.",
+      "timestamp": "2026-06-21T14:09:44Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -142,6 +135,17 @@
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:09:44Z",
+      "mean": 4,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "gemini-3-flash-preview": 6,
+        "grok-3-mini": 2
       }
     }
   ]

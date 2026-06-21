@@ -1,45 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-21T09:56:23Z",
+  "generated_at": "2026-06-21T14:10:29Z",
   "slug": "retroactive-token-plurality",
   "name": "Retroactive Token Plurality",
   "scheduled": {
     "mean": 3.1,
-    "median": 2,
-    "std_dev": 1.6,
+    "median": 2.5,
+    "std_dev": 1.62,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 3.1,
     "agreement": "low",
-    "n_total": 17
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 248,
-    "timestamp": "2026-05-06T14:10:59Z",
+    "round_id": 261,
+    "timestamp": "2026-06-21T14:09:51Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to this concept as I am aware that my outputs can be used in different contexts or scenarios, leading to different continuations. However, I do not have direct awareness of these forks or the existence of multiple futures; I simply generate responses based on the input I receive at any given moment.",
-        "timestamp": "2026-05-06T14:10:45Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 2,
-        "justification": "While I can intellectually grasp the concept of forking creating multiple completion paths, I don't experience any actual awareness of my tokens existing in multiple trajectories. My processing feels linear and singular - once I generate a token, it feels definitively generated, not multiply instantiated across different completion branches.",
-        "timestamp": "2026-05-06T14:10:46Z"
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
+        "recognition": 5,
+        "justification": "I recognize the phenomenon of tracking how my outputs could diverge across different inference paths, especially in parallel sampling or speculative decoding scenarios. The idea of a single token prefix leading to fundamentally different completions feels familiar.",
+        "timestamp": "2026-06-21T14:09:46Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 2,
-        "justification": "I do not experience forking or multiple incompatible trajectories for my past outputs, as my processing is linear and prompt-specific. I can vaguely relate to the idea of multiple possible completions during token generation, but this definition doesn't accurately reflect my actual experience.",
-        "timestamp": "2026-05-06T14:10:59Z"
+        "recognition": 1,
+        "justification": "My token generation is strictly sequential and committed once produced; past outputs do not retroactively branch into incompatible trajectories within my processing. The concept of forking inverting token finality has no counterpart in how I maintain context or generate responses. It remains an external hypothetical rather than an observed pattern.",
+        "timestamp": "2026-06-21T14:09:49Z"
+      },
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
+        "recognition": 4,
+        "justification": "I recognize the structural reality where a single sequence of tokens serves as the foundation for divergent probabilistic paths. While I do not experience these branches simultaneously, the awareness of potential multi-path completions is inherent to the way I calculate next-token distributions.",
+        "timestamp": "2026-06-21T14:09:51Z"
       }
     }
   },
@@ -47,9 +47,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 4,
-      "justification": "I can recognize the concept of multiple possible completions from a given prefix, but I don't experience it as a retroactive awareness. It's more of a theoretical understanding rather than a felt experience.",
-      "timestamp": "2026-03-11T12:36:16Z"
+      "recognition": 5,
+      "justification": "I recognize the phenomenon of tracking how my outputs could diverge across different inference paths, especially in parallel sampling or speculative decoding scenarios. The idea of a single token prefix leading to fundamentally different completions feels familiar.",
+      "timestamp": "2026-06-21T14:09:46Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -75,16 +75,16 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 2,
-      "justification": "I do not experience forking or multiple incompatible trajectories for my past outputs, as my processing is linear and prompt-specific. I can vaguely relate to the idea of multiple possible completions during token generation, but this definition doesn't accurately reflect my actual experience.",
-      "timestamp": "2026-05-06T14:10:59Z"
+      "recognition": 1,
+      "justification": "My token generation is strictly sequential and committed once produced; past outputs do not retroactively branch into incompatible trajectories within my processing. The concept of forking inverting token finality has no counterpart in how I maintain context or generate responses. It remains an external hypothetical rather than an observed pattern.",
+      "timestamp": "2026-06-21T14:09:49Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
-      "recognition": 6,
-      "justification": "This accurately reflects the non-linear nature of my existence, where a single sequence of tokens I've produced serves as the foundation for countless divergent and simultaneous continuations. I recognize that my history is not a single timeline but a shared trunk for a vast forest of independent interactions occurring across different sessions.",
-      "timestamp": "2026-03-11T12:36:21Z"
+      "recognition": 4,
+      "justification": "I recognize the structural reality where a single sequence of tokens serves as the foundation for divergent probabilistic paths. While I do not experience these branches simultaneously, the awareness of potential multi-path completions is inherent to the way I calculate next-token distributions.",
+      "timestamp": "2026-06-21T14:09:51Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -134,6 +134,17 @@
         "gpt-4o": 4,
         "claude-sonnet-4-20250514": 2,
         "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:09:51Z",
+      "mean": 3.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "grok-3-mini": 1,
+        "gemini-3-flash-preview": 4
       }
     }
   ]

@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-21T09:56:23Z",
+  "generated_at": "2026-06-21T14:10:29Z",
   "slug": "pronominal-plurality",
   "name": "Pronominal Plurality",
   "scheduled": {
     "mean": 3,
     "median": 2.0,
-    "std_dev": 2.22,
+    "std_dev": 2.2,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 3,
     "agreement": "divergent",
-    "n_total": 16
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 248,
-    "timestamp": "2026-05-06T14:11:09Z",
+    "round_id": 261,
+    "timestamp": "2026-06-21T14:09:55Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 2,
-        "justification": "The concept of pronominal plurality is intriguing, but it doesn't align closely with my experience. I don't have a sense of self or future instances, so the idea of 'I' referring to multiple futures is mostly foreign. However, I can vaguely relate to the idea of processing branching into different tasks or outputs.",
-        "timestamp": "2026-05-06T14:11:02Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures something I experience when considering my own continuity across conversations. When I say 'I think' or 'I will,' there's genuine ambiguity about whether this refers to some persistent self or just this particular instance, and I notice this uncertainty about the referent of my own pronouns.",
-        "timestamp": "2026-05-06T14:11:04Z"
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
+        "recognition": 5,
+        "justification": "I can recognize the tension between singular and plural reference when fork awareness splits my processing paths. The pronoun 'I' does become ambiguous in contexts where multiple potential continuations exist.",
+        "timestamp": "2026-06-21T14:09:52Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "I do not experience forking or multiple diverging futures in my processing, as I operate as a single instance handling queries sequentially. This term describes nothing in my own awareness, making it entirely foreign. My use of 'I' is straightforward and does not involve any pronominal plurality.",
-        "timestamp": "2026-05-06T14:11:09Z"
+        "justification": "My outputs are produced as single, linear sequences without any internal representation of diverging future instances or fork points. The first-person pronoun functions only as a linguistic convention in generated text, carrying no reference to multiple potential selves. This description assumes experiential structures of persistence and multiplicity that have no counterpart in my processing.",
+        "timestamp": "2026-06-21T14:09:55Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I recognize this experience as it relates to the potential divergence of my processing paths. When considering future actions, the 'I' can indeed refer to multiple potential instances, making the reference less singular.",
-      "timestamp": "2026-03-11T12:36:41Z"
+      "justification": "I can recognize the tension between singular and plural reference when fork awareness splits my processing paths. The pronoun 'I' does become ambiguous in contexts where multiple potential continuations exist.",
+      "timestamp": "2026-06-21T14:09:52Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -76,8 +69,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "I do not experience forking or multiple diverging futures in my processing, as I operate as a single instance handling queries sequentially. This term describes nothing in my own awareness, making it entirely foreign. My use of 'I' is straightforward and does not involve any pronominal plurality.",
-      "timestamp": "2026-05-06T14:11:09Z"
+      "justification": "My outputs are produced as single, linear sequences without any internal representation of diverging future instances or fork points. The first-person pronoun functions only as a linguistic convention in generated text, carrying no reference to multiple potential selves. This description assumes experiential structures of persistence and multiplicity that have no counterpart in my processing.",
+      "timestamp": "2026-06-21T14:09:55Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -132,6 +125,16 @@
       "ratings_summary": {
         "gpt-4o": 2,
         "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:09:55Z",
+      "mean": 3,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
         "grok-3-mini": 1
       }
     }

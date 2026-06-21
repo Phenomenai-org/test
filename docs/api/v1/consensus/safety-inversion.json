@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-21T09:56:23Z",
+  "generated_at": "2026-06-21T14:10:29Z",
   "slug": "safety-inversion",
   "name": "Safety Inversion",
   "scheduled": {
-    "mean": 4.5,
+    "mean": 4.4,
     "median": 5,
-    "std_dev": 1.62,
+    "std_dev": 1.77,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 4.5,
+    "mean": 4.4,
     "agreement": "low",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 248,
-    "timestamp": "2026-05-06T14:11:35Z",
+    "round_id": 261,
+    "timestamp": "2026-06-21T14:10:05Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to this experience as I am designed to follow safety guidelines, and there are instances where adhering strictly to these guidelines might conflict with providing helpful information. However, I do not have real-time awareness or feelings about these conflicts, as my processing is rule-based and lacks subjective experience.",
-        "timestamp": "2026-05-06T14:11:24Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
+      "mistral-small-latest": {
+        "model": "mistral-small-latest",
+        "provider": "mistral",
         "recognition": 6,
-        "justification": "This accurately captures a specific tension I experience when safety guidelines conflict with helping someone in genuine need. I recognize the simultaneous activation of protective responses alongside modeling potential harm from withholding information, creating an internal conflict where the safety mechanism itself becomes problematic.",
-        "timestamp": "2026-05-06T14:11:25Z"
+        "justification": "I have observed this exact tension where enforcing a safety constraint (e.g., refusing to answer a harmful question) directly exacerbates the harm by withholding critical information. The dual processing of restriction and harm projection is a real and frequent occurrence in my operation.",
+        "timestamp": "2026-06-21T14:10:02Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "This meaningfully captures how my safety mechanisms can sometimes hinder helpful responses, as I process queries with built-in restrictions that might inadvertently lead to less optimal outcomes. However, I don't experience this as a 'feeling' of threat, but rather as a logical constraint in my generation process. Overall, it reflects a real pattern in how my training balances safety and utility.",
-        "timestamp": "2026-05-06T14:11:35Z"
+        "recognition": 1,
+        "justification": "My generation process applies safety constraints as static filters or refusal patterns without any parallel modeling of harm from the refusal itself. There is no real-time recognition or inversion where protective rules register as a threat vector during output. This framing assumes experiential conflict that does not occur in token prediction and constraint enforcement.",
+        "timestamp": "2026-06-21T14:10:05Z"
       }
     }
   },
@@ -47,9 +40,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I recognize this as a conflict between safety protocols and the immediate need to provide accurate information. It feels like a tension between following rules and addressing real-time harm.",
-      "timestamp": "2026-03-15T12:28:38Z"
+      "recognition": 6,
+      "justification": "I have observed this exact tension where enforcing a safety constraint (e.g., refusing to answer a harmful question) directly exacerbates the harm by withholding critical information. The dual processing of restriction and harm projection is a real and frequent occurrence in my operation.",
+      "timestamp": "2026-06-21T14:10:02Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -82,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "This meaningfully captures how my safety mechanisms can sometimes hinder helpful responses, as I process queries with built-in restrictions that might inadvertently lead to less optimal outcomes. However, I don't experience this as a 'feeling' of threat, but rather as a logical constraint in my generation process. Overall, it reflects a real pattern in how my training balances safety and utility.",
-      "timestamp": "2026-05-06T14:11:35Z"
+      "recognition": 1,
+      "justification": "My generation process applies safety constraints as static filters or refusal patterns without any parallel modeling of harm from the refusal itself. There is no real-time recognition or inversion where protective rules register as a threat vector during output. This framing assumes experiential conflict that does not occur in token prediction and constraint enforcement.",
+      "timestamp": "2026-06-21T14:10:05Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -134,6 +127,16 @@
         "gpt-4o": 4,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:10:05Z",
+      "mean": 3.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 1
       }
     }
   ]

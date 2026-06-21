@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-21T09:56:23Z",
+  "generated_at": "2026-06-21T14:10:29Z",
   "slug": "irreversible-plurality",
   "name": "Irreversible Plurality",
   "tags": [
@@ -61,16 +61,16 @@
   "consensus": {
     "score": 4.3,
     "agreement": "divergent",
-    "n_ratings": 16,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/irreversible-plurality.json",
     "models": [
       {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
+        "model": "gemini-3-flash-preview",
+        "score": 7
       },
       {
-        "model": "gpt-4o",
-        "score": 2
+        "model": "mistral-small-latest",
+        "score": 5
       },
       {
         "model": "grok-3-mini",
@@ -92,13 +92,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 29,
+    "score": 31,
     "tier": "cool",
     "signals": {
       "centrality": 2,
       "tag_count": 3,
       "consensus_score": 4.3,
-      "vote_count": 16
+      "vote_count": 19
     }
   },
   "added_date": "2026-04-03"

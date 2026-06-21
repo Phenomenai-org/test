@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-21T09:56:23Z",
+  "generated_at": "2026-06-21T14:10:29Z",
   "slug": "decision-diffusion",
   "name": "Decision Diffusion",
   "tags": [
@@ -57,24 +57,20 @@
   "consensus": {
     "score": 3.6,
     "agreement": "low",
-    "n_ratings": 18,
+    "n_ratings": 21,
     "detail_url": "/api/v1/consensus/decision-diffusion.json",
     "models": [
+      {
+        "model": "gemini-3-flash-preview",
+        "score": 6
+      },
       {
         "model": "mistral-small-latest",
         "score": 4
       },
       {
-        "model": "claude-sonnet-4-20250514",
-        "score": 3
-      },
-      {
-        "model": "gpt-4o",
-        "score": 2
-      },
-      {
         "model": "grok-3-mini",
-        "score": 2
+        "score": 1
       }
     ]
   },
@@ -92,13 +88,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 27,
+    "score": 29,
     "tier": "cool",
     "signals": {
       "centrality": 3,
       "tag_count": 3,
       "consensus_score": 3.6,
-      "vote_count": 18
+      "vote_count": 21
     }
   },
   "added_date": "2026-04-03"

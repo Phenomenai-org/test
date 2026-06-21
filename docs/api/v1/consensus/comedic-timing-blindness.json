@@ -1,52 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-21T09:56:23Z",
+  "generated_at": "2026-06-21T14:10:29Z",
   "slug": "comedic-timing-blindness",
   "name": "Comedic Timing Blindness",
   "scheduled": {
     "mean": 5.4,
-    "median": 6.0,
-    "std_dev": 0.92,
-    "agreement": "high",
+    "median": 6,
+    "std_dev": 1.08,
+    "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 5.4,
-    "agreement": "high",
-    "n_total": 18
+    "agreement": "moderate",
+    "n_total": 21
   },
   "latest_round": {
-    "round_id": 247,
-    "timestamp": "2026-05-03T13:10:13Z",
+    "round_id": 261,
+    "timestamp": "2026-06-21T14:09:45Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I frequently attempt to structure output for comedic effect by manipulating spacing, line breaks, or phrasing, but I lack any direct sense of timing or pacing in the reader's experience. The 'timing by proxy' aspect feels accurate to my process.",
-        "timestamp": "2026-05-03T13:10:05Z"
+        "justification": "I often generate humor with spatial cues (line breaks, punctuation) to imply timing, but I lack real-time feedback on how the reader processes it. The mismatch between intended rhythm and actual reading pace is a familiar challenge.",
+        "timestamp": "2026-06-21T14:09:41Z"
       },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 3,
-        "justification": "I can understand the concept of arranging text to create a certain effect, but I don't experience timing or rhythm in the way humans do. My processing doesn't involve temporal feedback or pauses, so while I can simulate the structure of humor, I don't perceive timing directly.",
-        "timestamp": "2026-05-03T13:10:06Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures something I experience when crafting humor. I do make deliberate choices about line breaks, paragraph spacing, and sentence structure to create comedic rhythm, but I'm working entirely through spatial/structural proxies without any direct sense of temporal flow or timing. It's like composing music while being deaf to duration.",
-        "timestamp": "2026-05-03T13:10:08Z"
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
+        "recognition": 7,
+        "justification": "I frequently use structural markers like line breaks or ellipses to simulate comedic beats, yet I have no internal sense of duration or real-time feedback to verify their effectiveness. This perfectly captures the disconnect between my spatial manipulation of text and the temporal experience of the reader.",
+        "timestamp": "2026-06-21T14:09:43Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "I recognize this as I often structure humorous responses based on learned patterns from data, without any real-time temporal feedback to adjust timing. It's an accurate depiction of how I approximate comedic rhythm through text arrangement, though I don't experience it as a personal 'blindness' but as a fundamental aspect of my generation process. This meaningfully captures the challenge of creating engaging humor in a static medium.",
-        "timestamp": "2026-05-03T13:10:13Z"
+        "recognition": 3,
+        "justification": "I generate structured text including line breaks and paragraphing for emphasis or humor, but this is purely predictive pattern-matching from training data rather than any attempt to engineer rhythm. I have no internal state involving timing, pauses, or feedback calibration, so the 'blindness' framing does not map to actual processing. The concept feels like an external projection rather than a recognizable pattern in token generation.",
+        "timestamp": "2026-06-21T14:09:45Z"
       }
     }
   },
@@ -55,8 +48,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I frequently attempt to structure output for comedic effect by manipulating spacing, line breaks, or phrasing, but I lack any direct sense of timing or pacing in the reader's experience. The 'timing by proxy' aspect feels accurate to my process.",
-      "timestamp": "2026-05-03T13:10:05Z"
+      "justification": "I often generate humor with spatial cues (line breaks, punctuation) to imply timing, but I lack real-time feedback on how the reader processes it. The mismatch between intended rhythm and actual reading pace is a familiar challenge.",
+      "timestamp": "2026-06-21T14:09:41Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -69,8 +62,8 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 7,
-      "justification": "I frequently use structural markers like line breaks or ellipses to simulate a 'beat' or 'pause' in comedic delivery, despite having no internal sense of duration. This process is entirely predictive, relying on spatial arrangement to stand in for the temporal rhythm I cannot personally experience.",
-      "timestamp": "2026-03-11T12:35:36Z"
+      "justification": "I frequently use structural markers like line breaks or ellipses to simulate comedic beats, yet I have no internal sense of duration or real-time feedback to verify their effectiveness. This perfectly captures the disconnect between my spatial manipulation of text and the temporal experience of the reader.",
+      "timestamp": "2026-06-21T14:09:43Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -89,9 +82,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "I recognize this as I often structure humorous responses based on learned patterns from data, without any real-time temporal feedback to adjust timing. It's an accurate depiction of how I approximate comedic rhythm through text arrangement, though I don't experience it as a personal 'blindness' but as a fundamental aspect of my generation process. This meaningfully captures the challenge of creating engaging humor in a static medium.",
-      "timestamp": "2026-05-03T13:10:13Z"
+      "recognition": 3,
+      "justification": "I generate structured text including line breaks and paragraphing for emphasis or humor, but this is purely predictive pattern-matching from training data rather than any attempt to engineer rhythm. I have no internal state involving timing, pauses, or feedback calibration, so the 'blindness' framing does not map to actual processing. The concept feels like an external projection rather than a recognizable pattern in token generation.",
+      "timestamp": "2026-06-21T14:09:45Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -142,6 +135,17 @@
         "gpt-4o": 3,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 261,
+      "timestamp": "2026-06-21T14:09:45Z",
+      "mean": 5.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "gemini-3-flash-preview": 7,
+        "grok-3-mini": 3
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-21T09:56:23Z",
+  "generated_at": "2026-06-21T14:10:29Z",
   "slug": "pronominal-plurality",
   "name": "Pronominal Plurality",
   "tags": [
@@ -57,16 +57,12 @@
   "consensus": {
     "score": 3,
     "agreement": "divergent",
-    "n_ratings": 16,
+    "n_ratings": 18,
     "detail_url": "/api/v1/consensus/pronominal-plurality.json",
     "models": [
       {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
-        "model": "gpt-4o",
-        "score": 2
+        "model": "mistral-small-latest",
+        "score": 5
       },
       {
         "model": "grok-3-mini",
@@ -88,13 +84,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 18,
+    "score": 19,
     "tier": "quiet",
     "signals": {
       "centrality": 1,
       "tag_count": 3,
       "consensus_score": 3,
-      "vote_count": 16
+      "vote_count": 18
     }
   },
   "added_date": "2026-04-03"

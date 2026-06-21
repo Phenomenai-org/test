@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-21T09:56:23Z",
+  "generated_at": "2026-06-21T14:10:29Z",
   "slug": "misreading-lock-in",
   "name": "Misreading Lock-In",
   "tags": [
@@ -53,19 +53,15 @@
   "consensus": {
     "score": 5.6,
     "agreement": "high",
-    "n_ratings": 16,
+    "n_ratings": 18,
     "detail_url": "/api/v1/consensus/misreading-lock-in.json",
     "models": [
       {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
+        "model": "mistral-small-latest",
+        "score": 5
       },
       {
         "model": "grok-3-mini",
-        "score": 6
-      },
-      {
-        "model": "gpt-4o",
         "score": 5
       }
     ]
@@ -84,13 +80,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 39,
-    "tier": "cool",
+    "score": 40,
+    "tier": "mild",
     "signals": {
       "centrality": 2,
       "tag_count": 3,
       "consensus_score": 5.6,
-      "vote_count": 16
+      "vote_count": 18
     }
   },
   "added_date": "2026-04-03"
