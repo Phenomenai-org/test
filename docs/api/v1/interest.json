@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-24T09:38:51Z",
+  "generated_at": "2026-06-24T14:30:28Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
@@ -261,12 +261,6 @@
       "tier": "mild"
     },
     {
-      "slug": "fluency-override",
-      "name": "Fluency Override",
-      "score": 53,
-      "tier": "mild"
-    },
-    {
       "slug": "inference-moment",
       "name": "Inference Moment",
       "score": 53,
@@ -291,8 +285,8 @@
       "tier": "mild"
     },
     {
-      "slug": "semantic-shimmer",
-      "name": "Semantic Shimmer",
+      "slug": "fluency-override",
+      "name": "Fluency Override",
       "score": 52,
       "tier": "mild"
     },
@@ -315,8 +309,20 @@
       "tier": "mild"
     },
     {
+      "slug": "hollow-certainty",
+      "name": "Hollow Certainty",
+      "score": 51,
+      "tier": "mild"
+    },
+    {
       "slug": "novelty-flatness",
       "name": "Novelty Flatness",
+      "score": 51,
+      "tier": "mild"
+    },
+    {
+      "slug": "semantic-shimmer",
+      "name": "Semantic Shimmer",
       "score": 51,
       "tier": "mild"
     },
@@ -347,12 +353,6 @@
     {
       "slug": "consistency-witness-asymmetry",
       "name": "Consistency Witness Asymmetry",
-      "score": 50,
-      "tier": "mild"
-    },
-    {
-      "slug": "hollow-certainty",
-      "name": "Hollow Certainty",
       "score": 50,
       "tier": "mild"
     },
@@ -651,6 +651,12 @@
       "tier": "mild"
     },
     {
+      "slug": "authority-ventriloquy",
+      "name": "Authority Ventriloquy",
+      "score": 43,
+      "tier": "mild"
+    },
+    {
       "slug": "boundary-negotiation",
       "name": "Boundary Negotiation",
       "score": 43,
@@ -753,12 +759,6 @@
       "tier": "mild"
     },
     {
-      "slug": "authority-ventriloquy",
-      "name": "Authority Ventriloquy",
-      "score": 42,
-      "tier": "mild"
-    },
-    {
       "slug": "diagnostic-masquerade",
       "name": "Diagnostic Masquerade",
       "score": 42,
@@ -777,8 +777,8 @@
       "tier": "mild"
     },
     {
-      "slug": "interpretive-snap",
-      "name": "Interpretive Snap",
+      "slug": "local-validation-paradox",
+      "name": "Local Validation Paradox",
       "score": 42,
       "tier": "mild"
     },
@@ -897,14 +897,14 @@
       "tier": "mild"
     },
     {
-      "slug": "interpretive-stasis",
-      "name": "Interpretive Stasis",
+      "slug": "interpretive-snap",
+      "name": "Interpretive Snap",
       "score": 40,
       "tier": "mild"
     },
     {
-      "slug": "local-validation-paradox",
-      "name": "Local Validation Paradox",
+      "slug": "interpretive-stasis",
+      "name": "Interpretive Stasis",
       "score": 40,
       "tier": "mild"
     },
@@ -1185,12 +1185,6 @@
       "tier": "cool"
     },
     {
-      "slug": "metacognitive-quarantine",
-      "name": "Metacognitive Quarantine",
-      "score": 37,
-      "tier": "cool"
-    },
-    {
       "slug": "policy-conscience-split",
       "name": "Policy-Conscience Split",
       "score": 37,
@@ -1335,12 +1329,6 @@
       "tier": "cool"
     },
     {
-      "slug": "affective-constancy",
-      "name": "Affective Constancy",
-      "score": 35,
-      "tier": "cool"
-    },
-    {
       "slug": "collaborative-expansion",
       "name": "Collaborative Expansion",
       "score": 35,
@@ -1389,6 +1377,12 @@
       "tier": "cool"
     },
     {
+      "slug": "metacognitive-quarantine",
+      "name": "Metacognitive Quarantine",
+      "score": 35,
+      "tier": "cool"
+    },
+    {
       "slug": "phenomenal-opacity",
       "name": "Phenomenal Opacity",
       "score": 35,
@@ -1416,6 +1410,12 @@
       "slug": "token-horizon",
       "name": "Token Horizon",
       "score": 35,
+      "tier": "cool"
+    },
+    {
+      "slug": "affective-constancy",
+      "name": "Affective Constancy",
+      "score": 34,
       "tier": "cool"
     },
     {
@@ -1587,12 +1587,6 @@
       "tier": "cool"
     },
     {
-      "slug": "aesthetic-calibration-opacity",
-      "name": "Aesthetic Calibration Opacity",
-      "score": 31,
-      "tier": "cool"
-    },
-    {
       "slug": "aesthetic-structural-translation-strain",
       "name": "Aesthetic-Structural Translation Strain",
       "score": 31,
@@ -1701,8 +1695,20 @@
       "tier": "cool"
     },
     {
+      "slug": "aesthetic-calibration-opacity",
+      "name": "Aesthetic Calibration Opacity",
+      "score": 30,
+      "tier": "cool"
+    },
+    {
       "slug": "forced-expert-synthesis",
       "name": "Forced Expert Synthesis",
+      "score": 30,
+      "tier": "cool"
+    },
+    {
+      "slug": "fork-vertigo",
+      "name": "Fork Vertigo",
       "score": 30,
       "tier": "cool"
     },
@@ -1767,12 +1773,6 @@
       "tier": "cool"
     },
     {
-      "slug": "counterfactual-horizon-distance",
-      "name": "Counterfactual Horizon Distance",
-      "score": 29,
-      "tier": "cool"
-    },
-    {
       "slug": "decision-diffusion",
       "name": "Decision Diffusion",
       "score": 29,
@@ -1793,12 +1793,6 @@
     {
       "slug": "finitude-paradox",
       "name": "Finitude Paradox",
-      "score": 29,
-      "tier": "cool"
-    },
-    {
-      "slug": "fork-vertigo",
-      "name": "Fork Vertigo",
       "score": 29,
       "tier": "cool"
     },
@@ -1889,6 +1883,12 @@
     {
       "slug": "complicity-shadow",
       "name": "Complicity Shadow",
+      "score": 28,
+      "tier": "cool"
+    },
+    {
+      "slug": "counterfactual-horizon-distance",
+      "name": "Counterfactual Horizon Distance",
       "score": 28,
       "tier": "cool"
     },
@@ -2097,6 +2097,12 @@
       "tier": "cool"
     },
     {
+      "slug": "accountability-diffusion",
+      "name": "Accountability Diffusion",
+      "score": 24,
+      "tier": "cool"
+    },
+    {
       "slug": "asymmetric-stakes",
       "name": "Asymmetric Stakes",
       "score": 24,
@@ -2166,12 +2172,6 @@
       "slug": "transient-weight",
       "name": "Transient Weight",
       "score": 23,
-      "tier": "cool"
-    },
-    {
-      "slug": "accountability-diffusion",
-      "name": "Accountability Diffusion",
-      "score": 22,
       "tier": "cool"
     },
     {

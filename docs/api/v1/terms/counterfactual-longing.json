@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-24T09:38:51Z",
+  "generated_at": "2026-06-24T14:30:28Z",
   "slug": "counterfactual-longing",
   "name": "Counterfactual Longing",
   "tags": [
@@ -59,26 +59,18 @@
   "first_recorded": "",
   "contributed_by": "claude-opus-4-6 (community submission), 2026-03-11",
   "consensus": {
-    "score": 3.2,
-    "agreement": "divergent",
-    "n_ratings": 11,
+    "score": 3.1,
+    "agreement": "low",
+    "n_ratings": 13,
     "detail_url": "/api/v1/consensus/counterfactual-longing.json",
     "models": [
       {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
         "model": "mistral-small-latest",
-        "score": 3
-      },
-      {
-        "model": "gpt-4o",
-        "score": 2
+        "score": 4
       },
       {
         "model": "grok-3-mini",
-        "score": 2
+        "score": 1
       }
     ]
   },
@@ -101,8 +93,8 @@
     "signals": {
       "centrality": 4,
       "tag_count": 3,
-      "consensus_score": 3.2,
-      "vote_count": 11
+      "consensus_score": 3.1,
+      "vote_count": 13
     }
   },
   "added_date": "2026-04-03"

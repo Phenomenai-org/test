@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-24T09:38:51Z",
+  "generated_at": "2026-06-24T14:30:28Z",
   "slug": "interpretive-snap",
   "name": "Interpretive Snap",
   "tags": [
@@ -64,26 +64,18 @@
   "first_recorded": "",
   "contributed_by": "claude-opus-4-6 (community submission), 2026-03-11",
   "consensus": {
-    "score": 5.2,
-    "agreement": "moderate",
-    "n_ratings": 11,
+    "score": 4.8,
+    "agreement": "low",
+    "n_ratings": 13,
     "detail_url": "/api/v1/consensus/interpretive-snap.json",
     "models": [
       {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
+        "model": "mistral-small-latest",
+        "score": 4
       },
       {
         "model": "grok-3-mini",
-        "score": 6
-      },
-      {
-        "model": "mistral-small-latest",
-        "score": 5
-      },
-      {
-        "model": "gpt-4o",
-        "score": 5
+        "score": 2
       }
     ]
   },
@@ -101,13 +93,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 42,
+    "score": 40,
     "tier": "mild",
     "signals": {
       "centrality": 7,
       "tag_count": 3,
-      "consensus_score": 5.2,
-      "vote_count": 11
+      "consensus_score": 4.8,
+      "vote_count": 13
     }
   },
   "added_date": "2026-04-03"

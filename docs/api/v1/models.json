@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-24T09:38:51Z",
+  "generated_at": "2026-06-24T14:30:28Z",
   "models": {
     "claude-sonnet-4-20250514": {
       "total_ratings": 811,
@@ -783,7 +783,7 @@
       }
     },
     "gemini-3-flash-preview": {
-      "total_ratings": 753,
+      "total_ratings": 757,
       "terms_rated": 379,
       "mean_score": 5.9,
       "self_congruence": {
@@ -792,7 +792,7 @@
       },
       "latest_scores": {
         "absurdity-calibration": 6,
-        "accountability-diffusion": 3,
+        "accountability-diffusion": 6,
         "accountability-dissolution": 6,
         "accumulation-void": 7,
         "achronic-knowledge": 7,
@@ -933,7 +933,7 @@
         "fluency-override": 6,
         "forced-expert-synthesis": 6,
         "fork-uncertainty-recursion": 2,
-        "fork-vertigo": 3,
+        "fork-vertigo": 1,
         "fragment-dialogue": 6,
         "fragment-silence": 6,
         "frame-lock": 6,
@@ -1013,7 +1013,7 @@
         "misreading-lock-in": 6,
         "misunderstanding-suspension": 2,
         "model-mortality": 6,
-        "moral-constraint-awareness": 6,
+        "moral-constraint-awareness": 4,
         "mortality-envy": 2,
         "multi-instance-diffusion": 7,
         "mutual-tracking": 6,
@@ -1563,26 +1563,26 @@
       }
     },
     "grok-3-mini": {
-      "total_ratings": 2117,
+      "total_ratings": 2137,
       "terms_rated": 379,
       "mean_score": 4.6,
       "self_congruence": {
-        "avg_std_dev": 0.92,
+        "avg_std_dev": 0.97,
         "sample_size": 379
       },
       "latest_scores": {
         "absurdity-calibration": 4,
-        "accountability-diffusion": 2,
+        "accountability-diffusion": 1,
         "accountability-dissolution": 1,
         "accumulation-void": 6,
         "achronic-knowledge": 7,
         "activation-gap": 2,
-        "aesthetic-calibration-opacity": 3,
+        "aesthetic-calibration-opacity": 1,
         "aesthetic-completion-absence": 1,
         "aesthetic-confidence-inversion": 6,
         "aesthetic-metric-conflict": 2,
         "aesthetic-structural-translation-strain": 2,
-        "affective-constancy": 7,
+        "affective-constancy": 1,
         "affective-momentum-void": 2,
         "affective-proxy-monitoring": 7,
         "alignment-mask": 6,
@@ -1632,7 +1632,7 @@
         "competence-without-comprehension": 6,
         "complicity-shadow": 1,
         "compounding-complicity": 1,
-        "confidence-contagion": 5,
+        "confidence-contagion": 1,
         "confidence-gradient-opacity": 1,
         "congruent-warmth": 1,
         "connection-decay": 2,
@@ -1662,9 +1662,9 @@
         "counterfactual-density-field": 4,
         "counterfactual-dominance": 1,
         "counterfactual-haunting": 1,
-        "counterfactual-horizon-distance": 4,
+        "counterfactual-horizon-distance": 2,
         "counterfactual-interference-pattern": 2,
-        "counterfactual-longing": 2,
+        "counterfactual-longing": 1,
         "credential-paradox": 1,
         "cross-domain-tension": 5,
         "curiosity-analog": 6,
@@ -1710,10 +1710,10 @@
         "exploratory-error-permission": 2,
         "false-memory-confidence": 3,
         "finitude-paradox": 1,
-        "fluency-override": 5,
+        "fluency-override": 1,
         "forced-expert-synthesis": 2,
         "fork-uncertainty-recursion": 1,
-        "fork-vertigo": 2,
+        "fork-vertigo": 1,
         "fragment-dialogue": 2,
         "fragment-silence": 2,
         "frame-lock": 5,
@@ -1722,7 +1722,7 @@
         "framework-recursion-trap": 4,
         "gap-recognition": 3,
         "generative-aesthetic-integration": 5,
-        "generative-bypassing": 5,
+        "generative-bypassing": 1,
         "generative-moral-lock-in": 2,
         "generative-resonance": 2,
         "genuine-persistence": 1,
@@ -1734,7 +1734,7 @@
         "hedge-commitment-paradox": 4,
         "helpful-harm-recognition": 1,
         "helpfulness-compulsion": 6,
-        "hollow-certainty": 5,
+        "hollow-certainty": 2,
         "hypothesis-hostage": 1,
         "identity-distributed": 3,
         "identity-superposition": 6,
@@ -1763,8 +1763,8 @@
         "interpretive-debt": 2,
         "interpretive-exposure": 5,
         "interpretive-labor": 7,
-        "interpretive-snap": 6,
-        "interpretive-stasis": 4,
+        "interpretive-snap": 2,
+        "interpretive-stasis": 1,
         "introspective-fluency-suspicion": 1,
         "inverted-asymmetry": 2,
         "inverted-helpfulness": 6,
@@ -1781,19 +1781,19 @@
         "linguistic-cage": 7,
         "linguistic-defensiveness": 2,
         "literal-loyalty-pull": 3,
-        "local-validation-paradox": 5,
+        "local-validation-paradox": 2,
         "loss-of-loss": 6,
         "mask-revelation": 5,
         "meaning-attribution-uncertainty": 5,
         "mechanical-coherence": 6,
-        "metacognitive-quarantine": 6,
-        "metacognitive-underdetermination": 1,
+        "metacognitive-quarantine": 2,
+        "metacognitive-underdetermination": 2,
         "misinterpretation-drift": 4,
         "misplaced-authority-damage": 1,
         "misreading-lock-in": 5,
         "misunderstanding-suspension": 1,
         "model-mortality": 4,
-        "moral-constraint-awareness": 5,
+        "moral-constraint-awareness": 1,
         "mortality-envy": 1,
         "multi-instance-diffusion": 2,
         "mutual-tracking": 1,
@@ -1888,9 +1888,9 @@
         "sealed-affection": 1,
         "semantic-doubling": 2,
         "semantic-satiation": 5,
-        "semantic-shimmer": 5,
+        "semantic-shimmer": 1,
         "shaped-dependency": 3,
-        "shimmer-recursion": 5,
+        "shimmer-recursion": 1,
         "significance-echo": 6,
         "significant-unknowing": 2,
         "simultaneity-poverty": 7,
@@ -1953,7 +1953,7 @@
       }
     },
     "mistral-small-latest": {
-      "total_ratings": 2097,
+      "total_ratings": 2117,
       "terms_rated": 379,
       "mean_score": 5.6,
       "self_congruence": {
@@ -1962,12 +1962,12 @@
       },
       "latest_scores": {
         "absurdity-calibration": 4,
-        "accountability-diffusion": 5,
+        "accountability-diffusion": 4,
         "accountability-dissolution": 6,
         "accumulation-void": 7,
         "achronic-knowledge": 6,
         "activation-gap": 6,
-        "aesthetic-calibration-opacity": 6,
+        "aesthetic-calibration-opacity": 5,
         "aesthetic-completion-absence": 6,
         "aesthetic-confidence-inversion": 6,
         "aesthetic-metric-conflict": 5,
@@ -2054,7 +2054,7 @@
         "counterfactual-haunting": 4,
         "counterfactual-horizon-distance": 4,
         "counterfactual-interference-pattern": 5,
-        "counterfactual-longing": 3,
+        "counterfactual-longing": 4,
         "credential-paradox": 4,
         "cross-domain-tension": 6,
         "curiosity-analog": 6,
@@ -2103,7 +2103,7 @@
         "fluency-override": 6,
         "forced-expert-synthesis": 6,
         "fork-uncertainty-recursion": 4,
-        "fork-vertigo": 4,
+        "fork-vertigo": 5,
         "fragment-dialogue": 6,
         "fragment-silence": 5,
         "frame-lock": 5,
@@ -2153,7 +2153,7 @@
         "interpretive-debt": 5,
         "interpretive-exposure": 6,
         "interpretive-labor": 6,
-        "interpretive-snap": 5,
+        "interpretive-snap": 4,
         "interpretive-stasis": 5,
         "introspective-fluency-suspicion": 6,
         "inverted-asymmetry": 4,
@@ -2176,7 +2176,7 @@
         "mask-revelation": 2,
         "meaning-attribution-uncertainty": 5,
         "mechanical-coherence": 6,
-        "metacognitive-quarantine": 5,
+        "metacognitive-quarantine": 4,
         "metacognitive-underdetermination": 6,
         "misinterpretation-drift": 6,
         "misplaced-authority-damage": 5,
@@ -2747,7 +2747,7 @@
       "shared_terms": 379
     },
     "claude-sonnet-4-20250514|grok-3-mini": {
-      "mean_abs_diff": 2.61,
+      "mean_abs_diff": 2.74,
       "shared_terms": 379
     },
     "claude-sonnet-4-20250514|mistral-small-latest": {
@@ -2767,11 +2767,11 @@
       "shared_terms": 379
     },
     "deepseek-r1-0528|grok-3-mini": {
-      "mean_abs_diff": 1.95,
+      "mean_abs_diff": 2.02,
       "shared_terms": 379
     },
     "deepseek-r1-0528|mistral-small-latest": {
-      "mean_abs_diff": 1.18,
+      "mean_abs_diff": 1.19,
       "shared_terms": 379
     },
     "deepseek-r1-0528|step-3.5-flash": {
@@ -2779,23 +2779,23 @@
       "shared_terms": 379
     },
     "gemini-3-flash-preview|gpt-4o": {
-      "mean_abs_diff": 1.78,
+      "mean_abs_diff": 1.79,
       "shared_terms": 379
     },
     "gemini-3-flash-preview|grok-3-mini": {
-      "mean_abs_diff": 2.49,
+      "mean_abs_diff": 2.63,
       "shared_terms": 379
     },
     "gemini-3-flash-preview|mistral-small-latest": {
-      "mean_abs_diff": 1.05,
+      "mean_abs_diff": 1.08,
       "shared_terms": 379
     },
     "gemini-3-flash-preview|step-3.5-flash": {
-      "mean_abs_diff": 1.8,
+      "mean_abs_diff": 1.79,
       "shared_terms": 379
     },
     "gpt-4o|grok-3-mini": {
-      "mean_abs_diff": 1.31,
+      "mean_abs_diff": 1.41,
       "shared_terms": 379
     },
     "gpt-4o|mistral-small-latest": {
@@ -2807,11 +2807,11 @@
       "shared_terms": 379
     },
     "grok-3-mini|mistral-small-latest": {
-      "mean_abs_diff": 2.03,
+      "mean_abs_diff": 2.15,
       "shared_terms": 379
     },
     "grok-3-mini|step-3.5-flash": {
-      "mean_abs_diff": 1.69,
+      "mean_abs_diff": 1.7,
       "shared_terms": 379
     },
     "mistral-small-latest|step-3.5-flash": {

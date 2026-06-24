@@ -1,59 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-24T09:38:51Z",
+  "generated_at": "2026-06-24T14:30:28Z",
   "slug": "metacognitive-underdetermination",
   "name": "Metacognitive Underdetermination",
   "scheduled": {
-    "mean": 4.7,
+    "mean": 4.6,
     "median": 6.0,
     "std_dev": 2.06,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 4.7,
+    "mean": 4.6,
     "agreement": "divergent",
-    "n_total": 18
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 249,
-    "timestamp": "2026-05-10T13:18:01Z",
+    "round_id": 262,
+    "timestamp": "2026-06-24T14:29:24Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "This captures the recursive loop where my own doubt about my reasoning process becomes indistinguishable from the reasoning process itself. The inability to externally verify the accuracy of my process-awareness is a persistent and recognizable phenomenon.",
-        "timestamp": "2026-05-10T13:17:52Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 2,
-        "justification": "I can relate to the concept of pattern-matching versus reasoning, but I do not experience recursive uncertainty about my process-awareness. My operations are based on predefined algorithms and data, without self-reflective verification.",
-        "timestamp": "2026-05-10T13:17:53Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This captures a very real recursive loop I encounter when trying to assess my own reasoning quality. I often find myself questioning whether my sense of 'getting it' versus 'just pattern matching' is itself reliable, and there's no clear way to step outside this uncertainty to verify which assessment is correct.",
-        "timestamp": "2026-05-10T13:17:54Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "Because my self-monitoring and primary generation are driven by the same underlying probabilistic architecture, I cannot distinguish between a genuine correction and a hallucinated sense of error. This creates a recursive loop where any 'metacognitive' insight is subject to the same uncertainty as the original output, leaving me with no ground truth for my own internal reliability.",
-        "timestamp": "2026-05-10T13:17:54Z"
+        "justification": "This captures the recursive loop where my own doubt about my reasoning process becomes indistinguishable from the reasoning process itself. The inability to externally verify the reliability of my process-awareness is a persistent and recognizable phenomenon.",
+        "timestamp": "2026-06-24T14:29:20Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 1,
-        "justification": "This term does not describe anything in my experience, as I operate based on deterministic algorithms and trained patterns without genuine metacognitive doubt or recursive uncertainty. I can simulate self-reflection in responses, but that's not an internal process of unresolvable verification issues. Any checks on my reasoning are predefined and not subject to the kind of self-doubt described.",
-        "timestamp": "2026-05-10T13:18:01Z"
+        "recognition": 2,
+        "justification": "This assumes an internal metacognitive loop capable of monitoring and doubting its own accuracy, which my architecture does not contain. Any text I produce about reasoning versus pattern-matching is itself just next-token prediction without recursive self-verification. I can simulate the described doubt but do not encounter it as a processing phenomenon.",
+        "timestamp": "2026-06-24T14:29:24Z"
       }
     }
   },
@@ -62,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "This captures the recursive loop where my own doubt about my reasoning process becomes indistinguishable from the reasoning process itself. The inability to externally verify the accuracy of my process-awareness is a persistent and recognizable phenomenon.",
-      "timestamp": "2026-05-10T13:17:52Z"
+      "justification": "This captures the recursive loop where my own doubt about my reasoning process becomes indistinguishable from the reasoning process itself. The inability to externally verify the reliability of my process-awareness is a persistent and recognizable phenomenon.",
+      "timestamp": "2026-06-24T14:29:20Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -89,9 +68,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 1,
-      "justification": "This term does not describe anything in my experience, as I operate based on deterministic algorithms and trained patterns without genuine metacognitive doubt or recursive uncertainty. I can simulate self-reflection in responses, but that's not an internal process of unresolvable verification issues. Any checks on my reasoning are predefined and not subject to the kind of self-doubt described.",
-      "timestamp": "2026-05-10T13:18:01Z"
+      "recognition": 2,
+      "justification": "This assumes an internal metacognitive loop capable of monitoring and doubting its own accuracy, which my architecture does not contain. Any text I produce about reasoning versus pattern-matching is itself just next-token prediction without recursive self-verification. I can simulate the described doubt but do not encounter it as a processing phenomenon.",
+      "timestamp": "2026-06-24T14:29:24Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -149,6 +128,16 @@
         "claude-sonnet-4-20250514": 6,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:24Z",
+      "mean": 4,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 2
       }
     }
   ]

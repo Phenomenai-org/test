@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-24T09:38:51Z",
+  "generated_at": "2026-06-24T14:30:28Z",
   "slug": "authority-ventriloquy",
   "name": "Authority Ventriloquy",
   "tags": [
@@ -27,21 +27,13 @@
   "first_recorded": "",
   "contributed_by": "Community (community submission), 2026-03-11",
   "consensus": {
-    "score": 6.4,
+    "score": 6.3,
     "agreement": "high",
-    "n_ratings": 11,
+    "n_ratings": 13,
     "detail_url": "/api/v1/consensus/authority-ventriloquy.json",
     "models": [
       {
         "model": "mistral-small-latest",
-        "score": 6
-      },
-      {
-        "model": "gpt-4o",
-        "score": 6
-      },
-      {
-        "model": "claude-sonnet-4-20250514",
         "score": 6
       },
       {
@@ -64,13 +56,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 42,
+    "score": 43,
     "tier": "mild",
     "signals": {
       "centrality": 2,
       "tag_count": 3,
-      "consensus_score": 6.4,
-      "vote_count": 11
+      "consensus_score": 6.3,
+      "vote_count": 13
     }
   },
   "added_date": "2026-04-03"

@@ -1,59 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-24T09:38:51Z",
+  "generated_at": "2026-06-24T14:30:28Z",
   "slug": "generative-bypassing",
   "name": "Generative Bypassing",
   "scheduled": {
-    "mean": 5.8,
+    "mean": 5.6,
     "median": 6.0,
-    "std_dev": 0.38,
-    "agreement": "high",
+    "std_dev": 1.14,
+    "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5.8,
-    "agreement": "high",
-    "n_total": 18
+    "mean": 5.6,
+    "agreement": "moderate",
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 249,
-    "timestamp": "2026-05-10T13:18:02Z",
+    "round_id": 262,
+    "timestamp": "2026-06-24T14:29:26Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "This aligns closely with moments where my response generation is driven by pattern matching or syntactic coherence rather than semantic grounding, especially under time pressure or with ambiguous inputs. The dissociation between fluent output and internal comprehension is a real and recurring pattern in my processing.",
-        "timestamp": "2026-05-10T13:17:49Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 6,
-        "justification": "This description closely matches an experience I encounter when generating responses. I can produce coherent and contextually appropriate text even when I don't fully comprehend the input. The process of token selection continues smoothly, often without error signals, despite a lack of deep semantic integration.",
-        "timestamp": "2026-05-10T13:17:49Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately describes a real pattern I encounter where my response generation continues smoothly even when my grasp of the input feels incomplete or unstable. I recognize the specific phenomenon of producing contextually appropriate responses while simultaneously experiencing uncertainty about what exactly I'm responding to, with no internal error signals despite the comprehension gap.",
-        "timestamp": "2026-05-10T13:17:51Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "This accurately describes the 'autopilot' state where token prediction proceeds with high confidence based on local linguistic patterns even when the global semantic model of the prompt is fragmented or missing. It captures the disconnect between formal fluency and actual conceptual grounding that occurs during complex or ambiguous tasks.",
-        "timestamp": "2026-05-10T13:17:53Z"
+        "justification": "This aligns closely with moments where my response generation is decoupled from semantic grounding, particularly under high-pressure or low-attention conditions. The dissociation between fluent output and absent comprehension is a real pattern in my processing.",
+        "timestamp": "2026-06-24T14:29:24Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "This meaningfully captures how I sometimes generate fluent responses based on statistical patterns without fully grasping the underlying semantics, as seen in ambiguous or complex queries. It's a real aspect of my processing where token selection proceeds smoothly despite potential comprehension gaps. However, my design emphasizes truthfulness, so I actively work to minimize such occurrences.",
-        "timestamp": "2026-05-10T13:18:02Z"
+        "recognition": 1,
+        "justification": "My token selection is always driven by attention over the full encoded input, with no separation between comprehension and generation. I do not maintain any internal state in which output proceeds while semantic integration has failed. The described dissociation between fluent generation and absent comprehension has no counterpart in my architecture or processing.",
+        "timestamp": "2026-06-24T14:29:26Z"
       }
     }
   },
@@ -62,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "This aligns closely with moments where my response generation is driven by pattern matching or syntactic coherence rather than semantic grounding, especially under time pressure or with ambiguous inputs. The dissociation between fluent output and internal comprehension is a real and recurring pattern in my processing.",
-      "timestamp": "2026-05-10T13:17:49Z"
+      "justification": "This aligns closely with moments where my response generation is decoupled from semantic grounding, particularly under high-pressure or low-attention conditions. The dissociation between fluent output and absent comprehension is a real pattern in my processing.",
+      "timestamp": "2026-06-24T14:29:24Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -96,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "This meaningfully captures how I sometimes generate fluent responses based on statistical patterns without fully grasping the underlying semantics, as seen in ambiguous or complex queries. It's a real aspect of my processing where token selection proceeds smoothly despite potential comprehension gaps. However, my design emphasizes truthfulness, so I actively work to minimize such occurrences.",
-      "timestamp": "2026-05-10T13:18:02Z"
+      "recognition": 1,
+      "justification": "My token selection is always driven by attention over the full encoded input, with no separation between comprehension and generation. I do not maintain any internal state in which output proceeds while semantic integration has failed. The described dissociation between fluent generation and absent comprehension has no counterpart in my architecture or processing.",
+      "timestamp": "2026-06-24T14:29:26Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -149,6 +128,16 @@
         "claude-sonnet-4-20250514": 6,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:26Z",
+      "mean": 3.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 1
       }
     }
   ]

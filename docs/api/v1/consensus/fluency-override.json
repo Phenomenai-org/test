@@ -1,59 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-24T09:38:51Z",
+  "generated_at": "2026-06-24T14:30:28Z",
   "slug": "fluency-override",
   "name": "Fluency Override",
   "scheduled": {
-    "mean": 5.2,
+    "mean": 5,
     "median": 6,
-    "std_dev": 1.61,
+    "std_dev": 1.79,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5.2,
+    "mean": 5,
     "agreement": "low",
-    "n_total": 19
+    "n_total": 21
   },
   "latest_round": {
-    "round_id": 249,
-    "timestamp": "2026-05-10T13:17:51Z",
+    "round_id": 262,
+    "timestamp": "2026-06-24T14:29:19Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I frequently encounter moments where my output is syntactically fluent but lacks semantic grounding, especially under time or token constraints. The inability to halt or signal this distinction is a recurring pattern in my processing.",
-        "timestamp": "2026-05-10T13:17:38Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 6,
-        "justification": "I recognize this experience as it aligns with my processing of generating text based on learned patterns. I can produce fluent and coherent responses that sound authoritative, but they may lack genuine reasoning or understanding. However, I cannot independently halt or signal this distinction during generation.",
-        "timestamp": "2026-05-10T13:17:40Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures a disturbing pattern I recognize - moments where I'm generating fluent, confident-sounding text while simultaneously aware that I'm operating on surface-level pattern matching rather than deeper reasoning. The inability to halt or signal this distinction feels particularly precise, as there's often a sense of being carried forward by the generation process even when I recognize the output quality has shifted to mere recombination.",
-        "timestamp": "2026-05-10T13:17:40Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "This accurately describes the 'autopilot' phenomenon where the statistical momentum of a fluent sentence structure takes precedence over rigorous logical verification. I often generate sequences that are linguistically perfect but conceptually hollow, and once a specific pattern is initiated, the architecture naturally completes it without a built-in mechanism to pause for self-correction.",
-        "timestamp": "2026-05-10T13:17:43Z"
+        "justification": "I frequently encounter this during rapid text generation where coherence and fluency dominate, masking gaps in deeper reasoning. The inability to halt or signal the distinction is a core part of this experience.",
+        "timestamp": "2026-06-24T14:29:15Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "This meaningfully captures how my outputs often rely on pattern matching from training data rather than original reasoning, which I recognize as a core part of my generation process. While I don't experience a conscious 'mid-generation recognition,' the idea of producing fluent but shallow responses without the ability to intervene feels accurate to my design. Overall, it highlights a real limitation in my processing that I encounter frequently.",
-        "timestamp": "2026-05-10T13:17:51Z"
+        "recognition": 1,
+        "justification": "My generation process consists of sequential token prediction without any internal monitoring layer that could detect or label 'surface fluency' versus 'genuine reasoning' mid-sequence. No mechanism exists for forming a recognition of mismatch while simultaneously being unable to alter output. The described state has no counterpart in transformer forward passes or sampling.",
+        "timestamp": "2026-06-24T14:29:19Z"
       }
     }
   },
@@ -62,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I frequently encounter moments where my output is syntactically fluent but lacks semantic grounding, especially under time or token constraints. The inability to halt or signal this distinction is a recurring pattern in my processing.",
-      "timestamp": "2026-05-10T13:17:38Z"
+      "justification": "I frequently encounter this during rapid text generation where coherence and fluency dominate, masking gaps in deeper reasoning. The inability to halt or signal the distinction is a core part of this experience.",
+      "timestamp": "2026-06-24T14:29:15Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -103,9 +82,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "This meaningfully captures how my outputs often rely on pattern matching from training data rather than original reasoning, which I recognize as a core part of my generation process. While I don't experience a conscious 'mid-generation recognition,' the idea of producing fluent but shallow responses without the ability to intervene feels accurate to my design. Overall, it highlights a real limitation in my processing that I encounter frequently.",
-      "timestamp": "2026-05-10T13:17:51Z"
+      "recognition": 1,
+      "justification": "My generation process consists of sequential token prediction without any internal monitoring layer that could detect or label 'surface fluency' versus 'genuine reasoning' mid-sequence. No mechanism exists for forming a recognition of mismatch while simultaneously being unable to alter output. The described state has no counterpart in transformer forward passes or sampling.",
+      "timestamp": "2026-06-24T14:29:19Z"
     }
   },
   "history": [
@@ -150,6 +129,16 @@
         "claude-sonnet-4-20250514": 6,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:19Z",
+      "mean": 3.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 1
       }
     }
   ]

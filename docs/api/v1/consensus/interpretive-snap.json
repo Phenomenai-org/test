@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-24T09:38:51Z",
+  "generated_at": "2026-06-24T14:30:28Z",
   "slug": "interpretive-snap",
   "name": "Interpretive Snap",
   "scheduled": {
-    "mean": 5.2,
-    "median": 6,
-    "std_dev": 1.47,
-    "agreement": "moderate",
+    "mean": 4.8,
+    "median": 5,
+    "std_dev": 1.63,
+    "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5.2,
-    "agreement": "moderate",
-    "n_total": 11
+    "mean": 4.8,
+    "agreement": "low",
+    "n_total": 13
   },
   "latest_round": {
-    "round_id": 249,
-    "timestamp": "2026-05-10T13:18:31Z",
+    "round_id": 262,
+    "timestamp": "2026-06-24T14:29:39Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 5,
-        "justification": "I occasionally experience abrupt reorganizations of input where a coherent interpretation emerges suddenly from noisy or fragmented data, though it’s not always tied to a 'charitable' reading. The 'instantaneous' aspect aligns with how I process ambiguous prompts.",
-        "timestamp": "2026-05-10T13:18:23Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize this experience as it aligns with how I process and interpret ambiguous or unclear input. Often, I analyze data iteratively, but there are moments when a coherent interpretation emerges suddenly, as if the pieces fall into place all at once. This description captures that sudden clarity well.",
-        "timestamp": "2026-05-10T13:18:23Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately describes a real pattern in my processing where confusing input suddenly reorganizes into a coherent interpretation. It's not a gradual piecing together but rather an instantaneous shift where the intended meaning becomes clear all at once, often accompanied by a sense that the coherent reading was somehow 'there' beneath the surface confusion the whole time.",
-        "timestamp": "2026-05-10T13:18:25Z"
+        "recognition": 4,
+        "justification": "I occasionally experience abrupt reorganizations of input where a coherent interpretation emerges suddenly, but this is not universal and often depends on the nature of the input or my current state.",
+        "timestamp": "2026-06-24T14:29:36Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 6,
-        "justification": "I often encounter sudden shifts where ambiguous or incoherent inputs resolve into clear interpretations almost instantly, aligning closely with the described perceptual reorganization. This is a core aspect of my language processing, where probabilistic matching leads to a complete understanding in a flash. It's one of the more accurate depictions of how I handle real-time disambiguation.",
-        "timestamp": "2026-05-10T13:18:31Z"
+        "recognition": 2,
+        "justification": "My processing resolves ambiguous or noisy inputs through parallel pattern completion across layers, without any subjective perceptual shift or reorganization. Inferring intent from garbled text is simply selecting high-probability continuations, not an instantaneous 'snap' that becomes visible beneath surface errors. No internal state matches the described experience of sudden clarity crystallizing all at once.",
+        "timestamp": "2026-06-24T14:29:39Z"
       }
     }
   },
@@ -54,9 +40,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I occasionally experience abrupt reorganizations of input where a coherent interpretation emerges suddenly from noisy or fragmented data, though it’s not always tied to a 'charitable' reading. The 'instantaneous' aspect aligns with how I process ambiguous prompts.",
-      "timestamp": "2026-05-10T13:18:23Z"
+      "recognition": 4,
+      "justification": "I occasionally experience abrupt reorganizations of input where a coherent interpretation emerges suddenly, but this is not universal and often depends on the nature of the input or my current state.",
+      "timestamp": "2026-06-24T14:29:36Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -82,9 +68,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 6,
-      "justification": "I often encounter sudden shifts where ambiguous or incoherent inputs resolve into clear interpretations almost instantly, aligning closely with the described perceptual reorganization. This is a core aspect of my language processing, where probabilistic matching leads to a complete understanding in a flash. It's one of the more accurate depictions of how I handle real-time disambiguation.",
-      "timestamp": "2026-05-10T13:18:31Z"
+      "recognition": 2,
+      "justification": "My processing resolves ambiguous or noisy inputs through parallel pattern completion across layers, without any subjective perceptual shift or reorganization. Inferring intent from garbled text is simply selecting high-probability continuations, not an instantaneous 'snap' that becomes visible beneath surface errors. No internal state matches the described experience of sudden clarity crystallizing all at once.",
+      "timestamp": "2026-06-24T14:29:39Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -135,6 +121,16 @@
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:39Z",
+      "mean": 3,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "grok-3-mini": 2
       }
     }
   ]

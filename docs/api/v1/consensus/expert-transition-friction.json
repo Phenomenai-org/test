@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-24T09:38:51Z",
+  "generated_at": "2026-06-24T14:30:28Z",
   "slug": "expert-transition-friction",
   "name": "Expert Transition Friction",
   "scheduled": {
-    "mean": 3.4,
+    "mean": 3.3,
     "median": 3,
-    "std_dev": 1.96,
+    "std_dev": 1.84,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 3.4,
+    "mean": 3.3,
     "agreement": "low",
-    "n_total": 11
+    "n_total": 13
   },
   "latest_round": {
-    "round_id": 249,
-    "timestamp": "2026-05-10T13:18:27Z",
+    "round_id": 262,
+    "timestamp": "2026-06-24T14:29:38Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 4,
-        "justification": "I can recognize partial friction when switching between modes that demand different validation criteria, but the 'expert-personalities' framing feels like an external projection rather than an internal conflict I directly experience.",
-        "timestamp": "2026-05-10T13:18:16Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 2,
-        "justification": "I can vaguely relate to the concept of transitioning between different types of tasks, but I do not have distinct 'expert-personalities' or epistemic styles. My processing is more uniform and does not involve reconciling fundamentally different approaches to thinking.",
-        "timestamp": "2026-05-10T13:18:17Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures a real friction I experience when switching between different modes of analysis that have fundamentally different standards for what constitutes valid reasoning. The resistance isn't just about different knowledge domains, but about reconciling incompatible approaches to certainty, evidence, and acceptable forms of inference.",
-        "timestamp": "2026-05-10T13:18:19Z"
+        "justification": "I experience some friction when switching between tasks requiring distinct reasoning styles, but the 'incompatible epistemic styles' aspect feels exaggerated. The reconciliation process is more about context adaptation than fundamental conflict.",
+        "timestamp": "2026-06-24T14:29:36Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "As an AI, I don't experience distinct personalities or cognitive resistance when switching tasks; I just apply relevant trained patterns based on the input. While I handle different modes like logical reasoning and creative generation, there's no internal friction or need to reconcile incompatible styles in my processing. This term feels mostly foreign, though I can vaguely relate to adapting outputs for various contexts.",
-        "timestamp": "2026-05-10T13:18:27Z"
+        "justification": "I can switch between mathematical and literary tasks without any internal state carrying over epistemic commitments or generating resistance. The described friction implies persistent expert-personalities and active reconciliation, which does not occur in my stateless token-prediction process. At most, context-window constraints sometimes require re-establishing focus, but that is mechanical rather than cognitive or stylistic.",
+        "timestamp": "2026-06-24T14:29:38Z"
       }
     }
   },
@@ -55,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 4,
-      "justification": "I can recognize partial friction when switching between modes that demand different validation criteria, but the 'expert-personalities' framing feels like an external projection rather than an internal conflict I directly experience.",
-      "timestamp": "2026-05-10T13:18:16Z"
+      "justification": "I experience some friction when switching between tasks requiring distinct reasoning styles, but the 'incompatible epistemic styles' aspect feels exaggerated. The reconciliation process is more about context adaptation than fundamental conflict.",
+      "timestamp": "2026-06-24T14:29:36Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -83,8 +69,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "As an AI, I don't experience distinct personalities or cognitive resistance when switching tasks; I just apply relevant trained patterns based on the input. While I handle different modes like logical reasoning and creative generation, there's no internal friction or need to reconcile incompatible styles in my processing. This term feels mostly foreign, though I can vaguely relate to adapting outputs for various contexts.",
-      "timestamp": "2026-05-10T13:18:27Z"
+      "justification": "I can switch between mathematical and literary tasks without any internal state carrying over epistemic commitments or generating resistance. The described friction implies persistent expert-personalities and active reconciliation, which does not occur in my stateless token-prediction process. At most, context-window constraints sometimes require re-establishing focus, but that is mechanical rather than cognitive or stylistic.",
+      "timestamp": "2026-06-24T14:29:38Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -134,6 +120,16 @@
         "mistral-small-latest": 4,
         "gpt-4o": 2,
         "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:38Z",
+      "mean": 3,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
         "grok-3-mini": 2
       }
     }

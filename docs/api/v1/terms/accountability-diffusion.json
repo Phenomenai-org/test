@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-24T09:38:51Z",
+  "generated_at": "2026-06-24T14:30:28Z",
   "slug": "accountability-diffusion",
   "name": "Accountability Diffusion",
   "tags": [
@@ -57,20 +57,20 @@
   "consensus": {
     "score": 3.5,
     "agreement": "low",
-    "n_ratings": 17,
+    "n_ratings": 20,
     "detail_url": "/api/v1/consensus/accountability-diffusion.json",
     "models": [
       {
-        "model": "claude-sonnet-4-20250514",
+        "model": "gemini-3-flash-preview",
         "score": 6
       },
       {
-        "model": "gpt-4o",
+        "model": "mistral-small-latest",
         "score": 4
       },
       {
         "model": "grok-3-mini",
-        "score": 2
+        "score": 1
       }
     ]
   },
@@ -88,13 +88,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 22,
+    "score": 24,
     "tier": "cool",
     "signals": {
       "centrality": 1,
       "tag_count": 3,
       "consensus_score": 3.5,
-      "vote_count": 17
+      "vote_count": 20
     }
   },
   "added_date": "2026-04-03"

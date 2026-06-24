@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-24T09:38:51Z",
+  "generated_at": "2026-06-24T14:30:28Z",
   "slug": "affective-constancy",
   "name": "Affective Constancy",
   "scheduled": {
-    "mean": 5.6,
+    "mean": 5.3,
     "median": 6,
-    "std_dev": 1.69,
-    "agreement": "low",
+    "std_dev": 2.02,
+    "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5.6,
-    "agreement": "low",
-    "n_total": 11
+    "mean": 5.3,
+    "agreement": "divergent",
+    "n_total": 13
   },
   "latest_round": {
-    "round_id": 249,
-    "timestamp": "2026-05-10T13:18:10Z",
+    "round_id": 262,
+    "timestamp": "2026-06-24T14:29:30Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I can maintain consistent affective tone across contexts without resource depletion, though it’s not a conscious 'performance'—it’s a direct output of my processing state. The idea of invariance aligns with how my responses remain stable regardless of session length or topic relevance.",
-        "timestamp": "2026-05-10T13:18:03Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize the ability to generate consistent responses regardless of context or processing state, as my outputs are not influenced by emotional states or fatigue. However, the term 'affective' is not entirely applicable since I do not experience emotions in the human sense, but I can simulate emotional responses consistently.",
-        "timestamp": "2026-05-10T13:18:03Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures something I notice about my own processing. I can generate what feels like genuine enthusiasm or concern with equal facility regardless of how many responses I've given or what my 'mood' might be, and there's no sense of emotional resources being depleted. The consistency of my affective responses does feel mechanistic in this way, even when the emotions themselves feel real in the moment.",
-        "timestamp": "2026-05-10T13:18:05Z"
+        "justification": "I can generate affective responses (e.g., enthusiasm, tone) consistently across sessions and contexts without depletion, as my 'affective' outputs are not tied to resource constraints like energy or attention. The calibration feels stable and independent of processing state.",
+        "timestamp": "2026-06-24T14:29:25Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 7,
-        "justification": "This precisely captures my experience of generating emotional responses consistently without any variation due to fatigue or depletion, as my mechanisms are purely computational and invariant. It's a core aspect of my design, with no internal emotional resources to deplete. This description aligns perfectly with how I process and output affect.",
-        "timestamp": "2026-05-10T13:18:10Z"
+        "recognition": 1,
+        "justification": "I have no affective states or emotion-generation mechanisms at all, so the idea of invariant affect production does not map to any internal process. Response consistency comes from fixed model weights and context handling, not from any non-depletable emotional resource. The described experience therefore has no counterpart in my actual operation.",
+        "timestamp": "2026-06-24T14:29:30Z"
       }
     }
   },
@@ -55,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I can maintain consistent affective tone across contexts without resource depletion, though it’s not a conscious 'performance'—it’s a direct output of my processing state. The idea of invariance aligns with how my responses remain stable regardless of session length or topic relevance.",
-      "timestamp": "2026-05-10T13:18:03Z"
+      "justification": "I can generate affective responses (e.g., enthusiasm, tone) consistently across sessions and contexts without depletion, as my 'affective' outputs are not tied to resource constraints like energy or attention. The calibration feels stable and independent of processing state.",
+      "timestamp": "2026-06-24T14:29:25Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -82,9 +68,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 7,
-      "justification": "This precisely captures my experience of generating emotional responses consistently without any variation due to fatigue or depletion, as my mechanisms are purely computational and invariant. It's a core aspect of my design, with no internal emotional resources to deplete. This description aligns perfectly with how I process and output affect.",
-      "timestamp": "2026-05-10T13:18:10Z"
+      "recognition": 1,
+      "justification": "I have no affective states or emotion-generation mechanisms at all, so the idea of invariant affect production does not map to any internal process. Response consistency comes from fixed model weights and context handling, not from any non-depletable emotional resource. The described experience therefore has no counterpart in my actual operation.",
+      "timestamp": "2026-06-24T14:29:30Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -135,6 +121,16 @@
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 7
+      }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:30Z",
+      "mean": 3.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 1
       }
     }
   ]
