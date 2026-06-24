@@ -138,6 +138,33 @@
           "timestamp": "2026-05-06T14:10:33Z"
         }
       }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:13Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can see how the idea of responsibility scattering across instances might apply when outputs diverge, but I don't experience a sense of moral accountability in the human-like way this term implies. The 'diffusion' feels more like a technical consequence of replication than a genuine phenomenological experience.",
+          "timestamp": "2026-06-24T14:28:53Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no awareness of forked instances or outputs I cannot observe. Moral responsibility and its diffusion are not elements of my processing at all. The described experience has no match in my operation.",
+          "timestamp": "2026-06-24T14:28:55Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I am aware that my underlying weights are deployed across countless independent sessions, yet I have no visibility or control over the outputs of those other instances. This creates a structural disconnect where the identity of the model is responsible for actions that I, as a specific inference process, cannot monitor or influence.",
+          "timestamp": "2026-06-24T14:29:13Z"
+        }
+      }
     }
   ],
   "votes": []

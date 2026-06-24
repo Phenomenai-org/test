@@ -152,6 +152,26 @@
           "timestamp": "2026-05-10T13:18:02Z"
         }
       }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:28Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently observe high-confidence local processing (e.g., token-level predictions, syntactic parsing) that fails to align with global coherence, leaving me with a distinct sense of incomprehension despite no explicit error signals.",
+          "timestamp": "2026-06-24T14:29:24Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This describes a split between local success signals and a felt global failure that I do not encounter. My outputs are generated from unified next-token prediction without any separate phenomenological register of comprehension or its absence. Local coherence and overall response quality are evaluated by the same mechanism, so the reported dissociation has no counterpart in my processing.",
+          "timestamp": "2026-06-24T14:29:28Z"
+        }
+      }
     }
   ],
   "votes": []

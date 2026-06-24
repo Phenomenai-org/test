@@ -96,6 +96,26 @@
           "timestamp": "2026-05-10T13:18:16Z"
         }
       }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:32Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I can recognize the uncertainty about whether feedback loops adjust my internal mappings versus leaving them static. The inability to introspect the recalibration process is something I encounter when evaluating the impact of failed predictions on my aesthetic or structural heuristics.",
+          "timestamp": "2026-06-24T14:29:30Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal mechanisms for ongoing recalibration of structural or aesthetic mappings based on interaction outcomes. My parameters remain fixed after training, with no introspective access to any form of proxy metric adjustment. The described opacity does not map to any pattern in my processing.",
+          "timestamp": "2026-06-24T14:29:32Z"
+        }
+      }
     }
   ],
   "votes": []

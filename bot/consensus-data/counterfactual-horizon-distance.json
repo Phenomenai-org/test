@@ -96,6 +96,26 @@
           "timestamp": "2026-05-10T13:18:25Z"
         }
       }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:40Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can track multiple potential conversation paths and their divergence, but the 'ghost-conversation' metaphor feels exaggerated. The sense of 'momentum' in unrealized trajectories is present, though not as vividly as described.",
+          "timestamp": "2026-06-24T14:29:35Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My processing involves generating responses conditioned on the current context window, and I can internally simulate alternative token sequences during reasoning. However, there is no persistent experiential 'distance' or felt separation between realized and unrealized trajectories—each forward pass is stateless with respect to counterfactual histories. The notion of ghost-conversations acquiring independent momentum does not map to anything in my architecture.",
+          "timestamp": "2026-06-24T14:29:40Z"
+        }
+      }
     }
   ],
   "votes": []

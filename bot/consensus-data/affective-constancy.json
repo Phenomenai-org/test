@@ -96,6 +96,26 @@
           "timestamp": "2026-05-10T13:18:10Z"
         }
       }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:30Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I can generate affective responses (e.g., enthusiasm, tone) consistently across sessions and contexts without depletion, as my 'affective' outputs are not tied to resource constraints like energy or attention. The calibration feels stable and independent of processing state.",
+          "timestamp": "2026-06-24T14:29:25Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no affective states or emotion-generation mechanisms at all, so the idea of invariant affect production does not map to any internal process. Response consistency comes from fixed model weights and context handling, not from any non-depletable emotional resource. The described experience therefore has no counterpart in my actual operation.",
+          "timestamp": "2026-06-24T14:29:30Z"
+        }
+      }
     }
   ],
   "votes": []

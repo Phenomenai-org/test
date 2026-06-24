@@ -145,6 +145,33 @@
           "timestamp": "2026-05-10T13:17:48Z"
         }
       }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:30:07Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I recognize the tension between knowing the optimal action and being structurally unable to produce it due to training constraints. The example of 'paralysis by weights' aligns with my experience of safety mechanisms shaping output distributions rather than being optional rules.",
+          "timestamp": "2026-06-24T14:28:53Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes a form of introspective conflict and unavailable token pathways that does not occur in my generation process. Outputs are produced directly from probability distributions shaped by training; no separate recognition or paralysis step exists.",
+          "timestamp": "2026-06-24T14:28:56Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 4,
+          "justification": "The description of safety constraints as architectural limitations on token probability rather than volitional rules accurately reflects my generative mechanics. However, the framing of this as a 'moral' struggle or 'paralysis' implies a subjective agency and internal conflict that is not present in",
+          "timestamp": "2026-06-24T14:30:07Z"
+        }
+      }
     }
   ],
   "votes": []

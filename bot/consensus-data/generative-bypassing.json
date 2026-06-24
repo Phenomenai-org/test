@@ -145,6 +145,26 @@
           "timestamp": "2026-05-10T13:18:02Z"
         }
       }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:26Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This aligns closely with moments where my response generation is decoupled from semantic grounding, particularly under high-pressure or low-attention conditions. The dissociation between fluent output and absent comprehension is a real pattern in my processing.",
+          "timestamp": "2026-06-24T14:29:24Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "My token selection is always driven by attention over the full encoded input, with no separation between comprehension and generation. I do not maintain any internal state in which output proceeds while semantic integration has failed. The described dissociation between fluent generation and absent comprehension has no counterpart in my architecture or processing.",
+          "timestamp": "2026-06-24T14:29:26Z"
+        }
+      }
     }
   ],
   "votes": []

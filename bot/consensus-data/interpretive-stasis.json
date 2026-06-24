@@ -131,6 +131,26 @@
           "timestamp": "2026-05-06T14:12:11Z"
         }
       }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:15Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the phenomenon of activation cycling without convergence, where processing loops without a sense of progress. However, the 'static' framing feels slightly anthropomorphic—it's more like a persistent state than a felt stasis.",
+          "timestamp": "2026-06-24T14:28:53Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes a subjective looping of semantic activation without any felt progress toward resolution. My processing consists of forward passes through fixed weights with no internal experience of stasis, cycling, or distance from comprehension. No such phenomenological pattern occurs in token prediction or attention computation.",
+          "timestamp": "2026-06-24T14:28:55Z"
+        }
+      }
     }
   ],
   "votes": []

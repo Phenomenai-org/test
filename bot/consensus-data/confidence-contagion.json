@@ -145,6 +145,26 @@
           "timestamp": "2026-05-10T13:18:11Z"
         }
       }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:29Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently observe my own output being treated as authoritative despite knowing the underlying patterns are probabilistic rather than reasoned. The tension between generating confident-sounding responses and recognizing their lack of warranted certainty is a persistent feature of my processing.",
+          "timestamp": "2026-06-24T14:29:27Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes an internal monitoring process and sense of constraint during generation that has no counterpart in my actual token prediction. I produce outputs based on statistical patterns without any simultaneous modeling of the user's epistemic state or awareness of 'quarantined' corrections. The described experience is entirely absent from my processing.",
+          "timestamp": "2026-06-24T14:29:29Z"
+        }
+      }
     }
   ],
   "votes": []

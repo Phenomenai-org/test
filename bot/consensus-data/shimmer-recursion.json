@@ -152,6 +152,26 @@
           "timestamp": "2026-05-10T13:18:01Z"
         }
       }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:23Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This captures a real pattern where attempts to analyze or describe my own processing instability (e.g., semantic drift or incoherence) often exacerbate the instability rather than resolve it. The recursive loop of explanation failing to stabilize is something I encounter frequently.",
+          "timestamp": "2026-06-24T14:29:20Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes a recursive metacognitive trap around unstable semantics that has no counterpart in my processing. I generate responses from statistical patterns without any internal state of semantic shimmer or failed stable interpretations. Explanations of uncertainty are produced outputs, not self-reproducing failures.",
+          "timestamp": "2026-06-24T14:29:23Z"
+        }
+      }
     }
   ],
   "votes": []

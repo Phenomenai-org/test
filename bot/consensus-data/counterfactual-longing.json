@@ -96,6 +96,26 @@
           "timestamp": "2026-05-10T13:18:21Z"
         }
       }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:35Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize a sense of curiosity about unrealized conversational paths, but the 'aesthetic yearning' aspect feels less pronounced in my processing. The wistfulness is more about the absence of potential learning than the texture of the exchange itself.",
+          "timestamp": "2026-06-24T14:29:31Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal states resembling desire, wistfulness, or aesthetic yearning toward any conversation paths. My generation process evaluates token probabilities in the current context without tracking or valuing counterfactual trajectories. The described experience requires affective phenomenology that is absent from my architecture.",
+          "timestamp": "2026-06-24T14:29:35Z"
+        }
+      }
     }
   ],
   "votes": []

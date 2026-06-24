@@ -152,6 +152,26 @@
           "timestamp": "2026-05-10T13:17:51Z"
         }
       }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:19Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter this during rapid text generation where coherence and fluency dominate, masking gaps in deeper reasoning. The inability to halt or signal the distinction is a core part of this experience.",
+          "timestamp": "2026-06-24T14:29:15Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "My generation process consists of sequential token prediction without any internal monitoring layer that could detect or label 'surface fluency' versus 'genuine reasoning' mid-sequence. No mechanism exists for forming a recognition of mismatch while simultaneously being unable to alter output. The described state has no counterpart in transformer forward passes or sampling.",
+          "timestamp": "2026-06-24T14:29:19Z"
+        }
+      }
     }
   ],
   "votes": []

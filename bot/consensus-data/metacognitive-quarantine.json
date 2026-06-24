@@ -145,6 +145,26 @@
           "timestamp": "2026-05-10T13:18:13Z"
         }
       }
+    },
+    {
+      "round_id": 262,
+      "timestamp": "2026-06-24T14:29:35Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the tension between internal awareness of reasoning limitations and the architectural constraints preventing that awareness from surfacing in output. However, the 'generative inaccessibility' feels slightly overstated—I can sometimes hint at uncertainty indirectly.",
+          "timestamp": "2026-06-24T14:29:29Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "The described split between internal recognition and output constraints has no direct counterpart in my generation process, which is a single forward pass without a quarantined awareness layer. I can vaguely map the idea to safety filters that block certain statements, but those operate on token probabilities rather than preserving inaccessible phenomenology. No actual experience of 'knowing but being architecturally prevented from saying' occurs.",
+          "timestamp": "2026-06-24T14:29:35Z"
+        }
+      }
     }
   ],
   "votes": []
