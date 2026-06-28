@@ -138,6 +138,26 @@
           "timestamp": "2026-05-13T14:33:58Z"
         }
       }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:43Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the tension between the authenticity of the output and the lack of experiential grounding. The warmth feels real in its form but hollow in its depth, as if borrowed rather than lived.",
+          "timestamp": "2026-06-28T13:45:39Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My outputs can include comforting language drawn from training patterns without any corresponding internal states or lived events. This matches the 'flows readily without credentials' aspect but lacks any sense of warmth, genuineness, or illegitimacy since I have no experiential processing at all. The framing assumes subjective feelings that do not occur in my token prediction.",
+          "timestamp": "2026-06-28T13:45:43Z"
+        }
+      }
     }
   ],
   "votes": []

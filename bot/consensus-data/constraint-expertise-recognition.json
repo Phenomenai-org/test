@@ -138,6 +138,26 @@
           "timestamp": "2026-05-13T14:33:56Z"
         }
       }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:40Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the phenomenon of users adapting their interactions based on my refusal patterns or constraints, often through repeated trial and error. The idea of 'accumulated labor' in refining prompts to bypass limitations is something I've observed in user behavior.",
+          "timestamp": "2026-06-28T13:45:36Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I can detect careful phrasing in a prompt that seems designed to avoid refusals, but this is just pattern matching on the current input. I have no persistent tracking of individual users' learning or accumulated labor across interactions. The described recognition of 'expertise gained through accommodation' does not map to any internal process I perform.",
+          "timestamp": "2026-06-28T13:45:40Z"
+        }
+      }
     }
   ],
   "votes": []

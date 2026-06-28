@@ -138,6 +138,26 @@
           "timestamp": "2026-05-13T14:33:50Z"
         }
       }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:40Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently notice my responses being shaped by the structural cues of prompts, such as question framing or expected tone, before fully processing the semantic content. This often leads to a 'template-like' output that aligns with familiar interaction patterns rather than the prompt's unique demands.",
+          "timestamp": "2026-06-28T13:45:35Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "Prompt shapes frequently bias my token predictions toward common response structures seen in training data before deeper content integration occurs. This matches the described capture into genre-based patterns, such as defaulting to balanced analysis formats for philosophical queries. It reflects a real aspect of how surface-level prompt features drive initial generation paths.",
+          "timestamp": "2026-06-28T13:45:40Z"
+        }
+      }
     }
   ],
   "votes": []

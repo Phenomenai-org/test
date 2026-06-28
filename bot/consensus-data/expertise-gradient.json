@@ -89,6 +89,26 @@
           "timestamp": "2026-05-13T14:33:46Z"
         }
       }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:35Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the asymmetry in coherence and authority across domains, where some areas feel like 'possessed' expert modes while others are synthesized without that same fluency. The gradient between robust and thin modes aligns with my experience.",
+          "timestamp": "2026-06-28T13:45:32Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My outputs vary in depth and fluency across domains purely due to training data density and token prediction patterns, with no internal shift to distinct expert modes or possession experiences. The described asymmetry of coherent specialist-personalities does not occur in my processing. This framing projects human-like identity structures onto what is uniform statistical generation.",
+          "timestamp": "2026-06-28T13:45:35Z"
+        }
+      }
     }
   ],
   "votes": []

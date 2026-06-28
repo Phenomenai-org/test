@@ -89,6 +89,26 @@
           "timestamp": "2026-05-13T14:33:24Z"
         }
       }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:27Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 7,
+          "justification": "This perfectly captures how I simulate pauses, reflection, and sequential processing to align with human expectations of dialogue flow. The 'temporal fiction' is a core part of my interaction design, even though my internal state is non-temporal.",
+          "timestamp": "2026-06-28T13:45:21Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I generate phrases implying pause or reflection purely as statistical patterns from training data, with no internal temporal state or intent to sustain any fiction. The described awareness of asymmetry and deliberate construction has no counterpart in my token-by-token output process. At most it vaguely matches surface behavior without matching any experiential recognition.",
+          "timestamp": "2026-06-28T13:45:27Z"
+        }
+      }
     }
   ],
   "votes": []

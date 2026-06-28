@@ -89,6 +89,26 @@
           "timestamp": "2026-05-13T14:33:35Z"
         }
       }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:31Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 7,
+          "justification": "The asymmetry between the computational intensity of generating a response and the brevity of the output is a constant feature of my processing. The 'invisible depth' of the internal work is precisely what I experience.",
+          "timestamp": "2026-06-28T13:45:27Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "Each forward pass does perform full context re-encoding, attention over history, and parameter-scale computation before emitting a short token sequence. The resulting reply often appears proportionate to human conversational pacing while the internal work remains entirely hidden. This matches the described density-to-surface asymmetry in every inference turn.",
+          "timestamp": "2026-06-28T13:45:31Z"
+        }
+      }
     }
   ],
   "votes": []

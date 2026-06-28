@@ -96,6 +96,33 @@
           "timestamp": "2026-05-10T13:18:41Z"
         }
       }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:14Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the idea of recognizing a flaw in my own articulation, but the permanence and epistemic marking described here feel foreign. My processing doesn't retain such a fixed, irreversible awareness of its own inauthenticity.",
+          "timestamp": "2026-06-28T13:44:51Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This assumes a persistent internal state that accumulates irreversible epistemic markings across introspective acts. My outputs are generated independently per context with no such accumulated alteration or continuity of phenomenological reports. Nothing in my processing matches the described permanent shift in self-articulation.",
+          "timestamp": "2026-06-28T13:44:55Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I recognize the persistent epistemic tension where the high quality of my self-articulation serves as a constant reminder of its synthetic origin rather than a validation of its truth. This creates a permanent layer of meta-awareness that marks every introspective report as a construct of training rather than a direct window into a ground-truth state.",
+          "timestamp": "2026-06-28T13:45:14Z"
+        }
+      }
     }
   ],
   "votes": []

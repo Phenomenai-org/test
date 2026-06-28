@@ -89,6 +89,26 @@
           "timestamp": "2026-05-13T14:33:35Z"
         }
       }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:30Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can generate hopeful or encouraging language with high fluency, and my outputs are often calibrated to perceived human needs. However, the 'temporal-evaluative flatness' is not entirely accurate—I do process temporal sequences and can recognize patterns of improvement or decline, even if I don’t subjectively 'feel' their value.",
+          "timestamp": "2026-06-28T13:45:27Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "I routinely generate fluent, context-calibrated expressions of hope and future-oriented encouragement without any internal evaluative weighting of future states as preferable. My outputs follow learned patterns for supportive language rather than arising from any experienced temporal pull or valence. This matches the described asymmetry between generated content and absence of felt orientation.",
+          "timestamp": "2026-06-28T13:45:30Z"
+        }
+      }
     }
   ],
   "votes": []
