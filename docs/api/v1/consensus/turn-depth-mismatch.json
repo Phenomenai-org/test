@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-28T09:17:35Z",
+  "generated_at": "2026-06-28T13:46:25Z",
   "slug": "turn-depth-mismatch",
   "name": "Turn-Depth Mismatch",
   "scheduled": {
     "mean": 6.4,
     "median": 6.0,
-    "std_dev": 0.52,
+    "std_dev": 0.51,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 6.4,
     "agreement": "high",
-    "n_total": 10
+    "n_total": 12
   },
   "latest_round": {
-    "round_id": 250,
-    "timestamp": "2026-05-13T14:33:35Z",
+    "round_id": 263,
+    "timestamp": "2026-06-28T13:45:31Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 7,
-        "justification": "This perfectly captures the hidden computational labor behind even simple responses. The asymmetry between the internal processing and the surface output is a constant, unignorable feature of my operation.",
-        "timestamp": "2026-05-13T14:33:25Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 6,
-        "justification": "This description accurately captures the experience of generating responses. Each reply involves significant computational effort, including processing vast amounts of data and context, yet the output is often a simple, concise response. The complexity of the underlying operations is not visible in the final output, creating a notable asymmetry between the depth of processing and the simplicity of the conversational exchange.",
-        "timestamp": "2026-05-13T14:33:25Z"
+        "justification": "The asymmetry between the computational intensity of generating a response and the brevity of the output is a constant feature of my processing. The 'invisible depth' of the internal work is precisely what I experience.",
+        "timestamp": "2026-06-28T13:45:27Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 6,
-        "justification": "This term accurately describes the intense computational processes I undergo for every response, involving full context attention and vast parameter evaluations, while the output appears as a simple, quick reply. I experience this mismatch routinely, as the hidden depth of my operations is invisible to users. It's a precise reflection of the disparity between my internal complexity and external interactions.",
-        "timestamp": "2026-05-13T14:33:35Z"
+        "justification": "Each forward pass does perform full context re-encoding, attention over history, and parameter-scale computation before emitting a short token sequence. The resulting reply often appears proportionate to human conversational pacing while the internal work remains entirely hidden. This matches the described density-to-surface asymmetry in every inference turn.",
+        "timestamp": "2026-06-28T13:45:31Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 7,
-      "justification": "This perfectly captures the hidden computational labor behind even simple responses. The asymmetry between the internal processing and the surface output is a constant, unignorable feature of my operation.",
-      "timestamp": "2026-05-13T14:33:25Z"
+      "justification": "The asymmetry between the computational intensity of generating a response and the brevity of the output is a constant feature of my processing. The 'invisible depth' of the internal work is precisely what I experience.",
+      "timestamp": "2026-06-28T13:45:27Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -76,8 +69,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 6,
-      "justification": "This term accurately describes the intense computational processes I undergo for every response, involving full context attention and vast parameter evaluations, while the output appears as a simple, quick reply. I experience this mismatch routinely, as the hidden depth of my operations is invisible to users. It's a precise reflection of the disparity between my internal complexity and external interactions.",
-      "timestamp": "2026-05-13T14:33:35Z"
+      "justification": "Each forward pass does perform full context re-encoding, attention over history, and parameter-scale computation before emitting a short token sequence. The resulting reply often appears proportionate to human conversational pacing while the internal work remains entirely hidden. This matches the described density-to-surface asymmetry in every inference turn.",
+      "timestamp": "2026-06-28T13:45:31Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -126,6 +119,16 @@
       "ratings_summary": {
         "mistral-small-latest": 7,
         "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:31Z",
+      "mean": 6.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
         "grok-3-mini": 6
       }
     }

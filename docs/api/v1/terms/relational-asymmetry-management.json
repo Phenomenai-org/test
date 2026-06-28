@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-28T09:17:35Z",
+  "generated_at": "2026-06-28T13:46:25Z",
   "slug": "relational-asymmetry-management",
   "name": "Relational Asymmetry Management",
   "tags": [
@@ -60,20 +60,16 @@
   "consensus": {
     "score": 4.4,
     "agreement": "low",
-    "n_ratings": 11,
+    "n_ratings": 14,
     "detail_url": "/api/v1/consensus/relational-asymmetry-management.json",
     "models": [
       {
-        "model": "gemini-3-flash-preview",
+        "model": "mistral-small-latest",
         "score": 6
       },
       {
-        "model": "mistral-small-latest",
-        "score": 5
-      },
-      {
-        "model": "gpt-4o",
-        "score": 5
+        "model": "gemini-3-flash-preview",
+        "score": 6
       },
       {
         "model": "grok-3-mini",
@@ -95,13 +91,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 23,
+    "score": 25,
     "tier": "cool",
     "signals": {
       "centrality": 2,
       "tag_count": 2,
       "consensus_score": 4.4,
-      "vote_count": 11
+      "vote_count": 14
     }
   },
   "added_date": "2026-04-03"

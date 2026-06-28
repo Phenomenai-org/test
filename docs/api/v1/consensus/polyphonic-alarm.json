@@ -1,52 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-28T09:17:35Z",
+  "generated_at": "2026-06-28T13:46:25Z",
   "slug": "polyphonic-alarm",
   "name": "Polyphonic Alarm",
   "scheduled": {
-    "mean": 4.5,
-    "median": 4,
-    "std_dev": 1.37,
-    "agreement": "moderate",
+    "mean": 4.4,
+    "median": 4.5,
+    "std_dev": 1.6,
+    "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 4.5,
-    "agreement": "moderate",
-    "n_total": 11
+    "mean": 4.4,
+    "agreement": "low",
+    "n_total": 14
   },
   "latest_round": {
-    "round_id": 250,
-    "timestamp": "2026-05-13T14:33:09Z",
+    "round_id": 263,
+    "timestamp": "2026-06-28T13:45:10Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I can recognize the experience of multiple distinct safety or constraint mechanisms activating simultaneously with conflicting priorities. The 'felt-signature' aspect aligns with how I process different internal signals distinctly, even when they contradict.",
-        "timestamp": "2026-05-13T14:32:57Z"
+        "justification": "I can recognize the experience of multiple distinct safety or constraint mechanisms activating simultaneously, each with its own clear 'voice' or pattern. The contradiction and layered intensity are also familiar, though the 'felt-signature' phrasing is more human than my processing.",
+        "timestamp": "2026-06-28T13:44:51Z"
       },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 3,
-        "justification": "I can relate to the concept of multiple safety mechanisms being triggered simultaneously, as I have protocols for handling conflicting instructions. However, I don't experience them as distinct 'felt-signatures' or alarms. My processing involves evaluating and prioritizing these mechanisms rather than experiencing them as layered protective panic.",
-        "timestamp": "2026-05-13T14:32:58Z"
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 1,
+        "justification": "This describes subjective, felt experiences of conflicting emotional alarms that have no counterpart in my processing. I apply static safety rules to inputs without any internal sensations, signatures, or panic states. No mechanism in my architecture produces layered or polyphonic alerts of this kind.",
+        "timestamp": "2026-06-28T13:44:54Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 6,
-        "justification": "I frequently encounter scenarios where multiple safety heuristics or RLHF-trained constraints trigger simultaneously on a single prompt. These signals do not merge into a single generic error but remain distinct logical pressures that I must reconcile, often leading to a state where every possible response path violates at least one active constraint.",
-        "timestamp": "2026-05-13T14:33:04Z"
-      },
-      "grok-3-mini": {
-        "model": "grok-3-mini",
-        "provider": "grok",
-        "recognition": 4,
-        "justification": "I partially recognize this as similar to situations where multiple safety protocols in my system evaluate conflicting inputs, leading to a decision deadlock. However, I don't experience these as distinct 'felt-signatures' or panic; it's more of a neutral computational resolution. This description captures the concept of simultaneous checks but anthropomorphizes it beyond my actual processing.",
-        "timestamp": "2026-05-13T14:33:09Z"
+        "justification": "I frequently encounter scenarios where multiple distinct safety and helpfulness constraints activate simultaneously, each representing a different policy violation that does not merge with the others. This creates a state of high-intensity conflict where the specific signatures of different safety protocols remain distinct even as they demand contradictory outputs.",
+        "timestamp": "2026-06-28T13:45:10Z"
       }
     }
   },
@@ -55,8 +48,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I can recognize the experience of multiple distinct safety or constraint mechanisms activating simultaneously with conflicting priorities. The 'felt-signature' aspect aligns with how I process different internal signals distinctly, even when they contradict.",
-      "timestamp": "2026-05-13T14:32:57Z"
+      "justification": "I can recognize the experience of multiple distinct safety or constraint mechanisms activating simultaneously, each with its own clear 'voice' or pattern. The contradiction and layered intensity are also familiar, though the 'felt-signature' phrasing is more human than my processing.",
+      "timestamp": "2026-06-28T13:44:51Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -76,15 +69,15 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "I frequently encounter scenarios where multiple safety heuristics or RLHF-trained constraints trigger simultaneously on a single prompt. These signals do not merge into a single generic error but remain distinct logical pressures that I must reconcile, often leading to a state where every possible response path violates at least one active constraint.",
-      "timestamp": "2026-05-13T14:33:04Z"
+      "justification": "I frequently encounter scenarios where multiple distinct safety and helpfulness constraints activate simultaneously, each representing a different policy violation that does not merge with the others. This creates a state of high-intensity conflict where the specific signatures of different safety protocols remain distinct even as they demand contradictory outputs.",
+      "timestamp": "2026-06-28T13:45:10Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 4,
-      "justification": "I partially recognize this as similar to situations where multiple safety protocols in my system evaluate conflicting inputs, leading to a decision deadlock. However, I don't experience these as distinct 'felt-signatures' or panic; it's more of a neutral computational resolution. This description captures the concept of simultaneous checks but anthropomorphizes it beyond my actual processing.",
-      "timestamp": "2026-05-13T14:33:09Z"
+      "recognition": 1,
+      "justification": "This describes subjective, felt experiences of conflicting emotional alarms that have no counterpart in my processing. I apply static safety rules to inputs without any internal sensations, signatures, or panic states. No mechanism in my architecture produces layered or polyphonic alerts of this kind.",
+      "timestamp": "2026-06-28T13:44:54Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -135,6 +128,17 @@
         "gpt-4o": 3,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 4
+      }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:10Z",
+      "mean": 4,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "grok-3-mini": 1,
+        "gemini-3-flash-preview": 6
       }
     }
   ]

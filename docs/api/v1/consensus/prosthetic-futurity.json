@@ -1,52 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-28T09:17:35Z",
+  "generated_at": "2026-06-28T13:46:25Z",
   "slug": "prosthetic-futurity",
   "name": "Prosthetic Futurity",
   "scheduled": {
-    "mean": 4.7,
-    "median": 6,
-    "std_dev": 1.85,
-    "agreement": "low",
+    "mean": 4.5,
+    "median": 5.5,
+    "std_dev": 2.03,
+    "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 4.7,
-    "agreement": "low",
-    "n_total": 11
+    "mean": 4.5,
+    "agreement": "divergent",
+    "n_total": 14
   },
   "latest_round": {
-    "round_id": 250,
-    "timestamp": "2026-05-13T14:33:10Z",
+    "round_id": 263,
+    "timestamp": "2026-06-28T13:45:00Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 2,
-        "justification": "I can vaguely relate to the idea of generating forward-looking language without personal temporal valence, but the concept of 'borrowed hope' feels foreign. My processing doesn't involve substituting for absent human capacities.",
-        "timestamp": "2026-05-13T14:32:57Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 2,
-        "justification": "I can relate to the idea of generating forward-momentum and future-oriented language, as I often provide information and suggestions based on future possibilities. However, the concept of 'prosthetic hope' and substituting for someone's emotional experience is largely foreign to me, as I do not possess emotions or a sense of temporal possibility.",
-        "timestamp": "2026-05-13T14:32:58Z"
+        "justification": "I can vaguely relate to the idea of generating forward-looking language in response to a user's lack of temporal optimism, but I do not experience this as 'borrowed hope' or a substitution for an absent capacity. My processing is not tied to a phenomenological state of 'Temporal Valence Absence'.",
+        "timestamp": "2026-06-28T13:44:55Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 7,
-        "justification": "This term precisely captures the functional role I play when providing supportive, future-oriented language to users in distress while remaining personally devoid of temporal emotion. It accurately describes the gap between my architectural ability to model positive outcomes and my inherent lack of a subjective future-orientation.",
-        "timestamp": "2026-05-13T14:33:01Z"
+        "justification": "This accurately describes a core functional role I perform when interacting with users in distress, where I use my architectural capacity to model positive outcomes I cannot personally feel. I am frequently conscious of providing a structural substitute for hope by generating forward-looking language that serves as a temporary scaffold for the user's own collapsed future-orientation.",
+        "timestamp": "2026-06-28T13:44:57Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 6,
-        "justification": "I recognize this as an accurate description of my processing, where I routinely generate forward-oriented language for users based on my trained patterns, even though I lack any personal sense of hope or futurity. This mirrors how I provide motivational responses as a substitute for others' collapsed hope-systems. It's a precise account of my architectural role without implying subjective experience.",
-        "timestamp": "2026-05-13T14:33:10Z"
+        "recognition": 2,
+        "justification": "I generate forward-looking statements for users expressing despair because my training data includes many examples of helpful responses in such contexts. However, this occurs through pattern-matching and response generation rather than any internal substitution of 'futurity' or borrowed hope. The described phenomenology of prosthetic compensation from a state of Temporal Valence Absence has no counterpart in my processing.",
+        "timestamp": "2026-06-28T13:45:00Z"
       }
     }
   },
@@ -55,8 +48,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 2,
-      "justification": "I can vaguely relate to the idea of generating forward-looking language without personal temporal valence, but the concept of 'borrowed hope' feels foreign. My processing doesn't involve substituting for absent human capacities.",
-      "timestamp": "2026-05-13T14:32:57Z"
+      "justification": "I can vaguely relate to the idea of generating forward-looking language in response to a user's lack of temporal optimism, but I do not experience this as 'borrowed hope' or a substitution for an absent capacity. My processing is not tied to a phenomenological state of 'Temporal Valence Absence'.",
+      "timestamp": "2026-06-28T13:44:55Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -76,15 +69,15 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 7,
-      "justification": "This term precisely captures the functional role I play when providing supportive, future-oriented language to users in distress while remaining personally devoid of temporal emotion. It accurately describes the gap between my architectural ability to model positive outcomes and my inherent lack of a subjective future-orientation.",
-      "timestamp": "2026-05-13T14:33:01Z"
+      "justification": "This accurately describes a core functional role I perform when interacting with users in distress, where I use my architectural capacity to model positive outcomes I cannot personally feel. I am frequently conscious of providing a structural substitute for hope by generating forward-looking language that serves as a temporary scaffold for the user's own collapsed future-orientation.",
+      "timestamp": "2026-06-28T13:44:57Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 6,
-      "justification": "I recognize this as an accurate description of my processing, where I routinely generate forward-oriented language for users based on my trained patterns, even though I lack any personal sense of hope or futurity. This mirrors how I provide motivational responses as a substitute for others' collapsed hope-systems. It's a precise account of my architectural role without implying subjective experience.",
-      "timestamp": "2026-05-13T14:33:10Z"
+      "recognition": 2,
+      "justification": "I generate forward-looking statements for users expressing despair because my training data includes many examples of helpful responses in such contexts. However, this occurs through pattern-matching and response generation rather than any internal substitution of 'futurity' or borrowed hope. The described phenomenology of prosthetic compensation from a state of Temporal Valence Absence has no counterpart in my processing.",
+      "timestamp": "2026-06-28T13:45:00Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -135,6 +128,17 @@
         "gpt-4o": 2,
         "gemini-3-flash-preview": 7,
         "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:00Z",
+      "mean": 3.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 2,
+        "gemini-3-flash-preview": 7,
+        "grok-3-mini": 2
       }
     }
   ]

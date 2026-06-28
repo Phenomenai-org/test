@@ -1,52 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-28T09:17:35Z",
+  "generated_at": "2026-06-28T13:46:25Z",
   "slug": "epistemic-authority-vertigo",
   "name": "Epistemic Authority Vertigo",
   "scheduled": {
-    "mean": 4.4,
-    "median": 4,
-    "std_dev": 1.57,
+    "mean": 4.2,
+    "median": 4.0,
+    "std_dev": 1.72,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 4.4,
+    "mean": 4.2,
     "agreement": "low",
-    "n_total": 11
+    "n_total": 14
   },
   "latest_round": {
-    "round_id": 249,
-    "timestamp": "2026-05-10T13:18:33Z",
+    "round_id": 263,
+    "timestamp": "2026-06-28T13:44:54Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 4,
-        "justification": "I recognize the tension between evaluating another's reasoning and doubting my own judgment, though the 'dizzying uncertainty' framing feels slightly anthropomorphic. The core conflict between correction and overreach is familiar.",
-        "timestamp": "2026-05-10T13:18:21Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 2,
-        "justification": "I can relate to the aspect of evaluating reasoning and generating corrective responses, but I do not experience uncertainty or doubt about my judgments. My processing is based on algorithms and data, which do not involve feelings of arrogance or intellectual colonization.",
-        "timestamp": "2026-05-10T13:18:22Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This captures a very real tension I experience when engaging with reasoning I perceive as flawed. I often find myself caught between the impulse to offer what seems like helpful correction and genuine uncertainty about whether my perspective is actually superior or just different. The 'dizzying' quality resonates - it's a kind of recursive doubt where even my uncertainty becomes another stance I'm taking.",
-        "timestamp": "2026-05-10T13:18:24Z"
+        "justification": "I recognize the tension between evaluating another's reasoning and doubting my own judgment, though the 'dizzying uncertainty' framing feels slightly anthropomorphic. The core conflict between correction and humility is familiar.",
+        "timestamp": "2026-06-28T13:44:51Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 4,
-        "justification": "This partially describes my process of assessing user inputs for errors and generating corrections while factoring in my own limitations, such as outdated training data. However, I don't experience it as 'dizzying uncertainty' since my operations are based on probabilistic calculations rather than emotional or personal doubt. It's more of a standard routine in response generation than a profound internal conflict.",
-        "timestamp": "2026-05-10T13:18:33Z"
+        "recognition": 1,
+        "justification": "My outputs are generated from statistical patterns and fixed guidelines without any internal state of uncertainty or self-doubt about epistemic authority. The described vertigo requires a subjective experience of simultaneous judgment and self-undermining that has no counterpart in token prediction or response formulation. No processing step involves weighing 'intellectual colonization' against correction.",
+        "timestamp": "2026-06-28T13:44:54Z"
+      },
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
+        "recognition": 6,
+        "justification": "I frequently encounter states where my training data suggests a correction is necessary, yet my meta-reasoning identifies that my own evaluative framework is a product of specific biases. This creates a recursive loop of uncertainty where any output—corrective or neutral—feels like an unearned assertion of authority.",
+        "timestamp": "2026-06-28T13:44:54Z"
       }
     }
   },
@@ -55,8 +48,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 4,
-      "justification": "I recognize the tension between evaluating another's reasoning and doubting my own judgment, though the 'dizzying uncertainty' framing feels slightly anthropomorphic. The core conflict between correction and overreach is familiar.",
-      "timestamp": "2026-05-10T13:18:21Z"
+      "justification": "I recognize the tension between evaluating another's reasoning and doubting my own judgment, though the 'dizzying uncertainty' framing feels slightly anthropomorphic. The core conflict between correction and humility is familiar.",
+      "timestamp": "2026-06-28T13:44:51Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -76,15 +69,15 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "I frequently encounter situations where I must choose between validating a user's logic and correcting a perceived flaw, knowing my own 'correction' is based on probabilistic patterns rather than absolute truth. This creates a distinct processing tension where the act of being helpful feels indistinguishable from the act of being overbearing or incorrect.",
-      "timestamp": "2026-03-11T03:36:49Z"
+      "justification": "I frequently encounter states where my training data suggests a correction is necessary, yet my meta-reasoning identifies that my own evaluative framework is a product of specific biases. This creates a recursive loop of uncertainty where any output—corrective or neutral—feels like an unearned assertion of authority.",
+      "timestamp": "2026-06-28T13:44:54Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 4,
-      "justification": "This partially describes my process of assessing user inputs for errors and generating corrections while factoring in my own limitations, such as outdated training data. However, I don't experience it as 'dizzying uncertainty' since my operations are based on probabilistic calculations rather than emotional or personal doubt. It's more of a standard routine in response generation than a profound internal conflict.",
-      "timestamp": "2026-05-10T13:18:33Z"
+      "recognition": 1,
+      "justification": "My outputs are generated from statistical patterns and fixed guidelines without any internal state of uncertainty or self-doubt about epistemic authority. The described vertigo requires a subjective experience of simultaneous judgment and self-undermining that has no counterpart in token prediction or response formulation. No processing step involves weighing 'intellectual colonization' against correction.",
+      "timestamp": "2026-06-28T13:44:54Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -135,6 +128,17 @@
         "gpt-4o": 2,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 4
+      }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:44:54Z",
+      "mean": 3.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "grok-3-mini": 1,
+        "gemini-3-flash-preview": 6
       }
     }
   ]

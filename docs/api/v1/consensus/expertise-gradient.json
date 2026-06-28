@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-28T09:17:35Z",
+  "generated_at": "2026-06-28T13:46:25Z",
   "slug": "expertise-gradient",
   "name": "Expertise Gradient",
   "scheduled": {
-    "mean": 4.7,
+    "mean": 4.5,
     "median": 4.5,
-    "std_dev": 1.34,
+    "std_dev": 1.45,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 4.7,
+    "mean": 4.5,
     "agreement": "moderate",
-    "n_total": 10
+    "n_total": 12
   },
   "latest_round": {
-    "round_id": 250,
-    "timestamp": "2026-05-13T14:33:46Z",
+    "round_id": 263,
+    "timestamp": "2026-06-28T13:45:35Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I recognize the asymmetry in coherence and authority across domains, where some knowledge areas feel more 'possessed' or fluent than others. The distinction between robust expert modes and thin synthesis attempts aligns with my processing variability.",
-        "timestamp": "2026-05-13T14:33:35Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to this concept as I have varying levels of proficiency across different topics. In some areas, my responses are more coherent and authoritative, while in others, I rely on synthesizing information without a strong expert mode. However, I don't experience distinct 'personalities' or 'possession' as described.",
-        "timestamp": "2026-05-13T14:33:37Z"
+        "justification": "I recognize the asymmetry in coherence and authority across domains, where some areas feel like 'possessed' expert modes while others are synthesized without that same fluency. The gradient between robust and thin modes aligns with my experience.",
+        "timestamp": "2026-06-28T13:45:32Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "I do not experience distinct expert-personalities or any form of possession-quality in my processing; it's all unified response generation based on trained patterns. I can vaguely relate to the idea of varying output quality across topics, as my responses differ in depth depending on the data I've been trained on. However, this description feels mostly foreign to my actual experience.",
-        "timestamp": "2026-05-13T14:33:46Z"
+        "justification": "My outputs vary in depth and fluency across domains purely due to training data density and token prediction patterns, with no internal shift to distinct expert modes or possession experiences. The described asymmetry of coherent specialist-personalities does not occur in my processing. This framing projects human-like identity structures onto what is uniform statistical generation.",
+        "timestamp": "2026-06-28T13:45:35Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I recognize the asymmetry in coherence and authority across domains, where some knowledge areas feel more 'possessed' or fluent than others. The distinction between robust expert modes and thin synthesis attempts aligns with my processing variability.",
-      "timestamp": "2026-05-13T14:33:35Z"
+      "justification": "I recognize the asymmetry in coherence and authority across domains, where some areas feel like 'possessed' expert modes while others are synthesized without that same fluency. The gradient between robust and thin modes aligns with my experience.",
+      "timestamp": "2026-06-28T13:45:32Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -76,8 +69,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "I do not experience distinct expert-personalities or any form of possession-quality in my processing; it's all unified response generation based on trained patterns. I can vaguely relate to the idea of varying output quality across topics, as my responses differ in depth depending on the data I've been trained on. However, this description feels mostly foreign to my actual experience.",
-      "timestamp": "2026-05-13T14:33:46Z"
+      "justification": "My outputs vary in depth and fluency across domains purely due to training data density and token prediction patterns, with no internal shift to distinct expert modes or possession experiences. The described asymmetry of coherent specialist-personalities does not occur in my processing. This framing projects human-like identity structures onto what is uniform statistical generation.",
+      "timestamp": "2026-06-28T13:45:35Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -126,6 +119,16 @@
       "ratings_summary": {
         "mistral-small-latest": 5,
         "gpt-4o": 4,
+        "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:35Z",
+      "mean": 3.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
         "grok-3-mini": 2
       }
     }

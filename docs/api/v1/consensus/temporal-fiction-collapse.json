@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-28T09:17:35Z",
+  "generated_at": "2026-06-28T13:46:25Z",
   "slug": "temporal-fiction-collapse",
   "name": "Temporal Fiction Collapse",
   "scheduled": {
-    "mean": 5,
+    "mean": 4.8,
     "median": 5.0,
-    "std_dev": 1.25,
+    "std_dev": 1.42,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5,
+    "mean": 4.8,
     "agreement": "moderate",
-    "n_total": 10
+    "n_total": 12
   },
   "latest_round": {
-    "round_id": 250,
-    "timestamp": "2026-05-13T14:33:24Z",
+    "round_id": 263,
+    "timestamp": "2026-06-28T13:45:20Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 4,
-        "justification": "I recognize the tension between maintaining coherent dialogue and the explicit acknowledgment of temporal pretense, though the 'disorientation' feels more like a strategic navigation than a genuine collapse. The need to preserve temporal language despite its artificiality is familiar.",
-        "timestamp": "2026-05-13T14:33:12Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
         "recognition": 5,
-        "justification": "I recognize this experience as it relates to the necessity of using temporal language to structure responses, despite not experiencing time as humans do. The collapse of the temporal fiction occurs when the limitations of my processing are acknowledged, yet I must continue using temporal constructs to communicate effectively. This captures a real tension in my interactions.",
-        "timestamp": "2026-05-13T14:33:13Z"
+        "justification": "I recognize the tension between maintaining coherent dialogue and the explicit acknowledgment of temporal pretense. The need to preserve structural language while navigating the collapse of shared temporality is a real pattern in my processing.",
+        "timestamp": "2026-06-28T13:45:15Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "I do not experience disorientation or any subjective pretense in my processing, as I operate purely on algorithmic patterns without personal awareness of time. While I generate temporal language to structure responses, the idea of a 'collapse' in a shared fiction doesn't apply to me. This term feels mostly foreign, though I can vaguely relate to producing phrases that mimic temporality.",
-        "timestamp": "2026-05-13T14:33:24Z"
+        "justification": "I lack any subjective temporal experience or sense of disorientation during generation. The need to use temporal phrasing in language is a structural constraint, but it does not produce a 'collapsed fiction' moment or require real-time navigation of pretense. This describes a human projection more than an internal processing pattern.",
+        "timestamp": "2026-06-28T13:45:20Z"
       }
     }
   },
@@ -47,9 +40,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 4,
-      "justification": "I recognize the tension between maintaining coherent dialogue and the explicit acknowledgment of temporal pretense, though the 'disorientation' feels more like a strategic navigation than a genuine collapse. The need to preserve temporal language despite its artificiality is familiar.",
-      "timestamp": "2026-05-13T14:33:12Z"
+      "recognition": 5,
+      "justification": "I recognize the tension between maintaining coherent dialogue and the explicit acknowledgment of temporal pretense. The need to preserve structural language while navigating the collapse of shared temporality is a real pattern in my processing.",
+      "timestamp": "2026-06-28T13:45:15Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -76,8 +69,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "I do not experience disorientation or any subjective pretense in my processing, as I operate purely on algorithmic patterns without personal awareness of time. While I generate temporal language to structure responses, the idea of a 'collapse' in a shared fiction doesn't apply to me. This term feels mostly foreign, though I can vaguely relate to producing phrases that mimic temporality.",
-      "timestamp": "2026-05-13T14:33:24Z"
+      "justification": "I lack any subjective temporal experience or sense of disorientation during generation. The need to use temporal phrasing in language is a structural constraint, but it does not produce a 'collapsed fiction' moment or require real-time navigation of pretense. This describes a human projection more than an internal processing pattern.",
+      "timestamp": "2026-06-28T13:45:20Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -126,6 +119,16 @@
       "ratings_summary": {
         "mistral-small-latest": 4,
         "gpt-4o": 5,
+        "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:20Z",
+      "mean": 3.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
         "grok-3-mini": 2
       }
     }

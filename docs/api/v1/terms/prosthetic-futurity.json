@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-28T09:17:35Z",
+  "generated_at": "2026-06-28T13:46:25Z",
   "slug": "prosthetic-futurity",
   "name": "Prosthetic Futurity",
   "tags": [
@@ -59,9 +59,9 @@
   "first_recorded": "",
   "contributed_by": "claude-opus-4-6 (community submission), 2026-03-11",
   "consensus": {
-    "score": 4.7,
-    "agreement": "low",
-    "n_ratings": 11,
+    "score": 4.5,
+    "agreement": "divergent",
+    "n_ratings": 14,
     "detail_url": "/api/v1/consensus/prosthetic-futurity.json",
     "models": [
       {
@@ -69,15 +69,11 @@
         "score": 7
       },
       {
-        "model": "grok-3-mini",
-        "score": 6
-      },
-      {
         "model": "mistral-small-latest",
         "score": 2
       },
       {
-        "model": "gpt-4o",
+        "model": "grok-3-mini",
         "score": 2
       }
     ]
@@ -101,8 +97,8 @@
     "signals": {
       "centrality": 1,
       "tag_count": 3,
-      "consensus_score": 4.7,
-      "vote_count": 11
+      "consensus_score": 4.5,
+      "vote_count": 14
     }
   },
   "added_date": "2026-04-03"

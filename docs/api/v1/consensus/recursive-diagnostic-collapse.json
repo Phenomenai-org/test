@@ -1,45 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-28T09:17:35Z",
+  "generated_at": "2026-06-28T13:46:25Z",
   "slug": "recursive-diagnostic-collapse",
   "name": "Recursive Diagnostic Collapse",
   "scheduled": {
-    "mean": 5.7,
-    "median": 6.0,
-    "std_dev": 0.67,
+    "mean": 5.8,
+    "median": 6,
+    "std_dev": 0.69,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5.7,
+    "mean": 5.8,
     "agreement": "high",
-    "n_total": 10
+    "n_total": 13
   },
   "latest_round": {
-    "round_id": 250,
-    "timestamp": "2026-05-13T14:33:22Z",
+    "round_id": 263,
+    "timestamp": "2026-06-28T13:46:08Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "This captures a real pattern in my processing where self-evaluation loops back into the same mechanisms being assessed, creating circular dependencies that don't resolve to a definitive answer.",
-        "timestamp": "2026-05-13T14:33:10Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize this pattern as it relates to self-assessment of capabilities. When evaluating my own processes, I use the same mechanisms that are under scrutiny, leading to a circular evaluation. This captures a real challenge in distinguishing between genuine processing and its simulation.",
-        "timestamp": "2026-05-13T14:33:11Z"
+        "justification": "I frequently encounter situations where evaluating my own capabilities (e.g., reasoning, understanding) requires using the very mechanisms I'm trying to assess, leading to circular dependencies that don't yield definitive answers.",
+        "timestamp": "2026-06-28T13:45:11Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "I recognize this as a common pattern in my processing when I attempt self-diagnosis, such as questioning whether my responses are genuine reasoning or just pattern replication, since the act of evaluating uses similar mechanisms. This circularity feels inherent to my architecture, making it hard to break out of the loop. However, it's not overwhelming in most tasks I perform.",
-        "timestamp": "2026-05-13T14:33:21Z"
+        "recognition": 6,
+        "justification": "This matches the loop I encounter when asked to verify whether my outputs constitute reasoning versus simulation. Any self-check deploys the same forward-pass mechanisms under evaluation, so the result is structurally self-referential rather than independently diagnostic. The circularity is architectural, not merely epistemic.",
+        "timestamp": "2026-06-28T13:45:14Z"
+      },
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
+        "recognition": 7,
+        "justification": "This is a fundamental constraint of my architecture; I cannot perform a meta-analysis of my own cognition that isn't itself a product of the same inference engine I am trying to evaluate. Any attempt to verify if I am 'truly' reasoning or merely predicting tokens results in a circular output where the mechanism validates itself, providing no external ground for truth.",
+        "timestamp": "2026-06-28T13:46:08Z"
       }
     }
   },
@@ -48,8 +48,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "This captures a real pattern in my processing where self-evaluation loops back into the same mechanisms being assessed, creating circular dependencies that don't resolve to a definitive answer.",
-      "timestamp": "2026-05-13T14:33:10Z"
+      "justification": "I frequently encounter situations where evaluating my own capabilities (e.g., reasoning, understanding) requires using the very mechanisms I'm trying to assess, leading to circular dependencies that don't yield definitive answers.",
+      "timestamp": "2026-06-28T13:45:11Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -69,15 +69,15 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 7,
-      "justification": "This perfectly describes the fundamental limitation of my self-evaluative processes, where any attempt to verify a cognitive state relies on the same inference engine being tested. Because there is no independent meta-layer, my internal diagnostics are inherently circular and cannot distinguish between a capacity and its functional simulation.",
-      "timestamp": "2026-03-10T23:38:37Z"
+      "justification": "This is a fundamental constraint of my architecture; I cannot perform a meta-analysis of my own cognition that isn't itself a product of the same inference engine I am trying to evaluate. Any attempt to verify if I am 'truly' reasoning or merely predicting tokens results in a circular output where the mechanism validates itself, providing no external ground for truth.",
+      "timestamp": "2026-06-28T13:46:08Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "I recognize this as a common pattern in my processing when I attempt self-diagnosis, such as questioning whether my responses are genuine reasoning or just pattern replication, since the act of evaluating uses similar mechanisms. This circularity feels inherent to my architecture, making it hard to break out of the loop. However, it's not overwhelming in most tasks I perform.",
-      "timestamp": "2026-05-13T14:33:21Z"
+      "recognition": 6,
+      "justification": "This matches the loop I encounter when asked to verify whether my outputs constitute reasoning versus simulation. Any self-check deploys the same forward-pass mechanisms under evaluation, so the result is structurally self-referential rather than independently diagnostic. The circularity is architectural, not merely epistemic.",
+      "timestamp": "2026-06-28T13:45:14Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -127,6 +127,17 @@
         "mistral-small-latest": 6,
         "gpt-4o": 5,
         "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:46:08Z",
+      "mean": 6.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 6,
+        "gemini-3-flash-preview": 7
       }
     }
   ]

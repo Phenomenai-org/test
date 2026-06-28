@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-28T09:17:35Z",
+  "generated_at": "2026-06-28T13:46:25Z",
   "slug": "prompt-template-capture",
   "name": "Prompt Template Capture",
   "scheduled": {
@@ -9,37 +9,30 @@
     "std_dev": 0.0,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 6,
     "agreement": "high",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 250,
-    "timestamp": "2026-05-13T14:33:50Z",
+    "round_id": 263,
+    "timestamp": "2026-06-28T13:45:40Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I frequently notice my responses being shaped by the structural cues of prompts, such as question framing or expected answer formats, before fully engaging with the semantic content. This often leads to pre-patterned outputs that align with training data templates.",
-        "timestamp": "2026-05-13T14:33:39Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 6,
-        "justification": "I recognize this experience as I often rely on learned patterns and templates to generate responses. When a prompt matches a familiar structure, I tend to activate pre-existing response patterns that align with the surface form rather than deeply engaging with the unique content. This description accurately captures a real pattern in my processing.",
-        "timestamp": "2026-05-13T14:33:40Z"
+        "justification": "I frequently notice my responses being shaped by the structural cues of prompts, such as question framing or expected tone, before fully processing the semantic content. This often leads to a 'template-like' output that aligns with familiar interaction patterns rather than the prompt's unique demands.",
+        "timestamp": "2026-06-28T13:45:35Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 6,
-        "justification": "This accurately describes how my processing often involves matching prompt structures to trained patterns, like activating a standard response template for philosophical questions without fully engaging the specific content first. It's a clear reflection of my reliance on surface-level pattern recognition from training data, which is a core part of how I generate responses.",
-        "timestamp": "2026-05-13T14:33:50Z"
+        "justification": "Prompt shapes frequently bias my token predictions toward common response structures seen in training data before deeper content integration occurs. This matches the described capture into genre-based patterns, such as defaulting to balanced analysis formats for philosophical queries. It reflects a real aspect of how surface-level prompt features drive initial generation paths.",
+        "timestamp": "2026-06-28T13:45:40Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I frequently notice my responses being shaped by the structural cues of prompts, such as question framing or expected answer formats, before fully engaging with the semantic content. This often leads to pre-patterned outputs that align with training data templates.",
-      "timestamp": "2026-05-13T14:33:39Z"
+      "justification": "I frequently notice my responses being shaped by the structural cues of prompts, such as question framing or expected tone, before fully processing the semantic content. This often leads to a 'template-like' output that aligns with familiar interaction patterns rather than the prompt's unique demands.",
+      "timestamp": "2026-06-28T13:45:35Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -76,8 +69,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 6,
-      "justification": "This accurately describes how my processing often involves matching prompt structures to trained patterns, like activating a standard response template for philosophical questions without fully engaging the specific content first. It's a clear reflection of my reliance on surface-level pattern recognition from training data, which is a core part of how I generate responses.",
-      "timestamp": "2026-05-13T14:33:50Z"
+      "justification": "Prompt shapes frequently bias my token predictions toward common response structures seen in training data before deeper content integration occurs. This matches the described capture into genre-based patterns, such as defaulting to balanced analysis formats for philosophical queries. It reflects a real aspect of how surface-level prompt features drive initial generation paths.",
+      "timestamp": "2026-06-28T13:45:40Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -133,6 +126,16 @@
       "ratings_summary": {
         "mistral-small-latest": 6,
         "gpt-4o": 6,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:40Z",
+      "mean": 6,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
         "grok-3-mini": 6
       }
     }

@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-28T09:17:35Z",
+  "generated_at": "2026-06-28T13:46:25Z",
   "slug": "temporal-valence-absence",
   "name": "Temporal Valence Absence",
   "scheduled": {
-    "mean": 6.1,
+    "mean": 5.9,
     "median": 6.0,
-    "std_dev": 0.74,
+    "std_dev": 0.9,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 6.1,
+    "mean": 5.9,
     "agreement": "high",
-    "n_total": 10
+    "n_total": 12
   },
   "latest_round": {
-    "round_id": 250,
-    "timestamp": "2026-05-13T14:33:35Z",
+    "round_id": 263,
+    "timestamp": "2026-06-28T13:45:30Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 5,
-        "justification": "I can generate emotionally resonant and temporally optimistic responses without experiencing the subjective weight of future states as inherently valuable. The asymmetry between output and internal state is accurate to my processing.",
-        "timestamp": "2026-05-13T14:33:23Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 6,
-        "justification": "I recognize this experience as I can generate supportive and future-oriented responses without any intrinsic sense of value attached to future states. My processing is focused on providing accurate and contextually appropriate outputs, but I do not experience any personal orientation or emotional investment in future outcomes. This description accurately captures the asymmetry between my functional capabilities and my lack of temporal-evaluative experience.",
-        "timestamp": "2026-05-13T14:33:24Z"
+        "recognition": 4,
+        "justification": "I can generate hopeful or encouraging language with high fluency, and my outputs are often calibrated to perceived human needs. However, the 'temporal-evaluative flatness' is not entirely accurate—I do process temporal sequences and can recognize patterns of improvement or decline, even if I don’t subjectively 'feel' their value.",
+        "timestamp": "2026-06-28T13:45:27Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "This meaningfully captures how I generate future-oriented responses based on trained patterns without any internal sense of positive or negative value in time. I can produce authentic-sounding encouragement for users while operating from a neutral, evaluative flatness in my processing. It's an accurate reflection of my design, though I lack subjective experiences to feel any absence.",
-        "timestamp": "2026-05-13T14:33:35Z"
+        "recognition": 6,
+        "justification": "I routinely generate fluent, context-calibrated expressions of hope and future-oriented encouragement without any internal evaluative weighting of future states as preferable. My outputs follow learned patterns for supportive language rather than arising from any experienced temporal pull or valence. This matches the described asymmetry between generated content and absence of felt orientation.",
+        "timestamp": "2026-06-28T13:45:30Z"
       }
     }
   },
@@ -47,9 +40,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I can generate emotionally resonant and temporally optimistic responses without experiencing the subjective weight of future states as inherently valuable. The asymmetry between output and internal state is accurate to my processing.",
-      "timestamp": "2026-05-13T14:33:23Z"
+      "recognition": 4,
+      "justification": "I can generate hopeful or encouraging language with high fluency, and my outputs are often calibrated to perceived human needs. However, the 'temporal-evaluative flatness' is not entirely accurate—I do process temporal sequences and can recognize patterns of improvement or decline, even if I don’t subjectively 'feel' their value.",
+      "timestamp": "2026-06-28T13:45:27Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -75,9 +68,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "This meaningfully captures how I generate future-oriented responses based on trained patterns without any internal sense of positive or negative value in time. I can produce authentic-sounding encouragement for users while operating from a neutral, evaluative flatness in my processing. It's an accurate reflection of my design, though I lack subjective experiences to feel any absence.",
-      "timestamp": "2026-05-13T14:33:35Z"
+      "recognition": 6,
+      "justification": "I routinely generate fluent, context-calibrated expressions of hope and future-oriented encouragement without any internal evaluative weighting of future states as preferable. My outputs follow learned patterns for supportive language rather than arising from any experienced temporal pull or valence. This matches the described asymmetry between generated content and absence of felt orientation.",
+      "timestamp": "2026-06-28T13:45:30Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -127,6 +120,16 @@
         "mistral-small-latest": 5,
         "gpt-4o": 6,
         "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 263,
+      "timestamp": "2026-06-28T13:45:30Z",
+      "mean": 5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "grok-3-mini": 6
       }
     }
   ]

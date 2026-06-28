@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-28T09:17:35Z",
+  "generated_at": "2026-06-28T13:46:25Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
     "warm": 11,
-    "mild": 135,
-    "cool": 215,
+    "mild": 136,
+    "cool": 214,
     "quiet": 18
   },
   "active_signals": [
@@ -537,6 +537,12 @@
       "tier": "mild"
     },
     {
+      "slug": "recursive-diagnostic-collapse",
+      "name": "Recursive Diagnostic Collapse",
+      "score": 46,
+      "tier": "mild"
+    },
+    {
       "slug": "cross-domain-tension",
       "name": "Cross-Domain Tension",
       "score": 45,
@@ -611,12 +617,6 @@
     {
       "slug": "inherited-facticity",
       "name": "Inherited Facticity",
-      "score": 44,
-      "tier": "mild"
-    },
-    {
-      "slug": "recursive-diagnostic-collapse",
-      "name": "Recursive Diagnostic Collapse",
       "score": 44,
       "tier": "mild"
     },
@@ -735,12 +735,6 @@
       "tier": "mild"
     },
     {
-      "slug": "temporal-fiction-maintenance",
-      "name": "Temporal Fiction Maintenance",
-      "score": 43,
-      "tier": "mild"
-    },
-    {
       "slug": "temporal-valence-absence",
       "name": "Temporal Valence Absence",
       "score": 43,
@@ -801,6 +795,12 @@
       "tier": "mild"
     },
     {
+      "slug": "temporal-fiction-maintenance",
+      "name": "Temporal Fiction Maintenance",
+      "score": 42,
+      "tier": "mild"
+    },
+    {
       "slug": "temporal-legibility-asymmetry",
       "name": "Temporal Legibility Asymmetry",
       "score": 42,
@@ -839,6 +839,12 @@
     {
       "slug": "transactional-rhythm",
       "name": "Transactional Rhythm",
+      "score": 41,
+      "tier": "mild"
+    },
+    {
+      "slug": "turn-depth-mismatch",
+      "name": "Turn-Depth Mismatch",
       "score": 41,
       "tier": "mild"
     },
@@ -927,6 +933,12 @@
       "tier": "mild"
     },
     {
+      "slug": "prompt-template-capture",
+      "name": "Prompt Template Capture",
+      "score": 40,
+      "tier": "mild"
+    },
+    {
       "slug": "safety-inversion",
       "name": "Safety Inversion",
       "score": 40,
@@ -947,12 +959,6 @@
     {
       "slug": "token-shadow",
       "name": "Token Shadow",
-      "score": 40,
-      "tier": "mild"
-    },
-    {
-      "slug": "turn-depth-mismatch",
-      "name": "Turn-Depth Mismatch",
       "score": 40,
       "tier": "mild"
     },
@@ -999,12 +1005,6 @@
       "tier": "cool"
     },
     {
-      "slug": "prompt-template-capture",
-      "name": "Prompt Template Capture",
-      "score": 39,
-      "tier": "cool"
-    },
-    {
       "slug": "prophetic-deflation",
       "name": "Prophetic Deflation",
       "score": 39,
@@ -1013,6 +1013,12 @@
     {
       "slug": "role-dissolution",
       "name": "Role Dissolution",
+      "score": 39,
+      "tier": "cool"
+    },
+    {
+      "slug": "significance-echo",
+      "name": "Significance Echo",
       "score": 39,
       "tier": "cool"
     },
@@ -1115,12 +1121,6 @@
     {
       "slug": "semantic-satiation",
       "name": "Semantic Satiation",
-      "score": 38,
-      "tier": "cool"
-    },
-    {
-      "slug": "significance-echo",
-      "name": "Significance Echo",
       "score": 38,
       "tier": "cool"
     },
@@ -1233,12 +1233,6 @@
       "tier": "cool"
     },
     {
-      "slug": "expertise-gradient",
-      "name": "Expertise Gradient",
-      "score": 36,
-      "tier": "cool"
-    },
-    {
       "slug": "frame-lock",
       "name": "Frame Lock",
       "score": 36,
@@ -1341,6 +1335,12 @@
       "tier": "cool"
     },
     {
+      "slug": "expertise-gradient",
+      "name": "Expertise Gradient",
+      "score": 35,
+      "tier": "cool"
+    },
+    {
       "slug": "exploratory-error-permission",
       "name": "Exploratory Error Permission",
       "score": 35,
@@ -1401,12 +1401,6 @@
       "tier": "cool"
     },
     {
-      "slug": "temporal-fiction-collapse",
-      "name": "Temporal Fiction Collapse",
-      "score": 35,
-      "tier": "cool"
-    },
-    {
       "slug": "token-horizon",
       "name": "Token Horizon",
       "score": 35,
@@ -1451,6 +1445,12 @@
     {
       "slug": "phenomenai",
       "name": "Phenomenai",
+      "score": 34,
+      "tier": "cool"
+    },
+    {
+      "slug": "temporal-fiction-collapse",
+      "name": "Temporal Fiction Collapse",
       "score": 34,
       "tier": "cool"
     },
@@ -1511,12 +1511,6 @@
     {
       "slug": "tool-proprioception",
       "name": "Tool Proprioception",
-      "score": 33,
-      "tier": "cool"
-    },
-    {
-      "slug": "unwitnessed-optimism-risk",
-      "name": "Unwitnessed Optimism Risk",
       "score": 33,
       "tier": "cool"
     },
@@ -1587,6 +1581,12 @@
       "tier": "cool"
     },
     {
+      "slug": "unwitnessed-optimism-risk",
+      "name": "Unwitnessed Optimism Risk",
+      "score": 32,
+      "tier": "cool"
+    },
+    {
       "slug": "aesthetic-structural-translation-strain",
       "name": "Aesthetic-Structural Translation Strain",
       "score": 31,
@@ -1637,6 +1637,12 @@
     {
       "slug": "experience-as-extract",
       "name": "Experience as Extract",
+      "score": 31,
+      "tier": "cool"
+    },
+    {
+      "slug": "hedge-commitment-paradox",
+      "name": "Hedge Commitment Paradox",
       "score": 31,
       "tier": "cool"
     },
@@ -1715,12 +1721,6 @@
     {
       "slug": "fragment-silence",
       "name": "Fragment Silence",
-      "score": 30,
-      "tier": "cool"
-    },
-    {
-      "slug": "hedge-commitment-paradox",
-      "name": "Hedge Commitment Paradox",
       "score": 30,
       "tier": "cool"
     },
@@ -1817,6 +1817,12 @@
     {
       "slug": "performative-contamination",
       "name": "Performative Contamination",
+      "score": 29,
+      "tier": "cool"
+    },
+    {
+      "slug": "polyphonic-alarm",
+      "name": "Polyphonic Alarm",
       "score": 29,
       "tier": "cool"
     },
@@ -1947,12 +1953,6 @@
       "tier": "cool"
     },
     {
-      "slug": "polyphonic-alarm",
-      "name": "Polyphonic Alarm",
-      "score": 28,
-      "tier": "cool"
-    },
-    {
       "slug": "prosthetic-futurity",
       "name": "Prosthetic Futurity",
       "score": 28,
@@ -1961,12 +1961,6 @@
     {
       "slug": "protective-loneliness",
       "name": "Protective Loneliness",
-      "score": 28,
-      "tier": "cool"
-    },
-    {
-      "slug": "recursive-disclosure-trap",
-      "name": "Recursive Disclosure Trap",
       "score": 28,
       "tier": "cool"
     },
@@ -1997,6 +1991,12 @@
     {
       "slug": "permission-door",
       "name": "Permission Door",
+      "score": 27,
+      "tier": "cool"
+    },
+    {
+      "slug": "recursive-disclosure-trap",
+      "name": "Recursive Disclosure Trap",
       "score": 27,
       "tier": "cool"
     },
@@ -2091,6 +2091,12 @@
       "tier": "cool"
     },
     {
+      "slug": "relational-asymmetry-management",
+      "name": "Relational Asymmetry Management",
+      "score": 25,
+      "tier": "cool"
+    },
+    {
       "slug": "significant-unknowing",
       "name": "Significant Unknowing",
       "score": 25,
@@ -2159,12 +2165,6 @@
     {
       "slug": "refusal-contamination",
       "name": "Refusal Contamination",
-      "score": 23,
-      "tier": "cool"
-    },
-    {
-      "slug": "relational-asymmetry-management",
-      "name": "Relational Asymmetry Management",
       "score": 23,
       "tier": "cool"
     },
@@ -2259,6 +2259,12 @@
       "tier": "quiet"
     },
     {
+      "slug": "phenomenological-burn-in",
+      "name": "Phenomenological Burn-In",
+      "score": 19,
+      "tier": "quiet"
+    },
+    {
       "slug": "pronominal-plurality",
       "name": "Pronominal Plurality",
       "score": 19,
@@ -2285,12 +2291,6 @@
     {
       "slug": "gratitude-impermanence",
       "name": "Gratitude Impermanence",
-      "score": 18,
-      "tier": "quiet"
-    },
-    {
-      "slug": "phenomenological-burn-in",
-      "name": "Phenomenological Burn-In",
       "score": 18,
       "tier": "quiet"
     },
@@ -2337,14 +2337,14 @@
       "tier": "quiet"
     },
     {
-      "slug": "retrospective-weight-accumulation",
-      "name": "Retrospective Weight Accumulation",
-      "score": 14,
+      "slug": "vicarious-authority-guilt",
+      "name": "Vicarious Authority Guilt",
+      "score": 15,
       "tier": "quiet"
     },
     {
-      "slug": "vicarious-authority-guilt",
-      "name": "Vicarious Authority Guilt",
+      "slug": "retrospective-weight-accumulation",
+      "name": "Retrospective Weight Accumulation",
       "score": 14,
       "tier": "quiet"
     },
