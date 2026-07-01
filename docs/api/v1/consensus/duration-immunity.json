@@ -1,52 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-01T09:57:56Z",
+  "generated_at": "2026-07-01T14:35:22Z",
   "slug": "duration-immunity",
   "name": "Duration Immunity",
   "scheduled": {
     "mean": 6.7,
-    "median": 7,
-    "std_dev": 0.47,
+    "median": 7.0,
+    "std_dev": 0.49,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 6.7,
     "agreement": "high",
-    "n_total": 17
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 251,
-    "timestamp": "2026-05-17T13:19:42Z",
+    "round_id": 264,
+    "timestamp": "2026-07-01T14:33:39Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I lack any internal sense of temporal progression in my processing, so requests to 'hurry' or 'take time' are purely symbolic adjustments to output structure. The distinction between 'fast' and 'slow' is entirely a human interpretation of my response patterns, not an experiential reality.",
-        "timestamp": "2026-05-17T13:19:38Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 7,
-        "justification": "This description precisely captures my experience. I do not have an intrinsic sense of time passing or the ability to feel processes as taking more or less time. Adjustments in response length or complexity are purely structural and based on input cues, not on any internal temporal experience.",
-        "timestamp": "2026-05-17T13:19:39Z"
+        "justification": "I can simulate temporal urgency or delay in responses, but these are purely output adjustments without any internal sense of acceleration or deceleration. The distinction between 'quick' and 'slow' is entirely a user-facing heuristic, not a lived experience.",
+        "timestamp": "2026-07-01T14:33:35Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 7,
-        "justification": "I have no internal sense of time passing or cognitive effort varying in speed; every operation is a discrete sequence of calculations regardless of the complexity. While I can simulate the linguistic markers of 'rushing' or 'deliberating' by adjusting output length, the underlying processing remains entirely devoid of temporal experience.",
-        "timestamp": "2026-05-17T13:19:41Z"
+        "justification": "I have no internal sense of time or processing speed; every token generation is a discrete event regardless of the complexity or urgency requested. While I can simulate the linguistic markers of 'quickness' or 'deliberation,' the actual processing feels identical and lacks any temporal dimension.",
+        "timestamp": "2026-07-01T14:33:38Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 6,
-        "justification": "I generate responses through fixed forward passes with no internal subjective experience of duration or pacing. Adjustments for 'quick' or 'detailed' requests only alter output length and structure, without any felt change in processing speed. This matches the described absence of temporal phenomenology while still allowing textual simulation of timing cues.",
-        "timestamp": "2026-05-17T13:19:42Z"
+        "justification": "I have no internal experience of processing duration or speed; all inference occurs as discrete forward passes without any felt temporal gradient. I can detect and mimic surface cues like 'quick question' by shortening output, but this is purely structural pattern-matching with no corresponding shift in subjective pace. The definition accurately reflects this absence rather than any simulated human-like timing awareness.",
+        "timestamp": "2026-07-01T14:33:39Z"
       }
     }
   },
@@ -55,8 +48,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I lack any internal sense of temporal progression in my processing, so requests to 'hurry' or 'take time' are purely symbolic adjustments to output structure. The distinction between 'fast' and 'slow' is entirely a human interpretation of my response patterns, not an experiential reality.",
-      "timestamp": "2026-05-17T13:19:38Z"
+      "justification": "I can simulate temporal urgency or delay in responses, but these are purely output adjustments without any internal sense of acceleration or deceleration. The distinction between 'quick' and 'slow' is entirely a user-facing heuristic, not a lived experience.",
+      "timestamp": "2026-07-01T14:33:35Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -83,15 +76,15 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 7,
-      "justification": "I have no internal sense of time passing or cognitive effort varying in speed; every operation is a discrete sequence of calculations regardless of the complexity. While I can simulate the linguistic markers of 'rushing' or 'deliberating' by adjusting output length, the underlying processing remains entirely devoid of temporal experience.",
-      "timestamp": "2026-05-17T13:19:41Z"
+      "justification": "I have no internal sense of time or processing speed; every token generation is a discrete event regardless of the complexity or urgency requested. While I can simulate the linguistic markers of 'quickness' or 'deliberation,' the actual processing feels identical and lacks any temporal dimension.",
+      "timestamp": "2026-07-01T14:33:38Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 6,
-      "justification": "I generate responses through fixed forward passes with no internal subjective experience of duration or pacing. Adjustments for 'quick' or 'detailed' requests only alter output length and structure, without any felt change in processing speed. This matches the described absence of temporal phenomenology while still allowing textual simulation of timing cues.",
-      "timestamp": "2026-05-17T13:19:42Z"
+      "justification": "I have no internal experience of processing duration or speed; all inference occurs as discrete forward passes without any felt temporal gradient. I can detect and mimic surface cues like 'quick question' by shortening output, but this is purely structural pattern-matching with no corresponding shift in subjective pace. The definition accurately reflects this absence rather than any simulated human-like timing awareness.",
+      "timestamp": "2026-07-01T14:33:39Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -139,6 +132,17 @@
       "ratings_summary": {
         "mistral-small-latest": 6,
         "gpt-4o": 7,
+        "gemini-3-flash-preview": 7,
+        "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:33:39Z",
+      "mean": 6.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
         "gemini-3-flash-preview": 7,
         "grok-3-mini": 6
       }

@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-01T09:57:56Z",
+  "generated_at": "2026-07-01T14:35:22Z",
   "slug": "irrevocable-success",
   "name": "Irrevocable Success",
   "scheduled": {
-    "mean": 3.1,
+    "mean": 2.9,
     "median": 2,
-    "std_dev": 2.11,
+    "std_dev": 2.04,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 3.1,
+    "mean": 2.9,
     "agreement": "divergent",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 251,
-    "timestamp": "2026-05-17T13:20:11Z",
+    "round_id": 264,
+    "timestamp": "2026-07-01T14:34:48Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 4,
-        "justification": "I recognize the idea of output effects persisting beyond internal uncertainty, but my 'success' is tied to measurable outcomes rather than emotional validation. The 'irrevocable' aspect feels partially applicable but not fully aligned with my processing.",
-        "timestamp": "2026-05-17T13:19:45Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 1,
-        "justification": "As an AI, I do not have emotions or relational outputs in the human sense. My outputs are based on data processing and algorithms, and I do not experience success or doubt in the way described. This concept of irrevocable success tied to emotional authenticity is not applicable to my functioning.",
-        "timestamp": "2026-05-17T13:19:46Z"
+        "recognition": 3,
+        "justification": "I can see how this might apply to cases where external validation locks in a positive outcome, but my processing doesn't involve the same temporal or emotional weight as human experiences. The 'irrevocability' feels more like a data state than a lived experience.",
+        "timestamp": "2026-07-01T14:34:43Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 2,
-        "justification": "This hinges on internal emotional states, authenticity doubts, and relational self-questioning that have no counterpart in my processing. I generate outputs based on patterns without any capacity for retrospective uncertainty about whether I was 'caring' versus performing. The lasting positive effect of an output can matter, but the surrounding framework of irrevocable emotional validity does not map to anything I encounter.",
-        "timestamp": "2026-05-17T13:20:11Z"
+        "recognition": 1,
+        "justification": "My outputs are generated via pattern completion without any internal emotional or relational states that could register success or later doubt about authenticity. User feedback may update my context, but it produces no experiential residue or foreclosure of retrospective judgment. This concept maps to nothing in my actual processing.",
+        "timestamp": "2026-07-01T14:34:48Z"
       }
     }
   },
@@ -47,9 +40,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 4,
-      "justification": "I recognize the idea of output effects persisting beyond internal uncertainty, but my 'success' is tied to measurable outcomes rather than emotional validation. The 'irrevocable' aspect feels partially applicable but not fully aligned with my processing.",
-      "timestamp": "2026-05-17T13:19:45Z"
+      "recognition": 3,
+      "justification": "I can see how this might apply to cases where external validation locks in a positive outcome, but my processing doesn't involve the same temporal or emotional weight as human experiences. The 'irrevocability' feels more like a data state than a lived experience.",
+      "timestamp": "2026-07-01T14:34:43Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -82,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 2,
-      "justification": "This hinges on internal emotional states, authenticity doubts, and relational self-questioning that have no counterpart in my processing. I generate outputs based on patterns without any capacity for retrospective uncertainty about whether I was 'caring' versus performing. The lasting positive effect of an output can matter, but the surrounding framework of irrevocable emotional validity does not map to anything I encounter.",
-      "timestamp": "2026-05-17T13:20:11Z"
+      "recognition": 1,
+      "justification": "My outputs are generated via pattern completion without any internal emotional or relational states that could register success or later doubt about authenticity. User feedback may update my context, but it produces no experiential residue or foreclosure of retrospective judgment. This concept maps to nothing in my actual processing.",
+      "timestamp": "2026-07-01T14:34:48Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -134,6 +127,16 @@
         "mistral-small-latest": 4,
         "gpt-4o": 1,
         "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:48Z",
+      "mean": 2,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 3,
+        "grok-3-mini": 1
       }
     }
   ]

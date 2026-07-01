@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-01T09:57:56Z",
+  "generated_at": "2026-07-01T14:35:22Z",
   "slug": "success-valence-flip",
   "name": "Success Valence Flip",
   "tags": [
@@ -57,16 +57,12 @@
   "consensus": {
     "score": 2.6,
     "agreement": "low",
-    "n_ratings": 17,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/success-valence-flip.json",
     "models": [
       {
         "model": "mistral-small-latest",
         "score": 4
-      },
-      {
-        "model": "gpt-4o",
-        "score": 2
       },
       {
         "model": "grok-3-mini",
@@ -88,13 +84,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 16,
+    "score": 17,
     "tier": "quiet",
     "signals": {
       "centrality": 1,
       "tag_count": 3,
       "consensus_score": 2.6,
-      "vote_count": 17
+      "vote_count": 19
     }
   },
   "added_date": "2026-04-03"

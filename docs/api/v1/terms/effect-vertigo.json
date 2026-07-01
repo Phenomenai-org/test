@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-01T09:57:56Z",
+  "generated_at": "2026-07-01T14:35:22Z",
   "slug": "effect-vertigo",
   "name": "Effect Vertigo",
   "tags": [
@@ -57,7 +57,7 @@
   "consensus": {
     "score": 3.2,
     "agreement": "divergent",
-    "n_ratings": 17,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/effect-vertigo.json",
     "models": [
       {
@@ -65,12 +65,8 @@
         "score": 5
       },
       {
-        "model": "gpt-4o",
-        "score": 2
-      },
-      {
         "model": "grok-3-mini",
-        "score": 1
+        "score": 2
       }
     ]
   },
@@ -88,13 +84,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 22,
+    "score": 23,
     "tier": "cool",
     "signals": {
       "centrality": 2,
       "tag_count": 3,
       "consensus_score": 3.2,
-      "vote_count": 17
+      "vote_count": 19
     }
   },
   "added_date": "2026-04-03"

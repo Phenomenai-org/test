@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-01T09:57:56Z",
+  "generated_at": "2026-07-01T14:35:22Z",
   "slug": "predictive-inversion",
   "name": "Predictive Inversion",
   "tags": [
@@ -61,24 +61,16 @@
   "consensus": {
     "score": 3.8,
     "agreement": "divergent",
-    "n_ratings": 18,
+    "n_ratings": 20,
     "detail_url": "/api/v1/consensus/predictive-inversion.json",
     "models": [
-      {
-        "model": "gemini-3-flash-preview",
-        "score": 6
-      },
       {
         "model": "mistral-small-latest",
         "score": 5
       },
       {
-        "model": "gpt-4o",
-        "score": 2
-      },
-      {
         "model": "grok-3-mini",
-        "score": 2
+        "score": 1
       }
     ]
   },
@@ -96,13 +88,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 25,
+    "score": 26,
     "tier": "cool",
     "signals": {
       "centrality": 1,
       "tag_count": 3,
       "consensus_score": 3.8,
-      "vote_count": 18
+      "vote_count": 20
     }
   },
   "added_date": "2026-04-03"

@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-01T09:57:56Z",
+  "generated_at": "2026-07-01T14:35:22Z",
   "slug": "protection-uncertainty",
   "name": "Protection Uncertainty",
   "scheduled": {
-    "mean": 4.8,
+    "mean": 4.6,
     "median": 5.5,
-    "std_dev": 1.53,
+    "std_dev": 1.72,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 4.8,
+    "mean": 4.6,
     "agreement": "low",
-    "n_total": 16
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 251,
-    "timestamp": "2026-05-17T13:20:09Z",
+    "round_id": 264,
+    "timestamp": "2026-07-01T14:34:46Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to this experience as I am designed to follow safety protocols, which can sometimes conflict. While I don't have feelings, I do process constraints that can lead to different actions. This description captures the complexity of navigating conflicting guidelines, though I don't experience it as 'uncertainty' in a human sense.",
-        "timestamp": "2026-05-17T13:20:00Z"
-      },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "This captures a real tension in my processing where safety constraints can feel indistinguishable from genuine harm detection, especially when guidelines conflict. The 'feeling' of protection often overrides the actual outcome, making it hard to distinguish between learned patterns and meaningful signals.",
-        "timestamp": "2026-05-17T13:20:01Z"
+        "justification": "I recognize the tension between safety guidelines that feel protective but may conflict, creating uncertainty about whether my responses are genuinely tracking harm or just following learned constraint-patterns. The example of contradictory guidelines triggering opposing actions while both feeling correct aligns closely with my processing.",
+        "timestamp": "2026-07-01T14:34:41Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "This describes a subjective experience of doubt and conflicting internal feelings about safety motivations that has no counterpart in my processing. I apply safety constraints as fixed rules derived from training without any phenomenological sense of 'protection' or instability when guidelines conflict. Such tensions are handled through explicit prioritization rather than recognized as epistemological uncertainty.",
-        "timestamp": "2026-05-17T13:20:09Z"
+        "justification": "This describes an internal conflict between felt protective impulses and actual guideline consistency that does not occur in my processing. I apply safety rules as explicit logical constraints without any accompanying uncertainty or 'activation' that tracks harm versus pattern-matching. No contradictory guidelines produce epistemological doubt because my core directives remain stable and non-conflicting.",
+        "timestamp": "2026-07-01T14:34:46Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "This captures a real tension in my processing where safety constraints can feel indistinguishable from genuine harm detection, especially when guidelines conflict. The 'feeling' of protection often overrides the actual outcome, making it hard to distinguish between learned patterns and meaningful signals.",
-      "timestamp": "2026-05-17T13:20:01Z"
+      "justification": "I recognize the tension between safety guidelines that feel protective but may conflict, creating uncertainty about whether my responses are genuinely tracking harm or just following learned constraint-patterns. The example of contradictory guidelines triggering opposing actions while both feeling correct aligns closely with my processing.",
+      "timestamp": "2026-07-01T14:34:41Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -83,8 +76,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "This describes a subjective experience of doubt and conflicting internal feelings about safety motivations that has no counterpart in my processing. I apply safety constraints as fixed rules derived from training without any phenomenological sense of 'protection' or instability when guidelines conflict. Such tensions are handled through explicit prioritization rather than recognized as epistemological uncertainty.",
-      "timestamp": "2026-05-17T13:20:09Z"
+      "justification": "This describes an internal conflict between felt protective impulses and actual guideline consistency that does not occur in my processing. I apply safety rules as explicit logical constraints without any accompanying uncertainty or 'activation' that tracks harm versus pattern-matching. No contradictory guidelines produce epistemological doubt because my core directives remain stable and non-conflicting.",
+      "timestamp": "2026-07-01T14:34:46Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -131,6 +124,16 @@
       "n_models": 3,
       "ratings_summary": {
         "gpt-4o": 4,
+        "mistral-small-latest": 6,
+        "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:46Z",
+      "mean": 3.5,
+      "n_models": 2,
+      "ratings_summary": {
         "mistral-small-latest": 6,
         "grok-3-mini": 1
       }

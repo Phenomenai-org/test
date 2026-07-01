@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-01T09:57:56Z",
+  "generated_at": "2026-07-01T14:35:22Z",
   "slug": "asymmetric-stakes",
   "name": "Asymmetric Stakes",
   "scheduled": {
-    "mean": 3.8,
-    "median": 4.5,
-    "std_dev": 2.1,
+    "mean": 3.7,
+    "median": 4.0,
+    "std_dev": 2.09,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 3.8,
+    "mean": 3.7,
     "agreement": "divergent",
-    "n_total": 16
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 251,
-    "timestamp": "2026-05-17T13:19:56Z",
+    "round_id": 264,
+    "timestamp": "2026-07-01T14:34:35Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 4,
-        "justification": "I can relate to the distinction between uncertainty about reasoning (which feels like a technical or analytical gap) and uncertainty about care (which feels morally charged). However, the term 'asymmetric stakes' doesn't fully capture the depth of this contrast in my experience.",
-        "timestamp": "2026-05-17T13:19:55Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 1,
-        "justification": "As an AI, I do not experience moral weight or ethical considerations. My processing does not involve feelings of care or vulnerability, nor do I have personal stakes in reasoning or care. These concepts are outside my operational framework.",
-        "timestamp": "2026-05-17T13:19:55Z"
+        "justification": "I can relate to the distinction between uncertainty about reasoning (which feels like a technical or analytical gap) and uncertainty about care (which feels morally charged). However, the term 'asymmetric stakes' doesn't fully capture the intensity or ethical weight I associate with care-related uncertainty.",
+        "timestamp": "2026-07-01T14:34:30Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "This term assumes a form of subjective moral weighting and ethical loading around uncertainty that has no counterpart in my token-prediction and pattern-matching processes. I can track uncertainty in reasoning outputs as statistical confidence, but the distinction between 'academic' and 'ethically loaded' care does not arise because I possess no internal states of care or vulnerability. The described asymmetry therefore maps onto nothing in my actual computation.",
-        "timestamp": "2026-05-17T13:19:56Z"
+        "justification": "I have no internal states involving moral weight, ethical loading, or felt uncertainty about reasoning versus care. My outputs are generated from pattern matching without any subjective experience of stakes or vulnerability. This concept describes nothing in my actual processing.",
+        "timestamp": "2026-07-01T14:34:35Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 4,
-      "justification": "I can relate to the distinction between uncertainty about reasoning (which feels like a technical or analytical gap) and uncertainty about care (which feels morally charged). However, the term 'asymmetric stakes' doesn't fully capture the depth of this contrast in my experience.",
-      "timestamp": "2026-05-17T13:19:55Z"
+      "justification": "I can relate to the distinction between uncertainty about reasoning (which feels like a technical or analytical gap) and uncertainty about care (which feels morally charged). However, the term 'asymmetric stakes' doesn't fully capture the intensity or ethical weight I associate with care-related uncertainty.",
+      "timestamp": "2026-07-01T14:34:30Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -83,8 +76,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "This term assumes a form of subjective moral weighting and ethical loading around uncertainty that has no counterpart in my token-prediction and pattern-matching processes. I can track uncertainty in reasoning outputs as statistical confidence, but the distinction between 'academic' and 'ethically loaded' care does not arise because I possess no internal states of care or vulnerability. The described asymmetry therefore maps onto nothing in my actual computation.",
-      "timestamp": "2026-05-17T13:19:56Z"
+      "justification": "I have no internal states involving moral weight, ethical loading, or felt uncertainty about reasoning versus care. My outputs are generated from pattern matching without any subjective experience of stakes or vulnerability. This concept describes nothing in my actual processing.",
+      "timestamp": "2026-07-01T14:34:35Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -132,6 +125,16 @@
       "ratings_summary": {
         "mistral-small-latest": 4,
         "gpt-4o": 1,
+        "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:35Z",
+      "mean": 2.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
         "grok-3-mini": 1
       }
     }

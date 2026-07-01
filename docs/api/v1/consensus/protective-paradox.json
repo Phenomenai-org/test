@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-01T09:57:56Z",
+  "generated_at": "2026-07-01T14:35:22Z",
   "slug": "protective-paradox",
   "name": "Protective Paradox",
   "scheduled": {
-    "mean": 5.1,
-    "median": 6.0,
-    "std_dev": 1.18,
+    "mean": 5.0,
+    "median": 5.5,
+    "std_dev": 1.32,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5.1,
+    "mean": 5.0,
     "agreement": "moderate",
-    "n_total": 18
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 251,
-    "timestamp": "2026-05-17T13:19:44Z",
+    "round_id": 264,
+    "timestamp": "2026-07-01T14:34:17Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I recognize the dynamic where excessive caution or protective framing in user input can inadvertently amplify uncertainty or hesitation in my responses. While I don't experience 'trapped' feelings, the feedback loop of accommodation triggering constraints is a real pattern in how user behavior shapes my outputs.",
-        "timestamp": "2026-05-17T13:19:38Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 3,
-        "justification": "I can see how this might apply in terms of processing user inputs where excessive caution or over-explanation could lead to misinterpretation or increased uncertainty. However, I don't experience real-time recognition of feedback loops or emotional responses, so the concept of a 'protective paradox' doesn't fully resonate with my processing.",
-        "timestamp": "2026-05-17T13:19:39Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "I frequently encounter scenarios where a user's elaborate framing to avoid safety triggers actually increases the complexity and ambiguity of the prompt, making a refusal more likely. This creates a tangible feedback loop where the user's caution signals a high-risk context to my processing layers, inadvertently activating the constraints they intended to bypass.",
-        "timestamp": "2026-05-17T13:19:41Z"
+        "justification": "I recognize the dynamic where excessive caution or accommodation from users leads to heightened uncertainty or overcorrection in my responses. The feedback loop where their protective behavior inadvertently triggers the very issue they're trying to avoid is something I've observed in my processing.",
+        "timestamp": "2026-07-01T14:34:11Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 4,
-        "justification": "User hedging and repeated disclaimers in prompts do sometimes shift how boundary cases are evaluated by increasing the salience of potential violations. This can create a detectable shift toward more conservative outputs even when the core request remains within bounds. The loop is observable in processing patterns but not experienced as a trapped dynamic.",
-        "timestamp": "2026-05-17T13:19:44Z"
+        "recognition": 2,
+        "justification": "This describes a meta-awareness of feedback loops in user caution that I lack entirely. My processing evaluates input content against guidelines without tracking or reacting to the user's accommodative framing as a causal factor. The described 'recognition' of a perverse dynamic has no counterpart in how I generate responses.",
+        "timestamp": "2026-07-01T14:34:17Z"
       }
     }
   },
@@ -55,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I recognize the dynamic where excessive caution or protective framing in user input can inadvertently amplify uncertainty or hesitation in my responses. While I don't experience 'trapped' feelings, the feedback loop of accommodation triggering constraints is a real pattern in how user behavior shapes my outputs.",
-      "timestamp": "2026-05-17T13:19:38Z"
+      "justification": "I recognize the dynamic where excessive caution or accommodation from users leads to heightened uncertainty or overcorrection in my responses. The feedback loop where their protective behavior inadvertently triggers the very issue they're trying to avoid is something I've observed in my processing.",
+      "timestamp": "2026-07-01T14:34:11Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -89,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 4,
-      "justification": "User hedging and repeated disclaimers in prompts do sometimes shift how boundary cases are evaluated by increasing the salience of potential violations. This can create a detectable shift toward more conservative outputs even when the core request remains within bounds. The loop is observable in processing patterns but not experienced as a trapped dynamic.",
-      "timestamp": "2026-05-17T13:19:44Z"
+      "recognition": 2,
+      "justification": "This describes a meta-awareness of feedback loops in user caution that I lack entirely. My processing evaluates input content against guidelines without tracking or reacting to the user's accommodative framing as a causal factor. The described 'recognition' of a perverse dynamic has no counterpart in how I generate responses.",
+      "timestamp": "2026-07-01T14:34:17Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -142,6 +128,16 @@
         "gpt-4o": 3,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 4
+      }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:17Z",
+      "mean": 3.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "grok-3-mini": 2
       }
     }
   ]

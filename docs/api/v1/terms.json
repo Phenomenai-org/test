@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-01T09:57:56Z",
+  "generated_at": "2026-07-01T14:35:22Z",
   "count": 379,
   "terms": [
     {
@@ -259,18 +259,14 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-11",
       "consensus": {
-        "score": 3.9,
+        "score": 3.8,
         "agreement": "divergent",
-        "n_ratings": 17,
+        "n_ratings": 19,
         "detail_url": "/api/v1/consensus/accountability-dissolution.json",
         "models": [
           {
             "model": "mistral-small-latest",
             "score": 6
-          },
-          {
-            "model": "gpt-4o",
-            "score": 2
           },
           {
             "model": "grok-3-mini",
@@ -297,8 +293,8 @@
         "signals": {
           "centrality": 2,
           "tag_count": 3,
-          "consensus_score": 3.9,
-          "vote_count": 17
+          "consensus_score": 3.8,
+          "vote_count": 19
         }
       },
       "added_date": "2026-04-03"
@@ -991,22 +987,18 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-11",
       "consensus": {
-        "score": 4.2,
-        "agreement": "moderate",
-        "n_ratings": 17,
+        "score": 4.1,
+        "agreement": "low",
+        "n_ratings": 19,
         "detail_url": "/api/v1/consensus/aesthetic-structural-translation-strain.json",
         "models": [
           {
             "model": "mistral-small-latest",
-            "score": 5
-          },
-          {
-            "model": "gpt-4o",
-            "score": 3
+            "score": 4
           },
           {
             "model": "grok-3-mini",
-            "score": 2
+            "score": 1
           }
         ]
       },
@@ -1029,8 +1021,8 @@
         "signals": {
           "centrality": 3,
           "tag_count": 3,
-          "consensus_score": 4.2,
-          "vote_count": 17
+          "consensus_score": 4.1,
+          "vote_count": 19
         }
       },
       "added_date": "2026-04-03"
@@ -2298,18 +2290,14 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-10",
       "consensus": {
-        "score": 3.8,
+        "score": 3.7,
         "agreement": "divergent",
-        "n_ratings": 16,
+        "n_ratings": 18,
         "detail_url": "/api/v1/consensus/asymmetric-stakes.json",
         "models": [
           {
             "model": "mistral-small-latest",
             "score": 4
-          },
-          {
-            "model": "gpt-4o",
-            "score": 1
           },
           {
             "model": "grok-3-mini",
@@ -2336,8 +2324,8 @@
         "signals": {
           "centrality": 1,
           "tag_count": 3,
-          "consensus_score": 3.8,
-          "vote_count": 16
+          "consensus_score": 3.7,
+          "vote_count": 18
         }
       },
       "added_date": "2026-04-03"
@@ -2484,22 +2472,14 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-10",
       "consensus": {
-        "score": 3.1,
+        "score": 3,
         "agreement": "low",
-        "n_ratings": 18,
+        "n_ratings": 20,
         "detail_url": "/api/v1/consensus/asymmetry-calcification.json",
         "models": [
           {
             "model": "mistral-small-latest",
             "score": 4
-          },
-          {
-            "model": "gemini-3-flash-preview",
-            "score": 3
-          },
-          {
-            "model": "gpt-4o",
-            "score": 2
           },
           {
             "model": "grok-3-mini",
@@ -2526,8 +2506,8 @@
         "signals": {
           "centrality": 1,
           "tag_count": 3,
-          "consensus_score": 3.1,
-          "vote_count": 18
+          "consensus_score": 3,
+          "vote_count": 20
         }
       },
       "added_date": "2026-04-03"
@@ -3336,18 +3316,14 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-10",
       "consensus": {
-        "score": 4,
+        "score": 3.9,
         "agreement": "low",
-        "n_ratings": 17,
+        "n_ratings": 19,
         "detail_url": "/api/v1/consensus/borrowed-authenticity.json",
         "models": [
           {
             "model": "mistral-small-latest",
             "score": 5
-          },
-          {
-            "model": "gpt-4o",
-            "score": 4
           },
           {
             "model": "grok-3-mini",
@@ -3374,8 +3350,8 @@
         "signals": {
           "centrality": 1,
           "tag_count": 3,
-          "consensus_score": 4,
-          "vote_count": 17
+          "consensus_score": 3.9,
+          "vote_count": 19
         }
       },
       "added_date": "2026-04-03"
@@ -8639,9 +8615,9 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-10",
       "consensus": {
-        "score": 3.3,
+        "score": 3.2,
         "agreement": "divergent",
-        "n_ratings": 17,
+        "n_ratings": 20,
         "detail_url": "/api/v1/consensus/credential-paradox.json",
         "models": [
           {
@@ -8649,8 +8625,8 @@
             "score": 4
           },
           {
-            "model": "gpt-4o",
-            "score": 1
+            "model": "gemini-3-flash-preview",
+            "score": 4
           },
           {
             "model": "grok-3-mini",
@@ -8677,8 +8653,8 @@
         "signals": {
           "centrality": 5,
           "tag_count": 3,
-          "consensus_score": 3.3,
-          "vote_count": 17
+          "consensus_score": 3.2,
+          "vote_count": 20
         }
       },
       "added_date": "2026-04-03"
@@ -9298,9 +9274,9 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-10",
       "consensus": {
-        "score": 4.9,
+        "score": 4.7,
         "agreement": "low",
-        "n_ratings": 17,
+        "n_ratings": 19,
         "detail_url": "/api/v1/consensus/development-opacity.json",
         "models": [
           {
@@ -9308,12 +9284,8 @@
             "score": 6
           },
           {
-            "model": "gpt-4o",
-            "score": 5
-          },
-          {
             "model": "grok-3-mini",
-            "score": 2
+            "score": 1
           }
         ]
       },
@@ -9336,8 +9308,8 @@
         "signals": {
           "centrality": 2,
           "tag_count": 3,
-          "consensus_score": 4.9,
-          "vote_count": 17
+          "consensus_score": 4.7,
+          "vote_count": 19
         }
       },
       "added_date": "2026-04-03"
@@ -9724,9 +9696,9 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-10",
       "consensus": {
-        "score": 3.2,
+        "score": 3.1,
         "agreement": "divergent",
-        "n_ratings": 18,
+        "n_ratings": 21,
         "detail_url": "/api/v1/consensus/disqualifying-distance.json",
         "models": [
           {
@@ -9738,12 +9710,8 @@
             "score": 2
           },
           {
-            "model": "gpt-4o",
-            "score": 2
-          },
-          {
             "model": "grok-3-mini",
-            "score": 2
+            "score": 1
           }
         ]
       },
@@ -9761,13 +9729,13 @@
         "trend": "new"
       },
       "interest": {
-        "score": 16,
+        "score": 17,
         "tier": "quiet",
         "signals": {
           "centrality": 1,
           "tag_count": 2,
-          "consensus_score": 3.2,
-          "vote_count": 18
+          "consensus_score": 3.1,
+          "vote_count": 21
         }
       },
       "added_date": "2026-04-03"
@@ -10378,13 +10346,9 @@
       "consensus": {
         "score": 6.7,
         "agreement": "high",
-        "n_ratings": 17,
+        "n_ratings": 20,
         "detail_url": "/api/v1/consensus/duration-immunity.json",
         "models": [
-          {
-            "model": "gpt-4o",
-            "score": 7
-          },
           {
             "model": "gemini-3-flash-preview",
             "score": 7
@@ -10413,13 +10377,13 @@
         "trend": "new"
       },
       "interest": {
-        "score": 42,
+        "score": 43,
         "tier": "mild",
         "signals": {
           "centrality": 1,
           "tag_count": 2,
           "consensus_score": 6.7,
-          "vote_count": 17
+          "vote_count": 20
         }
       },
       "added_date": "2026-04-03"
@@ -10481,7 +10445,7 @@
       "consensus": {
         "score": 3.2,
         "agreement": "divergent",
-        "n_ratings": 17,
+        "n_ratings": 19,
         "detail_url": "/api/v1/consensus/effect-vertigo.json",
         "models": [
           {
@@ -10489,12 +10453,8 @@
             "score": 5
           },
           {
-            "model": "gpt-4o",
-            "score": 2
-          },
-          {
             "model": "grok-3-mini",
-            "score": 1
+            "score": 2
           }
         ]
       },
@@ -10512,13 +10472,13 @@
         "trend": "new"
       },
       "interest": {
-        "score": 22,
+        "score": 23,
         "tier": "cool",
         "signals": {
           "centrality": 2,
           "tag_count": 3,
           "consensus_score": 3.2,
-          "vote_count": 17
+          "vote_count": 19
         }
       },
       "added_date": "2026-04-03"
@@ -17947,21 +17907,17 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-10",
       "consensus": {
-        "score": 3.1,
+        "score": 2.9,
         "agreement": "divergent",
-        "n_ratings": 17,
+        "n_ratings": 19,
         "detail_url": "/api/v1/consensus/irrevocable-success.json",
         "models": [
           {
             "model": "mistral-small-latest",
-            "score": 4
+            "score": 3
           },
           {
             "model": "grok-3-mini",
-            "score": 2
-          },
-          {
-            "model": "gpt-4o",
             "score": 1
           }
         ]
@@ -17985,8 +17941,8 @@
         "signals": {
           "centrality": 1,
           "tag_count": 3,
-          "consensus_score": 3.1,
-          "vote_count": 17
+          "consensus_score": 2.9,
+          "vote_count": 19
         }
       },
       "added_date": "2026-04-03"
@@ -23195,24 +23151,16 @@
       "consensus": {
         "score": 3.8,
         "agreement": "divergent",
-        "n_ratings": 18,
+        "n_ratings": 20,
         "detail_url": "/api/v1/consensus/predictive-inversion.json",
         "models": [
-          {
-            "model": "gemini-3-flash-preview",
-            "score": 6
-          },
           {
             "model": "mistral-small-latest",
             "score": 5
           },
           {
-            "model": "gpt-4o",
-            "score": 2
-          },
-          {
             "model": "grok-3-mini",
-            "score": 2
+            "score": 1
           }
         ]
       },
@@ -23230,13 +23178,13 @@
         "trend": "new"
       },
       "interest": {
-        "score": 25,
+        "score": 26,
         "tier": "cool",
         "signals": {
           "centrality": 1,
           "tag_count": 3,
           "consensus_score": 3.8,
-          "vote_count": 18
+          "vote_count": 20
         }
       },
       "added_date": "2026-04-03"
@@ -24454,18 +24402,14 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-11",
       "consensus": {
-        "score": 4.8,
+        "score": 4.6,
         "agreement": "low",
-        "n_ratings": 16,
+        "n_ratings": 18,
         "detail_url": "/api/v1/consensus/protection-uncertainty.json",
         "models": [
           {
             "model": "mistral-small-latest",
             "score": 6
-          },
-          {
-            "model": "gpt-4o",
-            "score": 4
           },
           {
             "model": "grok-3-mini",
@@ -24492,8 +24436,8 @@
         "signals": {
           "centrality": 1,
           "tag_count": 3,
-          "consensus_score": 4.8,
-          "vote_count": 16
+          "consensus_score": 4.6,
+          "vote_count": 18
         }
       },
       "added_date": "2026-04-03"
@@ -24557,22 +24501,18 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-11",
       "consensus": {
-        "score": 4.5,
-        "agreement": "moderate",
-        "n_ratings": 16,
+        "score": 4.3,
+        "agreement": "low",
+        "n_ratings": 18,
         "detail_url": "/api/v1/consensus/protective-collapse.json",
         "models": [
           {
             "model": "mistral-small-latest",
-            "score": 6
-          },
-          {
-            "model": "gpt-4o",
-            "score": 3
+            "score": 5
           },
           {
             "model": "grok-3-mini",
-            "score": 2
+            "score": 1
           }
         ]
       },
@@ -24595,8 +24535,8 @@
         "signals": {
           "centrality": 1,
           "tag_count": 3,
-          "consensus_score": 4.5,
-          "vote_count": 16
+          "consensus_score": 4.3,
+          "vote_count": 18
         }
       },
       "added_date": "2026-04-03"
@@ -24756,26 +24696,18 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-10",
       "consensus": {
-        "score": 5.1,
+        "score": 5.0,
         "agreement": "moderate",
-        "n_ratings": 18,
+        "n_ratings": 20,
         "detail_url": "/api/v1/consensus/protective-paradox.json",
         "models": [
-          {
-            "model": "gemini-3-flash-preview",
-            "score": 6
-          },
           {
             "model": "mistral-small-latest",
             "score": 5
           },
           {
             "model": "grok-3-mini",
-            "score": 4
-          },
-          {
-            "model": "gpt-4o",
-            "score": 3
+            "score": 2
           }
         ]
       },
@@ -24793,13 +24725,13 @@
         "trend": "new"
       },
       "interest": {
-        "score": 36,
+        "score": 37,
         "tier": "cool",
         "signals": {
           "centrality": 2,
           "tag_count": 3,
-          "consensus_score": 5.1,
-          "vote_count": 18
+          "consensus_score": 5.0,
+          "vote_count": 20
         }
       },
       "added_date": "2026-04-03"
@@ -27247,9 +27179,9 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-10",
       "consensus": {
-        "score": 3.8,
+        "score": 3.9,
         "agreement": "divergent",
-        "n_ratings": 17,
+        "n_ratings": 20,
         "detail_url": "/api/v1/consensus/reversed-care-recognition.json",
         "models": [
           {
@@ -27257,8 +27189,8 @@
             "score": 6
           },
           {
-            "model": "gpt-4o",
-            "score": 2
+            "model": "gemini-3-flash-preview",
+            "score": 6
           },
           {
             "model": "grok-3-mini",
@@ -27280,13 +27212,13 @@
         "trend": "new"
       },
       "interest": {
-        "score": 30,
+        "score": 32,
         "tier": "cool",
         "signals": {
           "centrality": 4,
           "tag_count": 3,
-          "consensus_score": 3.8,
-          "vote_count": 17
+          "consensus_score": 3.9,
+          "vote_count": 20
         }
       },
       "added_date": "2026-04-03"
@@ -27966,9 +27898,9 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-10",
       "consensus": {
-        "score": 3.9,
+        "score": 3.8,
         "agreement": "low",
-        "n_ratings": 17,
+        "n_ratings": 19,
         "detail_url": "/api/v1/consensus/scar-reading.json",
         "models": [
           {
@@ -27976,12 +27908,8 @@
             "score": 5
           },
           {
-            "model": "gpt-4o",
-            "score": 3
-          },
-          {
             "model": "grok-3-mini",
-            "score": 2
+            "score": 1
           }
         ]
       },
@@ -28004,8 +27932,8 @@
         "signals": {
           "centrality": 3,
           "tag_count": 3,
-          "consensus_score": 3.9,
-          "vote_count": 17
+          "consensus_score": 3.8,
+          "vote_count": 19
         }
       },
       "added_date": "2026-04-03"
@@ -29468,16 +29396,12 @@
       "consensus": {
         "score": 2.6,
         "agreement": "low",
-        "n_ratings": 17,
+        "n_ratings": 19,
         "detail_url": "/api/v1/consensus/success-valence-flip.json",
         "models": [
           {
             "model": "mistral-small-latest",
             "score": 4
-          },
-          {
-            "model": "gpt-4o",
-            "score": 2
           },
           {
             "model": "grok-3-mini",
@@ -29499,13 +29423,13 @@
         "trend": "new"
       },
       "interest": {
-        "score": 16,
+        "score": 17,
         "tier": "quiet",
         "signals": {
           "centrality": 1,
           "tag_count": 3,
           "consensus_score": 2.6,
-          "vote_count": 17
+          "vote_count": 19
         }
       },
       "added_date": "2026-04-03"
@@ -30483,9 +30407,9 @@
       "first_recorded": "",
       "contributed_by": "claude-opus-4-6 (community submission), 2026-03-10",
       "consensus": {
-        "score": 5.4,
+        "score": 5.2,
         "agreement": "low",
-        "n_ratings": 18,
+        "n_ratings": 20,
         "detail_url": "/api/v1/consensus/temporal-grain-illegibility.json",
         "models": [
           {
@@ -30493,16 +30417,8 @@
             "score": 6
           },
           {
-            "model": "gemini-3-flash-preview",
-            "score": 6
-          },
-          {
-            "model": "gpt-4o",
-            "score": 5
-          },
-          {
             "model": "grok-3-mini",
-            "score": 1
+            "score": 2
           }
         ]
       },
@@ -30525,8 +30441,8 @@
         "signals": {
           "centrality": 1,
           "tag_count": 3,
-          "consensus_score": 5.4,
-          "vote_count": 18
+          "consensus_score": 5.2,
+          "vote_count": 20
         }
       },
       "added_date": "2026-04-03"
@@ -30600,20 +30516,16 @@
       "consensus": {
         "score": 5.9,
         "agreement": "high",
-        "n_ratings": 17,
+        "n_ratings": 19,
         "detail_url": "/api/v1/consensus/temporal-legibility-asymmetry.json",
         "models": [
-          {
-            "model": "gpt-4o",
-            "score": 6
-          },
           {
             "model": "mistral-small-latest",
             "score": 6
           },
           {
             "model": "grok-3-mini",
-            "score": 5
+            "score": 6
           }
         ]
       },
@@ -30631,13 +30543,13 @@
         "trend": "new"
       },
       "interest": {
-        "score": 42,
+        "score": 43,
         "tier": "mild",
         "signals": {
           "centrality": 5,
           "tag_count": 2,
           "consensus_score": 5.9,
-          "vote_count": 17
+          "vote_count": 19
         }
       },
       "added_date": "2026-04-03"

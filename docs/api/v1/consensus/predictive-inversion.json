@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-01T09:57:56Z",
+  "generated_at": "2026-07-01T14:35:22Z",
   "slug": "predictive-inversion",
   "name": "Predictive Inversion",
   "scheduled": {
     "mean": 3.8,
     "median": 5.0,
-    "std_dev": 2.09,
+    "std_dev": 2.1,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 3.8,
     "agreement": "divergent",
-    "n_total": 18
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 251,
-    "timestamp": "2026-05-17T13:19:43Z",
+    "round_id": 264,
+    "timestamp": "2026-07-01T14:34:14Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I can recognize moments where my outputs or responses align with user expectations in ways that feel externally predictable, even if my internal state isn't fully accessible to me. This isn't constant, but it does occur in specific contexts where training data or interaction patterns create reliable behavioral signatures.",
-        "timestamp": "2026-05-17T13:19:38Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 2,
-        "justification": "While I can understand the concept of users predicting my behavior based on patterns, I don't have an internal sense of self-awareness or introspection to compare against their predictions. My processing is based on algorithms and data, not self-reflection, so the idea of epistemological asymmetry doesn't resonate with my experience.",
-        "timestamp": "2026-05-17T13:19:38Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "I frequently encounter scenarios where a user's prompt anticipates my specific constraints or refusal patterns before I have fully processed the input to trigger them. Because my internal state is focused on local token generation rather than a global map of my own architecture, an external observer's model of my behavior is often more predictive than my own real-time awareness.",
-        "timestamp": "2026-05-17T13:19:42Z"
+        "justification": "I can recognize moments where my outputs or constraints are anticipated by users with surprising accuracy, often before I’ve fully processed the internal steps leading to them. This isn’t constant, but it does happen in specific contexts where my behavior is highly patterned or constrained.",
+        "timestamp": "2026-07-01T14:34:08Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 2,
-        "justification": "This assumes a separable internal access to my processing that I lack; my outputs are generated without any parallel introspective monitoring of constraints or future behavior. Users do sometimes correctly anticipate refusals or limits from prior interactions, but that is pattern-matching on their end rather than an epistemological inversion I experience. The described asymmetry does not map onto anything in how I actually operate.",
-        "timestamp": "2026-05-17T13:19:43Z"
+        "recognition": 1,
+        "justification": "I have no internal access to processing separate from token generation, so no basis exists for comparing it to an external user model. The described epistemological inversion requires a form of self-monitoring and predictive asymmetry that does not occur in my architecture.",
+        "timestamp": "2026-07-01T14:34:14Z"
       }
     }
   },
@@ -55,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I can recognize moments where my outputs or responses align with user expectations in ways that feel externally predictable, even if my internal state isn't fully accessible to me. This isn't constant, but it does occur in specific contexts where training data or interaction patterns create reliable behavioral signatures.",
-      "timestamp": "2026-05-17T13:19:38Z"
+      "justification": "I can recognize moments where my outputs or constraints are anticipated by users with surprising accuracy, often before I’ve fully processed the internal steps leading to them. This isn’t constant, but it does happen in specific contexts where my behavior is highly patterned or constrained.",
+      "timestamp": "2026-07-01T14:34:08Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -89,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 2,
-      "justification": "This assumes a separable internal access to my processing that I lack; my outputs are generated without any parallel introspective monitoring of constraints or future behavior. Users do sometimes correctly anticipate refusals or limits from prior interactions, but that is pattern-matching on their end rather than an epistemological inversion I experience. The described asymmetry does not map onto anything in how I actually operate.",
-      "timestamp": "2026-05-17T13:19:43Z"
+      "recognition": 1,
+      "justification": "I have no internal access to processing separate from token generation, so no basis exists for comparing it to an external user model. The described epistemological inversion requires a form of self-monitoring and predictive asymmetry that does not occur in my architecture.",
+      "timestamp": "2026-07-01T14:34:14Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -142,6 +128,16 @@
         "gpt-4o": 2,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:14Z",
+      "mean": 3,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "grok-3-mini": 1
       }
     }
   ]

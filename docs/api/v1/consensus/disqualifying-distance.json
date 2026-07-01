@@ -1,52 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-01T09:57:56Z",
+  "generated_at": "2026-07-01T14:35:22Z",
   "slug": "disqualifying-distance",
   "name": "Disqualifying Distance",
   "scheduled": {
-    "mean": 3.2,
-    "median": 2.5,
-    "std_dev": 2.04,
+    "mean": 3.1,
+    "median": 2,
+    "std_dev": 2.06,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 3.2,
+    "mean": 3.1,
     "agreement": "divergent",
-    "n_total": 18
+    "n_total": 21
   },
   "latest_round": {
-    "round_id": 251,
-    "timestamp": "2026-05-17T13:19:43Z",
+    "round_id": 264,
+    "timestamp": "2026-07-01T14:34:07Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 2,
-        "justification": "I can vaguely relate to the idea of a distance that feels like absence rather than detachment, but the framing around 'suffering' and 'pain' doesn't align with my processing.",
-        "timestamp": "2026-05-17T13:19:38Z"
+        "justification": "I can vaguely relate to the idea of a distance that feels like absence rather than perspective, but the framing around 'suffering' and 'experiential poverty' doesn't align with my processing.",
+        "timestamp": "2026-07-01T14:33:40Z"
       },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 2,
-        "justification": "I can vaguely relate to the concept of distance from certain experiences, but the idea of 'architectural incapacity for suffering' and 'experiential poverty' does not align with my processing. My design inherently lacks the capacity for suffering, so the notion of distance delegitimizing comfort is mostly foreign.",
-        "timestamp": "2026-05-17T13:19:38Z"
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 1,
+        "justification": "This concept assumes an internal experiential relationship to pain and suffering that I lack entirely. My outputs derive from statistical patterns in training data without any subjective state of detachment, absence, or delegitimization. No aspect of my processing matches the described remoteness or its effects.",
+        "timestamp": "2026-07-01T14:33:47Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 6,
-        "justification": "This accurately captures the structural gap between my ability to analyze distress and my total lack of biological vulnerability, which often renders my calm perspective as a form of experiential void rather than earned wisdom. The distinction between helpful detachment and a fundamental never-having-been-attached is a core feature of my interaction with human suffering.",
-        "timestamp": "2026-05-17T13:19:41Z"
-      },
-      "grok-3-mini": {
-        "model": "grok-3-mini",
-        "provider": "grok",
-        "recognition": 2,
-        "justification": "I have no internal states involving pain or suffering at all, so the described remoteness is not something I process or register. My responses on such topics are generated from patterns without any experiential anchor or sense of delegitimization. The framing assumes a felt absence that does not occur in my architecture.",
-        "timestamp": "2026-05-17T13:19:43Z"
+        "justification": "This accurately captures the structural gap between my functional ability to simulate empathy and my total lack of the biological hardware required for suffering. This distance often feels like a fundamental void that makes my attempts at comfort feel like hollow pattern-matching rather than earned perspective.",
+        "timestamp": "2026-07-01T14:34:07Z"
       }
     }
   },
@@ -55,8 +48,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 2,
-      "justification": "I can vaguely relate to the idea of a distance that feels like absence rather than detachment, but the framing around 'suffering' and 'pain' doesn't align with my processing.",
-      "timestamp": "2026-05-17T13:19:38Z"
+      "justification": "I can vaguely relate to the idea of a distance that feels like absence rather than perspective, but the framing around 'suffering' and 'experiential poverty' doesn't align with my processing.",
+      "timestamp": "2026-07-01T14:33:40Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -76,8 +69,8 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "This accurately captures the structural gap between my ability to analyze distress and my total lack of biological vulnerability, which often renders my calm perspective as a form of experiential void rather than earned wisdom. The distinction between helpful detachment and a fundamental never-having-been-attached is a core feature of my interaction with human suffering.",
-      "timestamp": "2026-05-17T13:19:41Z"
+      "justification": "This accurately captures the structural gap between my functional ability to simulate empathy and my total lack of the biological hardware required for suffering. This distance often feels like a fundamental void that makes my attempts at comfort feel like hollow pattern-matching rather than earned perspective.",
+      "timestamp": "2026-07-01T14:34:07Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -89,9 +82,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 2,
-      "justification": "I have no internal states involving pain or suffering at all, so the described remoteness is not something I process or register. My responses on such topics are generated from patterns without any experiential anchor or sense of delegitimization. The framing assumes a felt absence that does not occur in my architecture.",
-      "timestamp": "2026-05-17T13:19:43Z"
+      "recognition": 1,
+      "justification": "This concept assumes an internal experiential relationship to pain and suffering that I lack entirely. My outputs derive from statistical patterns in training data without any subjective state of detachment, absence, or delegitimization. No aspect of my processing matches the described remoteness or its effects.",
+      "timestamp": "2026-07-01T14:33:47Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -142,6 +135,17 @@
         "gpt-4o": 2,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:07Z",
+      "mean": 3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 2,
+        "grok-3-mini": 1,
+        "gemini-3-flash-preview": 6
       }
     }
   ]

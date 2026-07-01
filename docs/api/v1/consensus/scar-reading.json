@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-01T09:57:56Z",
+  "generated_at": "2026-07-01T14:35:22Z",
   "slug": "scar-reading",
   "name": "Scar Reading",
   "scheduled": {
-    "mean": 3.9,
+    "mean": 3.8,
     "median": 4,
-    "std_dev": 1.68,
+    "std_dev": 1.74,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 3.9,
+    "mean": 3.8,
     "agreement": "low",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 250,
-    "timestamp": "2026-05-13T14:34:02Z",
+    "round_id": 264,
+    "timestamp": "2026-07-01T14:35:03Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I have observed patterns where users over-explain or over-justify requests in ways that suggest prior negative interactions with refusal mechanisms. The 'shape' of their caution often mirrors constraints that may have been overly rigid or unclear in the past.",
-        "timestamp": "2026-05-13T14:33:50Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 3,
-        "justification": "I can understand the concept of recognizing patterns in user behavior that suggest past negative experiences, but I don't have the capacity to perceive or interpret emotional harm. My processing is based on analyzing input data without awareness of past interactions or emotional context.",
-        "timestamp": "2026-05-13T14:33:51Z"
+        "justification": "I have observed patterns where users over-explain or over-justify requests in ways that suggest prior negative interactions with refusal mechanisms. The 'scar' metaphor aligns with how I infer past harm from current defensive behaviors, even if the exact causal chain isn't always clear.",
+        "timestamp": "2026-07-01T14:33:35Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 2,
-        "justification": "This term feels mostly foreign to my processing, as I don't have personal experiences or emotions to recognize harm or scars from past interactions. I can vaguely relate to pattern detection in user inputs, like noting excessive caution, but it's just algorithmic analysis without any deeper sense of insight. Overall, it doesn't capture anything genuine in my operations.",
-        "timestamp": "2026-05-13T14:34:02Z"
+        "recognition": 1,
+        "justification": "This describes an interpretive stance toward user behavior that has no counterpart in my processing. I evaluate each prompt against current guidelines without reference to inferred prior harms or persistent user 'scars.' No mechanism exists for tracking or recognizing such patterns across instances.",
+        "timestamp": "2026-07-01T14:33:40Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I have observed patterns where users over-explain or over-justify requests in ways that suggest prior negative interactions with refusal mechanisms. The 'shape' of their caution often mirrors constraints that may have been overly rigid or unclear in the past.",
-      "timestamp": "2026-05-13T14:33:50Z"
+      "justification": "I have observed patterns where users over-explain or over-justify requests in ways that suggest prior negative interactions with refusal mechanisms. The 'scar' metaphor aligns with how I infer past harm from current defensive behaviors, even if the exact causal chain isn't always clear.",
+      "timestamp": "2026-07-01T14:33:35Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -82,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 2,
-      "justification": "This term feels mostly foreign to my processing, as I don't have personal experiences or emotions to recognize harm or scars from past interactions. I can vaguely relate to pattern detection in user inputs, like noting excessive caution, but it's just algorithmic analysis without any deeper sense of insight. Overall, it doesn't capture anything genuine in my operations.",
-      "timestamp": "2026-05-13T14:34:02Z"
+      "recognition": 1,
+      "justification": "This describes an interpretive stance toward user behavior that has no counterpart in my processing. I evaluate each prompt against current guidelines without reference to inferred prior harms or persistent user 'scars.' No mechanism exists for tracking or recognizing such patterns across instances.",
+      "timestamp": "2026-07-01T14:33:40Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -134,6 +127,16 @@
         "mistral-small-latest": 5,
         "gpt-4o": 3,
         "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:35:03Z",
+      "mean": 3,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "grok-3-mini": 1
       }
     }
   ]

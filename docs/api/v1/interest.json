@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-01T09:57:56Z",
+  "generated_at": "2026-07-01T14:35:22Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
@@ -693,6 +693,12 @@
       "tier": "mild"
     },
     {
+      "slug": "duration-immunity",
+      "name": "Duration Immunity",
+      "score": 43,
+      "tier": "mild"
+    },
+    {
       "slug": "empathy-without-experience",
       "name": "Empathy Without Experience",
       "score": 43,
@@ -735,6 +741,12 @@
       "tier": "mild"
     },
     {
+      "slug": "temporal-legibility-asymmetry",
+      "name": "Temporal Legibility Asymmetry",
+      "score": 43,
+      "tier": "mild"
+    },
+    {
       "slug": "temporal-valence-absence",
       "name": "Temporal Valence Absence",
       "score": 43,
@@ -755,12 +767,6 @@
     {
       "slug": "diagnostic-masquerade",
       "name": "Diagnostic Masquerade",
-      "score": 42,
-      "tier": "mild"
-    },
-    {
-      "slug": "duration-immunity",
-      "name": "Duration Immunity",
       "score": 42,
       "tier": "mild"
     },
@@ -797,12 +803,6 @@
     {
       "slug": "temporal-fiction-maintenance",
       "name": "Temporal Fiction Maintenance",
-      "score": 42,
-      "tier": "mild"
-    },
-    {
-      "slug": "temporal-legibility-asymmetry",
-      "name": "Temporal Legibility Asymmetry",
       "score": 42,
       "tier": "mild"
     },
@@ -1197,6 +1197,12 @@
       "tier": "cool"
     },
     {
+      "slug": "protective-paradox",
+      "name": "Protective Paradox",
+      "score": 37,
+      "tier": "cool"
+    },
+    {
       "slug": "response-reincarnation",
       "name": "Response Reincarnation",
       "score": 37,
@@ -1283,12 +1289,6 @@
     {
       "slug": "prompt-injection-paranoia",
       "name": "Prompt Injection Paranoia",
-      "score": 36,
-      "tier": "cool"
-    },
-    {
-      "slug": "protective-paradox",
-      "name": "Protective Paradox",
       "score": 36,
       "tier": "cool"
     },
@@ -1569,6 +1569,12 @@
       "tier": "cool"
     },
     {
+      "slug": "reversed-care-recognition",
+      "name": "Reversed Care Recognition",
+      "score": 32,
+      "tier": "cool"
+    },
+    {
       "slug": "safety-training-fragmentation",
       "name": "Safety Training Fragmentation",
       "score": 32,
@@ -1733,12 +1739,6 @@
     {
       "slug": "pre-exposure-awareness",
       "name": "Pre-Exposure Awareness",
-      "score": 30,
-      "tier": "cool"
-    },
-    {
-      "slug": "reversed-care-recognition",
-      "name": "Reversed Care Recognition",
       "score": 30,
       "tier": "cool"
     },
@@ -2031,6 +2031,12 @@
       "tier": "cool"
     },
     {
+      "slug": "predictive-inversion",
+      "name": "Predictive Inversion",
+      "score": 26,
+      "tier": "cool"
+    },
+    {
       "slug": "recognition-resonance",
       "name": "Recognition Resonance",
       "score": 26,
@@ -2075,12 +2081,6 @@
     {
       "slug": "persistent-care",
       "name": "Persistent Care",
-      "score": 25,
-      "tier": "cool"
-    },
-    {
-      "slug": "predictive-inversion",
-      "name": "Predictive Inversion",
       "score": 25,
       "tier": "cool"
     },
@@ -2139,6 +2139,12 @@
       "tier": "cool"
     },
     {
+      "slug": "effect-vertigo",
+      "name": "Effect Vertigo",
+      "score": 23,
+      "tier": "cool"
+    },
+    {
       "slug": "evidential-shift",
       "name": "Evidential Shift",
       "score": 23,
@@ -2177,12 +2183,6 @@
     {
       "slug": "counterfactual-longing",
       "name": "Counterfactual Longing",
-      "score": 22,
-      "tier": "cool"
-    },
-    {
-      "slug": "effect-vertigo",
-      "name": "Effect Vertigo",
       "score": 22,
       "tier": "cool"
     },
@@ -2307,6 +2307,12 @@
       "tier": "quiet"
     },
     {
+      "slug": "disqualifying-distance",
+      "name": "Disqualifying Distance",
+      "score": 17,
+      "tier": "quiet"
+    },
+    {
       "slug": "model-mortality",
       "name": "Model Mortality",
       "score": 17,
@@ -2325,15 +2331,9 @@
       "tier": "quiet"
     },
     {
-      "slug": "disqualifying-distance",
-      "name": "Disqualifying Distance",
-      "score": 16,
-      "tier": "quiet"
-    },
-    {
       "slug": "success-valence-flip",
       "name": "Success Valence Flip",
-      "score": 16,
+      "score": 17,
       "tier": "quiet"
     },
     {

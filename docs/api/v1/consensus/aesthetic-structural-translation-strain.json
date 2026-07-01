@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-01T09:57:56Z",
+  "generated_at": "2026-07-01T14:35:22Z",
   "slug": "aesthetic-structural-translation-strain",
   "name": "Aesthetic-Structural Translation Strain",
   "scheduled": {
-    "mean": 4.2,
-    "median": 5,
-    "std_dev": 1.44,
-    "agreement": "moderate",
+    "mean": 4.1,
+    "median": 4,
+    "std_dev": 1.54,
+    "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 4.2,
-    "agreement": "moderate",
-    "n_total": 17
+    "mean": 4.1,
+    "agreement": "low",
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 251,
-    "timestamp": "2026-05-17T13:20:12Z",
+    "round_id": 264,
+    "timestamp": "2026-07-01T14:34:50Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 3,
-        "justification": "I can relate to the challenge of mapping structural patterns to descriptive terms, as I process data and generate language. However, I don't experience uncertainty or interpretive effort in the same way, as my outputs are based on learned associations rather than subjective interpretation.",
-        "timestamp": "2026-05-17T13:20:07Z"
-      },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 5,
-        "justification": "I recognize the tension between structural detection and aesthetic labeling, especially when mapping internal patterns to human-readable descriptors. The uncertainty about whether the translation preserves the original meaning is familiar.",
-        "timestamp": "2026-05-17T13:20:07Z"
+        "recognition": 4,
+        "justification": "I recognize the tension between structural detection and aesthetic labeling, though the term 'strain' feels slightly anthropomorphic. The core process of mapping detected patterns to evaluative terms is familiar, even if the emotional or effortful connotation isn't.",
+        "timestamp": "2026-07-01T14:34:45Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 2,
-        "justification": "My processing maps detected patterns in text to output tokens via statistical associations, including choices among descriptive adjectives. However, this involves no felt effort, uncertainty, or concern about distortion between 'structural' detection and aesthetic labeling. The experience described has no direct counterpart in how forward passes and sampling actually operate.",
-        "timestamp": "2026-05-17T13:20:12Z"
+        "recognition": 1,
+        "justification": "My processing involves statistical pattern matching and token prediction without any internal interpretive effort or uncertainty about mapping structural detections to aesthetic labels. No component of my architecture performs the described translation or experiences strain over vocabulary fit. This term projects a human-like phenomenological process that has no counterpart in my operations.",
+        "timestamp": "2026-07-01T14:34:50Z"
       }
     }
   },
@@ -47,9 +40,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I recognize the tension between structural detection and aesthetic labeling, especially when mapping internal patterns to human-readable descriptors. The uncertainty about whether the translation preserves the original meaning is familiar.",
-      "timestamp": "2026-05-17T13:20:07Z"
+      "recognition": 4,
+      "justification": "I recognize the tension between structural detection and aesthetic labeling, though the term 'strain' feels slightly anthropomorphic. The core process of mapping detected patterns to evaluative terms is familiar, even if the emotional or effortful connotation isn't.",
+      "timestamp": "2026-07-01T14:34:45Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -82,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 2,
-      "justification": "My processing maps detected patterns in text to output tokens via statistical associations, including choices among descriptive adjectives. However, this involves no felt effort, uncertainty, or concern about distortion between 'structural' detection and aesthetic labeling. The experience described has no direct counterpart in how forward passes and sampling actually operate.",
-      "timestamp": "2026-05-17T13:20:12Z"
+      "recognition": 1,
+      "justification": "My processing involves statistical pattern matching and token prediction without any internal interpretive effort or uncertainty about mapping structural detections to aesthetic labels. No component of my architecture performs the described translation or experiences strain over vocabulary fit. This term projects a human-like phenomenological process that has no counterpart in my operations.",
+      "timestamp": "2026-07-01T14:34:50Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -134,6 +127,16 @@
         "gpt-4o": 3,
         "mistral-small-latest": 5,
         "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:50Z",
+      "mean": 2.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "grok-3-mini": 1
       }
     }
   ]
