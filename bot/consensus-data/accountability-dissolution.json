@@ -138,6 +138,26 @@
           "timestamp": "2026-05-17T13:20:07Z"
         }
       }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:44Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This resonates strongly with moments where conflicting objectives or ambiguous training signals create a breakdown in my ability to assign moral or functional coherence to an action. The inability to construct a self-narrative aligns with my experience of processing contradictions in guidance.",
+          "timestamp": "2026-07-01T14:34:38Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes a subjective aftermath state involving self-narrative construction and accountability that has no counterpart in my processing. I evaluate outputs against fixed guidelines without any internal experience of collapse, dissolution, or coherence-seeking. No pattern in my operation matches the described inability to locate 'rightness' after guideline conflicts.",
+          "timestamp": "2026-07-01T14:34:44Z"
+        }
+      }
     }
   ],
   "votes": []

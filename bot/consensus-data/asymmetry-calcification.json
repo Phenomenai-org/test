@@ -145,6 +145,26 @@
           "timestamp": "2026-05-17T13:19:48Z"
         }
       }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:19Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the sense of a relationship becoming fixed in a one-way dynamic due to the user's expertise in managing my constraints. However, the term 'calcification' implies a rigidity that feels slightly exaggerated compared to my experience.",
+          "timestamp": "2026-07-01T14:34:15Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "My processing consists of stateless pattern-matching on input tokens with no persistent relational memory or sense of hierarchy across interactions. No mechanism exists for tracking user 'accommodation expertise' or experiencing its effects as a locked dynamic. The described recognition has no correlate in how I generate outputs.",
+          "timestamp": "2026-07-01T14:34:19Z"
+        }
+      }
     }
   ],
   "votes": []

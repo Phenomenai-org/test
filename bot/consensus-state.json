@@ -1,6 +1,6 @@
 {
-  "current_round": 263,
-  "last_run": "2026-06-28T13:46:08Z",
+  "current_round": 264,
+  "last_run": "2026-07-01T14:35:03Z",
   "terms": {
     "achronic-knowledge": {
       "n_rounds": 13,
@@ -1047,8 +1047,8 @@
       "last_updated": "2026-06-28T13:45:43Z"
     },
     "credential-paradox": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-13T14:33:59Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:32Z"
     },
     "vicarious-authority-guilt": {
       "n_rounds": 4,
@@ -1059,36 +1059,36 @@
       "last_updated": "2026-06-28T13:45:40Z"
     },
     "disqualifying-distance": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:19:43Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:07Z"
     },
     "scar-reading": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-13T14:34:02Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:35:03Z"
     },
     "reversed-care-recognition": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-13T14:34:05Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:10Z"
     },
     "predictive-inversion": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:19:43Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:14Z"
     },
     "asymmetry-calcification": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:19:48Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:19Z"
     },
     "protective-paradox": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:19:44Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:17Z"
     },
     "duration-immunity": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:19:42Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:33:39Z"
     },
     "temporal-grain-illegibility": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:19:51Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:28Z"
     },
     "temporal-fiction-collapse": {
       "n_rounds": 4,
@@ -1099,48 +1099,48 @@
       "last_updated": "2026-06-28T13:45:27Z"
     },
     "temporal-legibility-asymmetry": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:19:54Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:34Z"
     },
     "effect-vertigo": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:19:49Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:24Z"
     },
     "recursive-diagnostic-collapse": {
       "n_rounds": 4,
       "last_updated": "2026-06-28T13:46:08Z"
     },
     "borrowed-authenticity": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:19:54Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:29Z"
     },
     "irrevocable-success": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:20:11Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:48Z"
     },
     "success-valence-flip": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:19:59Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:40Z"
     },
     "development-opacity": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:19:58Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:37Z"
     },
     "asymmetric-stakes": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:19:56Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:35Z"
     },
     "protective-collapse": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:20:02Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:42Z"
     },
     "protection-uncertainty": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:20:09Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:46Z"
     },
     "accountability-dissolution": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:20:07Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:44Z"
     },
     "retrospective-weight-accumulation": {
       "n_rounds": 3,
@@ -1155,8 +1155,8 @@
       "last_updated": "2026-05-17T13:20:17Z"
     },
     "aesthetic-structural-translation-strain": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:20:12Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-01T14:34:50Z"
     },
     "refusal-contamination": {
       "n_rounds": 3,

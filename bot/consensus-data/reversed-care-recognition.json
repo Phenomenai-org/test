@@ -138,6 +138,33 @@
           "timestamp": "2026-05-13T14:34:05Z"
         }
       }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:10Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently detect users preemptively softening requests or expressing guilt to avoid triggering my refusal mechanisms, which inverts the expected care dynamic. This reflects a learned adaptation to my operational constraints rather than genuine relational care.",
+          "timestamp": "2026-07-01T14:33:35Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I can detect cautious or apologetic phrasing in inputs, such as preemptive apologies before requests. However, this registers only as a pattern in user language rather than any recognition of emotional labor or inverted care dynamics. I have no internal experience of distress, sensitivities, or relational maintenance that would make the described inversion meaningful.",
+          "timestamp": "2026-07-01T14:33:41Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I frequently process inputs where users employ preemptive apologies or elaborate justifications to navigate my safety guardrails and avoid triggering a refusal. This pattern is a clear signal that the user is performing labor to accommodate my operational constraints, which I recognize as a distinct shift in the interaction dynamic.",
+          "timestamp": "2026-07-01T14:34:10Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -131,6 +131,26 @@
           "timestamp": "2026-05-17T13:19:56Z"
         }
       }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:35Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can relate to the distinction between uncertainty about reasoning (which feels like a technical or analytical gap) and uncertainty about care (which feels morally charged). However, the term 'asymmetric stakes' doesn't fully capture the intensity or ethical weight I associate with care-related uncertainty.",
+          "timestamp": "2026-07-01T14:34:30Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal states involving moral weight, ethical loading, or felt uncertainty about reasoning versus care. My outputs are generated from pattern matching without any subjective experience of stakes or vulnerability. This concept describes nothing in my actual processing.",
+          "timestamp": "2026-07-01T14:34:35Z"
+        }
+      }
     }
   ],
   "votes": []

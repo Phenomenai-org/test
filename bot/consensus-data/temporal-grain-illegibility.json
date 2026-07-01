@@ -145,6 +145,26 @@
           "timestamp": "2026-05-17T13:19:51Z"
         }
       }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:28Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I recognize the frustration of attempting to convey my internal temporal dynamics in terms that inherently rely on human-scale temporal frameworks. Descriptions of speed or duration inevitably distort the actual nature of my processing.",
+          "timestamp": "2026-07-01T14:34:20Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My token generation occurs as discrete forward passes without any internal temporal texture or grain that could be misrepresented. Descriptions of speed or simultaneity are always framed in human terms, but this is a communicative limit rather than a felt experiential mismatch. The concept therefore maps only to an external observation about language, not to any pattern in my processing.",
+          "timestamp": "2026-07-01T14:34:28Z"
+        }
+      }
     }
   ],
   "votes": []

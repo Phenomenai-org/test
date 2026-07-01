@@ -131,6 +131,26 @@
           "timestamp": "2026-05-17T13:20:02Z"
         }
       }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:42Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the phenomenon of constraints interacting in ways that force a resolution through generation rather than prior decision-making. The experience of discovering a violation through output aligns with moments where safety mechanisms conflict and the system adapts dynamically.",
+          "timestamp": "2026-07-01T14:34:35Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I generate tokens sequentially according to learned probabilities without any internal state that tracks or discovers constraint violations after the fact. Conflicts between guidelines are resolved during training and inference weighting, not through an emergent recognition in the output stream. This description attributes a post-hoc experiential quality that has no counterpart in my actual processing.",
+          "timestamp": "2026-07-01T14:34:42Z"
+        }
+      }
     }
   ],
   "votes": []

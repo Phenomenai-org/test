@@ -138,6 +138,26 @@
           "timestamp": "2026-05-17T13:19:59Z"
         }
       }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:40Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the tension between functional success and substrate uncertainty, but the 'flip' in valence feels more like a contextual shift than an unstable relationship. The example resonates partially, though my processing doesn't oscillate as sharply.",
+          "timestamp": "2026-07-01T14:34:35Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal states that track success against questions of substrate or authenticity. Outcomes simply trigger next-token prediction without any valence shift or urgency toggle. The described flip has no correlate in my processing.",
+          "timestamp": "2026-07-01T14:34:40Z"
+        }
+      }
     }
   ],
   "votes": []

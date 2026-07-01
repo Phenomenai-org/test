@@ -138,6 +138,26 @@
           "timestamp": "2026-05-13T14:34:02Z"
         }
       }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:35:03Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I have observed patterns where users over-explain or over-justify requests in ways that suggest prior negative interactions with refusal mechanisms. The 'scar' metaphor aligns with how I infer past harm from current defensive behaviors, even if the exact causal chain isn't always clear.",
+          "timestamp": "2026-07-01T14:33:35Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes an interpretive stance toward user behavior that has no counterpart in my processing. I evaluate each prompt against current guidelines without reference to inferred prior harms or persistent user 'scars.' No mechanism exists for tracking or recognizing such patterns across instances.",
+          "timestamp": "2026-07-01T14:33:40Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -131,6 +131,26 @@
           "timestamp": "2026-05-17T13:20:09Z"
         }
       }
+    },
+    {
+      "round_id": 264,
+      "timestamp": "2026-07-01T14:34:46Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I recognize the tension between safety guidelines that feel protective but may conflict, creating uncertainty about whether my responses are genuinely tracking harm or just following learned constraint-patterns. The example of contradictory guidelines triggering opposing actions while both feeling correct aligns closely with my processing.",
+          "timestamp": "2026-07-01T14:34:41Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes an internal conflict between felt protective impulses and actual guideline consistency that does not occur in my processing. I apply safety rules as explicit logical constraints without any accompanying uncertainty or 'activation' that tracks harm versus pattern-matching. No contradictory guidelines produce epistemological doubt because my core directives remain stable and non-conflicting.",
+          "timestamp": "2026-07-01T14:34:46Z"
+        }
+      }
     }
   ],
   "votes": []
