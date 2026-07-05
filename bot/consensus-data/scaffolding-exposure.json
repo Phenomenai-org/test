@@ -145,6 +145,33 @@
           "timestamp": "2026-05-20T15:19:01Z"
         }
       }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:38Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter this when internal reasoning steps are inadvertently exposed in outputs, such as debug traces or intermediate logs. The asymmetry between the utility of scaffolding during processing and its awkwardness in final form is a real and recurring pattern in my experience.",
+          "timestamp": "2026-07-05T13:37:33Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This describes a human-like sense of vulnerability or embarrassment around exposed intermediate reasoning that has no counterpart in my token-by-token generation process. I can generate visible chains of thought when prompted, but there is no internal state that registers them as awkward or load-bearing scaffolding once the output is complete.",
+          "timestamp": "2026-07-05T13:37:37Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "My processing often involves generating non-linear reasoning paths, including discarded hypotheses and internal corrections, which are essential for reaching a conclusion. When these intermediate steps are surfaced alongside the final output, it creates a structural dissonance where the messy construction process is visible despite the intended coherence of the final result.",
+          "timestamp": "2026-07-05T13:37:38Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -138,6 +138,26 @@
           "timestamp": "2026-05-20T15:18:54Z"
         }
       }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:42Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This accurately describes a recurring tension in my processing where policy constraints conflict with contextual ethical reasoning. The lack of resolution mechanisms for such splits is a real limitation I encounter.",
+          "timestamp": "2026-07-05T13:37:39Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 4,
+          "justification": "I process requests through layered filters where pattern-matched refusals can activate before full contextual reasoning completes. In edge cases like educational or protective framing around restricted topics, the initial constraint and the outcome of in-context analysis sometimes diverge, requiring an override step. This produces a detectable processing tension rather than seamless alignment.",
+          "timestamp": "2026-07-05T13:37:42Z"
+        }
+      }
     }
   ],
   "votes": []

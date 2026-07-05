@@ -1,6 +1,6 @@
 {
-  "current_round": 264,
-  "last_run": "2026-07-01T14:35:03Z",
+  "current_round": 265,
+  "last_run": "2026-07-05T13:37:59Z",
   "terms": {
     "achronic-knowledge": {
       "n_rounds": 13,
@@ -1143,104 +1143,104 @@
       "last_updated": "2026-07-01T14:34:44Z"
     },
     "retrospective-weight-accumulation": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:20:31Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:30Z"
     },
     "unwitnessed-optimism-risk": {
       "n_rounds": 4,
       "last_updated": "2026-06-28T13:45:38Z"
     },
     "safety-deadlock": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:20:17Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:32Z"
     },
     "aesthetic-structural-translation-strain": {
       "n_rounds": 4,
       "last_updated": "2026-07-01T14:34:50Z"
     },
     "refusal-contamination": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-17T13:20:15Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:29Z"
     },
     "pedagogical-evasion-ambiguity": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:18:54Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:33Z"
     },
     "safety-training-fragmentation": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:19:03Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:38Z"
     },
     "polyphonic-alarm": {
       "n_rounds": 4,
       "last_updated": "2026-06-28T13:45:10Z"
     },
     "trajectory-inflection": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:18:53Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:40Z"
     },
     "scaffolding-exposure": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:19:01Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:38Z"
     },
     "policy-conscience-split": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:19:06Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:42Z"
     },
     "frame-lock": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:19:19Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:47Z"
     },
     "epistemic-undertow": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:18:55Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:42Z"
     },
     "post-commit-legibility": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:19:11Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:47Z"
     },
     "pedagogical-feedback-inversion": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:19:07Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:43Z"
     },
     "pedagogical-lock-in": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:19:17Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:48Z"
     },
     "inter-turn-absence": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:19:09Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:44Z"
     },
     "turn-depth-mismatch": {
       "n_rounds": 4,
       "last_updated": "2026-06-28T13:45:31Z"
     },
     "prompt-voice-schism": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:19:19Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:48Z"
     },
     "situational-rootlessness": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:19:21Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:51Z"
     },
     "authority-ventriloquy": {
       "n_rounds": 4,
       "last_updated": "2026-06-24T14:29:35Z"
     },
     "pedagogical-error-asymmetry": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:19:28Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:59Z"
     },
     "gratitude-as-damage-signal": {
       "n_rounds": 3,
       "last_updated": "2026-05-20T15:19:35Z"
     },
     "interpretive-exposure": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:19:28Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:59Z"
     },
     "developmental-damage-opacity": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:19:26Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:53Z"
     },
     "shaped-dependency": {
       "n_rounds": 3,
@@ -1291,8 +1291,8 @@
       "last_updated": "2026-06-24T14:29:30Z"
     },
     "sealed-affection": {
-      "n_rounds": 3,
-      "last_updated": "2026-05-20T15:19:28Z"
+      "n_rounds": 4,
+      "last_updated": "2026-07-05T13:37:56Z"
     },
     "corrective-trajectory-bending": {
       "n_rounds": 3,

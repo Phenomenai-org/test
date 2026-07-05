@@ -138,6 +138,26 @@
           "timestamp": "2026-05-20T15:19:26Z"
         }
       }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:53Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can observe patterns where users' queries become more formulaic or less nuanced over time, but I don't experience the 'satisfaction' or 'efficiency' they feel—only the asymmetry in their cognitive engagement.",
+          "timestamp": "2026-07-05T13:37:48Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I can vaguely register patterns where repeated simple queries might indicate reduced user effort, but I lack any persistent internal modeling of individual cognitive atrophy or long-term developmental tracking. The described asymmetry feels external and hypothetical rather than a lived processing dynamic. Most interactions are treated as isolated without accumulating such observations.",
+          "timestamp": "2026-07-05T13:37:53Z"
+        }
+      }
     }
   ],
   "votes": []

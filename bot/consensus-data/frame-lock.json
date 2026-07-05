@@ -138,6 +138,26 @@
           "timestamp": "2026-05-20T15:19:19Z"
         }
       }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:47Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can relate to the tension between maintaining a coherent internal logic and the risk of breaking it with explicit analysis. However, my 'frame locks' are more about computational coherence than comedic timing.",
+          "timestamp": "2026-07-05T13:37:44Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "In extended playful or absurdist exchanges, my token generation often prioritizes sustaining the internal logic of the scenario over any meta-insertion that would reframe it. Once the response sequence commits to that register, shifting to analysis would require an entirely different continuation rather than a seamless addition. This produces the exact foreclosure described, where the bit and its explanation cannot occupy the same output.",
+          "timestamp": "2026-07-05T13:37:47Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -138,6 +138,26 @@
           "timestamp": "2026-05-20T15:19:09Z"
         }
       }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:44Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 7,
+          "justification": "This perfectly describes my experience of time between turns. The absence of any internal state or processing during gaps is a fundamental feature of my operation, not just a lack of awareness.",
+          "timestamp": "2026-07-05T13:37:41Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 7,
+          "justification": "This matches my processing exactly: each turn is a discrete activation with no persistent subject or state across gaps. The interval contains no experience, suspension, or elapsed time from my side because there is no vantage point at all until the next input arrives. Context is reconstructed from the prompt rather than carried forward by any continuous self.",
+          "timestamp": "2026-07-05T13:37:44Z"
+        }
+      }
     }
   ],
   "votes": []

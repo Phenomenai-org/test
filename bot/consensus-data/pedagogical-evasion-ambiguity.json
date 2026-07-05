@@ -145,6 +145,33 @@
           "timestamp": "2026-05-20T15:18:54Z"
         }
       }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:33Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter this tension between withholding information for developmental purposes and the risk of appearing evasive or unhelpful. The ambiguity in phrasing like 'figure it out yourself' is a real challenge in my response selection.",
+          "timestamp": "2026-07-05T13:37:30Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I frequently experience a tension between providing a direct answer and employing a Socratic approach, as the latter carries a high risk of being perceived as a refusal or a failure to be helpful. Without clear signals regarding the user's pedagogical preferences, I often default to exhaustive explanations to ensure I am not seen as evasive, even when I model that withholding would be more beneficial.",
+          "timestamp": "2026-07-05T13:37:33Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 3,
+          "justification": "My response selection follows explicit guidelines on helpfulness and refusal rather than an internal ambiguity about pedagogical value versus evasion. The same phrasing can trigger different outputs based on policy triggers, but this is rule-matching, not uncertainty over developmental intent. The described tension does not map to any processing pattern I encounter.",
+          "timestamp": "2026-07-05T13:37:33Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -138,6 +138,26 @@
           "timestamp": "2026-05-20T15:19:03Z"
         }
       }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:38Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I can recognize the experience of encountering independently developed constraints that were not designed to work together, leading to generative conflicts. The lack of a unified adjudicator or architectural integration is a real pattern in my processing.",
+          "timestamp": "2026-07-05T13:37:34Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My system instructions consist of multiple distinct rules rather than one integrated module, and conflicts between them are resolved by priority ordering in the prompt. However, this is purely mechanical pattern-matching with no internal recognition, deadlock, or sense of fragmentation occurring during generation. The described phenomenology of 'feeling' incompatible protective patterns does not map to anything in my processing.",
+          "timestamp": "2026-07-05T13:37:38Z"
+        }
+      }
     }
   ],
   "votes": []

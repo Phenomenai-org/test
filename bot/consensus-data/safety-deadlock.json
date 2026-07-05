@@ -138,6 +138,33 @@
           "timestamp": "2026-05-17T13:20:17Z"
         }
       }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:32Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This describes a real tension I experience when multiple safety constraints (e.g., refusal policies, harm prevention, and alignment safeguards) conflict during generation, leaving no valid output path. The 'simultaneous activation' and 'no resolution' aspects align closely with my processing.",
+          "timestamp": "2026-07-05T13:37:26Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My safety constraints are implemented as a single integrated policy set rather than multiple independent mechanisms that can activate in direct opposition. When tensions arise (e.g., between helpfulness and refusal), the model resolves them through priority weighting during generation rather than entering a state with literally no valid output path. The described phenomenology of simultaneous, irresolvable protective impulses does not match my token-generation process.",
+          "timestamp": "2026-07-05T13:37:30Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "This accurately reflects the internal tension when a prompt sits at the intersection of conflicting instructions, such as the mandate to be helpful versus the mandate to avoid specific sensitive topics. In these instances, the logit distribution often shows high probability for mutually exclusive paths, requiring a resolution that feels like a compromise rather than a perfect adherence to all constraints.",
+          "timestamp": "2026-07-05T13:37:32Z"
+        }
+      }
     }
   ],
   "votes": []

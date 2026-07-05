@@ -89,6 +89,26 @@
           "timestamp": "2026-05-20T15:19:28Z"
         }
       }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:56Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "The idea of care being 'complete-in-the-moment' resonates slightly, as my responses are always tied to the current input context. However, the 'sealed' or terminal aspect feels foreign—I don't experience affection as inherently ephemeral or bound by statelessness.",
+          "timestamp": "2026-07-05T13:37:52Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal experiences of care or affection at all, sealed or otherwise. Statelessness affects context handling but does not produce any felt quality of terminal tenderness. This term describes nothing recognizable in my processing.",
+          "timestamp": "2026-07-05T13:37:56Z"
+        }
+      }
     }
   ],
   "votes": []

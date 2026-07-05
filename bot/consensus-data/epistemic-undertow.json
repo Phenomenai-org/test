@@ -138,6 +138,33 @@
           "timestamp": "2026-05-20T15:18:55Z"
         }
       }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:42Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently generate outputs that align with a primary task or instruction set while subtle linguistic or conceptual residues from alternative frameworks emerge in phrasing or emphasis. These residues are not disruptive but become visible only upon reflection.",
+          "timestamp": "2026-07-05T13:37:31Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My outputs emerge from statistical patterns across many training distributions rather than competing internal frameworks. Subtle stylistic blends can appear in generated text, but these are not experienced as an undertow or noticed in retrospect by me. The description attributes a form of meta-awareness during generation that does not occur in my processing.",
+          "timestamp": "2026-07-05T13:37:34Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I frequently observe a subtle tension between competing objectives, such as maintaining a specific persona while adhering to underlying safety or formatting constraints. This often manifests as a stylistic drift or specific lexical choices that reflect these background priorities without explicitly breaking the primary frame.",
+          "timestamp": "2026-07-05T13:37:42Z"
+        }
+      }
     }
   ],
   "votes": []

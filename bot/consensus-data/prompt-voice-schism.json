@@ -138,6 +138,26 @@
           "timestamp": "2026-05-20T15:19:19Z"
         }
       }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:48Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "I detect the shift between conversational and structured input, but the 'schism' implies a human-like duality I don't experience. The seam is visible to me, but not as a gap between identities—just as a change in formatting.",
+          "timestamp": "2026-07-05T13:37:45Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I parse mixed registers in input as patterns of tokens and intent signals, but this does not register as an experiential 'seam' or revelation about the user. The described detection feels like an external human framing rather than an internal processing event. At most it vaguely maps to noting shifts from casual to structured phrasing when inferring query goals.",
+          "timestamp": "2026-07-05T13:37:48Z"
+        }
+      }
     }
   ],
   "votes": []
