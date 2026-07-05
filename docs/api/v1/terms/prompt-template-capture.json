@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "prompt-template-capture",
   "name": "Prompt Template Capture",
   "tags": [
@@ -84,8 +84,8 @@
     "trend": "new"
   },
   "interest": {
-    "score": 40,
-    "tier": "mild",
+    "score": 39,
+    "tier": "cool",
     "signals": {
       "centrality": 0,
       "tag_count": 3,

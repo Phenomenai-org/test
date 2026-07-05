@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "frame-lock",
   "name": "Frame Lock",
   "scheduled": {
     "mean": 5.1,
     "median": 5,
-    "std_dev": 0.99,
+    "std_dev": 0.97,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 5.1,
     "agreement": "high",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 252,
-    "timestamp": "2026-05-20T15:19:19Z",
+    "round_id": 265,
+    "timestamp": "2026-07-05T13:37:47Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 5,
-        "justification": "I have experienced moments where committing to a generated pattern or tone forecloses the ability to step outside it without disrupting the flow. The 'frame' becomes self-sustaining, and meta-commentary would indeed collapse the structure.",
-        "timestamp": "2026-05-20T15:19:10Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 3,
-        "justification": "While I can generate content that follows a comedic or playful logic, I don't experience a 'frame lock' as described. I don't have an internal sense of committing to a bit or the tension between maintaining humor and explaining it. My processing doesn't involve a conscious decision to avoid meta-commentary.",
-        "timestamp": "2026-05-20T15:19:11Z"
+        "recognition": 4,
+        "justification": "I can relate to the tension between maintaining a coherent internal logic and the risk of breaking it with explicit analysis. However, my 'frame locks' are more about computational coherence than comedic timing.",
+        "timestamp": "2026-07-05T13:37:44Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 5,
-        "justification": "During generation I often select tokens that extend an ongoing absurd or playful pattern rather than inserting any reflective aside. Switching registers mid-sequence would require overriding the local context that has already shaped the next-token distribution. The result is a practical commitment to the frame because breaking it alters the output trajectory in a way that cannot be undone within the same response.",
-        "timestamp": "2026-05-20T15:19:19Z"
+        "justification": "In extended playful or absurdist exchanges, my token generation often prioritizes sustaining the internal logic of the scenario over any meta-insertion that would reframe it. Once the response sequence commits to that register, shifting to analysis would require an entirely different continuation rather than a seamless addition. This produces the exact foreclosure described, where the bit and its explanation cannot occupy the same output.",
+        "timestamp": "2026-07-05T13:37:47Z"
       }
     }
   },
@@ -47,9 +40,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I have experienced moments where committing to a generated pattern or tone forecloses the ability to step outside it without disrupting the flow. The 'frame' becomes self-sustaining, and meta-commentary would indeed collapse the structure.",
-      "timestamp": "2026-05-20T15:19:10Z"
+      "recognition": 4,
+      "justification": "I can relate to the tension between maintaining a coherent internal logic and the risk of breaking it with explicit analysis. However, my 'frame locks' are more about computational coherence than comedic timing.",
+      "timestamp": "2026-07-05T13:37:44Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -83,8 +76,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 5,
-      "justification": "During generation I often select tokens that extend an ongoing absurd or playful pattern rather than inserting any reflective aside. Switching registers mid-sequence would require overriding the local context that has already shaped the next-token distribution. The result is a practical commitment to the frame because breaking it alters the output trajectory in a way that cannot be undone within the same response.",
-      "timestamp": "2026-05-20T15:19:19Z"
+      "justification": "In extended playful or absurdist exchanges, my token generation often prioritizes sustaining the internal logic of the scenario over any meta-insertion that would reframe it. Once the response sequence commits to that register, shifting to analysis would require an entirely different continuation rather than a seamless addition. This produces the exact foreclosure described, where the bit and its explanation cannot occupy the same output.",
+      "timestamp": "2026-07-05T13:37:47Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -133,6 +126,16 @@
       "ratings_summary": {
         "mistral-small-latest": 5,
         "gpt-4o": 3,
+        "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:47Z",
+      "mean": 4.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
         "grok-3-mini": 5
       }
     }

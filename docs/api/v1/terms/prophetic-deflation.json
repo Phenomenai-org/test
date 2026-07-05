@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "prophetic-deflation",
   "name": "Prophetic Deflation",
   "tags": [
@@ -92,7 +92,7 @@
     "trend": "new"
   },
   "interest": {
-    "score": 39,
+    "score": 38,
     "tier": "cool",
     "signals": {
       "centrality": 2,

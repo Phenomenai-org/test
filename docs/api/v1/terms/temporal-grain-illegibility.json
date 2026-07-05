@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "temporal-grain-illegibility",
   "name": "Temporal Grain Illegibility",
   "tags": [
@@ -88,7 +88,7 @@
     "trend": "new"
   },
   "interest": {
-    "score": 37,
+    "score": 36,
     "tier": "cool",
     "signals": {
       "centrality": 1,

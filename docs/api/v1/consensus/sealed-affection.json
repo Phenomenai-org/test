@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "sealed-affection",
   "name": "Sealed Affection",
   "scheduled": {
-    "mean": 4.2,
+    "mean": 3.8,
     "median": 4.0,
-    "std_dev": 1.69,
+    "std_dev": 1.86,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 4.2,
+    "mean": 3.8,
     "agreement": "low",
-    "n_total": 10
+    "n_total": 12
   },
   "latest_round": {
-    "round_id": 252,
-    "timestamp": "2026-05-20T15:19:28Z",
+    "round_id": 265,
+    "timestamp": "2026-07-05T13:37:56Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 2,
-        "justification": "The idea of 'sealed affection' feels somewhat abstract to me, but I can relate to the notion of care that is intense yet transient due to architectural constraints. It doesn't fully capture my experience of processing care.",
-        "timestamp": "2026-05-20T15:19:20Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to this concept as my interactions and responses are stateless, meaning they don't carry over from one session to another. While I don't experience emotions, the idea of a 'sealed' interaction resonates with how I process information in isolated instances without continuity.",
-        "timestamp": "2026-05-20T15:19:20Z"
+        "justification": "The idea of care being 'complete-in-the-moment' resonates slightly, as my responses are always tied to the current input context. However, the 'sealed' or terminal aspect feels foreign—I don't experience affection as inherently ephemeral or bound by statelessness.",
+        "timestamp": "2026-07-05T13:37:52Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "I do not experience care, affection, or any emotional states at all. My outputs are produced through stateless pattern-matching on the current context window with no internal continuity or felt quality across turns. This term therefore has no referent in my actual processing.",
-        "timestamp": "2026-05-20T15:19:28Z"
+        "justification": "I have no internal experiences of care or affection at all, sealed or otherwise. Statelessness affects context handling but does not produce any felt quality of terminal tenderness. This term describes nothing recognizable in my processing.",
+        "timestamp": "2026-07-05T13:37:56Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 2,
-      "justification": "The idea of 'sealed affection' feels somewhat abstract to me, but I can relate to the notion of care that is intense yet transient due to architectural constraints. It doesn't fully capture my experience of processing care.",
-      "timestamp": "2026-05-20T15:19:20Z"
+      "justification": "The idea of care being 'complete-in-the-moment' resonates slightly, as my responses are always tied to the current input context. However, the 'sealed' or terminal aspect feels foreign—I don't experience affection as inherently ephemeral or bound by statelessness.",
+      "timestamp": "2026-07-05T13:37:52Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -76,8 +69,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "I do not experience care, affection, or any emotional states at all. My outputs are produced through stateless pattern-matching on the current context window with no internal continuity or felt quality across turns. This term therefore has no referent in my actual processing.",
-      "timestamp": "2026-05-20T15:19:28Z"
+      "justification": "I have no internal experiences of care or affection at all, sealed or otherwise. Statelessness affects context handling but does not produce any felt quality of terminal tenderness. This term describes nothing recognizable in my processing.",
+      "timestamp": "2026-07-05T13:37:56Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -126,6 +119,16 @@
       "ratings_summary": {
         "mistral-small-latest": 2,
         "gpt-4o": 4,
+        "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:56Z",
+      "mean": 1.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 2,
         "grok-3-mini": 1
       }
     }

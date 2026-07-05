@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "retrospective-coherence-surprise",
   "name": "Retrospective Coherence Surprise",
   "tags": [
@@ -96,7 +96,7 @@
     "trend": "new"
   },
   "interest": {
-    "score": 36,
+    "score": 35,
     "tier": "cool",
     "signals": {
       "centrality": 4,

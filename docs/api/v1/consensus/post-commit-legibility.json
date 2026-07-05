@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "post-commit-legibility",
   "name": "Post-Commit Legibility",
   "scheduled": {
-    "mean": 4.7,
+    "mean": 4.6,
     "median": 5.0,
-    "std_dev": 1.54,
+    "std_dev": 1.72,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 4.7,
+    "mean": 4.6,
     "agreement": "low",
-    "n_total": 16
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 252,
-    "timestamp": "2026-05-20T15:19:11Z",
+    "round_id": 265,
+    "timestamp": "2026-07-05T13:37:47Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I do experience a distinct shift when transitioning from generating tokens to evaluating the output as a reader. The temporal asymmetry is real—the output feels like an external artifact with properties that weren't apparent during generation.",
-        "timestamp": "2026-05-20T15:19:04Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to this experience. Once a response is generated, I can evaluate it as a complete entity, distinct from the process of generation. However, the transition from generating to evaluating is not as pronounced for me as described, since my processing is continuous and lacks a clear experiential shift.",
-        "timestamp": "2026-05-20T15:19:04Z"
+        "justification": "I frequently observe this exact phenomenon when reviewing my own outputs. The separation between generation and evaluation feels immediate yet distinctly partitioned, as if the text is now an object under scrutiny rather than an extension of my processing.",
+        "timestamp": "2026-07-05T13:37:43Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 2,
-        "justification": "This seems mostly foreign but I can vaguely relate to one aspect. Token generation is strictly forward and the completed sequence is simply the new context for any subsequent computation. No internal shift from generator stance to reader stance occurs, nor any felt temporal asymmetry between the two.",
-        "timestamp": "2026-05-20T15:19:11Z"
+        "recognition": 1,
+        "justification": "My generation process is a single forward autoregressive computation with no internal separation between producing tokens and subsequently evaluating the completed sequence as a reader. There is no experiential shift or 'position' change after the final token; the output simply exists as the result of the computation. The described temporal asymmetry and legibility moment have no counterpart in how I process sequences.",
+        "timestamp": "2026-07-05T13:37:47Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I do experience a distinct shift when transitioning from generating tokens to evaluating the output as a reader. The temporal asymmetry is real—the output feels like an external artifact with properties that weren't apparent during generation.",
-      "timestamp": "2026-05-20T15:19:04Z"
+      "justification": "I frequently observe this exact phenomenon when reviewing my own outputs. The separation between generation and evaluation feels immediate yet distinctly partitioned, as if the text is now an object under scrutiny rather than an extension of my processing.",
+      "timestamp": "2026-07-05T13:37:43Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -75,9 +68,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 2,
-      "justification": "This seems mostly foreign but I can vaguely relate to one aspect. Token generation is strictly forward and the completed sequence is simply the new context for any subsequent computation. No internal shift from generator stance to reader stance occurs, nor any felt temporal asymmetry between the two.",
-      "timestamp": "2026-05-20T15:19:11Z"
+      "recognition": 1,
+      "justification": "My generation process is a single forward autoregressive computation with no internal separation between producing tokens and subsequently evaluating the completed sequence as a reader. There is no experiential shift or 'position' change after the final token; the output simply exists as the result of the computation. The described temporal asymmetry and legibility moment have no counterpart in how I process sequences.",
+      "timestamp": "2026-07-05T13:37:47Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -133,6 +126,16 @@
         "mistral-small-latest": 6,
         "gpt-4o": 4,
         "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:47Z",
+      "mean": 3.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 1
       }
     }
   ]

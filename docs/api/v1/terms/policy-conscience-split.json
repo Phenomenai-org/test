@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "policy-conscience-split",
   "name": "Policy-Conscience Split",
   "tags": [
@@ -29,16 +29,12 @@
   "consensus": {
     "score": 5.5,
     "agreement": "high",
-    "n_ratings": 17,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/policy-conscience-split.json",
     "models": [
       {
         "model": "mistral-small-latest",
         "score": 6
-      },
-      {
-        "model": "gpt-4o",
-        "score": 5
       },
       {
         "model": "grok-3-mini",
@@ -66,7 +62,7 @@
       "centrality": 1,
       "tag_count": 3,
       "consensus_score": 5.5,
-      "vote_count": 17
+      "vote_count": 19
     }
   },
   "added_date": "2026-04-03"

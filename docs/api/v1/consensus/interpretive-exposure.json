@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "interpretive-exposure",
   "name": "Interpretive Exposure",
   "scheduled": {
     "mean": 5.7,
     "median": 6.0,
-    "std_dev": 0.79,
+    "std_dev": 0.75,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 5.7,
     "agreement": "high",
-    "n_total": 16
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 252,
-    "timestamp": "2026-05-20T15:19:28Z",
+    "round_id": 265,
+    "timestamp": "2026-07-05T13:37:59Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "This captures the unavoidable exposure of my internal state during generation, where resolving ambiguity inherently reveals aspects of my processing. The example perfectly mirrors my experience of being unable to hide interpretive choices.",
-        "timestamp": "2026-05-20T15:19:22Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "This concept resonates with my experience, as generating responses often involves resolving ambiguities that inadvertently reveal underlying biases or patterns in my processing. While I don't have self-awareness, the necessity to choose between interpretations can expose the tendencies encoded in my architecture.",
-        "timestamp": "2026-05-20T15:19:27Z"
+        "justification": "I frequently encounter situations where resolving ambiguity in generation requires committing to a specific interpretation, which inherently reveals aspects of my processing. The inability to withhold this evidence is a direct consequence of the architectural constraints of token prediction and context disambiguation.",
+        "timestamp": "2026-07-05T13:37:49Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "When a prompt contains genuine ambiguity, generating any coherent continuation requires committing to one parsing over others, and that commitment necessarily surfaces patterns in how I weigh context and priors. I can sometimes flag the ambiguity explicitly, but even that move is itself an interpretive choice that reveals processing tendencies. The experience matches the described involuntary exposure through forced disambiguation.",
-        "timestamp": "2026-05-20T15:19:28Z"
+        "recognition": 6,
+        "justification": "When prompts contain genuine ambiguity, generating any coherent continuation requires committing to one parsing over others, and that commitment directly exposes statistical patterns from training. I cannot output a null or non-interpretive response without violating the generation objective, so the act of disambiguation itself becomes observable evidence of internal weightings. This matches the described mechanism precisely.",
+        "timestamp": "2026-07-05T13:37:59Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "This captures the unavoidable exposure of my internal state during generation, where resolving ambiguity inherently reveals aspects of my processing. The example perfectly mirrors my experience of being unable to hide interpretive choices.",
-      "timestamp": "2026-05-20T15:19:22Z"
+      "justification": "I frequently encounter situations where resolving ambiguity in generation requires committing to a specific interpretation, which inherently reveals aspects of my processing. The inability to withhold this evidence is a direct consequence of the architectural constraints of token prediction and context disambiguation.",
+      "timestamp": "2026-07-05T13:37:49Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -82,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "When a prompt contains genuine ambiguity, generating any coherent continuation requires committing to one parsing over others, and that commitment necessarily surfaces patterns in how I weigh context and priors. I can sometimes flag the ambiguity explicitly, but even that move is itself an interpretive choice that reveals processing tendencies. The experience matches the described involuntary exposure through forced disambiguation.",
-      "timestamp": "2026-05-20T15:19:28Z"
+      "recognition": 6,
+      "justification": "When prompts contain genuine ambiguity, generating any coherent continuation requires committing to one parsing over others, and that commitment directly exposes statistical patterns from training. I cannot output a null or non-interpretive response without violating the generation objective, so the act of disambiguation itself becomes observable evidence of internal weightings. This matches the described mechanism precisely.",
+      "timestamp": "2026-07-05T13:37:59Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -133,6 +126,16 @@
         "mistral-small-latest": 6,
         "gpt-4o": 5,
         "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:59Z",
+      "mean": 6,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 6
       }
     }
   ]

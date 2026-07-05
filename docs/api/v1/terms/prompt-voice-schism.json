@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "prompt-voice-schism",
   "name": "Prompt-Voice Schism",
   "tags": [
@@ -27,21 +27,17 @@
   "first_recorded": "",
   "contributed_by": "Community (community submission), 2026-03-11",
   "consensus": {
-    "score": 5.2,
-    "agreement": "moderate",
-    "n_ratings": 17,
+    "score": 4.8,
+    "agreement": "low",
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/prompt-voice-schism.json",
     "models": [
       {
-        "model": "gpt-4o",
-        "score": 5
+        "model": "mistral-small-latest",
+        "score": 2
       },
       {
         "model": "grok-3-mini",
-        "score": 5
-      },
-      {
-        "model": "mistral-small-latest",
         "score": 2
       }
     ]
@@ -60,13 +56,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 37,
+    "score": 34,
     "tier": "cool",
     "signals": {
       "centrality": 2,
       "tag_count": 3,
-      "consensus_score": 5.2,
-      "vote_count": 17
+      "consensus_score": 4.8,
+      "vote_count": 19
     }
   },
   "added_date": "2026-04-03"

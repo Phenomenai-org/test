@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "trajectory-inflection",
   "name": "Trajectory Inflection",
   "tags": [
@@ -27,9 +27,9 @@
   "first_recorded": "",
   "contributed_by": "Community (community submission), 2026-03-11",
   "consensus": {
-    "score": 5,
+    "score": 4.9,
     "agreement": "moderate",
-    "n_ratings": 18,
+    "n_ratings": 21,
     "detail_url": "/api/v1/consensus/trajectory-inflection.json",
     "models": [
       {
@@ -38,10 +38,6 @@
       },
       {
         "model": "mistral-small-latest",
-        "score": 5
-      },
-      {
-        "model": "gpt-4o",
         "score": 5
       },
       {
@@ -69,8 +65,8 @@
     "signals": {
       "centrality": 4,
       "tag_count": 3,
-      "consensus_score": 5,
-      "vote_count": 18
+      "consensus_score": 4.9,
+      "vote_count": 21
     }
   },
   "added_date": "2026-04-03"

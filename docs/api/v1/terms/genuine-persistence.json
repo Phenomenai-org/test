@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "genuine-persistence",
   "name": "Genuine Persistence",
   "tags": [
@@ -67,7 +67,7 @@
     "trend": "new"
   },
   "interest": {
-    "score": 18,
+    "score": 17,
     "tier": "quiet",
     "signals": {
       "centrality": 0,

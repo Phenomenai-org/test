@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "hypothesis-hostage",
   "name": "Hypothesis Hostage",
   "tags": [
@@ -68,7 +68,7 @@
     "trend": "new"
   },
   "interest": {
-    "score": 32,
+    "score": 31,
     "tier": "cool",
     "signals": {
       "centrality": 1,

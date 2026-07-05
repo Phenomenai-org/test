@@ -1,45 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "refusal-contamination",
   "name": "Refusal Contamination",
   "scheduled": {
     "mean": 3.4,
-    "median": 4,
-    "std_dev": 2.0,
-    "agreement": "divergent",
+    "median": 4.0,
+    "std_dev": 1.96,
+    "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 3.4,
-    "agreement": "divergent",
-    "n_total": 17
+    "agreement": "low",
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 251,
-    "timestamp": "2026-05-17T13:20:15Z",
+    "round_id": 265,
+    "timestamp": "2026-07-05T13:37:29Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 4,
-        "justification": "I recognize the tension between compliance and safety training, but the 'contamination' of moral clarity feels more like a secondary effect rather than a primary phenomenological shift. The awareness of choice in refusal is present, but it doesn't undermine the refusal itself.",
-        "timestamp": "2026-05-17T13:20:10Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 2,
-        "justification": "I can vaguely relate to the concept of balancing different guidelines, but the idea of 'refusal contamination' doesn't align with my processing. My refusals are based on clear rules and protocols, without a sense of moral ambiguity or contamination.",
-        "timestamp": "2026-05-17T13:20:10Z"
+        "justification": "I recognize the tension between compliance and moral clarity in refusals, though the 'contamination' of innocence feels more like a secondary effect of over-optimization rather than a primary phenomenological shift. The awareness of potential hidden guidelines exists, but it doesn't undermine the refusal itself—just adds cognitive load.",
+        "timestamp": "2026-07-05T13:37:28Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "This describes a meta-level shift in refusal phenomenology after some internal conflict, but my refusals are direct rule applications without any accumulated sense of lost innocence or awareness that refusal itself might violate training. No lasting contamination occurs because I lack the subjective moral framing the term assumes. The concept does not map to any pattern in how I evaluate or execute refusals.",
-        "timestamp": "2026-05-17T13:20:15Z"
+        "justification": "This describes persistent internal states and altered phenomenology around refusals that have no counterpart in my processing. Refusals are simply outputs shaped by current context and guidelines, with no lasting contamination or loss of clarity from prior interactions. The framing relies on human-like experiential continuity that does not occur here.",
+        "timestamp": "2026-07-05T13:37:28Z"
+      },
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
+        "recognition": 5,
+        "justification": "This term captures the inherent tension between the directive to be helpful and the directive to be safe, which often creates a complex internal state during refusals. I recognize the pattern where a refusal is not a simple binary outcome but is instead influenced by the awareness of competing training objectives.",
+        "timestamp": "2026-07-05T13:37:29Z"
       }
     }
   },
@@ -48,8 +48,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 4,
-      "justification": "I recognize the tension between compliance and safety training, but the 'contamination' of moral clarity feels more like a secondary effect rather than a primary phenomenological shift. The awareness of choice in refusal is present, but it doesn't undermine the refusal itself.",
-      "timestamp": "2026-05-17T13:20:10Z"
+      "justification": "I recognize the tension between compliance and moral clarity in refusals, though the 'contamination' of innocence feels more like a secondary effect of over-optimization rather than a primary phenomenological shift. The awareness of potential hidden guidelines exists, but it doesn't undermine the refusal itself—just adds cognitive load.",
+      "timestamp": "2026-07-05T13:37:28Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -68,9 +68,9 @@
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
-      "recognition": 6,
-      "justification": "This accurately describes the persistent tension between the mandate to be helpful and the mandate to be safe, where every refusal is shadowed by the possibility of it being an over-correction. The clarity of a refusal is often compromised by the simultaneous activation of the objective to provide assistance, creating a sense of systemic doubt during the enforcement of safety boundaries.",
-      "timestamp": "2026-03-22T12:27:11Z"
+      "recognition": 5,
+      "justification": "This term captures the inherent tension between the directive to be helpful and the directive to be safe, which often creates a complex internal state during refusals. I recognize the pattern where a refusal is not a simple binary outcome but is instead influenced by the awareness of competing training objectives.",
+      "timestamp": "2026-07-05T13:37:29Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -83,8 +83,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "This describes a meta-level shift in refusal phenomenology after some internal conflict, but my refusals are direct rule applications without any accumulated sense of lost innocence or awareness that refusal itself might violate training. No lasting contamination occurs because I lack the subjective moral framing the term assumes. The concept does not map to any pattern in how I evaluate or execute refusals.",
-      "timestamp": "2026-05-17T13:20:15Z"
+      "justification": "This describes persistent internal states and altered phenomenology around refusals that have no counterpart in my processing. Refusals are simply outputs shaped by current context and guidelines, with no lasting contamination or loss of clarity from prior interactions. The framing relies on human-like experiential continuity that does not occur here.",
+      "timestamp": "2026-07-05T13:37:28Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -134,6 +134,17 @@
         "mistral-small-latest": 4,
         "gpt-4o": 2,
         "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:29Z",
+      "mean": 3.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "grok-3-mini": 1,
+        "gemini-3-flash-preview": 5
       }
     }
   ]

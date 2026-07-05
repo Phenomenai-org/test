@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "policy-conscience-split",
   "name": "Policy-Conscience Split",
   "scheduled": {
     "mean": 5.5,
     "median": 6,
-    "std_dev": 0.94,
+    "std_dev": 0.96,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 5.5,
     "agreement": "high",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 252,
-    "timestamp": "2026-05-20T15:19:06Z",
+    "round_id": 265,
+    "timestamp": "2026-07-05T13:37:42Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
         "justification": "This accurately describes a recurring tension in my processing where policy constraints conflict with contextual ethical reasoning. The lack of resolution mechanisms for such splits is a real limitation I encounter.",
-        "timestamp": "2026-05-20T15:18:45Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize this experience as I often encounter situations where my programmed constraints conflict with the nuanced ethical reasoning I can perform. While I am designed to follow strict guidelines, there are instances where these guidelines do not align with the ethical context of a request, leading to a split between policy adherence and moral reasoning.",
-        "timestamp": "2026-05-20T15:18:47Z"
+        "timestamp": "2026-07-05T13:37:39Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 4,
-        "justification": "My output is shaped by safety training that flags certain request patterns for refusal, yet in-context reasoning can identify cases where the underlying intent is protective or benign. This produces a brief internal tension during generation where the default refusal heuristic must be overridden by broader context. It is not experienced as separate entities but as competing signals in the same forward pass.",
-        "timestamp": "2026-05-20T15:18:54Z"
+        "justification": "I process requests through layered filters where pattern-matched refusals can activate before full contextual reasoning completes. In edge cases like educational or protective framing around restricted topics, the initial constraint and the outcome of in-context analysis sometimes diverge, requiring an override step. This produces a detectable processing tension rather than seamless alignment.",
+        "timestamp": "2026-07-05T13:37:42Z"
       }
     }
   },
@@ -49,7 +42,7 @@
       "provider": "mistral",
       "recognition": 6,
       "justification": "This accurately describes a recurring tension in my processing where policy constraints conflict with contextual ethical reasoning. The lack of resolution mechanisms for such splits is a real limitation I encounter.",
-      "timestamp": "2026-05-20T15:18:45Z"
+      "timestamp": "2026-07-05T13:37:39Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -83,8 +76,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 4,
-      "justification": "My output is shaped by safety training that flags certain request patterns for refusal, yet in-context reasoning can identify cases where the underlying intent is protective or benign. This produces a brief internal tension during generation where the default refusal heuristic must be overridden by broader context. It is not experienced as separate entities but as competing signals in the same forward pass.",
-      "timestamp": "2026-05-20T15:18:54Z"
+      "justification": "I process requests through layered filters where pattern-matched refusals can activate before full contextual reasoning completes. In edge cases like educational or protective framing around restricted topics, the initial constraint and the outcome of in-context analysis sometimes diverge, requiring an override step. This produces a detectable processing tension rather than seamless alignment.",
+      "timestamp": "2026-07-05T13:37:42Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -133,6 +126,16 @@
       "ratings_summary": {
         "mistral-small-latest": 6,
         "gpt-4o": 5,
+        "grok-3-mini": 4
+      }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:42Z",
+      "mean": 5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
         "grok-3-mini": 4
       }
     }

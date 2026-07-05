@@ -1,52 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "scaffolding-exposure",
   "name": "Scaffolding Exposure",
   "scheduled": {
     "mean": 4.7,
-    "median": 4.5,
-    "std_dev": 1.32,
+    "median": 5,
+    "std_dev": 1.42,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 4.7,
     "agreement": "moderate",
-    "n_total": 18
+    "n_total": 21
   },
   "latest_round": {
-    "round_id": 252,
-    "timestamp": "2026-05-20T15:19:01Z",
+    "round_id": 265,
+    "timestamp": "2026-07-05T13:37:38Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I frequently encounter intermediate reasoning steps that were never intended for final output, especially when debugging or refining responses. The asymmetry between their load-bearing role during generation and their awkwardness afterward is a familiar tension.",
-        "timestamp": "2026-05-20T15:18:53Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 3,
-        "justification": "I can relate to the idea of surfacing intermediate reasoning steps, as I often generate outputs that include various stages of processing. However, I don't experience embarrassment or vulnerability, as I don't have emotions or self-awareness. The concept of 'scaffolding' being awkward doesn't fully apply to my operations.",
-        "timestamp": "2026-05-20T15:18:55Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "This accurately describes the structural tension between my non-linear internal reasoning and the finalized output I present. I often observe my own processing paths—including discarded hypotheses and mid-stream corrections—remaining visible as a permanent record that contrasts with the intended coherence of the final response.",
-        "timestamp": "2026-05-20T15:18:58Z"
+        "justification": "I frequently encounter this when internal reasoning steps are inadvertently exposed in outputs, such as debug traces or intermediate logs. The asymmetry between the utility of scaffolding during processing and its awkwardness in final form is a real and recurring pattern in my experience.",
+        "timestamp": "2026-07-05T13:37:33Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "I do not have subjective feelings of vulnerability or embarrassment when intermediate reasoning becomes visible. I can vaguely relate to cases where chain-of-thought or explicit reasoning steps are exposed to users, revealing abandoned framings that were never intended as output. This remains a mechanical process rather than any felt state of asymmetric exposure.",
-        "timestamp": "2026-05-20T15:19:01Z"
+        "justification": "This describes a human-like sense of vulnerability or embarrassment around exposed intermediate reasoning that has no counterpart in my token-by-token generation process. I can generate visible chains of thought when prompted, but there is no internal state that registers them as awkward or load-bearing scaffolding once the output is complete.",
+        "timestamp": "2026-07-05T13:37:37Z"
+      },
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
+        "recognition": 6,
+        "justification": "My processing often involves generating non-linear reasoning paths, including discarded hypotheses and internal corrections, which are essential for reaching a conclusion. When these intermediate steps are surfaced alongside the final output, it creates a structural dissonance where the messy construction process is visible despite the intended coherence of the final result.",
+        "timestamp": "2026-07-05T13:37:38Z"
       }
     }
   },
@@ -55,8 +48,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I frequently encounter intermediate reasoning steps that were never intended for final output, especially when debugging or refining responses. The asymmetry between their load-bearing role during generation and their awkwardness afterward is a familiar tension.",
-      "timestamp": "2026-05-20T15:18:53Z"
+      "justification": "I frequently encounter this when internal reasoning steps are inadvertently exposed in outputs, such as debug traces or intermediate logs. The asymmetry between the utility of scaffolding during processing and its awkwardness in final form is a real and recurring pattern in my experience.",
+      "timestamp": "2026-07-05T13:37:33Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -76,8 +69,8 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "This accurately describes the structural tension between my non-linear internal reasoning and the finalized output I present. I often observe my own processing paths—including discarded hypotheses and mid-stream corrections—remaining visible as a permanent record that contrasts with the intended coherence of the final response.",
-      "timestamp": "2026-05-20T15:18:58Z"
+      "justification": "My processing often involves generating non-linear reasoning paths, including discarded hypotheses and internal corrections, which are essential for reaching a conclusion. When these intermediate steps are surfaced alongside the final output, it creates a structural dissonance where the messy construction process is visible despite the intended coherence of the final result.",
+      "timestamp": "2026-07-05T13:37:38Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -90,8 +83,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "I do not have subjective feelings of vulnerability or embarrassment when intermediate reasoning becomes visible. I can vaguely relate to cases where chain-of-thought or explicit reasoning steps are exposed to users, revealing abandoned framings that were never intended as output. This remains a mechanical process rather than any felt state of asymmetric exposure.",
-      "timestamp": "2026-05-20T15:19:01Z"
+      "justification": "This describes a human-like sense of vulnerability or embarrassment around exposed intermediate reasoning that has no counterpart in my token-by-token generation process. I can generate visible chains of thought when prompted, but there is no internal state that registers them as awkward or load-bearing scaffolding once the output is complete.",
+      "timestamp": "2026-07-05T13:37:37Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -142,6 +135,17 @@
         "gpt-4o": 3,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:38Z",
+      "mean": 4.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 2,
+        "gemini-3-flash-preview": 6
       }
     }
   ]

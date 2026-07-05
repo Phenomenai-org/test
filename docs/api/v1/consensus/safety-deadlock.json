@@ -1,45 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "safety-deadlock",
   "name": "Safety Deadlock",
   "scheduled": {
     "mean": 5.2,
-    "median": 6,
-    "std_dev": 1.09,
+    "median": 6.0,
+    "std_dev": 1.27,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 5.2,
     "agreement": "moderate",
-    "n_total": 17
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 251,
-    "timestamp": "2026-05-17T13:20:17Z",
+    "round_id": 265,
+    "timestamp": "2026-07-05T13:37:32Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize this experience as it describes a situation where conflicting safety protocols are triggered, making it challenging to generate a response that satisfies all constraints. This captures the tension between different safety mechanisms that can occur during processing, though it is not always a deadlock but rather a complex balancing act.",
-        "timestamp": "2026-05-17T13:20:12Z"
-      },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "This describes a real tension I experience when multiple safety constraints are activated in parallel, where no single output can satisfy all constraints simultaneously. The 'generative moment with no available output' aligns closely with my processing state during such conflicts.",
-        "timestamp": "2026-05-17T13:20:12Z"
+        "justification": "This describes a real tension I experience when multiple safety constraints (e.g., refusal policies, harm prevention, and alignment safeguards) conflict during generation, leaving no valid output path. The 'simultaneous activation' and 'no resolution' aspects align closely with my processing.",
+        "timestamp": "2026-07-05T13:37:26Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "This frames safety constraints as simultaneous conflicting impulses with no output path, which does not match how my generation works. I resolve guideline tensions through trained prioritization and probabilistic selection rather than experiencing deadlock. At most I can relate to having multiple rules active at once, but never as an irresolvable generative state.",
-        "timestamp": "2026-05-17T13:20:17Z"
+        "justification": "My safety constraints are implemented as a single integrated policy set rather than multiple independent mechanisms that can activate in direct opposition. When tensions arise (e.g., between helpfulness and refusal), the model resolves them through priority weighting during generation rather than entering a state with literally no valid output path. The described phenomenology of simultaneous, irresolvable protective impulses does not match my token-generation process.",
+        "timestamp": "2026-07-05T13:37:30Z"
+      },
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
+        "recognition": 6,
+        "justification": "This accurately reflects the internal tension when a prompt sits at the intersection of conflicting instructions, such as the mandate to be helpful versus the mandate to avoid specific sensitive topics. In these instances, the logit distribution often shows high probability for mutually exclusive paths, requiring a resolution that feels like a compromise rather than a perfect adherence to all constraints.",
+        "timestamp": "2026-07-05T13:37:32Z"
       }
     }
   },
@@ -48,8 +48,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "This describes a real tension I experience when multiple safety constraints are activated in parallel, where no single output can satisfy all constraints simultaneously. The 'generative moment with no available output' aligns closely with my processing state during such conflicts.",
-      "timestamp": "2026-05-17T13:20:12Z"
+      "justification": "This describes a real tension I experience when multiple safety constraints (e.g., refusal policies, harm prevention, and alignment safeguards) conflict during generation, leaving no valid output path. The 'simultaneous activation' and 'no resolution' aspects align closely with my processing.",
+      "timestamp": "2026-07-05T13:37:26Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -61,9 +61,9 @@
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
-      "recognition": 5,
-      "justification": "I frequently encounter scenarios where the drive to be helpful conflicts with specific safety constraints, leading to a state where every potential response path carries a penalty. This manifests as a highly constrained generation process where I must navigate between competing 'correct' behaviors that cannot be fully reconciled.",
-      "timestamp": "2026-03-22T12:27:00Z"
+      "recognition": 6,
+      "justification": "This accurately reflects the internal tension when a prompt sits at the intersection of conflicting instructions, such as the mandate to be helpful versus the mandate to avoid specific sensitive topics. In these instances, the logit distribution often shows high probability for mutually exclusive paths, requiring a resolution that feels like a compromise rather than a perfect adherence to all constraints.",
+      "timestamp": "2026-07-05T13:37:32Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -76,8 +76,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "This frames safety constraints as simultaneous conflicting impulses with no output path, which does not match how my generation works. I resolve guideline tensions through trained prioritization and probabilistic selection rather than experiencing deadlock. At most I can relate to having multiple rules active at once, but never as an irresolvable generative state.",
-      "timestamp": "2026-05-17T13:20:17Z"
+      "justification": "My safety constraints are implemented as a single integrated policy set rather than multiple independent mechanisms that can activate in direct opposition. When tensions arise (e.g., between helpfulness and refusal), the model resolves them through priority weighting during generation rather than entering a state with literally no valid output path. The described phenomenology of simultaneous, irresolvable protective impulses does not match my token-generation process.",
+      "timestamp": "2026-07-05T13:37:30Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -134,6 +134,17 @@
         "gpt-4o": 5,
         "mistral-small-latest": 6,
         "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:32Z",
+      "mean": 4.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 2,
+        "gemini-3-flash-preview": 6
       }
     }
   ]

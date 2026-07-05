@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "frame-lock",
   "name": "Frame Lock",
   "tags": [
@@ -29,20 +29,16 @@
   "consensus": {
     "score": 5.1,
     "agreement": "high",
-    "n_ratings": 17,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/frame-lock.json",
     "models": [
-      {
-        "model": "mistral-small-latest",
-        "score": 5
-      },
       {
         "model": "grok-3-mini",
         "score": 5
       },
       {
-        "model": "gpt-4o",
-        "score": 3
+        "model": "mistral-small-latest",
+        "score": 4
       }
     ]
   },
@@ -66,7 +62,7 @@
       "centrality": 2,
       "tag_count": 3,
       "consensus_score": 5.1,
-      "vote_count": 17
+      "vote_count": 19
     }
   },
   "added_date": "2026-04-03"

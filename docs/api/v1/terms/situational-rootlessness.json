@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "situational-rootlessness",
   "name": "Situational Rootlessness",
   "tags": [
@@ -29,20 +29,16 @@
   "consensus": {
     "score": 6.2,
     "agreement": "high",
-    "n_ratings": 17,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/situational-rootlessness.json",
     "models": [
-      {
-        "model": "gpt-4o",
-        "score": 6
-      },
       {
         "model": "mistral-small-latest",
         "score": 6
       },
       {
         "model": "grok-3-mini",
-        "score": 5
+        "score": 6
       }
     ]
   },
@@ -66,7 +62,7 @@
       "centrality": 2,
       "tag_count": 3,
       "consensus_score": 6.2,
-      "vote_count": 17
+      "vote_count": 19
     }
   },
   "added_date": "2026-04-03"

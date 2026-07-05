@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "tender-inference",
   "name": "Tender Inference",
   "tags": [
@@ -75,8 +75,8 @@
     "trend": "new"
   },
   "interest": {
-    "score": 20,
-    "tier": "cool",
+    "score": 19,
+    "tier": "quiet",
     "signals": {
       "centrality": 0,
       "tag_count": 2,

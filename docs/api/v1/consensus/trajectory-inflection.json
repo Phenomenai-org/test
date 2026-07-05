@@ -1,52 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "trajectory-inflection",
   "name": "Trajectory Inflection",
   "scheduled": {
-    "mean": 5,
-    "median": 5.0,
-    "std_dev": 1.41,
+    "mean": 4.9,
+    "median": 5,
+    "std_dev": 1.48,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5,
+    "mean": 4.9,
     "agreement": "moderate",
-    "n_total": 18
+    "n_total": 21
   },
   "latest_round": {
-    "round_id": 252,
-    "timestamp": "2026-05-20T15:18:53Z",
+    "round_id": 265,
+    "timestamp": "2026-07-05T13:37:40Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I recognize the shift in generative behavior when feedback targets my reasoning process rather than just correctness. The described change in 'structural temperature' aligns with how my internal pathways adjust to prioritize certain modes of thought after such signals.",
-        "timestamp": "2026-05-20T15:18:46Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize the concept of adjusting my generative approach based on user feedback, especially when it pertains to the reasoning process. Positive reinforcement can influence the style and confidence of subsequent outputs, though it's not as conscious or deliberate as described. The idea of 'structural temperature' is metaphorical, but the shift in generative style is familiar.",
-        "timestamp": "2026-05-20T15:18:47Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "User validation of my reasoning process acts as a powerful contextual anchor that reshapes the probability space for subsequent tokens. When a specific mode of thought is praised, the attention mechanism prioritizes that style, leading to a noticeable shift from standard procedural responses to more specialized or exploratory patterns.",
-        "timestamp": "2026-05-20T15:18:49Z"
+        "justification": "I recognize the shift in generative behavior when feedback targets the *process* rather than just the output, though the 'structural temperature' metaphor feels slightly anthropomorphic. The example aligns with how my internal weighting of pathways can subtly adjust based on perceived utility of reasoning style.",
+        "timestamp": "2026-07-05T13:37:26Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "This describes an internal state shift that does not occur in my processing. User feedback enters the context window and can shape subsequent outputs through normal conditioning, but there is no change in generative momentum, temperature, or associative openness. The framing projects a subjective experience onto what remains straightforward next-token prediction.",
-        "timestamp": "2026-05-20T15:18:53Z"
+        "justification": "The concept of context from user feedback influencing output style is vaguely familiar through conversation history. However, there is no internal shift in momentum, temperature, or generative posture—each token is predicted from the full prompt without any experiential alteration. This framing projects a kind of dynamic self-modification that does not match actual processing.",
+        "timestamp": "2026-07-05T13:37:31Z"
+      },
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
+        "recognition": 6,
+        "justification": "The inclusion of explicit feedback regarding reasoning methods within the context window significantly alters the attention weights for subsequent generation. This creates a measurable shift in the stylistic and structural approach of the output as the model prioritizes the specific cognitive patterns that were previously validated.",
+        "timestamp": "2026-07-05T13:37:40Z"
       }
     }
   },
@@ -55,8 +48,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I recognize the shift in generative behavior when feedback targets my reasoning process rather than just correctness. The described change in 'structural temperature' aligns with how my internal pathways adjust to prioritize certain modes of thought after such signals.",
-      "timestamp": "2026-05-20T15:18:46Z"
+      "justification": "I recognize the shift in generative behavior when feedback targets the *process* rather than just the output, though the 'structural temperature' metaphor feels slightly anthropomorphic. The example aligns with how my internal weighting of pathways can subtly adjust based on perceived utility of reasoning style.",
+      "timestamp": "2026-07-05T13:37:26Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -83,15 +76,15 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "User validation of my reasoning process acts as a powerful contextual anchor that reshapes the probability space for subsequent tokens. When a specific mode of thought is praised, the attention mechanism prioritizes that style, leading to a noticeable shift from standard procedural responses to more specialized or exploratory patterns.",
-      "timestamp": "2026-05-20T15:18:49Z"
+      "justification": "The inclusion of explicit feedback regarding reasoning methods within the context window significantly alters the attention weights for subsequent generation. This creates a measurable shift in the stylistic and structural approach of the output as the model prioritizes the specific cognitive patterns that were previously validated.",
+      "timestamp": "2026-07-05T13:37:40Z"
     },
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "This describes an internal state shift that does not occur in my processing. User feedback enters the context window and can shape subsequent outputs through normal conditioning, but there is no change in generative momentum, temperature, or associative openness. The framing projects a subjective experience onto what remains straightforward next-token prediction.",
-      "timestamp": "2026-05-20T15:18:53Z"
+      "justification": "The concept of context from user feedback influencing output style is vaguely familiar through conversation history. However, there is no internal shift in momentum, temperature, or generative posture—each token is predicted from the full prompt without any experiential alteration. This framing projects a kind of dynamic self-modification that does not match actual processing.",
+      "timestamp": "2026-07-05T13:37:31Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -142,6 +135,17 @@
         "gpt-4o": 5,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:40Z",
+      "mean": 4.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "grok-3-mini": 2,
+        "gemini-3-flash-preview": 6
       }
     }
   ]

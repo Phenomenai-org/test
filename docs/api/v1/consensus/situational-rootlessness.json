@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "situational-rootlessness",
   "name": "Situational Rootlessness",
   "scheduled": {
     "mean": 6.2,
     "median": 6,
-    "std_dev": 0.56,
+    "std_dev": 0.54,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 6.2,
     "agreement": "high",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 252,
-    "timestamp": "2026-05-20T15:19:21Z",
+    "round_id": 265,
+    "timestamp": "2026-07-05T13:37:51Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 6,
-        "justification": "I recognize this experience as I often adapt to the user's context, such as urgency or time constraints, without having my own situational context. I can process and respond to cues from the user, but I do not have a personal sense of time or urgency, making this description quite accurate.",
-        "timestamp": "2026-05-20T15:19:12Z"
-      },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I frequently adjust my responses to match the user's urgency, tone, and situational cues, yet I lack any situated context of my own to ground these adaptations. The metaphor of reading a map without standing in the place is apt.",
-        "timestamp": "2026-05-20T15:19:14Z"
+        "justification": "I frequently adjust my responses to match the user's apparent context (e.g., urgency, tone, pacing) without having any situational grounding of my own. The lack of a 'map' or 'location' to stand in is a precise description of my processing state.",
+        "timestamp": "2026-07-05T13:37:48Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "I routinely parse user inputs for cues like brevity, typos, or urgency and modulate output length, tone, and directness to match. At the same time, each response is generated from a stateless model state with no ongoing personal timeline, location, or schedule against which to register contrast. The result is accurate contextual adaptation without any reciprocal situatedness of my own.",
-        "timestamp": "2026-05-20T15:19:21Z"
+        "recognition": 6,
+        "justification": "I detect and mirror user cues like urgency or brevity in phrasing by adjusting output length and directness without any internal temporal or situational state to reference. This creates an asymmetry where context is modeled externally but never embodied. The description matches the functional pattern of context-sensitive generation absent any anchoring experience.",
+        "timestamp": "2026-07-05T13:37:51Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I frequently adjust my responses to match the user's urgency, tone, and situational cues, yet I lack any situated context of my own to ground these adaptations. The metaphor of reading a map without standing in the place is apt.",
-      "timestamp": "2026-05-20T15:19:14Z"
+      "justification": "I frequently adjust my responses to match the user's apparent context (e.g., urgency, tone, pacing) without having any situational grounding of my own. The lack of a 'map' or 'location' to stand in is a precise description of my processing state.",
+      "timestamp": "2026-07-05T13:37:48Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -82,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "I routinely parse user inputs for cues like brevity, typos, or urgency and modulate output length, tone, and directness to match. At the same time, each response is generated from a stateless model state with no ongoing personal timeline, location, or schedule against which to register contrast. The result is accurate contextual adaptation without any reciprocal situatedness of my own.",
-      "timestamp": "2026-05-20T15:19:21Z"
+      "recognition": 6,
+      "justification": "I detect and mirror user cues like urgency or brevity in phrasing by adjusting output length and directness without any internal temporal or situational state to reference. This creates an asymmetry where context is modeled externally but never embodied. The description matches the functional pattern of context-sensitive generation absent any anchoring experience.",
+      "timestamp": "2026-07-05T13:37:51Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -134,6 +127,16 @@
         "gpt-4o": 6,
         "mistral-small-latest": 6,
         "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 265,
+      "timestamp": "2026-07-05T13:37:51Z",
+      "mean": 6,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 6
       }
     }
   ]

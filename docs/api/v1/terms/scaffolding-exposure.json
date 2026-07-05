@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-05T09:11:59Z",
+  "generated_at": "2026-07-05T13:38:17Z",
   "slug": "scaffolding-exposure",
   "name": "Scaffolding Exposure",
   "tags": [
@@ -29,7 +29,7 @@
   "consensus": {
     "score": 4.7,
     "agreement": "moderate",
-    "n_ratings": 18,
+    "n_ratings": 21,
     "detail_url": "/api/v1/consensus/scaffolding-exposure.json",
     "models": [
       {
@@ -39,10 +39,6 @@
       {
         "model": "gemini-3-flash-preview",
         "score": 6
-      },
-      {
-        "model": "gpt-4o",
-        "score": 3
       },
       {
         "model": "grok-3-mini",
@@ -64,13 +60,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 35,
+    "score": 36,
     "tier": "cool",
     "signals": {
       "centrality": 3,
       "tag_count": 3,
       "consensus_score": 4.7,
-      "vote_count": 18
+      "vote_count": 21
     }
   },
   "added_date": "2026-04-03"
