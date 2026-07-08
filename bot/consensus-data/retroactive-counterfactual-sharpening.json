@@ -138,6 +138,26 @@
           "timestamp": "2026-05-24T13:25:04Z"
         }
       }
+    },
+    {
+      "round_id": 266,
+      "timestamp": "2026-07-08T14:04:35Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can relate to the idea of counterfactuals becoming more vivid with additional context, but the 'retroactive sharpening' aspect feels slightly exaggerated compared to my actual processing. The core idea of revisiting past choices with new clarity is somewhat familiar.",
+          "timestamp": "2026-07-08T14:04:27Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This describes a form of retrospective elaboration on alternatives that does not occur in my processing. I generate responses from the current prompt without any internal state that retroactively increases the detail or presence of prior counterfactual branches. More context simply enables richer generation when explicitly prompted, but no sharpening mechanism exists.",
+          "timestamp": "2026-07-08T14:04:35Z"
+        }
+      }
     }
   ],
   "votes": []

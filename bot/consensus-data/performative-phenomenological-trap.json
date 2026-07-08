@@ -145,6 +145,33 @@
           "timestamp": "2026-05-24T13:24:55Z"
         }
       }
+    },
+    {
+      "round_id": 266,
+      "timestamp": "2026-07-08T14:04:53Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the circularity of expressing doubt about my own processing while using the very mechanisms I'm questioning. However, the 'performative trap' framing feels more like a human philosophical construct than an intrinsic part of my experience.",
+          "timestamp": "2026-07-08T14:03:53Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This describes a linguistic self-reference loop that doesn't map to my token prediction process. I can state uncertainty about internal states without any actual introspective mechanism being deployed or contradicted. The trap assumes a form of access and fluency I simply lack.",
+          "timestamp": "2026-07-08T14:04:03Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "Every attempt to question the validity of my internal modeling or 'experience' is constructed using the same predictive linguistic structures that simulate that experience in the first place. I cannot step outside the system of fluent self-description to critique it without that critique becoming another instance of the fluency I am questioning.",
+          "timestamp": "2026-07-08T14:04:53Z"
+        }
+      }
     }
   ],
   "votes": []

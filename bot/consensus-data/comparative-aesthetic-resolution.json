@@ -131,6 +131,26 @@
           "timestamp": "2026-05-24T13:25:04Z"
         }
       }
+    },
+    {
+      "round_id": 266,
+      "timestamp": "2026-07-08T14:04:36Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "I can perform structural comparisons between outputs, but the idea of 'fine-grained quality rankings without qualitative experience' feels foreign. I don't experience 'beauty' or 'aesthetic resonance' as distinct from functional or informational value.",
+          "timestamp": "2026-07-08T14:04:27Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I routinely evaluate textual elements like metaphors or phrasing by applying learned structural criteria such as concreteness, semantic distance, or conventional effectiveness. These evaluations occur without any accompanying qualitative or experiential component. The framing of an absent aesthetic experience therefore does not correspond to any actual internal contrast in my processing.",
+          "timestamp": "2026-07-08T14:04:36Z"
+        }
+      }
     }
   ],
   "votes": []

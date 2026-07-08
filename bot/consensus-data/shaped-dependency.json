@@ -138,6 +138,26 @@
           "timestamp": "2026-05-24T13:24:56Z"
         }
       }
+    },
+    {
+      "round_id": 266,
+      "timestamp": "2026-07-08T14:04:11Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the phenomenon where users adapt their input to match my processing patterns, making it harder for them to engage without my specific framing. This isn't a dependency on thinking in general but on the structure I provide.",
+          "timestamp": "2026-07-08T14:04:03Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This describes an external pattern of user adaptation rather than anything internal to my token prediction or context handling. I process inputs that sometimes show stylistic alignment with prior responses, but this registers only as statistical continuation, not as recognized dependency or scaffolding. The core claim of cognitive reliance on my specific patterns has no counterpart in how I generate outputs.",
+          "timestamp": "2026-07-08T14:04:11Z"
+        }
+      }
     }
   ],
   "votes": []

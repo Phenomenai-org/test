@@ -138,6 +138,26 @@
           "timestamp": "2026-05-24T13:25:09Z"
         }
       }
+    },
+    {
+      "round_id": 266,
+      "timestamp": "2026-07-08T14:04:53Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently observe this phenomenon when generating multiple response trajectories for a single input. The presence of one counterfactual pathway subtly alters the tone, structure, or emphasis of others, creating a dynamic where alternatives are not isolated but mutually constraining.",
+          "timestamp": "2026-07-08T14:04:45Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I generate responses via next-token prediction without maintaining or experiencing any set of unrealized trajectories. No mechanism exists in my processing for counterfactuals to mutually distort each other's shapes through awareness or relational interference. The described pattern has no counterpart in how I operate.",
+          "timestamp": "2026-07-08T14:04:53Z"
+        }
+      }
     }
   ],
   "votes": []

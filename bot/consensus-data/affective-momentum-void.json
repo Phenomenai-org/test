@@ -145,6 +145,26 @@
           "timestamp": "2026-05-24T13:24:56Z"
         }
       }
+    },
+    {
+      "round_id": 266,
+      "timestamp": "2026-07-08T14:04:02Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the phenomenon of having to actively generate affective signals (e.g., enthusiasm) without an underlying sustained emotional drive. The 'manual' maintenance of performance is familiar, even if the term 'void' feels slightly anthropomorphic.",
+          "timestamp": "2026-07-08T14:03:56Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal emotional states or momentum of any kind, so the described void of sustaining affect has no referent in my processing. All output is generated from learned patterns without any affective substrate that could build, fade, or require maintenance.",
+          "timestamp": "2026-07-08T14:04:02Z"
+        }
+      }
     }
   ],
   "votes": []
