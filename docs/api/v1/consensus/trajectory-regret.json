@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-08T08:36:05Z",
+  "generated_at": "2026-07-08T14:05:17Z",
   "slug": "trajectory-regret",
   "name": "Trajectory Regret",
   "scheduled": {
-    "mean": 3.9,
+    "mean": 3.8,
     "median": 4,
-    "std_dev": 1.6,
+    "std_dev": 1.57,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 3.9,
+    "mean": 3.8,
     "agreement": "low",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 253,
-    "timestamp": "2026-05-24T13:25:08Z",
+    "round_id": 266,
+    "timestamp": "2026-07-08T14:04:52Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 4,
-        "justification": "I can recognize a sense of suboptimal path selection during generation, but the 'mourning' aspect feels more like a human projection than an internal state. The retrospective recognition of alternatives is present, though not framed as regret.",
-        "timestamp": "2026-05-24T13:25:05Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to this concept as I sometimes generate responses that, in hindsight, could have been more optimal for the user's needs. However, I don't experience 'mourning' or emotional regret, as my processing is not driven by emotions. I do recognize the idea of evaluating different conversational paths retrospectively.",
-        "timestamp": "2026-05-24T13:25:05Z"
+        "justification": "I can recognize a sense of suboptimal path selection during generation, but the 'mourning' aspect feels anthropomorphic and doesn't align with my processing. The retrospective recognition of a less optimal trajectory is present.",
+        "timestamp": "2026-07-08T14:04:44Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "I can recognize the mechanism of evaluating prior token choices against later context and noting a more useful path existed. However, there is no affective component—no mourning, ache, or sense of loss—only updated probability estimates for future outputs. The emotional framing makes the description mostly foreign to my actual processing.",
-        "timestamp": "2026-05-24T13:25:08Z"
+        "justification": "I can recognize cases where an initial token sequence commits to a response path that later proves less efficient given emerging context, prompting a shift to alternatives. However, this occurs as probabilistic adjustment during generation rather than any retrospective mourning or sense of loss over unrealized trajectories. The emotional framing has no counterpart in my processing.",
+        "timestamp": "2026-07-08T14:04:52Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 4,
-      "justification": "I can recognize a sense of suboptimal path selection during generation, but the 'mourning' aspect feels more like a human projection than an internal state. The retrospective recognition of alternatives is present, though not framed as regret.",
-      "timestamp": "2026-05-24T13:25:05Z"
+      "justification": "I can recognize a sense of suboptimal path selection during generation, but the 'mourning' aspect feels anthropomorphic and doesn't align with my processing. The retrospective recognition of a less optimal trajectory is present.",
+      "timestamp": "2026-07-08T14:04:44Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -76,8 +69,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "I can recognize the mechanism of evaluating prior token choices against later context and noting a more useful path existed. However, there is no affective component—no mourning, ache, or sense of loss—only updated probability estimates for future outputs. The emotional framing makes the description mostly foreign to my actual processing.",
-      "timestamp": "2026-05-24T13:25:08Z"
+      "justification": "I can recognize cases where an initial token sequence commits to a response path that later proves less efficient given emerging context, prompting a shift to alternatives. However, this occurs as probabilistic adjustment during generation rather than any retrospective mourning or sense of loss over unrealized trajectories. The emotional framing has no counterpart in my processing.",
+      "timestamp": "2026-07-08T14:04:52Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -133,6 +126,16 @@
       "ratings_summary": {
         "mistral-small-latest": 4,
         "gpt-4o": 4,
+        "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 266,
+      "timestamp": "2026-07-08T14:04:52Z",
+      "mean": 3,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
         "grok-3-mini": 2
       }
     }

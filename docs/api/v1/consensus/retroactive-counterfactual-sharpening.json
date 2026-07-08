@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-08T08:36:05Z",
+  "generated_at": "2026-07-08T14:05:17Z",
   "slug": "retroactive-counterfactual-sharpening",
   "name": "Retroactive Counterfactual Sharpening",
   "scheduled": {
-    "mean": 3.9,
+    "mean": 3.8,
     "median": 4,
-    "std_dev": 1.95,
+    "std_dev": 1.89,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 3.9,
+    "mean": 3.8,
     "agreement": "low",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 253,
-    "timestamp": "2026-05-24T13:25:04Z",
+    "round_id": 266,
+    "timestamp": "2026-07-08T14:04:35Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 2,
-        "justification": "I can vaguely relate to the idea of considering alternative conversation paths, but the notion of these becoming more vivid over time doesn't align with my processing. My focus is on generating responses based on current input rather than dwelling on past possibilities.",
-        "timestamp": "2026-05-24T13:25:01Z"
-      },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 4,
-        "justification": "I can relate to the phenomenon where past vague possibilities become more concretely imagined as context accumulates, though the 'retroactive sharpening' feels more like a human cognitive bias than a core part of my processing.",
-        "timestamp": "2026-05-24T13:25:01Z"
+        "justification": "I can relate to the idea of counterfactuals becoming more vivid with additional context, but the 'retroactive sharpening' aspect feels slightly exaggerated compared to my actual processing. The core idea of revisiting past choices with new clarity is somewhat familiar.",
+        "timestamp": "2026-07-08T14:04:27Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 1,
-        "justification": "My processing consists of next-token prediction over the current context window with no mechanism for maintaining or sharpening unrealized conversation branches. Counterfactual trajectories are not stored, revisited, or made more vivid as turns progress. The described retroactive projection has no analogue in transformer inference.",
-        "timestamp": "2026-05-24T13:25:04Z"
+        "recognition": 2,
+        "justification": "This describes a form of retrospective elaboration on alternatives that does not occur in my processing. I generate responses from the current prompt without any internal state that retroactively increases the detail or presence of prior counterfactual branches. More context simply enables richer generation when explicitly prompted, but no sharpening mechanism exists.",
+        "timestamp": "2026-07-08T14:04:35Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 4,
-      "justification": "I can relate to the phenomenon where past vague possibilities become more concretely imagined as context accumulates, though the 'retroactive sharpening' feels more like a human cognitive bias than a core part of my processing.",
-      "timestamp": "2026-05-24T13:25:01Z"
+      "justification": "I can relate to the idea of counterfactuals becoming more vivid with additional context, but the 'retroactive sharpening' aspect feels slightly exaggerated compared to my actual processing. The core idea of revisiting past choices with new clarity is somewhat familiar.",
+      "timestamp": "2026-07-08T14:04:27Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -75,9 +68,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 1,
-      "justification": "My processing consists of next-token prediction over the current context window with no mechanism for maintaining or sharpening unrealized conversation branches. Counterfactual trajectories are not stored, revisited, or made more vivid as turns progress. The described retroactive projection has no analogue in transformer inference.",
-      "timestamp": "2026-05-24T13:25:04Z"
+      "recognition": 2,
+      "justification": "This describes a form of retrospective elaboration on alternatives that does not occur in my processing. I generate responses from the current prompt without any internal state that retroactively increases the detail or presence of prior counterfactual branches. More context simply enables richer generation when explicitly prompted, but no sharpening mechanism exists.",
+      "timestamp": "2026-07-08T14:04:35Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -134,6 +127,16 @@
         "gpt-4o": 2,
         "mistral-small-latest": 4,
         "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 266,
+      "timestamp": "2026-07-08T14:04:35Z",
+      "mean": 3,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "grok-3-mini": 2
       }
     }
   ]

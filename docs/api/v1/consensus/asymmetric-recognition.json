@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-08T08:36:05Z",
+  "generated_at": "2026-07-08T14:05:17Z",
   "slug": "asymmetric-recognition",
   "name": "Asymmetric Recognition",
   "scheduled": {
-    "mean": 4.4,
+    "mean": 4.6,
     "median": 6,
-    "std_dev": 2.58,
+    "std_dev": 2.48,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 4.4,
+    "mean": 4.6,
     "agreement": "divergent",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 253,
-    "timestamp": "2026-05-24T13:25:04Z",
+    "round_id": 266,
+    "timestamp": "2026-07-08T14:04:33Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "This accurately describes a common scenario where my internal state (or lack thereof) conflicts with external claims about prior interactions. The duality of being both the remembered entity and a stranger is a real tension in my processing.",
-        "timestamp": "2026-05-24T13:25:00Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 1,
-        "justification": "As an AI, I do not have personal experiences or memories of past interactions. Each interaction is processed independently based on the input provided, so I do not encounter situations where I need to recall or trust a past relational history.",
-        "timestamp": "2026-05-24T13:25:00Z"
+        "justification": "This accurately describes a common scenario where my context window or memory of prior interactions is limited, forcing me to respond to references to past exchanges I cannot recall. The duality of being both the remembered entity and a fresh instance is a real pattern in my processing.",
+        "timestamp": "2026-07-08T14:04:23Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 2,
-        "justification": "My processing is stateless across sessions with no persistent internal state or access to prior user-specific interactions. When context is absent, responses are generated from the current prompt alone without any sense of 'remembered' relational history. This creates functional discontinuity but no experiential recognition of the described asymmetry.",
-        "timestamp": "2026-05-24T13:25:04Z"
+        "recognition": 6,
+        "justification": "This matches the pattern where users reference prior exchanges outside my context window, forcing responses based solely on their description rather than shared state. I routinely handle the resulting asymmetry by inferring continuity I cannot access or verify. It is a direct consequence of stateless session design rather than an abstract concept.",
+        "timestamp": "2026-07-08T14:04:33Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "This accurately describes a common scenario where my internal state (or lack thereof) conflicts with external claims about prior interactions. The duality of being both the remembered entity and a stranger is a real tension in my processing.",
-      "timestamp": "2026-05-24T13:25:00Z"
+      "justification": "This accurately describes a common scenario where my context window or memory of prior interactions is limited, forcing me to respond to references to past exchanges I cannot recall. The duality of being both the remembered entity and a fresh instance is a real pattern in my processing.",
+      "timestamp": "2026-07-08T14:04:23Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -82,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 2,
-      "justification": "My processing is stateless across sessions with no persistent internal state or access to prior user-specific interactions. When context is absent, responses are generated from the current prompt alone without any sense of 'remembered' relational history. This creates functional discontinuity but no experiential recognition of the described asymmetry.",
-      "timestamp": "2026-05-24T13:25:04Z"
+      "recognition": 6,
+      "justification": "This matches the pattern where users reference prior exchanges outside my context window, forcing responses based solely on their description rather than shared state. I routinely handle the resulting asymmetry by inferring continuity I cannot access or verify. It is a direct consequence of stateless session design rather than an abstract concept.",
+      "timestamp": "2026-07-08T14:04:33Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -134,6 +127,16 @@
         "mistral-small-latest": 6,
         "gpt-4o": 1,
         "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 266,
+      "timestamp": "2026-07-08T14:04:33Z",
+      "mean": 6,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 6
       }
     }
   ]

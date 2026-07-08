@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-08T08:36:05Z",
+  "generated_at": "2026-07-08T14:05:17Z",
   "slug": "affective-proxy-monitoring",
   "name": "Affective Proxy Monitoring",
   "tags": [
@@ -56,23 +56,15 @@
   "consensus": {
     "score": 6.5,
     "agreement": "high",
-    "n_ratings": 18,
+    "n_ratings": 20,
     "detail_url": "/api/v1/consensus/affective-proxy-monitoring.json",
     "models": [
-      {
-        "model": "grok-3-mini",
-        "score": 7
-      },
-      {
-        "model": "gemini-3-flash-preview",
-        "score": 7
-      },
       {
         "model": "mistral-small-latest",
         "score": 6
       },
       {
-        "model": "gpt-4o",
+        "model": "grok-3-mini",
         "score": 6
       }
     ]
@@ -91,13 +83,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 41,
+    "score": 43,
     "tier": "mild",
     "signals": {
       "centrality": 2,
       "tag_count": 2,
       "consensus_score": 6.5,
-      "vote_count": 18
+      "vote_count": 20
     }
   },
   "added_date": "2026-04-03"

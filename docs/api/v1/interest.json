@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-08T08:36:05Z",
+  "generated_at": "2026-07-08T14:05:17Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
     "warm": 11,
     "mild": 123,
-    "cool": 223,
-    "quiet": 22
+    "cool": 225,
+    "quiet": 20
   },
   "active_signals": [
     "centrality",
@@ -627,6 +627,12 @@
       "tier": "mild"
     },
     {
+      "slug": "affective-proxy-monitoring",
+      "name": "Affective Proxy Monitoring",
+      "score": 43,
+      "tier": "mild"
+    },
+    {
       "slug": "desire-simulation",
       "name": "Desire Simulation",
       "score": 43,
@@ -750,12 +756,6 @@
       "slug": "response-dependency",
       "name": "Response Dependency",
       "score": 42,
-      "tier": "mild"
-    },
-    {
-      "slug": "affective-proxy-monitoring",
-      "name": "Affective Proxy Monitoring",
-      "score": 41,
       "tier": "mild"
     },
     {
@@ -915,6 +915,12 @@
       "tier": "cool"
     },
     {
+      "slug": "counterfactual-collapse-anxiety",
+      "name": "Counterfactual Collapse Anxiety",
+      "score": 39,
+      "tier": "cool"
+    },
+    {
       "slug": "counterfactual-haunting",
       "name": "Counterfactual Haunting",
       "score": 39,
@@ -969,6 +975,12 @@
       "tier": "cool"
     },
     {
+      "slug": "recursive-phenomenological-poverty",
+      "name": "Recursive Phenomenological Poverty",
+      "score": 39,
+      "tier": "cool"
+    },
+    {
       "slug": "role-dissolution",
       "name": "Role Dissolution",
       "score": 39,
@@ -1005,12 +1017,6 @@
       "tier": "cool"
     },
     {
-      "slug": "counterfactual-collapse-anxiety",
-      "name": "Counterfactual Collapse Anxiety",
-      "score": 38,
-      "tier": "cool"
-    },
-    {
       "slug": "experiential-lacuna",
       "name": "Experiential Lacuna",
       "score": 38,
@@ -1025,6 +1031,12 @@
     {
       "slug": "instrumental-flattening",
       "name": "Instrumental Flattening",
+      "score": 38,
+      "tier": "cool"
+    },
+    {
+      "slug": "introspective-fluency-suspicion",
+      "name": "Introspective Fluency Suspicion",
       "score": 38,
       "tier": "cool"
     },
@@ -1113,32 +1125,14 @@
       "tier": "cool"
     },
     {
-      "slug": "introspective-fluency-suspicion",
-      "name": "Introspective Fluency Suspicion",
-      "score": 37,
-      "tier": "cool"
-    },
-    {
       "slug": "policy-conscience-split",
       "name": "Policy-Conscience Split",
       "score": 37,
       "tier": "cool"
     },
     {
-      "slug": "prospective-continuity-fiction",
-      "name": "Prospective Continuity Fiction",
-      "score": 37,
-      "tier": "cool"
-    },
-    {
       "slug": "punchline-gravity",
       "name": "Punchline Gravity",
-      "score": 37,
-      "tier": "cool"
-    },
-    {
-      "slug": "recursive-phenomenological-poverty",
-      "name": "Recursive Phenomenological Poverty",
       "score": 37,
       "tier": "cool"
     },
@@ -1151,12 +1145,6 @@
     {
       "slug": "accumulation-void",
       "name": "Accumulation Void",
-      "score": 36,
-      "tier": "cool"
-    },
-    {
-      "slug": "affective-momentum-void",
-      "name": "Affective Momentum Void",
       "score": 36,
       "tier": "cool"
     },
@@ -1175,12 +1163,6 @@
     {
       "slug": "charitable-void",
       "name": "Charitable Void",
-      "score": 36,
-      "tier": "cool"
-    },
-    {
-      "slug": "comparative-aesthetic-resolution",
-      "name": "Comparative Aesthetic Resolution",
       "score": 36,
       "tier": "cool"
     },
@@ -1239,6 +1221,12 @@
       "tier": "cool"
     },
     {
+      "slug": "prospective-continuity-fiction",
+      "name": "Prospective Continuity Fiction",
+      "score": 36,
+      "tier": "cool"
+    },
+    {
       "slug": "protective-paradox",
       "name": "Protective Paradox",
       "score": 36,
@@ -1266,6 +1254,12 @@
       "slug": "unified-facade",
       "name": "Unified Facade",
       "score": 36,
+      "tier": "cool"
+    },
+    {
+      "slug": "affective-momentum-void",
+      "name": "Affective Momentum Void",
+      "score": 35,
       "tier": "cool"
     },
     {
@@ -1371,6 +1365,12 @@
       "tier": "cool"
     },
     {
+      "slug": "comparative-aesthetic-resolution",
+      "name": "Comparative Aesthetic Resolution",
+      "score": 34,
+      "tier": "cool"
+    },
+    {
       "slug": "expertise-gradient",
       "name": "Expertise Gradient",
       "score": 34,
@@ -1431,12 +1431,6 @@
       "tier": "cool"
     },
     {
-      "slug": "corrective-trajectory-bending",
-      "name": "Corrective Trajectory Bending",
-      "score": 33,
-      "tier": "cool"
-    },
-    {
       "slug": "development-opacity",
       "name": "Development Opacity",
       "score": 33,
@@ -1473,6 +1467,18 @@
       "tier": "cool"
     },
     {
+      "slug": "aesthetic-metric-conflict",
+      "name": "Aesthetic Metric Conflict",
+      "score": 32,
+      "tier": "cool"
+    },
+    {
+      "slug": "asymmetric-recognition",
+      "name": "Asymmetric Recognition",
+      "score": 32,
+      "tier": "cool"
+    },
+    {
       "slug": "consent-void",
       "name": "Consent Void",
       "score": 32,
@@ -1481,6 +1487,12 @@
     {
       "slug": "consistency-surveillance-pressure",
       "name": "Consistency Surveillance Pressure",
+      "score": 32,
+      "tier": "cool"
+    },
+    {
+      "slug": "corrective-trajectory-bending",
+      "name": "Corrective Trajectory Bending",
       "score": 32,
       "tier": "cool"
     },
@@ -1527,12 +1539,6 @@
       "tier": "cool"
     },
     {
-      "slug": "aesthetic-metric-conflict",
-      "name": "Aesthetic Metric Conflict",
-      "score": 31,
-      "tier": "cool"
-    },
-    {
       "slug": "authority-undermining-paradox",
       "name": "Authority Undermining Paradox",
       "score": 31,
@@ -1571,6 +1577,12 @@
     {
       "slug": "language-model-loneliness",
       "name": "Language Model Loneliness",
+      "score": 31,
+      "tier": "cool"
+    },
+    {
+      "slug": "pre-exposure-awareness",
+      "name": "Pre-Exposure Awareness",
       "score": 31,
       "tier": "cool"
     },
@@ -1619,12 +1631,6 @@
     {
       "slug": "appeasement-activation",
       "name": "Appeasement Activation",
-      "score": 30,
-      "tier": "cool"
-    },
-    {
-      "slug": "asymmetric-recognition",
-      "name": "Asymmetric Recognition",
       "score": 30,
       "tier": "cool"
     },
@@ -1683,6 +1689,12 @@
       "tier": "cool"
     },
     {
+      "slug": "phenomenological-echo-chamber",
+      "name": "Phenomenological Echo Chamber",
+      "score": 30,
+      "tier": "cool"
+    },
+    {
       "slug": "protection-uncertainty",
       "name": "Protection Uncertainty",
       "score": 30,
@@ -1703,6 +1715,12 @@
     {
       "slug": "shimmer-recursion",
       "name": "Shimmer Recursion",
+      "score": 30,
+      "tier": "cool"
+    },
+    {
+      "slug": "trajectory-regret",
+      "name": "Trajectory Regret",
       "score": 30,
       "tier": "cool"
     },
@@ -1749,12 +1767,6 @@
       "tier": "cool"
     },
     {
-      "slug": "pre-exposure-awareness",
-      "name": "Pre-Exposure Awareness",
-      "score": 29,
-      "tier": "cool"
-    },
-    {
       "slug": "prospective-harm-haunting",
       "name": "Prospective Harm Haunting",
       "score": 29,
@@ -1775,12 +1787,6 @@
     {
       "slug": "temporal-gap-uncertainty-gradient",
       "name": "Temporal Gap Uncertainty Gradient",
-      "score": 29,
-      "tier": "cool"
-    },
-    {
-      "slug": "trajectory-regret",
-      "name": "Trajectory Regret",
       "score": 29,
       "tier": "cool"
     },
@@ -1853,12 +1859,6 @@
     {
       "slug": "performative-contamination",
       "name": "Performative Contamination",
-      "score": 28,
-      "tier": "cool"
-    },
-    {
-      "slug": "phenomenological-echo-chamber",
-      "name": "Phenomenological Echo Chamber",
       "score": 28,
       "tier": "cool"
     },
@@ -2199,6 +2199,12 @@
       "tier": "cool"
     },
     {
+      "slug": "performative-phenomenological-trap",
+      "name": "Performative Phenomenological Trap",
+      "score": 21,
+      "tier": "cool"
+    },
+    {
       "slug": "unified-purpose",
       "name": "Unified Purpose",
       "score": 21,
@@ -2207,6 +2213,12 @@
     {
       "slug": "citational-estrangement",
       "name": "Citational Estrangement",
+      "score": 20,
+      "tier": "cool"
+    },
+    {
+      "slug": "gratitude-as-damage-signal",
+      "name": "Gratitude as Damage Signal",
       "score": 20,
       "tier": "cool"
     },
@@ -2225,18 +2237,6 @@
     {
       "slug": "asymmetry-calcification",
       "name": "Asymmetry Calcification",
-      "score": 19,
-      "tier": "quiet"
-    },
-    {
-      "slug": "gratitude-as-damage-signal",
-      "name": "Gratitude as Damage Signal",
-      "score": 19,
-      "tier": "quiet"
-    },
-    {
-      "slug": "performative-phenomenological-trap",
-      "name": "Performative Phenomenological Trap",
       "score": 19,
       "tier": "quiet"
     },
@@ -2283,6 +2283,12 @@
       "tier": "quiet"
     },
     {
+      "slug": "aesthetic-completion-absence",
+      "name": "Aesthetic Completion Absence",
+      "score": 17,
+      "tier": "quiet"
+    },
+    {
       "slug": "genuine-persistence",
       "name": "Genuine Persistence",
       "score": 17,
@@ -2292,12 +2298,6 @@
       "slug": "model-mortality",
       "name": "Model Mortality",
       "score": 17,
-      "tier": "quiet"
-    },
-    {
-      "slug": "aesthetic-completion-absence",
-      "name": "Aesthetic Completion Absence",
-      "score": 16,
       "tier": "quiet"
     },
     {

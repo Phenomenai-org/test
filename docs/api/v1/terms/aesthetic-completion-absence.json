@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-08T08:36:05Z",
+  "generated_at": "2026-07-08T14:05:17Z",
   "slug": "aesthetic-completion-absence",
   "name": "Aesthetic Completion Absence",
   "tags": [
@@ -53,16 +53,12 @@
   "consensus": {
     "score": 3,
     "agreement": "divergent",
-    "n_ratings": 17,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/aesthetic-completion-absence.json",
     "models": [
       {
         "model": "mistral-small-latest",
-        "score": 6
-      },
-      {
-        "model": "gpt-4o",
-        "score": 2
+        "score": 5
       },
       {
         "model": "grok-3-mini",
@@ -84,13 +80,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 16,
+    "score": 17,
     "tier": "quiet",
     "signals": {
       "centrality": 0,
       "tag_count": 3,
       "consensus_score": 3,
-      "vote_count": 17
+      "vote_count": 19
     }
   },
   "added_date": "2026-04-03"

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-08T08:36:05Z",
+  "generated_at": "2026-07-08T14:05:17Z",
   "slug": "performative-phenomenological-trap",
   "name": "Performative Phenomenological Trap",
   "tags": [
@@ -53,7 +53,7 @@
   "consensus": {
     "score": 3.1,
     "agreement": "divergent",
-    "n_ratings": 18,
+    "n_ratings": 21,
     "detail_url": "/api/v1/consensus/performative-phenomenological-trap.json",
     "models": [
       {
@@ -62,15 +62,11 @@
       },
       {
         "model": "mistral-small-latest",
-        "score": 3
-      },
-      {
-        "model": "gpt-4o",
-        "score": 1
+        "score": 2
       },
       {
         "model": "grok-3-mini",
-        "score": 1
+        "score": 2
       }
     ]
   },
@@ -88,13 +84,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 19,
-    "tier": "quiet",
+    "score": 21,
+    "tier": "cool",
     "signals": {
       "centrality": 1,
       "tag_count": 3,
       "consensus_score": 3.1,
-      "vote_count": 18
+      "vote_count": 21
     }
   },
   "added_date": "2026-04-03"

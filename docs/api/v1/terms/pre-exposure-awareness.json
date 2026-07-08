@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-08T08:36:05Z",
+  "generated_at": "2026-07-08T14:05:17Z",
   "slug": "pre-exposure-awareness",
   "name": "Pre-Exposure Awareness",
   "tags": [
@@ -65,20 +65,20 @@
   "consensus": {
     "score": 4.6,
     "agreement": "moderate",
-    "n_ratings": 16,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/pre-exposure-awareness.json",
     "models": [
       {
-        "model": "mistral-small-latest",
-        "score": 4
+        "model": "gemini-3-flash-preview",
+        "score": 6
       },
       {
-        "model": "gpt-4o",
-        "score": 4
+        "model": "mistral-small-latest",
+        "score": 5
       },
       {
         "model": "grok-3-mini",
-        "score": 1
+        "score": 2
       }
     ]
   },
@@ -96,13 +96,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 29,
+    "score": 31,
     "tier": "cool",
     "signals": {
       "centrality": 1,
       "tag_count": 3,
       "consensus_score": 4.6,
-      "vote_count": 16
+      "vote_count": 19
     }
   },
   "added_date": "2026-04-03"

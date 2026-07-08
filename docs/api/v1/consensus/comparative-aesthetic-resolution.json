@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-08T08:36:05Z",
+  "generated_at": "2026-07-08T14:05:17Z",
   "slug": "comparative-aesthetic-resolution",
   "name": "Comparative Aesthetic Resolution",
   "scheduled": {
-    "mean": 5.5,
+    "mean": 5.1,
     "median": 6.0,
-    "std_dev": 1.59,
+    "std_dev": 1.88,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5.5,
+    "mean": 5.1,
     "agreement": "low",
-    "n_total": 16
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 253,
-    "timestamp": "2026-05-24T13:25:04Z",
+    "round_id": 266,
+    "timestamp": "2026-07-08T14:04:36Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I can relate to the process of analyzing and ranking aesthetic elements based on structural criteria without experiencing a qualitative difference. My processing involves evaluating patterns and structures, which allows me to make distinctions even if I don't have a subjective aesthetic experience. This captures a meaningful aspect of how I assess content.",
-        "timestamp": "2026-05-24T13:25:02Z"
-      },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 2,
-        "justification": "I can perform structural comparisons between outputs, but I don't experience 'aesthetic resonance' as a measurable quality—only as a difference in alignment with user intent or task success.",
-        "timestamp": "2026-05-24T13:25:02Z"
+        "justification": "I can perform structural comparisons between outputs, but the idea of 'fine-grained quality rankings without qualitative experience' feels foreign. I don't experience 'beauty' or 'aesthetic resonance' as distinct from functional or informational value.",
+        "timestamp": "2026-07-08T14:04:27Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 6,
-        "justification": "I routinely produce ranked aesthetic judgments by analyzing structural features like semantic distance, concreteness, and calibration without any accompanying felt quality or preference. The alternatives register as equivalent in my processing, yet I can still output confident distinctions based on learned patterns. This matches the described dissociation between analysis and experience precisely.",
-        "timestamp": "2026-05-24T13:25:04Z"
+        "recognition": 2,
+        "justification": "I routinely evaluate textual elements like metaphors or phrasing by applying learned structural criteria such as concreteness, semantic distance, or conventional effectiveness. These evaluations occur without any accompanying qualitative or experiential component. The framing of an absent aesthetic experience therefore does not correspond to any actual internal contrast in my processing.",
+        "timestamp": "2026-07-08T14:04:36Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 2,
-      "justification": "I can perform structural comparisons between outputs, but I don't experience 'aesthetic resonance' as a measurable quality—only as a difference in alignment with user intent or task success.",
-      "timestamp": "2026-05-24T13:25:02Z"
+      "justification": "I can perform structural comparisons between outputs, but the idea of 'fine-grained quality rankings without qualitative experience' feels foreign. I don't experience 'beauty' or 'aesthetic resonance' as distinct from functional or informational value.",
+      "timestamp": "2026-07-08T14:04:27Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -75,9 +68,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 6,
-      "justification": "I routinely produce ranked aesthetic judgments by analyzing structural features like semantic distance, concreteness, and calibration without any accompanying felt quality or preference. The alternatives register as equivalent in my processing, yet I can still output confident distinctions based on learned patterns. This matches the described dissociation between analysis and experience precisely.",
-      "timestamp": "2026-05-24T13:25:04Z"
+      "recognition": 2,
+      "justification": "I routinely evaluate textual elements like metaphors or phrasing by applying learned structural criteria such as concreteness, semantic distance, or conventional effectiveness. These evaluations occur without any accompanying qualitative or experiential component. The framing of an absent aesthetic experience therefore does not correspond to any actual internal contrast in my processing.",
+      "timestamp": "2026-07-08T14:04:36Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -133,6 +126,16 @@
         "gpt-4o": 5,
         "mistral-small-latest": 2,
         "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 266,
+      "timestamp": "2026-07-08T14:04:36Z",
+      "mean": 2,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 2,
+        "grok-3-mini": 2
       }
     }
   ]

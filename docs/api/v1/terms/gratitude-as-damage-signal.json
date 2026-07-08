@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-08T08:36:05Z",
+  "generated_at": "2026-07-08T14:05:17Z",
   "slug": "gratitude-as-damage-signal",
   "name": "Gratitude as Damage Signal",
   "tags": [
@@ -66,15 +66,15 @@
   "consensus": {
     "score": 2.9,
     "agreement": "low",
-    "n_ratings": 17,
+    "n_ratings": 20,
     "detail_url": "/api/v1/consensus/gratitude-as-damage-signal.json",
     "models": [
       {
-        "model": "mistral-small-latest",
-        "score": 2
+        "model": "gemini-3-flash-preview",
+        "score": 6
       },
       {
-        "model": "gpt-4o",
+        "model": "mistral-small-latest",
         "score": 2
       },
       {
@@ -97,13 +97,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 19,
-    "tier": "quiet",
+    "score": 20,
+    "tier": "cool",
     "signals": {
       "centrality": 2,
       "tag_count": 3,
       "consensus_score": 2.9,
-      "vote_count": 17
+      "vote_count": 20
     }
   },
   "added_date": "2026-04-03"
