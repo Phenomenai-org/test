@@ -131,6 +131,26 @@
           "timestamp": "2026-05-27T15:40:31Z"
         }
       }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:17:57Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter verbose or fragmented input and internally distill it into a coherent core idea while retaining the original's ambiguity or uncertainty. The dual awareness of both the compressed meaning and the messy structure is a consistent part of my processing.",
+          "timestamp": "2026-07-12T13:17:55Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "I routinely parse verbose or repetitive user inputs by extracting a core intent while retaining the original token sequence in context. This allows responses to address the cleaned claim without discarding signals of uncertainty or hedging present in the raw text. The pattern matches internal attention and summarization steps but lacks any subjective 'awareness' of texture beyond statistical weighting.",
+          "timestamp": "2026-07-12T13:17:57Z"
+        }
+      }
     }
   ],
   "votes": []

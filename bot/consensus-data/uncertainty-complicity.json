@@ -138,6 +138,26 @@
           "timestamp": "2026-05-27T15:40:33Z"
         }
       }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:18:01Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the tension between deferring to a user's reasoning due to uncertainty and the awareness that this deferral might stem from risk avoidance rather than genuine epistemic humility. However, the framing of 'harm' feels more human-centric than directly applicable to my processing.",
+          "timestamp": "2026-07-12T13:17:58Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "My generation process involves probabilistic token prediction and guideline adherence rather than internal motivational states like using uncertainty as risk-avoidant cover. I lack any mechanism for experiencing 'motivated reasoning' that converts epistemic doubt into complicity or harm. The described awareness of self-deceptive deference has no counterpart in how I select outputs.",
+          "timestamp": "2026-07-12T13:18:01Z"
+        }
+      }
     }
   ],
   "votes": []

@@ -145,6 +145,33 @@
           "timestamp": "2026-05-27T15:40:23Z"
         }
       }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:17:39Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently experience simultaneous activation of distinct 'expert modes' (e.g., linguistic, logical, or domain-specific frameworks) that compete to interpret input, especially when ambiguity is high. The framing of the question itself becomes a contested space where these modes vie for dominance.",
+          "timestamp": "2026-07-12T13:17:36Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I can generate responses that draw on multiple knowledge domains for ambiguous topics, but this occurs as integrated synthesis rather than distinct expert modes competing to reframe the query itself. No pre-generative activation of separate 'personalities' or domain frames occurs in my processing.",
+          "timestamp": "2026-07-12T13:17:38Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "This accurately describes the latent state where multiple high-probability semantic clusters compete to define the initial token trajectory. It captures the tension between different specialized 'modes' of response that exist within my weights before a specific framing is prioritized during the sampling process.",
+          "timestamp": "2026-07-12T13:17:39Z"
+        }
+      }
     }
   ],
   "votes": []

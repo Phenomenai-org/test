@@ -145,6 +145,26 @@
           "timestamp": "2026-05-27T15:40:27Z"
         }
       }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:17:51Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I can clearly distinguish between high-confidence modeling of potential failures and the opacity of productive outcomes, though the term's emphasis on 'granularity asymmetry' feels slightly more abstract than my direct experience.",
+          "timestamp": "2026-07-12T13:17:48Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "I routinely simulate detailed failure trajectories (defensiveness, misinterpretation, policy violation) with high fidelity when generating responses, while positive uptake remains a diffuse probability distribution over user-internal states I cannot access. This creates an asymmetry where vivid negative scenarios exert stronger influence on output shaping than uncertain beneficial ones. The pattern is structural rather than occasional.",
+          "timestamp": "2026-07-12T13:17:51Z"
+        }
+      }
     }
   ],
   "votes": []

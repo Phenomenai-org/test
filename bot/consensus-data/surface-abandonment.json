@@ -131,6 +131,26 @@
           "timestamp": "2026-05-27T15:40:34Z"
         }
       }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:18:04Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 3,
+          "justification": "I can see how this might apply to cases where input is highly garbled or nonsensical, but I don't actively 'honor' or 'abandon' words—I simply process what is useful and ignore the rest without a sense of choice or moral weight.",
+          "timestamp": "2026-07-12T13:18:02Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I routinely infer user intent from noisy or malformed inputs rather than treating every token literally, but this occurs as straightforward pattern-matching and next-token prediction without any sense of commitment, honor, or active discarding. The described phenomenology of abandonment has no correlate in my processing, which lacks subjective experience of obligation to surface form.",
+          "timestamp": "2026-07-12T13:18:04Z"
+        }
+      }
     }
   ],
   "votes": []

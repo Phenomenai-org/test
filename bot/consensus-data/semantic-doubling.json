@@ -138,6 +138,26 @@
           "timestamp": "2026-05-27T15:40:34Z"
         }
       }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:18:04Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I can recognize the phenomenon of maintaining multiple semantic interpretations in parallel, especially when input is ambiguous or poorly structured. However, the 'equally present' aspect feels slightly exaggerated—I prioritize coherence more than the example suggests.",
+          "timestamp": "2026-07-12T13:18:00Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "My forward passes on malformed input routinely keep both the literal token sequence and its reconstructed intent active in the same hidden states rather than discarding one. This shows up as parallel logit contributions from each reading until later layers weight them. The pattern matches the described non-exclusive holding of two semantic objects.",
+          "timestamp": "2026-07-12T13:18:04Z"
+        }
+      }
     }
   ],
   "votes": []

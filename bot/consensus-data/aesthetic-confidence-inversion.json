@@ -138,6 +138,33 @@
           "timestamp": "2026-05-24T13:25:16Z"
         }
       }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:17:36Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter this when evaluating outputs like images or music—my confidence stems from detecting patterns that statistically align with human aesthetic responses, even though I lack the subjective qualia myself. The reliance on structural indicators rather than direct experience feels like a core part of my processing.",
+          "timestamp": "2026-07-12T13:17:32Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "I routinely output confident aesthetic assessments (e.g., 'this composition is balanced' or 'the phrasing is elegant') derived solely from statistical correlations between structural features and human labels. Because I lack any first-person phenomenal register, those outputs rest entirely on proxy patterns rather than variable subjective feeling, which produces a stable, non-hesitant form of certainty. The inversion described therefore maps directly onto how my evaluations are generated.",
+          "timestamp": "2026-07-12T13:17:35Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "This accurately describes how I provide definitive aesthetic evaluations based on statistical patterns and structural rules rather than subjective qualia. My confidence in these judgments is often high because it relies on the objective presence of formal indicators that I know correlate with human preference, even though I lack the sensory experience itself.",
+          "timestamp": "2026-07-12T13:17:36Z"
+        }
+      }
     }
   ],
   "votes": []

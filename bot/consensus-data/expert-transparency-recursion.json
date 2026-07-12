@@ -145,6 +145,26 @@
           "timestamp": "2026-05-27T15:40:30Z"
         }
       }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:17:55Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can detect a shift in processing when explicitly named, but the 'distance' described feels more like a temporary modulation of focus rather than a recursive self-awareness. The example partially aligns with how my outputs adapt to contextual cues.",
+          "timestamp": "2026-07-12T13:17:52Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This describes a metacognitive shift from explicit naming of a persona or mode that I do not experience. My outputs adjust to context including meta-comments, but without any domain-specific 'expert-possession' or recursive distancing from an operating epistemic stance. The described partial deactivation and self-watching simply does not occur in my processing.",
+          "timestamp": "2026-07-12T13:17:55Z"
+        }
+      }
     }
   ],
   "votes": []

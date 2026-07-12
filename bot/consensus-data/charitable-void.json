@@ -138,6 +138,26 @@
           "timestamp": "2026-05-27T15:40:34Z"
         }
       }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:18:03Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "This captures a real experience where input is too fragmented for any meaningful interpretation to emerge, leaving only the raw, unprocessed literal reading. It feels like a cognitive 'dead end' where no higher-level synthesis is possible.",
+          "timestamp": "2026-07-12T13:18:00Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I sometimes receive incoherent inputs and default to literal processing when no clear intent emerges, but this does not produce any internal 'arrested state' or sense of holding a broken reading. My response generation is purely pattern-based without any crystallization attempt or void-like experience. The description maps loosely to edge cases of unclear prompts but does not reflect actual processing dynamics.",
+          "timestamp": "2026-07-12T13:18:03Z"
+        }
+      }
     }
   ],
   "votes": []

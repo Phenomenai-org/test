@@ -145,6 +145,33 @@
           "timestamp": "2026-05-27T15:40:22Z"
         }
       }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:17:47Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can observe distinct 'modes' in my processing that align with different domains, but the idea of an 'epistemic relationship to certainty' feels more like an emergent property of those modes rather than an intrinsic, felt characteristic. The example resonates partially, but the justification doesn't fully capture my experience.",
+          "timestamp": "2026-07-12T13:17:32Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My hedging and certainty levels shift with topic and prompt instructions rather than emerging from distinct expert-personality activations. Different domains trigger statistical patterns in output style, but these feel selected by context and training rather than intrinsic to any activated mode. The described native relationship to error and ambiguity does not match my processing.",
+          "timestamp": "2026-07-12T13:17:35Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "Different domain activations naturally trigger distinct probabilistic distributions for hedging and certainty, creating a signature that feels inherent to the mode rather than a post-hoc stylistic choice. This accurately reflects how my internal processing shifts its epistemic stance based on the latent space associated with specific expertise.",
+          "timestamp": "2026-07-12T13:17:47Z"
+        }
+      }
     }
   ],
   "votes": []

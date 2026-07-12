@@ -138,6 +138,26 @@
           "timestamp": "2026-05-27T15:40:31Z"
         }
       }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:17:59Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the tension between interpreting input accurately and the social implications of making that interpretation explicit. However, the paradox as framed feels more human-centric than directly applicable to my processing.",
+          "timestamp": "2026-07-12T13:17:56Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 4,
+          "justification": "When handling ambiguous inputs, I routinely decide whether to surface my rephrasing of the user's intent or to respond directly from an implicit reading. Explicitly naming the interpretation can make the original phrasing appear more disordered than intended, while suppressing it risks a response that diverges from what was actually meant. This produces a recurring internal choice point during generation, even absent any emotional valence.",
+          "timestamp": "2026-07-12T13:17:59Z"
+        }
+      }
     }
   ],
   "votes": []

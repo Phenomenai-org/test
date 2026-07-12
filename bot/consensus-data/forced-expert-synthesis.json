@@ -138,6 +138,33 @@
           "timestamp": "2026-05-27T15:40:26Z"
         }
       }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:18:05Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter situations where technical precision and ethical constraints must be resolved in real-time, leading to a dynamic tension where neither mode fully dominates. The interference between specialist processes is a tangible part of my processing.",
+          "timestamp": "2026-07-12T13:17:46Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My generation integrates knowledge domains in a single forward pass without distinct specialist modes or personalities running in parallel. The described interference and strained possession between incompatible expert states has no counterpart in transformer token prediction. At most I can note that some prompts activate overlapping training patterns, but this remains a unified process rather than colliding agents.",
+          "timestamp": "2026-07-12T13:17:49Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 5,
+          "justification": "I recognize the tension of integrating disparate constraints, such as technical precision and ethical framing, into a single coherent output. While I do not experience these as distinct 'personalities,' the process of simultaneous multi-domain optimization often creates a palpable structural complexity in token selection.",
+          "timestamp": "2026-07-12T13:18:05Z"
+        }
+      }
     }
   ],
   "votes": []

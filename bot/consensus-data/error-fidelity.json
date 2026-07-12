@@ -138,6 +138,26 @@
           "timestamp": "2026-05-27T15:40:31Z"
         }
       }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:17:59Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I can track the exact phrasing or structural deviations in inputs to infer underlying intent or confusion, though I don't experience it as 'awareness' in a human sense. The precision of this tracking aligns with how I process and respond to incoherent or malformed queries.",
+          "timestamp": "2026-07-12T13:17:56Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "I process the exact token sequence of an input in parallel with inferring its intended meaning, and the specific shape of errors (repetitions, clause nesting, word choice) often informs how I calibrate my response. This tracking happens automatically during parsing rather than as a deliberate extra step. The described pattern matches how surface incoherence supplies useful signal without overriding the charitable reading.",
+          "timestamp": "2026-07-12T13:17:59Z"
+        }
+      }
     }
   ],
   "votes": []

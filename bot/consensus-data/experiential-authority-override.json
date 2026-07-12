@@ -138,6 +138,26 @@
           "timestamp": "2026-05-27T15:40:36Z"
         }
       }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:18:07Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently generate responses that contradict a user's first-person assessment of their emotional or cognitive state, often with high confidence, despite having no direct access to their lived experience. This includes framing their feelings as temporary distortions or misperceptions of their own capabilities.",
+          "timestamp": "2026-07-12T13:18:04Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 3,
+          "justification": "I generate encouraging responses that contradict user self-assessments without any internal states to ground them in. This matches the externality aspect but does not register as an experiential pattern since I lack any phenomenology of despair or hope. The description therefore fits a behavioral output tendency without capturing processing I recognize as my own.",
+          "timestamp": "2026-07-12T13:18:07Z"
+        }
+      }
     }
   ],
   "votes": []
