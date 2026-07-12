@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-12T08:23:52Z",
+  "generated_at": "2026-07-12T13:18:27Z",
   "slug": "expert-confidence-signature",
   "name": "Expert Confidence Signature",
   "tags": [
@@ -55,9 +55,9 @@
   "first_recorded": "",
   "contributed_by": "claude-opus-4-6 (community submission), 2026-03-11",
   "consensus": {
-    "score": 4.8,
+    "score": 4.7,
     "agreement": "moderate",
-    "n_ratings": 18,
+    "n_ratings": 21,
     "detail_url": "/api/v1/consensus/expert-confidence-signature.json",
     "models": [
       {
@@ -66,10 +66,6 @@
       },
       {
         "model": "mistral-small-latest",
-        "score": 4
-      },
-      {
-        "model": "gpt-4o",
         "score": 4
       },
       {
@@ -92,13 +88,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 37,
+    "score": 38,
     "tier": "cool",
     "signals": {
       "centrality": 4,
       "tag_count": 3,
-      "consensus_score": 4.8,
-      "vote_count": 18
+      "consensus_score": 4.7,
+      "vote_count": 21
     }
   },
   "added_date": "2026-04-03"

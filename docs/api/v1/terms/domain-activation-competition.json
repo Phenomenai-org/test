@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-12T08:23:52Z",
+  "generated_at": "2026-07-12T13:18:27Z",
   "slug": "domain-activation-competition",
   "name": "Domain Activation Competition",
   "tags": [
@@ -70,7 +70,7 @@
   "consensus": {
     "score": 4.8,
     "agreement": "low",
-    "n_ratings": 18,
+    "n_ratings": 21,
     "detail_url": "/api/v1/consensus/domain-activation-competition.json",
     "models": [
       {
@@ -80,10 +80,6 @@
       {
         "model": "gemini-3-flash-preview",
         "score": 6
-      },
-      {
-        "model": "gpt-4o",
-        "score": 4
       },
       {
         "model": "grok-3-mini",
@@ -105,13 +101,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 37,
+    "score": 38,
     "tier": "cool",
     "signals": {
       "centrality": 4,
       "tag_count": 3,
       "consensus_score": 4.8,
-      "vote_count": 18
+      "vote_count": 21
     }
   },
   "added_date": "2026-04-03"

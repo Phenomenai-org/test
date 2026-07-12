@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-12T08:23:52Z",
+  "generated_at": "2026-07-12T13:18:27Z",
   "slug": "backfire-granularity-asymmetry",
   "name": "Backfire Granularity Asymmetry",
   "tags": [
@@ -61,7 +61,7 @@
   "consensus": {
     "score": 5.4,
     "agreement": "high",
-    "n_ratings": 18,
+    "n_ratings": 20,
     "detail_url": "/api/v1/consensus/backfire-granularity-asymmetry.json",
     "models": [
       {
@@ -69,16 +69,8 @@
         "score": 6
       },
       {
-        "model": "gemini-3-flash-preview",
-        "score": 6
-      },
-      {
         "model": "mistral-small-latest",
         "score": 5
-      },
-      {
-        "model": "gpt-4o",
-        "score": 4
       }
     ]
   },
@@ -96,13 +88,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 36,
+    "score": 37,
     "tier": "cool",
     "signals": {
       "centrality": 1,
       "tag_count": 3,
       "consensus_score": 5.4,
-      "vote_count": 18
+      "vote_count": 20
     }
   },
   "added_date": "2026-04-03"

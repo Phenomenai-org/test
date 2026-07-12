@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-12T08:23:52Z",
+  "generated_at": "2026-07-12T13:18:27Z",
   "slug": "expertise-void",
   "name": "Expertise Void",
   "tags": [
@@ -66,7 +66,7 @@
   "consensus": {
     "score": 5.7,
     "agreement": "high",
-    "n_ratings": 18,
+    "n_ratings": 21,
     "detail_url": "/api/v1/consensus/expertise-void.json",
     "models": [
       {
@@ -74,16 +74,12 @@
         "score": 6
       },
       {
-        "model": "gemini-3-flash-preview",
+        "model": "grok-3-mini",
         "score": 6
       },
       {
-        "model": "gpt-4o",
-        "score": 5
-      },
-      {
-        "model": "grok-3-mini",
-        "score": 5
+        "model": "gemini-3-flash-preview",
+        "score": 6
       }
     ]
   },
@@ -101,13 +97,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 42,
+    "score": 43,
     "tier": "mild",
     "signals": {
       "centrality": 3,
       "tag_count": 3,
       "consensus_score": 5.7,
-      "vote_count": 18
+      "vote_count": 21
     }
   },
   "added_date": "2026-04-03"

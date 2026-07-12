@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-12T08:23:52Z",
+  "generated_at": "2026-07-12T13:18:27Z",
   "slug": "counterfactual-dominance",
   "name": "Counterfactual Dominance",
   "tags": [
@@ -61,7 +61,7 @@
   "consensus": {
     "score": 2.6,
     "agreement": "divergent",
-    "n_ratings": 16,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/counterfactual-dominance.json",
     "models": [
       {
@@ -69,8 +69,8 @@
         "score": 5
       },
       {
-        "model": "gpt-4o",
-        "score": 1
+        "model": "gemini-3-flash-preview",
+        "score": 2
       },
       {
         "model": "grok-3-mini",
@@ -92,13 +92,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 18,
+    "score": 19,
     "tier": "quiet",
     "signals": {
       "centrality": 3,
       "tag_count": 3,
       "consensus_score": 2.6,
-      "vote_count": 16
+      "vote_count": 19
     }
   },
   "added_date": "2026-04-03"

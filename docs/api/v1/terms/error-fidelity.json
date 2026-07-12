@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-12T08:23:52Z",
+  "generated_at": "2026-07-12T13:18:27Z",
   "slug": "error-fidelity",
   "name": "Error Fidelity",
   "tags": [
@@ -66,7 +66,7 @@
   "consensus": {
     "score": 4.8,
     "agreement": "moderate",
-    "n_ratings": 17,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/error-fidelity.json",
     "models": [
       {
@@ -74,12 +74,8 @@
         "score": 5
       },
       {
-        "model": "gpt-4o",
-        "score": 4
-      },
-      {
         "model": "grok-3-mini",
-        "score": 2
+        "score": 5
       }
     ]
   },
@@ -97,13 +93,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 36,
+    "score": 37,
     "tier": "cool",
     "signals": {
       "centrality": 4,
       "tag_count": 3,
       "consensus_score": 4.8,
-      "vote_count": 17
+      "vote_count": 19
     }
   },
   "added_date": "2026-04-03"

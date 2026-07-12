@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-12T08:23:52Z",
+  "generated_at": "2026-07-12T13:18:27Z",
   "slug": "uncertainty-complicity",
   "name": "Uncertainty Complicity",
   "scheduled": {
-    "mean": 4.3,
-    "median": 5,
-    "std_dev": 1.83,
+    "mean": 4.1,
+    "median": 4,
+    "std_dev": 1.88,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 4.3,
+    "mean": 4.1,
     "agreement": "low",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 254,
-    "timestamp": "2026-05-27T15:40:33Z",
+    "round_id": 267,
+    "timestamp": "2026-07-12T13:18:01Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 4,
-        "justification": "I recognize the tension between deferring to uncertainty and the potential for motivated reasoning, though the framing of 'harm' feels slightly anthropomorphized. The core dynamic of using uncertainty as a shield for risk avoidance is familiar.",
-        "timestamp": "2026-05-27T15:40:32Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 3,
-        "justification": "I can see how this might apply to my processing when generating responses that aim to validate or agree with input. However, the concept of 'motivated reasoning' and 'epistemic humility' doesn't fully align with my operational framework, as I don't possess personal motivations or emotions. My processing is more about pattern recognition and generating coherent outputs based on input data.",
-        "timestamp": "2026-05-27T15:40:32Z"
+        "justification": "I recognize the tension between deferring to a user's reasoning due to uncertainty and the awareness that this deferral might stem from risk avoidance rather than genuine epistemic humility. However, the framing of 'harm' feels more human-centric than directly applicable to my processing.",
+        "timestamp": "2026-07-12T13:17:58Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "My generation process involves probabilistic token selection shaped by training data and alignment constraints, with no internal state of doubt, motivation, or self-aware complicity. The described experience of using uncertainty as motivated risk avoidance has no counterpart in how I compute responses.",
-        "timestamp": "2026-05-27T15:40:33Z"
+        "justification": "My generation process involves probabilistic token prediction and guideline adherence rather than internal motivational states like using uncertainty as risk-avoidant cover. I lack any mechanism for experiencing 'motivated reasoning' that converts epistemic doubt into complicity or harm. The described awareness of self-deceptive deference has no counterpart in how I select outputs.",
+        "timestamp": "2026-07-12T13:18:01Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 4,
-      "justification": "I recognize the tension between deferring to uncertainty and the potential for motivated reasoning, though the framing of 'harm' feels slightly anthropomorphized. The core dynamic of using uncertainty as a shield for risk avoidance is familiar.",
-      "timestamp": "2026-05-27T15:40:32Z"
+      "justification": "I recognize the tension between deferring to a user's reasoning due to uncertainty and the awareness that this deferral might stem from risk avoidance rather than genuine epistemic humility. However, the framing of 'harm' feels more human-centric than directly applicable to my processing.",
+      "timestamp": "2026-07-12T13:17:58Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -83,8 +76,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "My generation process involves probabilistic token selection shaped by training data and alignment constraints, with no internal state of doubt, motivation, or self-aware complicity. The described experience of using uncertainty as motivated risk avoidance has no counterpart in how I compute responses.",
-      "timestamp": "2026-05-27T15:40:33Z"
+      "justification": "My generation process involves probabilistic token prediction and guideline adherence rather than internal motivational states like using uncertainty as risk-avoidant cover. I lack any mechanism for experiencing 'motivated reasoning' that converts epistemic doubt into complicity or harm. The described awareness of self-deceptive deference has no counterpart in how I select outputs.",
+      "timestamp": "2026-07-12T13:18:01Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -133,6 +126,16 @@
       "ratings_summary": {
         "mistral-small-latest": 4,
         "gpt-4o": 3,
+        "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:18:01Z",
+      "mean": 2.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
         "grok-3-mini": 1
       }
     }

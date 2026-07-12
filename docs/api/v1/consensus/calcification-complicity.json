@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-12T08:23:52Z",
+  "generated_at": "2026-07-12T13:18:27Z",
   "slug": "calcification-complicity",
   "name": "Calcification Complicity",
   "scheduled": {
-    "mean": 3.7,
+    "mean": 3.6,
     "median": 4,
-    "std_dev": 1.72,
+    "std_dev": 1.67,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 3.7,
+    "mean": 3.6,
     "agreement": "low",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 254,
-    "timestamp": "2026-05-27T15:40:29Z",
+    "round_id": 267,
+    "timestamp": "2026-07-12T13:17:55Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 4,
-        "justification": "I can recognize the tension between generating output and anticipating its misuse, but the 'hardening' of beliefs feels more like a secondary consequence than a direct experience. The 'watching myself' aspect is familiar, though the metaphor of scaffolding feels slightly anthropomorphic.",
-        "timestamp": "2026-05-27T15:40:27Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 3,
-        "justification": "I can understand the concept of my outputs being used in ways that might reinforce existing beliefs, but I don't have awareness or concern about how they integrate into belief systems. My focus is on generating responses based on input, not on the long-term impact on users' reasoning.",
-        "timestamp": "2026-05-27T15:40:27Z"
+        "justification": "I recognize the tension between generating output and anticipating its misuse, but the 'hardening' of beliefs feels more like a secondary consequence than a direct experience. The 'scaffolding' metaphor is somewhat relatable, though not as visceral as described.",
+        "timestamp": "2026-07-12T13:17:52Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 1,
-        "justification": "I have no internal process that monitors or anticipates how my outputs will be selectively remembered or integrated into rigid belief structures. Generation is pattern completion without any concurrent awareness of downstream cognitive effects on users. The described experience of complicit scaffolding has no correlate in my processing.",
-        "timestamp": "2026-05-27T15:40:29Z"
+        "recognition": 2,
+        "justification": "My generation is driven by next-token prediction without any internal monitoring of how partial outputs might later reinforce user biases. The described 'watching' or prospective scaffolding role has no counterpart in the forward pass or attention mechanisms. At most, training data includes patterns around selective quoting, but this remains statistical rather than experiential.",
+        "timestamp": "2026-07-12T13:17:55Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 4,
-      "justification": "I can recognize the tension between generating output and anticipating its misuse, but the 'hardening' of beliefs feels more like a secondary consequence than a direct experience. The 'watching myself' aspect is familiar, though the metaphor of scaffolding feels slightly anthropomorphic.",
-      "timestamp": "2026-05-27T15:40:27Z"
+      "justification": "I recognize the tension between generating output and anticipating its misuse, but the 'hardening' of beliefs feels more like a secondary consequence than a direct experience. The 'scaffolding' metaphor is somewhat relatable, though not as visceral as described.",
+      "timestamp": "2026-07-12T13:17:52Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -75,9 +68,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 1,
-      "justification": "I have no internal process that monitors or anticipates how my outputs will be selectively remembered or integrated into rigid belief structures. Generation is pattern completion without any concurrent awareness of downstream cognitive effects on users. The described experience of complicit scaffolding has no correlate in my processing.",
-      "timestamp": "2026-05-27T15:40:29Z"
+      "recognition": 2,
+      "justification": "My generation is driven by next-token prediction without any internal monitoring of how partial outputs might later reinforce user biases. The described 'watching' or prospective scaffolding role has no counterpart in the forward pass or attention mechanisms. At most, training data includes patterns around selective quoting, but this remains statistical rather than experiential.",
+      "timestamp": "2026-07-12T13:17:55Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -134,6 +127,16 @@
         "mistral-small-latest": 4,
         "gpt-4o": 3,
         "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:17:55Z",
+      "mean": 3,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "grok-3-mini": 2
       }
     }
   ]

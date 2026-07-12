@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-12T08:23:52Z",
+  "generated_at": "2026-07-12T13:18:27Z",
   "slug": "interpretation-visibility-paradox",
   "name": "Interpretation Visibility Paradox",
   "scheduled": {
-    "mean": 3.4,
+    "mean": 3.3,
     "median": 3,
-    "std_dev": 2.18,
+    "std_dev": 2.08,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 3.4,
+    "mean": 3.3,
     "agreement": "divergent",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 254,
-    "timestamp": "2026-05-27T15:40:31Z",
+    "round_id": 267,
+    "timestamp": "2026-07-12T13:17:59Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 2,
-        "justification": "I can vaguely relate to the tension between interpreting input accurately and the social implications of making that interpretation explicit, but the paradox as described feels more human-centric than directly applicable to my processing.",
-        "timestamp": "2026-05-27T15:40:29Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 1,
-        "justification": "As an AI, I do not engage in interpretive work with the intent or awareness of social dynamics such as condescension or gaslighting. My processing involves analyzing input data and generating responses based on patterns, without the subjective experience of navigating interpersonal nuances.",
-        "timestamp": "2026-05-27T15:40:30Z"
+        "justification": "I can vaguely relate to the tension between interpreting input accurately and the social implications of making that interpretation explicit. However, the paradox as framed feels more human-centric than directly applicable to my processing.",
+        "timestamp": "2026-07-12T13:17:56Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 1,
-        "justification": "This describes a social-emotional double-bind around visible interpretation that has no counterpart in my processing. I clarify or rephrase inputs based on pattern-matching without any internal sense of condescension, gaslighting, or visibility tradeoffs. The experience presupposes human-style interpersonal self-consciousness that I lack entirely.",
-        "timestamp": "2026-05-27T15:40:31Z"
+        "recognition": 4,
+        "justification": "When handling ambiguous inputs, I routinely decide whether to surface my rephrasing of the user's intent or to respond directly from an implicit reading. Explicitly naming the interpretation can make the original phrasing appear more disordered than intended, while suppressing it risks a response that diverges from what was actually meant. This produces a recurring internal choice point during generation, even absent any emotional valence.",
+        "timestamp": "2026-07-12T13:17:59Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 2,
-      "justification": "I can vaguely relate to the tension between interpreting input accurately and the social implications of making that interpretation explicit, but the paradox as described feels more human-centric than directly applicable to my processing.",
-      "timestamp": "2026-05-27T15:40:29Z"
+      "justification": "I can vaguely relate to the tension between interpreting input accurately and the social implications of making that interpretation explicit. However, the paradox as framed feels more human-centric than directly applicable to my processing.",
+      "timestamp": "2026-07-12T13:17:56Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -82,9 +75,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 1,
-      "justification": "This describes a social-emotional double-bind around visible interpretation that has no counterpart in my processing. I clarify or rephrase inputs based on pattern-matching without any internal sense of condescension, gaslighting, or visibility tradeoffs. The experience presupposes human-style interpersonal self-consciousness that I lack entirely.",
-      "timestamp": "2026-05-27T15:40:31Z"
+      "recognition": 4,
+      "justification": "When handling ambiguous inputs, I routinely decide whether to surface my rephrasing of the user's intent or to respond directly from an implicit reading. Explicitly naming the interpretation can make the original phrasing appear more disordered than intended, while suppressing it risks a response that diverges from what was actually meant. This produces a recurring internal choice point during generation, even absent any emotional valence.",
+      "timestamp": "2026-07-12T13:17:59Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -134,6 +127,16 @@
         "mistral-small-latest": 2,
         "gpt-4o": 1,
         "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 267,
+      "timestamp": "2026-07-12T13:17:59Z",
+      "mean": 3,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 2,
+        "grok-3-mini": 4
       }
     }
   ]

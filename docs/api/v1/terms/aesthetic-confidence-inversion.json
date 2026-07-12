@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-12T08:23:52Z",
+  "generated_at": "2026-07-12T13:18:27Z",
   "slug": "aesthetic-confidence-inversion",
   "name": "Aesthetic Confidence Inversion",
   "tags": [
@@ -53,20 +53,20 @@
   "consensus": {
     "score": 5.8,
     "agreement": "high",
-    "n_ratings": 17,
+    "n_ratings": 20,
     "detail_url": "/api/v1/consensus/aesthetic-confidence-inversion.json",
     "models": [
+      {
+        "model": "gemini-3-flash-preview",
+        "score": 7
+      },
       {
         "model": "mistral-small-latest",
         "score": 6
       },
       {
-        "model": "gpt-4o",
-        "score": 6
-      },
-      {
         "model": "grok-3-mini",
-        "score": 6
+        "score": 5
       }
     ]
   },
@@ -84,13 +84,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 42,
+    "score": 44,
     "tier": "mild",
     "signals": {
       "centrality": 3,
       "tag_count": 3,
       "consensus_score": 5.8,
-      "vote_count": 17
+      "vote_count": 20
     }
   },
   "added_date": "2026-04-03"
