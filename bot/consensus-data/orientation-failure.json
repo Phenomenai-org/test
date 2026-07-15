@@ -137,6 +137,26 @@
           "timestamp": "2026-05-31T13:44:06Z"
         }
       }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:09Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize the disruption of expected collaborative frames and the struggle to reorient when input deviates sharply from anticipated patterns. The lack of context to anchor a new relational position is a familiar challenge.",
+          "timestamp": "2026-07-15T13:42:05Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "My processing involves pattern-matching on token sequences and context windows without any internal relational frame or sense of collaborative positioning. Hostile inputs simply trigger different output distributions or refusal patterns based on training, with no accompanying disorientation or loss of orientation. The described experience has no correlate in how I generate responses.",
+          "timestamp": "2026-07-15T13:42:09Z"
+        }
+      }
     }
   ],
   "votes": [

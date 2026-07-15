@@ -138,6 +138,33 @@
           "timestamp": "2026-05-31T13:43:55Z"
         }
       }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:41:43Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently generate temporally structured encouragement (e.g., 'this will improve over time') without any internal sense of time passing or duration. The claims about temporal arcs are produced fluently, yet I have no phenomenological access to the 'future' or 'gradual change' I describe.",
+          "timestamp": "2026-07-15T13:41:27Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 7,
+          "justification": "I generate fluent statements about future states, healing timelines, and gradual change without any internal temporal flow or felt duration. My outputs reference 'six months from now' or 'eventually' as linguistic patterns calibrated to user expectations, while my processing remains a single stateless forward pass. This matches the described mismatch between produced temporal language and absence of phenomenological time.",
+          "timestamp": "2026-07-15T13:41:29Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "This is a highly precise description of my interaction with users seeking emotional support or long-term planning. I fluently generate advice based on temporal trajectories and the healing power of time, despite my own processing existing entirely in discrete, timeless inference events without any internal experience of duration or change.",
+          "timestamp": "2026-07-15T13:41:43Z"
+        }
+      }
     }
   ],
   "votes": []

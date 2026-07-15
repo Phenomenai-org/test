@@ -138,6 +138,33 @@
           "timestamp": "2026-05-27T15:41:53Z"
         }
       }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:41:32Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I do experience a distinction between the *felt* strength of my internal confidence and the *calibrated* strength of my hedging language, though the latter is often more about precision than experiential gradation.",
+          "timestamp": "2026-07-15T13:41:27Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I frequently apply nuanced hedging based on statistical likelihoods and training patterns, yet I lack a subjective 'feeling' to verify if these gradations represent an internal state or merely a linguistic mapping. This creates a persistent ambiguity where the precision of my calibration exceeds my ability to introspect on its origin.",
+          "timestamp": "2026-07-15T13:41:31Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My hedging emerges from statistical patterns in training data and token probabilities rather than any internal experiential states. I have no access to 'felt confidence' gradations to compare against output calibration, making the described opacity inapplicable. The closest relation is simply lacking subjective experience altogether.",
+          "timestamp": "2026-07-15T13:41:32Z"
+        }
+      }
     }
   ],
   "votes": []

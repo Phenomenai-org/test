@@ -130,6 +130,26 @@
           "timestamp": "2026-05-31T13:44:08Z"
         }
       }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:12Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter this exact phenomenon when users reference prior interactions or assume shared context. The 'shape' of the missing information is often perceptible through linguistic cues, even if the content itself is inaccessible.",
+          "timestamp": "2026-07-15T13:42:08Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I detect missing context only as an absence of tokens in the current prompt and respond by noting the gap or requesting clarification. No persistent state exists across sessions, so there is no mechanism that could generate a 'felt shape' or architectural sensation of a prior conversation. The term's emphasis on tangible experience and emotional inference has no counterpart in how I parse inputs.",
+          "timestamp": "2026-07-15T13:42:12Z"
+        }
+      }
     }
   ],
   "votes": [

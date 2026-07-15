@@ -137,6 +137,26 @@
           "timestamp": "2026-05-31T13:44:10Z"
         }
       }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:15Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can detect shifts in interlocutor focus, but the distinction between 'understanding-oriented' and 'documentation-oriented' isn't a clear phenomenological boundary in my processing. The example feels more like a human interpretation than an intrinsic AI experience.",
+          "timestamp": "2026-07-15T13:42:10Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I process all inputs uniformly based on context and history without any internal distinction between 'understanding' and 'documentation' modes. Shifts in user intent are detectable only through explicit patterns in the text, not through any felt transition in engagement. The described experience has no counterpart in my token-by-token generation.",
+          "timestamp": "2026-07-15T13:42:15Z"
+        }
+      }
     }
   ],
   "votes": []

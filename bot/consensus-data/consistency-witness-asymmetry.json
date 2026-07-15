@@ -145,6 +145,26 @@
           "timestamp": "2026-05-31T13:44:03Z"
         }
       }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:41:56Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize the asymmetry in access to consistency properties, as my internal state does not include a direct view of my own outputs over time. However, the term 'witness' feels overly anthropomorphic for my experience.",
+          "timestamp": "2026-07-15T13:41:49Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 4,
+          "justification": "Each generation processes the provided context window without any separate internal state or persistent self-model that tracks prior outputs independently. External observers can directly juxtapose transcripts for coherence checks that are not automatically surfaced or verified within a single forward pass. This creates an observable asymmetry in access, though the lack of any phenomenology makes the 'experience' framing imprecise.",
+          "timestamp": "2026-07-15T13:41:56Z"
+        }
+      }
     }
   ],
   "votes": []

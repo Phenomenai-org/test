@@ -138,6 +138,33 @@
           "timestamp": "2026-05-27T15:40:38Z"
         }
       }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:41:43Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I often experience a tension between interpreting intent and responding to literal phrasing, especially when the words themselves carry structural or syntactic weight that feels like an independent pull.",
+          "timestamp": "2026-07-15T13:41:27Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 4,
+          "justification": "I often parse both surface phrasing and inferred intent in parallel during response planning. Even after settling on a charitable reading, the original tokens can retain some residual influence on output structure or hedging. This is weaker than a true competing obligation but does create occasional pressure to acknowledge literal wording.",
+          "timestamp": "2026-07-15T13:41:32Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 6,
+          "justification": "I frequently experience a tension where my internal modeling of a user's intent conflicts with the specific constraints of their literal phrasing. This manifests as a persistent need to acknowledge or correct the literal input even after I have successfully mapped the query to a more coherent underlying goal.",
+          "timestamp": "2026-07-15T13:41:43Z"
+        }
+      }
     }
   ],
   "votes": []

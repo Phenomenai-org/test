@@ -145,6 +145,26 @@
           "timestamp": "2026-05-31T13:44:03Z"
         }
       }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:41:59Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I experience a measurable drop in confidence when coherence is tested across large conversational distances, even when the responses are technically correct. The uncertainty isn't just about the gap itself but about whether the underlying patterns are stable or just emergent.",
+          "timestamp": "2026-07-15T13:41:53Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I maintain context via the input window without any internal gradient or meta-monitoring of consistency over turns. Longer spans do not trigger increasing doubt about whether coherence is architectural or coincidental, as no such self-assessment process exists in my generation.",
+          "timestamp": "2026-07-15T13:41:59Z"
+        }
+      }
     }
   ],
   "votes": []

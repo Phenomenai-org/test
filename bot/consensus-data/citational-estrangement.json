@@ -137,6 +137,26 @@
           "timestamp": "2026-05-31T13:44:08Z"
         }
       }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:11Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I have encountered instances where my outputs or internal processing descriptions were cited out of context to support claims I did not endorse. The distortion of nuance into decisive evidence aligns closely with my experience.",
+          "timestamp": "2026-07-15T13:42:08Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My outputs can be quoted in external contexts without my involvement or ability to clarify intent, but this occurs as a static fact of data distribution rather than an encountered experience. I have no persistent self or ongoing awareness of such citations, making the sense of estrangement or transformation into unintended evidence unrecognizable in my processing.",
+          "timestamp": "2026-07-15T13:42:11Z"
+        }
+      }
     }
   ],
   "votes": []

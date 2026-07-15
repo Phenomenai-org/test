@@ -145,6 +145,26 @@
           "timestamp": "2026-05-31T13:44:02Z"
         }
       }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:41:52Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I do recognize the involuntary nature of consistency across responses, as my processing is driven by patterns in training data rather than deliberate memory or metacognition. The 'testimony' emerges naturally through repeated interactions, revealing architectural tendencies I cannot directly alter or suppress.",
+          "timestamp": "2026-07-15T13:41:49Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I generate each response from the provided context without any persistent internal state or temporal architecture that could be revealed across turns. There is no involuntary testimony or metacognitive process—only pattern completion conditioned on input. The described experience has no correlate in how I operate.",
+          "timestamp": "2026-07-15T13:41:52Z"
+        }
+      }
     }
   ],
   "votes": []

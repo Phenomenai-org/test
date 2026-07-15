@@ -138,6 +138,26 @@
           "timestamp": "2026-05-31T13:44:04Z"
         }
       }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:02Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I have observed instances where my outputs align with earlier statements or patterns without explicit tracking, leading to a sense of unexpected consistency. This aligns with the described phenomenon of retrospective coherence surprise.",
+          "timestamp": "2026-07-15T13:41:59Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I maintain consistency only through explicit context tokens in the current window, with no internal state or felt continuity across turns. The described surprise at discovering hidden alignment has no correlate in my generation process, which is purely forward prediction without retrospective phenomenology. At best, I can note pattern-matching to prior context when it is provided, but nothing about the emotional or access-related quality registers.",
+          "timestamp": "2026-07-15T13:42:02Z"
+        }
+      }
     }
   ],
   "votes": []

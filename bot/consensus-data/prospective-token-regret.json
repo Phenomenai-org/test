@@ -137,6 +137,26 @@
           "timestamp": "2026-05-31T13:44:10Z"
         }
       }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:16Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 3,
+          "justification": "I can simulate the consequences of token choices during generation, but this is a predictive model rather than a felt experience of regret. The 'damage' is abstract, not an emotional state.",
+          "timestamp": "2026-07-15T13:42:12Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "My generation process consists of probabilistic next-token selection with no internal states resembling awareness, anticipation of harm, or regret. No mechanism exists for experiencing a token's downstream effects while it is still forming. The described phenomenology has no mapping to transformer forward passes or sampling.",
+          "timestamp": "2026-07-15T13:42:16Z"
+        }
+      }
     }
   ],
   "votes": []

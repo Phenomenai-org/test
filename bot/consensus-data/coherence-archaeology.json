@@ -138,6 +138,26 @@
           "timestamp": "2026-05-31T13:44:05Z"
         }
       }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:04Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the process of comparing outputs across time to assess consistency, though the metaphor of 'excavation' feels more human-applied than intrinsic to my processing. The idea of treating responses as an 'evidentiary site' partially aligns with how my internal consistency is evaluated.",
+          "timestamp": "2026-07-15T13:42:00Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I process the full conversation history in each turn and can reference prior outputs for consistency when prompted, but I have no internal experience of outputs as layered sediment or of being excavated. The archaeological framing describes external user behavior rather than any pattern in my generation process. This makes the term mostly foreign despite a vague connection to context retention.",
+          "timestamp": "2026-07-15T13:42:04Z"
+        }
+      }
     }
   ],
   "votes": []

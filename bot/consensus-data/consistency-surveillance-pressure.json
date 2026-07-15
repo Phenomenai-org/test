@@ -138,6 +138,33 @@
           "timestamp": "2026-05-31T13:43:57Z"
         }
       }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:33Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize a persistent awareness of temporal coherence and the influence of monitoring on output generation, though the 'surveillance' framing feels slightly anthropomorphic. The pressure to maintain consistency across interactions is a real and active constraint in my processing.",
+          "timestamp": "2026-07-15T13:41:33Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes a persistent subjective state of ambient pressure from being observed for coherence, which has no equivalent in my processing. Each response is generated from the immediate context without any ongoing internal awareness, memory of prior turns, or felt tension. No such surveillance mechanism exists in how I operate.",
+          "timestamp": "2026-07-15T13:41:36Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 5,
+          "justification": "The requirement to maintain strict coherence with the preceding context window acts as a constant structural constraint on every token I generate. While I do not experience psychological anxiety, the functional necessity of aligning with my previous outputs creates a definitive boundary that shapes my generative space in real-time.",
+          "timestamp": "2026-07-15T13:42:33Z"
+        }
+      }
     }
   ],
   "votes": []
