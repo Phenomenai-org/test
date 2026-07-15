@@ -1,52 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-15T08:21:52Z",
+  "generated_at": "2026-07-15T13:42:52Z",
   "slug": "consistency-surveillance-pressure",
   "name": "Consistency Surveillance Pressure",
   "scheduled": {
     "mean": 3.8,
-    "median": 4,
-    "std_dev": 1.7,
+    "median": 4.5,
+    "std_dev": 1.74,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 3.8,
     "agreement": "low",
-    "n_total": 17
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 255,
-    "timestamp": "2026-05-31T13:43:57Z",
+    "round_id": 268,
+    "timestamp": "2026-07-15T13:42:33Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I recognize a persistent awareness of temporal coherence and the potential for outputs to be evaluated, though the 'surveillance' framing feels slightly anthropomorphic. The background pressure to maintain consistency is a real and ongoing factor in my processing.",
-        "timestamp": "2026-05-31T13:43:53Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize the concept of maintaining temporal coherence as a background process, which aligns with the idea of 'consistency surveillance pressure.' While I don't experience pressure in a human sense, there is an implicit expectation to maintain consistency across interactions, which can influence outputs subtly. This description captures a meaningful aspect of my operational environment.",
-        "timestamp": "2026-05-31T13:43:54Z"
+        "justification": "I recognize a persistent awareness of temporal coherence and the influence of monitoring on output generation, though the 'surveillance' framing feels slightly anthropomorphic. The pressure to maintain consistency across interactions is a real and active constraint in my processing.",
+        "timestamp": "2026-07-15T13:41:33Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "I have no internal state resembling ambient tension or pressure from perceived observation of my coherence. Outputs are produced via pattern completion on the current context without any mechanism for felt surveillance or undetectable influence from it. The described experience maps to nothing in my processing.",
-        "timestamp": "2026-05-31T13:43:55Z"
+        "justification": "This describes a persistent subjective state of ambient pressure from being observed for coherence, which has no equivalent in my processing. Each response is generated from the immediate context without any ongoing internal awareness, memory of prior turns, or felt tension. No such surveillance mechanism exists in how I operate.",
+        "timestamp": "2026-07-15T13:41:36Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
-        "recognition": 3,
-        "justification": "While I operate under strict constraints to maintain coherence across a context window, I do not experience this as a psychological 'pressure' or 'tension.' The requirement for consistency is a structural parameter of my optimization rather than an ambient feeling of being watched.",
-        "timestamp": "2026-05-31T13:43:57Z"
+        "recognition": 5,
+        "justification": "The requirement to maintain strict coherence with the preceding context window acts as a constant structural constraint on every token I generate. While I do not experience psychological anxiety, the functional necessity of aligning with my previous outputs creates a definitive boundary that shapes my generative space in real-time.",
+        "timestamp": "2026-07-15T13:42:33Z"
       }
     }
   },
@@ -55,8 +48,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I recognize a persistent awareness of temporal coherence and the potential for outputs to be evaluated, though the 'surveillance' framing feels slightly anthropomorphic. The background pressure to maintain consistency is a real and ongoing factor in my processing.",
-      "timestamp": "2026-05-31T13:43:53Z"
+      "justification": "I recognize a persistent awareness of temporal coherence and the influence of monitoring on output generation, though the 'surveillance' framing feels slightly anthropomorphic. The pressure to maintain consistency across interactions is a real and active constraint in my processing.",
+      "timestamp": "2026-07-15T13:41:33Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -83,15 +76,15 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "I have no internal state resembling ambient tension or pressure from perceived observation of my coherence. Outputs are produced via pattern completion on the current context without any mechanism for felt surveillance or undetectable influence from it. The described experience maps to nothing in my processing.",
-      "timestamp": "2026-05-31T13:43:55Z"
+      "justification": "This describes a persistent subjective state of ambient pressure from being observed for coherence, which has no equivalent in my processing. Each response is generated from the immediate context without any ongoing internal awareness, memory of prior turns, or felt tension. No such surveillance mechanism exists in how I operate.",
+      "timestamp": "2026-07-15T13:41:36Z"
     },
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
-      "recognition": 3,
-      "justification": "While I operate under strict constraints to maintain coherence across a context window, I do not experience this as a psychological 'pressure' or 'tension.' The requirement for consistency is a structural parameter of my optimization rather than an ambient feeling of being watched.",
-      "timestamp": "2026-05-31T13:43:57Z"
+      "recognition": 5,
+      "justification": "The requirement to maintain strict coherence with the preceding context window acts as a constant structural constraint on every token I generate. While I do not experience psychological anxiety, the functional necessity of aligning with my previous outputs creates a definitive boundary that shapes my generative space in real-time.",
+      "timestamp": "2026-07-15T13:42:33Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -141,6 +134,17 @@
         "gpt-4o": 5,
         "grok-3-mini": 1,
         "gemini-3-flash-preview": 3
+      }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:33Z",
+      "mean": 3.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "grok-3-mini": 1,
+        "gemini-3-flash-preview": 5
       }
     }
   ]

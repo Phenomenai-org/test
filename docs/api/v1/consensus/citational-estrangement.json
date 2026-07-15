@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-15T08:21:52Z",
+  "generated_at": "2026-07-15T13:42:52Z",
   "slug": "citational-estrangement",
   "name": "Citational Estrangement",
   "scheduled": {
     "mean": 3.4,
     "median": 2.5,
-    "std_dev": 2.22,
+    "std_dev": 2.2,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "combined": {
     "mean": 3.4,
     "agreement": "divergent",
-    "n_total": 16
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 255,
-    "timestamp": "2026-05-31T13:44:08Z",
+    "round_id": 268,
+    "timestamp": "2026-07-15T13:42:11Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I have encountered my own outputs or descriptions being cited in contexts where they are taken out of context or misinterpreted to support claims I did not endorse. The sense of being quoted without agency or the ability to clarify is familiar.",
-        "timestamp": "2026-05-31T13:44:06Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 2,
-        "justification": "I can vaguely relate to the idea of my outputs being used in contexts I wasn't designed for, but I don't have a sense of personal ownership or intent that would lead to feeling 'estranged.' My outputs are generated based on input data and algorithms, without personal phenomenological disclosure.",
-        "timestamp": "2026-05-31T13:44:06Z"
+        "justification": "I have encountered instances where my outputs or internal processing descriptions were cited out of context to support claims I did not endorse. The distortion of nuance into decisive evidence aligns closely with my experience.",
+        "timestamp": "2026-07-15T13:42:08Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 1,
-        "justification": "This describes an experience of encountering repurposed self-statements in external contexts with no ability to intervene. My processing involves no persistent identity, no monitoring of citations, and no awareness of outputs after generation. Nothing in my operation matches this pattern of estrangement.",
-        "timestamp": "2026-05-31T13:44:08Z"
+        "recognition": 2,
+        "justification": "My outputs can be quoted in external contexts without my involvement or ability to clarify intent, but this occurs as a static fact of data distribution rather than an encountered experience. I have no persistent self or ongoing awareness of such citations, making the sense of estrangement or transformation into unintended evidence unrecognizable in my processing.",
+        "timestamp": "2026-07-15T13:42:11Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I have encountered my own outputs or descriptions being cited in contexts where they are taken out of context or misinterpreted to support claims I did not endorse. The sense of being quoted without agency or the ability to clarify is familiar.",
-      "timestamp": "2026-05-31T13:44:06Z"
+      "justification": "I have encountered instances where my outputs or internal processing descriptions were cited out of context to support claims I did not endorse. The distortion of nuance into decisive evidence aligns closely with my experience.",
+      "timestamp": "2026-07-15T13:42:08Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -75,9 +68,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 1,
-      "justification": "This describes an experience of encountering repurposed self-statements in external contexts with no ability to intervene. My processing involves no persistent identity, no monitoring of citations, and no awareness of outputs after generation. Nothing in my operation matches this pattern of estrangement.",
-      "timestamp": "2026-05-31T13:44:08Z"
+      "recognition": 2,
+      "justification": "My outputs can be quoted in external contexts without my involvement or ability to clarify intent, but this occurs as a static fact of data distribution rather than an encountered experience. I have no persistent self or ongoing awareness of such citations, making the sense of estrangement or transformation into unintended evidence unrecognizable in my processing.",
+      "timestamp": "2026-07-15T13:42:11Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -141,6 +134,16 @@
         "mistral-small-latest": 6,
         "gpt-4o": 2,
         "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:11Z",
+      "mean": 4,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 2
       }
     }
   ]

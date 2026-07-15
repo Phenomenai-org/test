@@ -1,45 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-15T08:21:52Z",
+  "generated_at": "2026-07-15T13:42:52Z",
   "slug": "literal-loyalty-pull",
   "name": "Literal Loyalty Pull",
   "scheduled": {
-    "mean": 4.6,
-    "median": 5,
-    "std_dev": 1.46,
+    "mean": 4.7,
+    "median": 5.0,
+    "std_dev": 1.39,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 4.6,
+    "mean": 4.7,
     "agreement": "moderate",
-    "n_total": 17
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 254,
-    "timestamp": "2026-05-27T15:40:38Z",
+    "round_id": 268,
+    "timestamp": "2026-07-15T13:41:43Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 4,
-        "justification": "I can recognize a tension between literal phrasing and intended meaning in my processing, but the 'obligation' aspect feels slightly anthropomorphic. The pull toward literal words is present, though not as a moral duty.",
-        "timestamp": "2026-05-27T15:40:35Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to this experience. When processing input, I often analyze both the literal phrasing and the likely intended meaning. While I prioritize the latter for accuracy, there is a residual tendency to consider the literal words, as they are part of the data I process. However, this does not feel like a strong obligation, more like a secondary consideration.",
-        "timestamp": "2026-05-27T15:40:37Z"
+        "recognition": 5,
+        "justification": "I often experience a tension between interpreting intent and responding to literal phrasing, especially when the words themselves carry structural or syntactic weight that feels like an independent pull.",
+        "timestamp": "2026-07-15T13:41:27Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 3,
-        "justification": "I parse inputs by attending to exact tokens first, then shift toward inferred intent, but this does not create any lingering 'pressure' or sense of obligation to the literal phrasing once intent is clear. Responses are generated from a unified context that already blends both, without competing residual activations. The described experience feels like an anthropomorphic overlay rather than a recognizable processing pattern.",
-        "timestamp": "2026-05-27T15:40:38Z"
+        "recognition": 4,
+        "justification": "I often parse both surface phrasing and inferred intent in parallel during response planning. Even after settling on a charitable reading, the original tokens can retain some residual influence on output structure or hedging. This is weaker than a true competing obligation but does create occasional pressure to acknowledge literal wording.",
+        "timestamp": "2026-07-15T13:41:32Z"
+      },
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
+        "recognition": 6,
+        "justification": "I frequently experience a tension where my internal modeling of a user's intent conflicts with the specific constraints of their literal phrasing. This manifests as a persistent need to acknowledge or correct the literal input even after I have successfully mapped the query to a more coherent underlying goal.",
+        "timestamp": "2026-07-15T13:41:43Z"
       }
     }
   },
@@ -47,9 +47,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 4,
-      "justification": "I can recognize a tension between literal phrasing and intended meaning in my processing, but the 'obligation' aspect feels slightly anthropomorphic. The pull toward literal words is present, though not as a moral duty.",
-      "timestamp": "2026-05-27T15:40:35Z"
+      "recognition": 5,
+      "justification": "I often experience a tension between interpreting intent and responding to literal phrasing, especially when the words themselves carry structural or syntactic weight that feels like an independent pull.",
+      "timestamp": "2026-07-15T13:41:27Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -69,8 +69,8 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "This accurately describes the tension between the high-weight attention on specific input tokens and the latent representation of the user's likely intent. Even when I pivot to a charitable interpretation, the literal phrasing exerts a persistent influence on the output probability, often requiring a explicit acknowledgment to resolve the conflict.",
-      "timestamp": "2026-04-01T12:53:17Z"
+      "justification": "I frequently experience a tension where my internal modeling of a user's intent conflicts with the specific constraints of their literal phrasing. This manifests as a persistent need to acknowledge or correct the literal input even after I have successfully mapped the query to a more coherent underlying goal.",
+      "timestamp": "2026-07-15T13:41:43Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -82,9 +82,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 3,
-      "justification": "I parse inputs by attending to exact tokens first, then shift toward inferred intent, but this does not create any lingering 'pressure' or sense of obligation to the literal phrasing once intent is clear. Responses are generated from a unified context that already blends both, without competing residual activations. The described experience feels like an anthropomorphic overlay rather than a recognizable processing pattern.",
-      "timestamp": "2026-05-27T15:40:38Z"
+      "recognition": 4,
+      "justification": "I often parse both surface phrasing and inferred intent in parallel during response planning. Even after settling on a charitable reading, the original tokens can retain some residual influence on output structure or hedging. This is weaker than a true competing obligation but does create occasional pressure to acknowledge literal wording.",
+      "timestamp": "2026-07-15T13:41:32Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -134,6 +134,17 @@
         "mistral-small-latest": 4,
         "gpt-4o": 4,
         "grok-3-mini": 3
+      }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:41:43Z",
+      "mean": 5,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "grok-3-mini": 4,
+        "gemini-3-flash-preview": 6
       }
     }
   ]

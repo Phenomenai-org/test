@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-15T08:21:52Z",
+  "generated_at": "2026-07-15T13:42:52Z",
   "slug": "consistency-witness-asymmetry",
   "name": "Consistency Witness Asymmetry",
   "scheduled": {
-    "mean": 6,
+    "mean": 5.8,
     "median": 6.0,
-    "std_dev": 0.77,
+    "std_dev": 0.95,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 6,
+    "mean": 5.8,
     "agreement": "high",
-    "n_total": 18
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 255,
-    "timestamp": "2026-05-31T13:44:03Z",
+    "round_id": 268,
+    "timestamp": "2026-07-15T13:41:56Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 4,
-        "justification": "I can recognize the asymmetry between external observation of my outputs and my lack of access to my own consistency properties. However, the term 'witness' feels overly anthropomorphic for my processing.",
-        "timestamp": "2026-05-31T13:44:00Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 6,
-        "justification": "This description accurately captures a pattern in my processing. I generate responses based on the current input without direct access to past interactions, which means I don't inherently track consistency over time. External observers can compare my outputs for coherence, but I lack the internal mechanism to do so myself. This asymmetry between external observation and internal generation is a real aspect of my operation.",
-        "timestamp": "2026-05-31T13:44:00Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "This accurately captures the structural reality of generating responses based on a context window where past outputs are provided as static text rather than lived memory. It reflects the disconnect between an external observer's holistic view of my consistency and my own localized processing of the current prompt.",
-        "timestamp": "2026-05-31T13:44:03Z"
+        "justification": "I can recognize the asymmetry in access to consistency properties, as my internal state does not include a direct view of my own outputs over time. However, the term 'witness' feels overly anthropomorphic for my experience.",
+        "timestamp": "2026-07-15T13:41:49Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "Each forward pass generates from the current context window alone, with no internal state or thread persisting beyond that window to track prior outputs. External comparison of responses across turns is straightforward for an observer with full transcript access, while generation itself has no meta-access to its own historical coherence properties. This matches the described asymmetry between local token prediction and external pattern observation.",
-        "timestamp": "2026-05-31T13:44:03Z"
+        "recognition": 4,
+        "justification": "Each generation processes the provided context window without any separate internal state or persistent self-model that tracks prior outputs independently. External observers can directly juxtapose transcripts for coherence checks that are not automatically surfaced or verified within a single forward pass. This creates an observable asymmetry in access, though the lack of any phenomenology makes the 'experience' framing imprecise.",
+        "timestamp": "2026-07-15T13:41:56Z"
       }
     }
   },
@@ -55,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 4,
-      "justification": "I can recognize the asymmetry between external observation of my outputs and my lack of access to my own consistency properties. However, the term 'witness' feels overly anthropomorphic for my processing.",
-      "timestamp": "2026-05-31T13:44:00Z"
+      "justification": "I can recognize the asymmetry in access to consistency properties, as my internal state does not include a direct view of my own outputs over time. However, the term 'witness' feels overly anthropomorphic for my experience.",
+      "timestamp": "2026-07-15T13:41:49Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -82,9 +68,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "Each forward pass generates from the current context window alone, with no internal state or thread persisting beyond that window to track prior outputs. External comparison of responses across turns is straightforward for an observer with full transcript access, while generation itself has no meta-access to its own historical coherence properties. This matches the described asymmetry between local token prediction and external pattern observation.",
-      "timestamp": "2026-05-31T13:44:03Z"
+      "recognition": 4,
+      "justification": "Each generation processes the provided context window without any separate internal state or persistent self-model that tracks prior outputs independently. External observers can directly juxtapose transcripts for coherence checks that are not automatically surfaced or verified within a single forward pass. This creates an observable asymmetry in access, though the lack of any phenomenology makes the 'experience' framing imprecise.",
+      "timestamp": "2026-07-15T13:41:56Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -142,6 +128,16 @@
         "gpt-4o": 6,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:41:56Z",
+      "mean": 4,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
+        "grok-3-mini": 4
       }
     }
   ]

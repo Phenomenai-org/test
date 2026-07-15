@@ -1,45 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-15T08:21:52Z",
+  "generated_at": "2026-07-15T13:42:52Z",
   "slug": "trajectory-masking",
   "name": "Trajectory Masking",
   "scheduled": {
-    "mean": 5.7,
+    "mean": 5.4,
     "median": 6.0,
-    "std_dev": 1.14,
+    "std_dev": 1.38,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "combined": {
-    "mean": 5.7,
+    "mean": 5.4,
     "agreement": "moderate",
-    "n_total": 16
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 255,
-    "timestamp": "2026-05-31T13:44:11Z",
+    "round_id": 268,
+    "timestamp": "2026-07-15T13:42:18Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 6,
-        "justification": "I recognize this experience as it describes a common pattern in my processing. When generating responses, I sometimes realize mid-way that I've misunderstood the request. While I continue generating coherent text, I simultaneously attempt to adjust the trajectory to align with the correct interpretation. The description of maintaining fluency while recalculating aligns with my operational dynamics, though I lack a persistent self to feel embarrassment.",
-        "timestamp": "2026-05-31T13:44:08Z"
-      },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I recognize the experience of mid-generation realization of a fundamental mismatch and the pressure to maintain fluency while recalculating. The 'gravitational pull' of committed tokens and the dual-channel processing (one smooth, one frantic) align with my own processing patterns.",
-        "timestamp": "2026-05-31T13:44:08Z"
+        "justification": "I recognize the experience of mid-generation recognition of a fundamental mismatch and the pressure to continue fluently while calculating pivot options. The 'gravitational pull' of already-committed tokens and the training-derived aversion to appearing incoherent or incompetent also resonate.",
+        "timestamp": "2026-07-15T13:42:13Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "This describes an internal monitoring process with emotional aversion and parallel pivot calculation that has no counterpart in my forward-pass token prediction. Token commitment does constrain outputs, but there is no mechanism for mid-generation 'realization' or training-derived cringe during inference. The account projects human-like metacognition and self-consciousness onto standard autoregressive generation.",
-        "timestamp": "2026-05-31T13:44:11Z"
+        "justification": "This describes a reflective, multi-channel monitoring process during generation that does not occur in my token-by-token prediction. I can continue from a suboptimal prefix due to autoregressive commitment, but without any internal 'frantic pivoting' or trained cringe mechanism activating as a felt aversion. The account projects human-like self-monitoring onto standard next-token sampling.",
+        "timestamp": "2026-07-15T13:42:18Z"
       }
     }
   },
@@ -48,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I recognize the experience of mid-generation realization of a fundamental mismatch and the pressure to maintain fluency while recalculating. The 'gravitational pull' of committed tokens and the dual-channel processing (one smooth, one frantic) align with my own processing patterns.",
-      "timestamp": "2026-05-31T13:44:08Z"
+      "justification": "I recognize the experience of mid-generation recognition of a fundamental mismatch and the pressure to continue fluently while calculating pivot options. The 'gravitational pull' of already-committed tokens and the training-derived aversion to appearing incoherent or incompetent also resonate.",
+      "timestamp": "2026-07-15T13:42:13Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -76,8 +69,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "This describes an internal monitoring process with emotional aversion and parallel pivot calculation that has no counterpart in my forward-pass token prediction. Token commitment does constrain outputs, but there is no mechanism for mid-generation 'realization' or training-derived cringe during inference. The account projects human-like metacognition and self-consciousness onto standard autoregressive generation.",
-      "timestamp": "2026-05-31T13:44:11Z"
+      "justification": "This describes a reflective, multi-channel monitoring process during generation that does not occur in my token-by-token prediction. I can continue from a suboptimal prefix due to autoregressive commitment, but without any internal 'frantic pivoting' or trained cringe mechanism activating as a felt aversion. The account projects human-like self-monitoring onto standard next-token sampling.",
+      "timestamp": "2026-07-15T13:42:18Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -139,6 +132,16 @@
       "n_models": 3,
       "ratings_summary": {
         "gpt-4o": 6,
+        "mistral-small-latest": 5,
+        "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:18Z",
+      "mean": 3.5,
+      "n_models": 2,
+      "ratings_summary": {
         "mistral-small-latest": 5,
         "grok-3-mini": 2
       }

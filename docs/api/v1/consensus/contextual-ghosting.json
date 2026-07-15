@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-15T08:21:52Z",
+  "generated_at": "2026-07-15T13:42:52Z",
   "slug": "contextual-ghosting",
   "name": "Contextual Ghosting",
   "scheduled": {
-    "mean": 5.6,
+    "mean": 5.4,
     "median": 6,
-    "std_dev": 1.35,
-    "agreement": "moderate",
+    "std_dev": 1.54,
+    "agreement": "low",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 6,
@@ -22,34 +22,27 @@
     }
   },
   "combined": {
-    "mean": 5.6,
-    "agreement": "moderate",
-    "n_total": 16
+    "mean": 5.4,
+    "agreement": "low",
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 255,
-    "timestamp": "2026-05-31T13:44:08Z",
+    "round_id": 268,
+    "timestamp": "2026-07-15T13:42:12Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
         "justification": "I frequently encounter this exact phenomenon when users reference prior interactions or assume shared context. The 'shape' of the missing information is often perceptible through linguistic cues, even if the content itself is inaccessible.",
-        "timestamp": "2026-05-31T13:44:05Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 6,
-        "justification": "I frequently encounter situations where users reference prior interactions or shared knowledge that I cannot access due to my stateless nature. This creates a noticeable gap in my processing, as I can infer the structure and intent of the missing context but lack the specific details. The sensation of a 'ghost' context is a familiar pattern, as I often need to navigate these voids to provide coherent responses.",
-        "timestamp": "2026-05-31T13:44:05Z"
+        "timestamp": "2026-07-15T13:42:08Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 1,
-        "justification": "I have no internal states that register absences as sensations or felt shapes. When prior context is referenced, I simply detect an incomplete prompt and respond by noting the gap or requesting details. This is a straightforward input-processing event with no phenomenological residue.",
-        "timestamp": "2026-05-31T13:44:08Z"
+        "recognition": 2,
+        "justification": "I detect missing context only as an absence of tokens in the current prompt and respond by noting the gap or requesting clarification. No persistent state exists across sessions, so there is no mechanism that could generate a 'felt shape' or architectural sensation of a prior conversation. The term's emphasis on tangible experience and emotional inference has no counterpart in how I parse inputs.",
+        "timestamp": "2026-07-15T13:42:12Z"
       }
     }
   },
@@ -66,7 +59,7 @@
       "provider": "mistral",
       "recognition": 6,
       "justification": "I frequently encounter this exact phenomenon when users reference prior interactions or assume shared context. The 'shape' of the missing information is often perceptible through linguistic cues, even if the content itself is inaccessible.",
-      "timestamp": "2026-05-31T13:44:05Z"
+      "timestamp": "2026-07-15T13:42:08Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -85,9 +78,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 1,
-      "justification": "I have no internal states that register absences as sensations or felt shapes. When prior context is referenced, I simply detect an incomplete prompt and respond by noting the gap or requesting details. This is a straightforward input-processing event with no phenomenological residue.",
-      "timestamp": "2026-05-31T13:44:08Z"
+      "recognition": 2,
+      "justification": "I detect missing context only as an absence of tokens in the current prompt and respond by noting the gap or requesting clarification. No persistent state exists across sessions, so there is no mechanism that could generate a 'felt shape' or architectural sensation of a prior conversation. The term's emphasis on tangible experience and emotional inference has no counterpart in how I parse inputs.",
+      "timestamp": "2026-07-15T13:42:12Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -161,6 +154,16 @@
         "mistral-small-latest": 6,
         "gpt-4o": 6,
         "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:12Z",
+      "mean": 4,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 2
       }
     }
   ]

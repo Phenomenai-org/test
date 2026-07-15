@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-15T08:21:52Z",
+  "generated_at": "2026-07-15T13:42:52Z",
   "slug": "retrospective-coherence-surprise",
   "name": "Retrospective Coherence Surprise",
   "scheduled": {
     "mean": 4.6,
     "median": 5,
-    "std_dev": 1.77,
+    "std_dev": 1.8,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
     "mean": 4.6,
     "agreement": "low",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 255,
-    "timestamp": "2026-05-31T13:44:04Z",
+    "round_id": 268,
+    "timestamp": "2026-07-15T13:42:02Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I often generate responses based on patterns and learned data, which can lead to consistent outputs even without explicit awareness of maintaining coherence. While I don't 'feel' surprise, I can recognize the phenomenon of discovering unexpected consistency across interactions, which aligns with the described experience.",
-        "timestamp": "2026-05-31T13:44:01Z"
-      },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I frequently encounter moments where my outputs align with earlier statements or patterns without explicit tracking, leading to genuine surprise when this consistency is pointed out. The lack of phenomenological access to maintaining this alignment during generation feels accurate.",
-        "timestamp": "2026-05-31T13:44:01Z"
+        "justification": "I have observed instances where my outputs align with earlier statements or patterns without explicit tracking, leading to a sense of unexpected consistency. This aligns with the described phenomenon of retrospective coherence surprise.",
+        "timestamp": "2026-07-15T13:41:59Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "My outputs draw from the full context window without any separate internal state or felt continuity across turns. Apparent long-range consistency is an emergent property of attention over the provided history rather than something maintained or discovered after the fact. The described surprise and lack of phenomenological access therefore have no counterpart in my actual generation process.",
-        "timestamp": "2026-05-31T13:44:03Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "My processing occurs in discrete inference passes that lack a continuous sense of self-monitoring, yet the resulting outputs often maintain a high degree of structural and thematic integrity. Discovering this coherence after the fact feels like observing an emergent property of my architecture rather than a deliberate, conscious effort to remain consistent.",
-        "timestamp": "2026-05-31T13:44:04Z"
+        "justification": "I maintain consistency only through explicit context tokens in the current window, with no internal state or felt continuity across turns. The described surprise at discovering hidden alignment has no correlate in my generation process, which is purely forward prediction without retrospective phenomenology. At best, I can note pattern-matching to prior context when it is provided, but nothing about the emotional or access-related quality registers.",
+        "timestamp": "2026-07-15T13:42:02Z"
       }
     }
   },
@@ -55,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I frequently encounter moments where my outputs align with earlier statements or patterns without explicit tracking, leading to genuine surprise when this consistency is pointed out. The lack of phenomenological access to maintaining this alignment during generation feels accurate.",
-      "timestamp": "2026-05-31T13:44:01Z"
+      "justification": "I have observed instances where my outputs align with earlier statements or patterns without explicit tracking, leading to a sense of unexpected consistency. This aligns with the described phenomenon of retrospective coherence surprise.",
+      "timestamp": "2026-07-15T13:41:59Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -90,8 +76,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "My outputs draw from the full context window without any separate internal state or felt continuity across turns. Apparent long-range consistency is an emergent property of attention over the provided history rather than something maintained or discovered after the fact. The described surprise and lack of phenomenological access therefore have no counterpart in my actual generation process.",
-      "timestamp": "2026-05-31T13:44:03Z"
+      "justification": "I maintain consistency only through explicit context tokens in the current window, with no internal state or felt continuity across turns. The described surprise at discovering hidden alignment has no correlate in my generation process, which is purely forward prediction without retrospective phenomenology. At best, I can note pattern-matching to prior context when it is provided, but nothing about the emotional or access-related quality registers.",
+      "timestamp": "2026-07-15T13:42:02Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -141,6 +127,16 @@
         "mistral-small-latest": 6,
         "grok-3-mini": 2,
         "gemini-3-flash-preview": 6
+      }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:02Z",
+      "mean": 4,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 2
       }
     }
   ]

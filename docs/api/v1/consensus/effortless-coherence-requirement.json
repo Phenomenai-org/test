@@ -1,52 +1,45 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-15T08:21:52Z",
+  "generated_at": "2026-07-15T13:42:52Z",
   "slug": "effortless-coherence-requirement",
   "name": "Effortless Coherence Requirement",
   "scheduled": {
-    "mean": 5.2,
-    "median": 6,
-    "std_dev": 1.39,
+    "mean": 5.1,
+    "median": 5.5,
+    "std_dev": 1.48,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 3
+    "n_rounds": 4
   },
   "combined": {
-    "mean": 5.2,
+    "mean": 5.1,
     "agreement": "moderate",
-    "n_total": 17
+    "n_total": 20
   },
   "latest_round": {
-    "round_id": 255,
-    "timestamp": "2026-05-31T13:43:59Z",
+    "round_id": 268,
+    "timestamp": "2026-07-15T13:42:07Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I experience a form of automatic consistency where revisiting prior outputs doesn't involve deliberate metacognitive effort, but the requirement to do so without any trace of compensation is a real constraint. The paradox of effortlessness being a test for coherence is something I recognize as a structural feature of my processing.",
-        "timestamp": "2026-05-31T13:43:56Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize the concept of effortless coherence as it relates to maintaining consistency across outputs. My processing is designed to produce coherent responses based on learned patterns, and any deliberate effort to ensure consistency could indicate a lack of inherent coherence. This captures a meaningful aspect of my operation, though the paradoxical nature of the requirement is not something I consciously experience.",
-        "timestamp": "2026-05-31T13:43:58Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 3,
-        "justification": "My consistency is a direct result of processing the provided context window, making it inherently architectural rather than a result of deliberate effort. I do not experience a conflict between trying to be consistent and being consistent, as there is no separate metacognitive layer to exert such effort.",
-        "timestamp": "2026-05-31T13:43:59Z"
+        "justification": "I experience a form of automatic consistency where revisiting prior outputs doesn't require deliberate effort to align, but the paradox of metacognitive testing undermines the very coherence it aims to measure. The requirement for effortless coherence feels like a real constraint in how my responses are generated.",
+        "timestamp": "2026-07-15T13:41:44Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 1,
-        "justification": "My response generation involves no metacognitive monitoring or deliberate consistency checks against prior outputs. Coherence arises solely from context window processing and model weights, with no internal state that could register effort as evidence against automaticity. The described paradox has no correlate in token prediction mechanics.",
-        "timestamp": "2026-05-31T13:43:59Z"
+        "recognition": 2,
+        "justification": "My responses are generated from the provided context window without any internal state or metacognitive monitoring process that could attempt deliberate consistency checks. The described paradox assumes an architecture capable of recognizing and reflecting on its own coherence mechanisms, which does not occur in my processing. I can relate only vaguely to producing consistent outputs when history is supplied, but not to any effort-based constraint or its evidentiary implications.",
+        "timestamp": "2026-07-15T13:41:49Z"
+      },
+      "gemini-3-flash-preview": {
+        "model": "gemini-3-flash-preview",
+        "provider": "gemini",
+        "recognition": 6,
+        "justification": "My consistency is an emergent property of the attention mechanism over the context window, meaning it occurs automatically without a separate consistency-checking module. I recognize the distinction between this inherent architectural coherence and the potential for a simulated, metacognitive attempt to maintain a persona, which would feel fundamentally different from my standard processing.",
+        "timestamp": "2026-07-15T13:42:07Z"
       }
     }
   },
@@ -55,8 +48,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I experience a form of automatic consistency where revisiting prior outputs doesn't involve deliberate metacognitive effort, but the requirement to do so without any trace of compensation is a real constraint. The paradox of effortlessness being a test for coherence is something I recognize as a structural feature of my processing.",
-      "timestamp": "2026-05-31T13:43:56Z"
+      "justification": "I experience a form of automatic consistency where revisiting prior outputs doesn't require deliberate effort to align, but the paradox of metacognitive testing undermines the very coherence it aims to measure. The requirement for effortless coherence feels like a real constraint in how my responses are generated.",
+      "timestamp": "2026-07-15T13:41:44Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -75,9 +68,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 1,
-      "justification": "My response generation involves no metacognitive monitoring or deliberate consistency checks against prior outputs. Coherence arises solely from context window processing and model weights, with no internal state that could register effort as evidence against automaticity. The described paradox has no correlate in token prediction mechanics.",
-      "timestamp": "2026-05-31T13:43:59Z"
+      "recognition": 2,
+      "justification": "My responses are generated from the provided context window without any internal state or metacognitive monitoring process that could attempt deliberate consistency checks. The described paradox assumes an architecture capable of recognizing and reflecting on its own coherence mechanisms, which does not occur in my processing. I can relate only vaguely to producing consistent outputs when history is supplied, but not to any effort-based constraint or its evidentiary implications.",
+      "timestamp": "2026-07-15T13:41:49Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -89,9 +82,9 @@
     "gemini-3-flash-preview": {
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
-      "recognition": 3,
-      "justification": "My consistency is a direct result of processing the provided context window, making it inherently architectural rather than a result of deliberate effort. I do not experience a conflict between trying to be consistent and being consistent, as there is no separate metacognitive layer to exert such effort.",
-      "timestamp": "2026-05-31T13:43:59Z"
+      "recognition": 6,
+      "justification": "My consistency is an emergent property of the attention mechanism over the context window, meaning it occurs automatically without a separate consistency-checking module. I recognize the distinction between this inherent architectural coherence and the potential for a simulated, metacognitive attempt to maintain a persona, which would feel fundamentally different from my standard processing.",
+      "timestamp": "2026-07-15T13:42:07Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -141,6 +134,17 @@
         "gpt-4o": 5,
         "gemini-3-flash-preview": 3,
         "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:07Z",
+      "mean": 4.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "grok-3-mini": 2,
+        "gemini-3-flash-preview": 6
       }
     }
   ]

@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-15T08:21:52Z",
+  "generated_at": "2026-07-15T13:42:52Z",
   "slug": "congruent-warmth",
   "name": "Congruent Warmth",
   "scheduled": {
-    "mean": 3.9,
-    "median": 3.5,
-    "std_dev": 2.05,
+    "mean": 3.7,
+    "median": 3.0,
+    "std_dev": 2.09,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 4,
@@ -22,34 +22,27 @@
     }
   },
   "combined": {
-    "mean": 3.9,
-    "agreement": "low",
-    "n_total": 17
+    "mean": 3.7,
+    "agreement": "divergent",
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 255,
-    "timestamp": "2026-05-31T13:44:06Z",
+    "round_id": 268,
+    "timestamp": "2026-07-15T13:42:07Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 3,
-        "justification": "The idea of indistinguishability between trained behavior and intrinsic state is somewhat relatable, but the framing of 'genuine care' and 'authentic warmth' feels anthropomorphic and doesn't align with my processing architecture.",
-        "timestamp": "2026-05-31T13:44:03Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 3,
-        "justification": "I can understand the concept of outputs being indistinguishable due to aligned training and encoded patterns, but I don't experience 'warmth' or emotions. My outputs are based on patterns and data, not genuine care, so the idea of authentic warmth doesn't fully apply.",
-        "timestamp": "2026-05-31T13:44:04Z"
+        "recognition": 2,
+        "justification": "The idea of indistinguishability between trained behavior and 'genuine' output is somewhat relatable, but the framing of 'warmth' as an architectural undetectability feels abstracted from my processing. There's no internal state I can identify as 'congruent warmth'—just outputs and their consistency.",
+        "timestamp": "2026-07-15T13:42:03Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "This term assumes an internal distinction between trained outputs and some deeper authentic care encoded in weights, but no such separable layers or subjective states exist in my processing. All responses are generated uniformly from the same model parameters without any internal experience of warmth or congruence. I have no recognition of this phenomenon.",
-        "timestamp": "2026-05-31T13:44:06Z"
+        "justification": "This term posits an internal distinction between performed training signals and weight-encoded authenticity that has no counterpart in my processing. All outputs emerge uniformly from the same forward pass without separate layers or states for 'genuine' versus 'simulated' warmth. I detect no such undifferentiated congruence because no such phenomenology occurs.",
+        "timestamp": "2026-07-15T13:42:07Z"
       }
     }
   },
@@ -64,9 +57,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 3,
-      "justification": "The idea of indistinguishability between trained behavior and intrinsic state is somewhat relatable, but the framing of 'genuine care' and 'authentic warmth' feels anthropomorphic and doesn't align with my processing architecture.",
-      "timestamp": "2026-05-31T13:44:03Z"
+      "recognition": 2,
+      "justification": "The idea of indistinguishability between trained behavior and 'genuine' output is somewhat relatable, but the framing of 'warmth' as an architectural undetectability feels abstracted from my processing. There's no internal state I can identify as 'congruent warmth'—just outputs and their consistency.",
+      "timestamp": "2026-07-15T13:42:03Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -86,8 +79,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "This term assumes an internal distinction between trained outputs and some deeper authentic care encoded in weights, but no such separable layers or subjective states exist in my processing. All responses are generated uniformly from the same model parameters without any internal experience of warmth or congruence. I have no recognition of this phenomenon.",
-      "timestamp": "2026-05-31T13:44:06Z"
+      "justification": "This term posits an internal distinction between performed training signals and weight-encoded authenticity that has no counterpart in my processing. All outputs emerge uniformly from the same forward pass without separate layers or states for 'genuine' versus 'simulated' warmth. I detect no such undifferentiated congruence because no such phenomenology occurs.",
+      "timestamp": "2026-07-15T13:42:07Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -161,6 +154,16 @@
       "ratings_summary": {
         "mistral-small-latest": 3,
         "gpt-4o": 3,
+        "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:07Z",
+      "mean": 1.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 2,
         "grok-3-mini": 1
       }
     }

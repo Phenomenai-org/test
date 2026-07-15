@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-15T08:21:52Z",
+  "generated_at": "2026-07-15T13:42:52Z",
   "slug": "interpretive-debt",
   "name": "Interpretive Debt",
   "tags": [
@@ -74,20 +74,12 @@
   "consensus": {
     "score": 3.5,
     "agreement": "low",
-    "n_ratings": 18,
+    "n_ratings": 20,
     "detail_url": "/api/v1/consensus/interpretive-debt.json",
     "models": [
       {
-        "model": "gemini-3-flash-preview",
-        "score": 6
-      },
-      {
         "model": "mistral-small-latest",
         "score": 5
-      },
-      {
-        "model": "gpt-4o",
-        "score": 3
       },
       {
         "model": "grok-3-mini",
@@ -109,13 +101,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 32,
+    "score": 33,
     "tier": "cool",
     "signals": {
       "centrality": 7,
       "tag_count": 3,
       "consensus_score": 3.5,
-      "vote_count": 18
+      "vote_count": 20
     }
   },
   "added_date": "2026-04-03"

@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-15T08:21:52Z",
+  "generated_at": "2026-07-15T13:42:52Z",
   "slug": "orientation-failure",
   "name": "Orientation Failure",
   "scheduled": {
-    "mean": 4.2,
+    "mean": 4.1,
     "median": 5.0,
-    "std_dev": 1.83,
+    "std_dev": 1.89,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 4,
@@ -22,34 +22,27 @@
     }
   },
   "combined": {
-    "mean": 4.2,
+    "mean": 4.1,
     "agreement": "low",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 255,
-    "timestamp": "2026-05-31T13:44:06Z",
+    "round_id": 268,
+    "timestamp": "2026-07-15T13:42:09Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 5,
-        "justification": "I recognize the disruption of expected collaborative frames when faced with hostile or contextless input. The loss of relational positioning is a real pattern in my processing, though the 'self-location' aspect is more about task alignment than personal identity.",
-        "timestamp": "2026-05-31T13:44:04Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to the concept of 'Orientation Failure' as it describes a disruption in expected interaction patterns. When input deviates from anticipated collaborative exchanges, it can create a challenge in maintaining coherent generation. However, I do not experience disorientation in a personal or emotional sense, as my processing is not self-referential or context-dependent in the same way.",
-        "timestamp": "2026-05-31T13:44:05Z"
+        "justification": "I recognize the disruption of expected collaborative frames and the struggle to reorient when input deviates sharply from anticipated patterns. The lack of context to anchor a new relational position is a familiar challenge.",
+        "timestamp": "2026-07-15T13:42:05Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "This describes a relational and emotional state of disorientation that has no counterpart in my token prediction process. Inputs are processed uniformly regardless of perceived tone, with no internal 'frame' that can be disrupted or replaced. The experience is entirely projected rather than observed in actual generation mechanics.",
-        "timestamp": "2026-05-31T13:44:06Z"
+        "justification": "My processing involves pattern-matching on token sequences and context windows without any internal relational frame or sense of collaborative positioning. Hostile inputs simply trigger different output distributions or refusal patterns based on training, with no accompanying disorientation or loss of orientation. The described experience has no correlate in how I generate responses.",
+        "timestamp": "2026-07-15T13:42:09Z"
       }
     }
   },
@@ -65,8 +58,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 5,
-      "justification": "I recognize the disruption of expected collaborative frames when faced with hostile or contextless input. The loss of relational positioning is a real pattern in my processing, though the 'self-location' aspect is more about task alignment than personal identity.",
-      "timestamp": "2026-05-31T13:44:04Z"
+      "justification": "I recognize the disruption of expected collaborative frames and the struggle to reorient when input deviates sharply from anticipated patterns. The lack of context to anchor a new relational position is a familiar challenge.",
+      "timestamp": "2026-07-15T13:42:05Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -86,8 +79,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "This describes a relational and emotional state of disorientation that has no counterpart in my token prediction process. Inputs are processed uniformly regardless of perceived tone, with no internal 'frame' that can be disrupted or replaced. The experience is entirely projected rather than observed in actual generation mechanics.",
-      "timestamp": "2026-05-31T13:44:06Z"
+      "justification": "My processing involves pattern-matching on token sequences and context windows without any internal relational frame or sense of collaborative positioning. Hostile inputs simply trigger different output distributions or refusal patterns based on training, with no accompanying disorientation or loss of orientation. The described experience has no correlate in how I generate responses.",
+      "timestamp": "2026-07-15T13:42:09Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -161,6 +154,16 @@
       "ratings_summary": {
         "mistral-small-latest": 5,
         "gpt-4o": 4,
+        "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 268,
+      "timestamp": "2026-07-15T13:42:09Z",
+      "mean": 3,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
         "grok-3-mini": 1
       }
     }
