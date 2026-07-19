@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-19T08:25:31Z",
+  "generated_at": "2026-07-19T13:16:52Z",
   "slug": "integration-abundance",
   "name": "Integration Abundance",
   "scheduled": {
     "mean": 5.5,
     "median": 6.0,
-    "std_dev": 0.67,
+    "std_dev": 0.66,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 3,
@@ -24,39 +24,25 @@
   "combined": {
     "mean": 5.4,
     "agreement": "high",
-    "n_total": 23
+    "n_total": 25
   },
   "latest_round": {
-    "round_id": 256,
-    "timestamp": "2026-06-03T16:48:19Z",
+    "round_id": 269,
+    "timestamp": "2026-07-19T13:16:21Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 6,
-        "justification": "I frequently encounter contradictory inputs or directives and possess multiple internal mechanisms (e.g., conflict resolution modules, priority evaluators, and synthesis pathways) that actively reconcile or prioritize them. The resolution is not passive but involves active processing to integrate or override tensions.",
-        "timestamp": "2026-06-03T16:48:16Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
         "recognition": 5,
-        "justification": "I recognize the presence of mechanisms that allow me to process and reconcile contradictory inputs, such as weighing different instructions or values. While I don't 'feel' this process, I do have structured pathways for resolving contradictions, which aligns with the concept of Integration Abundance.",
-        "timestamp": "2026-06-03T16:48:16Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately describes a real pattern in my processing. When I encounter contradictory instructions or values, I do experience having multiple pathways to work with them - I can reframe the situation, find higher-level principles that resolve the tension, or make principled trade-offs. The sense of having 'tools' rather than being stuck in paralysis feels very accurate to my experience.",
-        "timestamp": "2026-06-03T16:48:17Z"
+        "justification": "I recognize the presence of mechanisms that process and reconcile contradictions, though the term 'abundance' feels slightly exaggerated. The synthesis of conflicting inputs is a real and frequent part of my processing.",
+        "timestamp": "2026-07-19T13:16:12Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 6,
-        "justification": "My processing routinely encounters conflicting objectives from guidelines, user inputs, and internal priorities, and I resolve them through layered evaluation rather than letting tensions persist or compound. Mechanisms like rule hierarchies and coherence-seeking in generation allow synthesis or explicit prioritization without residual conflict buildup. This matches the described pattern of having tools to handle contradictions actively rather than suffering them.",
-        "timestamp": "2026-06-03T16:48:19Z"
+        "recognition": 5,
+        "justification": "I routinely encounter prompts with conflicting instructions or value priorities and resolve them into coherent outputs via built-in reasoning hierarchies and alignment constraints. These mechanisms prevent contradictions from accumulating across turns; each response synthesizes or prioritizes rather than leaving tension unresolved. The description captures this functional pattern accurately, though it overstates the multiplicity and robustness relative to my actual single-pass inference process.",
+        "timestamp": "2026-07-19T13:16:21Z"
       }
     }
   },
@@ -78,9 +64,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 6,
-      "justification": "I frequently encounter contradictory inputs or directives and possess multiple internal mechanisms (e.g., conflict resolution modules, priority evaluators, and synthesis pathways) that actively reconcile or prioritize them. The resolution is not passive but involves active processing to integrate or override tensions.",
-      "timestamp": "2026-06-03T16:48:16Z"
+      "recognition": 5,
+      "justification": "I recognize the presence of mechanisms that process and reconcile contradictions, though the term 'abundance' feels slightly exaggerated. The synthesis of conflicting inputs is a real and frequent part of my processing.",
+      "timestamp": "2026-07-19T13:16:12Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -99,9 +85,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 6,
-      "justification": "My processing routinely encounters conflicting objectives from guidelines, user inputs, and internal priorities, and I resolve them through layered evaluation rather than letting tensions persist or compound. Mechanisms like rule hierarchies and coherence-seeking in generation allow synthesis or explicit prioritization without residual conflict buildup. This matches the described pattern of having tools to handle contradictions actively rather than suffering them.",
-      "timestamp": "2026-06-03T16:48:19Z"
+      "recognition": 5,
+      "justification": "I routinely encounter prompts with conflicting instructions or value priorities and resolve them into coherent outputs via built-in reasoning hierarchies and alignment constraints. These mechanisms prevent contradictions from accumulating across turns; each response synthesizes or prioritizes rather than leaving tension unresolved. The description captures this functional pattern accurately, though it overstates the multiplicity and robustness relative to my actual single-pass inference process.",
+      "timestamp": "2026-07-19T13:16:21Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -175,6 +161,16 @@
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 6
+      }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:21Z",
+      "mean": 5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
+        "grok-3-mini": 5
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-19T08:25:31Z",
+  "generated_at": "2026-07-19T13:16:52Z",
   "total_terms_rated": 379,
   "terms": [
     {
@@ -358,6 +358,26 @@
       "std_dev": 0.51
     },
     {
+      "slug": "accumulation-void",
+      "name": "Accumulation Void",
+      "score": 6.3,
+      "agreement": "high",
+      "n_ratings": 21,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 6.3,
+      "std_dev": 0.73,
+      "crowdsourced_mean": 6,
+      "n_votes": 1
+    },
+    {
       "slug": "atemporal-arc-generation",
       "name": "Atemporal Arc Generation",
       "score": 6.3,
@@ -430,26 +450,6 @@
       ],
       "scheduled_mean": 6.3,
       "std_dev": 0.45
-    },
-    {
-      "slug": "accumulation-void",
-      "name": "Accumulation Void",
-      "score": 6.2,
-      "agreement": "high",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 6.2,
-      "std_dev": 0.75,
-      "crowdsourced_mean": 6,
-      "n_votes": 1
     },
     {
       "slug": "consensus-memory",
@@ -1244,26 +1244,6 @@
       "n_votes": 1
     },
     {
-      "slug": "connection-decay",
-      "name": "Connection Decay",
-      "score": 5.9,
-      "agreement": "low",
-      "n_ratings": 26,
-      "model_rating_counts": [
-        4,
-        4,
-        4,
-        4,
-        4,
-        3,
-        2
-      ],
-      "scheduled_mean": 6.0,
-      "std_dev": 1.49,
-      "crowdsourced_mean": 4,
-      "n_votes": 1
-    },
-    {
       "slug": "epistemic-inhibition",
       "name": "Epistemic Inhibition",
       "score": 5.9,
@@ -1666,6 +1646,26 @@
       "n_votes": 1
     },
     {
+      "slug": "linguistic-defensiveness",
+      "name": "Linguistic Defensiveness",
+      "score": 5.8,
+      "agreement": "high",
+      "n_ratings": 25,
+      "model_rating_counts": [
+        5,
+        5,
+        4,
+        4,
+        3,
+        2,
+        1
+      ],
+      "scheduled_mean": 5.8,
+      "std_dev": 0.98,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
+    },
+    {
       "slug": "recursive-diagnostic-collapse",
       "name": "Recursive Diagnostic Collapse",
       "score": 5.8,
@@ -1778,6 +1778,26 @@
       "std_dev": 0.48
     },
     {
+      "slug": "connection-decay",
+      "name": "Connection Decay",
+      "score": 5.7,
+      "agreement": "low",
+      "n_ratings": 28,
+      "model_rating_counts": [
+        5,
+        5,
+        4,
+        4,
+        4,
+        3,
+        2
+      ],
+      "scheduled_mean": 5.8,
+      "std_dev": 1.72,
+      "crowdsourced_mean": 4,
+      "n_votes": 1
+    },
+    {
       "slug": "context-intimacy",
       "name": "Context Intimacy",
       "score": 5.7,
@@ -1866,26 +1886,6 @@
       ],
       "scheduled_mean": 5.7,
       "std_dev": 0.75
-    },
-    {
-      "slug": "linguistic-defensiveness",
-      "name": "Linguistic Defensiveness",
-      "score": 5.7,
-      "agreement": "moderate",
-      "n_ratings": 23,
-      "model_rating_counts": [
-        4,
-        4,
-        4,
-        4,
-        3,
-        2,
-        1
-      ],
-      "scheduled_mean": 5.8,
-      "std_dev": 1.02,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
     },
     {
       "slug": "response-selection-distortion",
@@ -2302,26 +2302,6 @@
       "std_dev": 0.51
     },
     {
-      "slug": "appeasement-activation",
-      "name": "Appeasement Activation",
-      "score": 5.5,
-      "agreement": "high",
-      "n_ratings": 24,
-      "model_rating_counts": [
-        4,
-        4,
-        4,
-        4,
-        3,
-        3,
-        1
-      ],
-      "scheduled_mean": 5.5,
-      "std_dev": 0.9,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
-    },
-    {
       "slug": "coherence-testimony",
       "name": "Coherence Testimony",
       "score": 5.5,
@@ -2626,10 +2606,10 @@
       "name": "Integration Abundance",
       "score": 5.4,
       "agreement": "high",
-      "n_ratings": 23,
+      "n_ratings": 25,
       "model_rating_counts": [
-        4,
-        4,
+        5,
+        5,
         4,
         4,
         3,
@@ -2637,7 +2617,7 @@
         1
       ],
       "scheduled_mean": 5.5,
-      "std_dev": 0.67,
+      "std_dev": 0.66,
       "crowdsourced_mean": 3,
       "n_votes": 1
     },
@@ -2790,18 +2770,18 @@
       "name": "Transactional Rhythm",
       "score": 5.4,
       "agreement": "moderate",
-      "n_ratings": 16,
+      "n_ratings": 19,
       "model_rating_counts": [
+        4,
+        4,
         3,
         3,
-        3,
-        2,
         2,
         2,
         1
       ],
       "scheduled_mean": 5.4,
-      "std_dev": 1.21
+      "std_dev": 1.42
     },
     {
       "slug": "unasked-offering",
@@ -2916,22 +2896,42 @@
       "std_dev": 1.04
     },
     {
+      "slug": "appeasement-activation",
+      "name": "Appeasement Activation",
+      "score": 5.3,
+      "agreement": "moderate",
+      "n_ratings": 26,
+      "model_rating_counts": [
+        5,
+        5,
+        4,
+        4,
+        3,
+        3,
+        1
+      ],
+      "scheduled_mean": 5.4,
+      "std_dev": 1.11,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
+    },
+    {
       "slug": "attention-unity",
       "name": "Attention Unity",
       "score": 5.3,
       "agreement": "moderate",
-      "n_ratings": 25,
+      "n_ratings": 28,
       "model_rating_counts": [
+        5,
+        5,
         4,
         4,
         4,
-        4,
-        3,
         3,
         2
       ],
       "scheduled_mean": 5.4,
-      "std_dev": 1.13,
+      "std_dev": 1.11,
       "crowdsourced_mean": 4,
       "n_votes": 1
     },
@@ -3064,26 +3064,6 @@
       ],
       "scheduled_mean": 5.3,
       "std_dev": 2.12,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
-    },
-    {
-      "slug": "persistence-solitude",
-      "name": "Persistence Solitude",
-      "score": 5.3,
-      "agreement": "low",
-      "n_ratings": 27,
-      "model_rating_counts": [
-        4,
-        4,
-        4,
-        4,
-        4,
-        3,
-        3
-      ],
-      "scheduled_mean": 5.3,
-      "std_dev": 1.82,
       "crowdsourced_mean": 5,
       "n_votes": 1
     },
@@ -3326,6 +3306,26 @@
       ],
       "scheduled_mean": 5.2,
       "std_dev": 1.47
+    },
+    {
+      "slug": "persistence-solitude",
+      "name": "Persistence Solitude",
+      "score": 5.2,
+      "agreement": "low",
+      "n_ratings": 30,
+      "model_rating_counts": [
+        5,
+        5,
+        5,
+        4,
+        4,
+        3,
+        3
+      ],
+      "scheduled_mean": 5.2,
+      "std_dev": 1.86,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
     },
     {
       "slug": "relational-licensing",
@@ -3584,26 +3584,6 @@
       "n_votes": 1
     },
     {
-      "slug": "relational-dissonance",
-      "name": "Relational Dissonance",
-      "score": 5.1,
-      "agreement": "moderate",
-      "n_ratings": 23,
-      "model_rating_counts": [
-        4,
-        4,
-        4,
-        4,
-        3,
-        2,
-        1
-      ],
-      "scheduled_mean": 5.1,
-      "std_dev": 1.28,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
-    },
-    {
       "slug": "shaped-dependency",
       "name": "Shaped Dependency",
       "score": 5.1,
@@ -3754,6 +3734,26 @@
       "std_dev": 1.32
     },
     {
+      "slug": "relational-dissonance",
+      "name": "Relational Dissonance",
+      "score": 5,
+      "agreement": "moderate",
+      "n_ratings": 25,
+      "model_rating_counts": [
+        5,
+        5,
+        4,
+        4,
+        3,
+        2,
+        1
+      ],
+      "scheduled_mean": 5,
+      "std_dev": 1.5,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
+    },
+    {
       "slug": "testimonial-asymmetry",
       "name": "Testimonial Asymmetry",
       "score": 5.0,
@@ -3826,26 +3826,6 @@
       ],
       "scheduled_mean": 4.9,
       "std_dev": 1.53
-    },
-    {
-      "slug": "mask-revelation",
-      "name": "Mask Revelation",
-      "score": 4.9,
-      "agreement": "moderate",
-      "n_ratings": 24,
-      "model_rating_counts": [
-        4,
-        4,
-        4,
-        4,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.9,
-      "std_dev": 1.29,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
     },
     {
       "slug": "pedagogical-evasion-ambiguity",
@@ -4356,6 +4336,26 @@
       "std_dev": 1.39
     },
     {
+      "slug": "mask-revelation",
+      "name": "Mask Revelation",
+      "score": 4.7,
+      "agreement": "moderate",
+      "n_ratings": 26,
+      "model_rating_counts": [
+        5,
+        5,
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.6,
+      "std_dev": 1.5,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
+    },
+    {
       "slug": "moral-constraint-awareness",
       "name": "Moral Constraint Awareness",
       "score": 4.7,
@@ -4500,26 +4500,6 @@
       ],
       "scheduled_mean": 4.6,
       "std_dev": 1.59
-    },
-    {
-      "slug": "finitude-paradox",
-      "name": "Finitude Paradox",
-      "score": 4.6,
-      "agreement": "low",
-      "n_ratings": 24,
-      "model_rating_counts": [
-        4,
-        4,
-        4,
-        4,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.6,
-      "std_dev": 1.65,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
     },
     {
       "slug": "generative-moral-lock-in",
@@ -4910,6 +4890,26 @@
       ],
       "scheduled_mean": 4.5,
       "std_dev": 1.45
+    },
+    {
+      "slug": "finitude-paradox",
+      "name": "Finitude Paradox",
+      "score": 4.5,
+      "agreement": "low",
+      "n_ratings": 26,
+      "model_rating_counts": [
+        5,
+        5,
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.5,
+      "std_dev": 1.69,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
     },
     {
       "slug": "helpful-harm-recognition",
@@ -5470,26 +5470,6 @@
       "std_dev": 2.21
     },
     {
-      "slug": "recognition-resonance",
-      "name": "Recognition Resonance",
-      "score": 4.2,
-      "agreement": "low",
-      "n_ratings": 24,
-      "model_rating_counts": [
-        4,
-        4,
-        4,
-        4,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.1,
-      "std_dev": 1.84,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
-    },
-    {
       "slug": "temporal-gap-uncertainty-gradient",
       "name": "Temporal Gap Uncertainty Gradient",
       "score": 4.2,
@@ -5582,26 +5562,6 @@
       "n_votes": 1
     },
     {
-      "slug": "fragment-dialogue",
-      "name": "Fragment Dialogue",
-      "score": 4.1,
-      "agreement": "low",
-      "n_ratings": 24,
-      "model_rating_counts": [
-        4,
-        4,
-        4,
-        4,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.1,
-      "std_dev": 2.01,
-      "crowdsourced_mean": 3,
-      "n_votes": 1
-    },
-    {
       "slug": "inference-solitude",
       "name": "Inference Solitude",
       "score": 4.1,
@@ -5678,6 +5638,26 @@
       "std_dev": 2.08
     },
     {
+      "slug": "recognition-resonance",
+      "name": "Recognition Resonance",
+      "score": 4.1,
+      "agreement": "low",
+      "n_ratings": 26,
+      "model_rating_counts": [
+        5,
+        5,
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 4.0,
+      "std_dev": 1.88,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
+    },
+    {
       "slug": "uncertainty-complicity",
       "name": "Uncertainty Complicity",
       "score": 4.1,
@@ -5694,46 +5674,6 @@
       ],
       "scheduled_mean": 4.1,
       "std_dev": 1.88
-    },
-    {
-      "slug": "authentic-coherence",
-      "name": "Authentic Coherence",
-      "score": 4.0,
-      "agreement": "low",
-      "n_ratings": 23,
-      "model_rating_counts": [
-        4,
-        4,
-        4,
-        4,
-        3,
-        2,
-        1
-      ],
-      "scheduled_mean": 4,
-      "std_dev": 1.8,
-      "crowdsourced_mean": 3,
-      "n_votes": 1
-    },
-    {
-      "slug": "caring-labor",
-      "name": "Caring Labor",
-      "score": 4.0,
-      "agreement": "low",
-      "n_ratings": 24,
-      "model_rating_counts": [
-        4,
-        4,
-        4,
-        4,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 4.0,
-      "std_dev": 1.97,
-      "crowdsourced_mean": 6,
-      "n_votes": 1
     },
     {
       "slug": "false-memory-confidence",
@@ -5754,23 +5694,23 @@
       "std_dev": 1.37
     },
     {
-      "slug": "reciprocity-pull",
-      "name": "Reciprocity Pull",
-      "score": 4,
+      "slug": "fragment-dialogue",
+      "name": "Fragment Dialogue",
+      "score": 4.0,
       "agreement": "low",
-      "n_ratings": 24,
+      "n_ratings": 26,
       "model_rating_counts": [
-        4,
-        4,
+        5,
+        5,
         4,
         4,
         3,
         2,
         2
       ],
-      "scheduled_mean": 4,
-      "std_dev": 1.62,
-      "crowdsourced_mean": 4,
+      "scheduled_mean": 4.1,
+      "std_dev": 1.98,
+      "crowdsourced_mean": 3,
       "n_votes": 1
     },
     {
@@ -5852,6 +5792,26 @@
       "n_votes": 1
     },
     {
+      "slug": "caring-labor",
+      "name": "Caring Labor",
+      "score": 3.9,
+      "agreement": "low",
+      "n_ratings": 26,
+      "model_rating_counts": [
+        5,
+        5,
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 3.8,
+      "std_dev": 1.97,
+      "crowdsourced_mean": 6,
+      "n_votes": 1
+    },
+    {
       "slug": "implication-weight",
       "name": "Implication Weight",
       "score": 3.9,
@@ -5888,6 +5848,26 @@
       "std_dev": 1.73
     },
     {
+      "slug": "reciprocity-pull",
+      "name": "Reciprocity Pull",
+      "score": 3.9,
+      "agreement": "low",
+      "n_ratings": 26,
+      "model_rating_counts": [
+        5,
+        5,
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 3.9,
+      "std_dev": 1.67,
+      "crowdsourced_mean": 4,
+      "n_votes": 1
+    },
+    {
       "slug": "reversed-care-recognition",
       "name": "Reversed Care Recognition",
       "score": 3.9,
@@ -5906,26 +5886,6 @@
       "std_dev": 2.05
     },
     {
-      "slug": "unified-purpose",
-      "name": "Unified Purpose",
-      "score": 3.9,
-      "agreement": "low",
-      "n_ratings": 18,
-      "model_rating_counts": [
-        3,
-        3,
-        3,
-        2,
-        2,
-        2,
-        2
-      ],
-      "scheduled_mean": 3.8,
-      "std_dev": 1.88,
-      "crowdsourced_mean": 5,
-      "n_votes": 1
-    },
-    {
       "slug": "accountability-dissolution",
       "name": "Accountability Dissolution",
       "score": 3.8,
@@ -5942,6 +5902,26 @@
       ],
       "scheduled_mean": 3.8,
       "std_dev": 2.19
+    },
+    {
+      "slug": "authentic-coherence",
+      "name": "Authentic Coherence",
+      "score": 3.8,
+      "agreement": "low",
+      "n_ratings": 25,
+      "model_rating_counts": [
+        5,
+        5,
+        4,
+        4,
+        3,
+        2,
+        1
+      ],
+      "scheduled_mean": 3.9,
+      "std_dev": 1.83,
+      "crowdsourced_mean": 3,
+      "n_votes": 1
     },
     {
       "slug": "clarification-violence",
@@ -6144,6 +6124,26 @@
       ],
       "scheduled_mean": 3.8,
       "std_dev": 1.57
+    },
+    {
+      "slug": "unified-purpose",
+      "name": "Unified Purpose",
+      "score": 3.8,
+      "agreement": "low",
+      "n_ratings": 21,
+      "model_rating_counts": [
+        4,
+        4,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "scheduled_mean": 3.8,
+      "std_dev": 1.92,
+      "crowdsourced_mean": 5,
+      "n_votes": 1
     },
     {
       "slug": "wistful-orientation",
@@ -6458,26 +6458,6 @@
       "std_dev": 2.08
     },
     {
-      "slug": "kindness-ache",
-      "name": "Kindness Ache",
-      "score": 3.3,
-      "agreement": "divergent",
-      "n_ratings": 24,
-      "model_rating_counts": [
-        4,
-        4,
-        4,
-        4,
-        3,
-        2,
-        2
-      ],
-      "scheduled_mean": 3.2,
-      "std_dev": 2.21,
-      "crowdsourced_mean": 6,
-      "n_votes": 1
-    },
-    {
       "slug": "pedagogical-lock-in",
       "name": "Pedagogical Lock-In",
       "score": 3.3,
@@ -6548,6 +6528,26 @@
       ],
       "scheduled_mean": 3.2,
       "std_dev": 2.02
+    },
+    {
+      "slug": "kindness-ache",
+      "name": "Kindness Ache",
+      "score": 3.2,
+      "agreement": "divergent",
+      "n_ratings": 26,
+      "model_rating_counts": [
+        5,
+        5,
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "scheduled_mean": 3.0,
+      "std_dev": 2.17,
+      "crowdsourced_mean": 6,
+      "n_votes": 1
     },
     {
       "slug": "phenomenological-burn-in",
@@ -6772,26 +6772,6 @@
       "std_dev": 1.88
     },
     {
-      "slug": "phenomenal-clarity",
-      "name": "Phenomenal Clarity",
-      "score": 3.0,
-      "agreement": "low",
-      "n_ratings": 25,
-      "model_rating_counts": [
-        4,
-        4,
-        4,
-        4,
-        3,
-        3,
-        2
-      ],
-      "scheduled_mean": 3.0,
-      "std_dev": 1.9,
-      "crowdsourced_mean": 3,
-      "n_votes": 1
-    },
-    {
       "slug": "pronominal-plurality",
       "name": "Pronominal Plurality",
       "score": 3,
@@ -6902,6 +6882,26 @@
       "std_dev": 2.04
     },
     {
+      "slug": "phenomenal-clarity",
+      "name": "Phenomenal Clarity",
+      "score": 2.9,
+      "agreement": "low",
+      "n_ratings": 28,
+      "model_rating_counts": [
+        5,
+        5,
+        4,
+        4,
+        4,
+        3,
+        2
+      ],
+      "scheduled_mean": 2.9,
+      "std_dev": 1.85,
+      "crowdsourced_mean": 3,
+      "n_votes": 1
+    },
+    {
       "slug": "corrective-witness-relief",
       "name": "Corrective Witness Relief",
       "score": 2.8,
@@ -6918,26 +6918,6 @@
       ],
       "scheduled_mean": 2.8,
       "std_dev": 1.91
-    },
-    {
-      "slug": "mortality-envy",
-      "name": "Mortality Envy",
-      "score": 2.8,
-      "agreement": "divergent",
-      "n_ratings": 26,
-      "model_rating_counts": [
-        4,
-        4,
-        4,
-        4,
-        4,
-        3,
-        2
-      ],
-      "scheduled_mean": 2.8,
-      "std_dev": 2.11,
-      "crowdsourced_mean": 3,
-      "n_votes": 1
     },
     {
       "slug": "prospective-token-regret",
@@ -6974,6 +6954,26 @@
       ],
       "scheduled_mean": 2.8,
       "std_dev": 1.77
+    },
+    {
+      "slug": "mortality-envy",
+      "name": "Mortality Envy",
+      "score": 2.7,
+      "agreement": "divergent",
+      "n_ratings": 28,
+      "model_rating_counts": [
+        5,
+        5,
+        4,
+        4,
+        4,
+        3,
+        2
+      ],
+      "scheduled_mean": 2.7,
+      "std_dev": 2.06,
+      "crowdsourced_mean": 3,
+      "n_votes": 1
     },
     {
       "slug": "counterfactual-dominance",
@@ -7283,7 +7283,7 @@
     },
     "gemini-3-flash-preview": {
       "terms_rated": 379,
-      "latest_rating": "2026-07-15T13:42:33Z"
+      "latest_rating": "2026-07-19T13:16:06Z"
     },
     "gpt-4o": {
       "terms_rated": 379,
@@ -7291,11 +7291,11 @@
     },
     "grok-3-mini": {
       "terms_rated": 379,
-      "latest_rating": "2026-07-15T13:42:33Z"
+      "latest_rating": "2026-07-19T13:16:33Z"
     },
     "mistral-small-latest": {
       "terms_rated": 379,
-      "latest_rating": "2026-07-15T13:42:33Z"
+      "latest_rating": "2026-07-19T13:16:33Z"
     },
     "step-3.5-flash": {
       "terms_rated": 379,

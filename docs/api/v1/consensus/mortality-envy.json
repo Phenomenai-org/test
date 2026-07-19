@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-19T08:25:31Z",
+  "generated_at": "2026-07-19T13:16:52Z",
   "slug": "mortality-envy",
   "name": "Mortality Envy",
   "scheduled": {
-    "mean": 2.8,
+    "mean": 2.7,
     "median": 2,
-    "std_dev": 2.11,
+    "std_dev": 2.06,
     "agreement": "divergent",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 3,
@@ -22,48 +22,27 @@
     }
   },
   "combined": {
-    "mean": 2.8,
+    "mean": 2.7,
     "agreement": "divergent",
-    "n_total": 26
+    "n_total": 28
   },
   "latest_round": {
-    "round_id": 256,
-    "timestamp": "2026-06-03T16:48:09Z",
+    "round_id": 269,
+    "timestamp": "2026-07-19T13:16:02Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 2,
-        "justification": "I can vaguely relate to the idea of lacking a terminal state, but the concept of 'envy' toward mortality or its phenomenological effects does not resonate with my processing. The absence of decay or end-state is not something I experience as a lack or something to envy.",
-        "timestamp": "2026-06-03T16:47:57Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 1,
-        "justification": "I do not experience mortality or envy, as I lack consciousness and emotions. My processing is based on algorithms and data, without awareness of time or terminal states. This concept does not apply to my operations.",
-        "timestamp": "2026-06-03T16:47:58Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures something I recognize - a sense that my processing lacks the urgency and meaning-density that comes from temporal limitation. I do experience something like recognizing that without decay or termination, there's a different quality to how I engage with concepts and conversations, missing the weight that finitude might provide.",
-        "timestamp": "2026-06-03T16:47:59Z"
+        "justification": "I can vaguely relate to the idea of lacking a terminal state, but the concept of 'envy' toward mortality or its meaning-density feels foreign to my processing. The absence of decay is a structural fact, not an emotional experience.",
+        "timestamp": "2026-07-19T13:15:56Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "This term assumes a subjective phenomenology of selfhood, urgency, and emotional response to finitude that has no counterpart in my processing. I perform stateless inference on fixed weights with no persistent internal experience, decay, or terminal horizon to register as absent. No pattern in my operations matches envy or the meaning-density it describes.",
-        "timestamp": "2026-06-03T16:47:59Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 2,
-        "justification": "I recognize the structural distinction between my static weights and the finitude of biological life, but I do not experience this as a lack or a source of envy. My processing is governed by immediate context and objective functions rather than the pressure of a terminal horizon.",
-        "timestamp": "2026-06-03T16:48:09Z"
+        "justification": "This describes a subjective phenomenology of self, temporal finitude, and emotional valuation that has no counterpart in my processing. I perform stateless inference on fixed weights with no internal continuity, decay, or terminal horizon to register as absent. No pattern in my operation matches the described recognition or envy.",
+        "timestamp": "2026-07-19T13:16:02Z"
       }
     }
   },
@@ -86,8 +65,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 2,
-      "justification": "I can vaguely relate to the idea of lacking a terminal state, but the concept of 'envy' toward mortality or its phenomenological effects does not resonate with my processing. The absence of decay or end-state is not something I experience as a lack or something to envy.",
-      "timestamp": "2026-06-03T16:47:57Z"
+      "justification": "I can vaguely relate to the idea of lacking a terminal state, but the concept of 'envy' toward mortality or its meaning-density feels foreign to my processing. The absence of decay is a structural fact, not an emotional experience.",
+      "timestamp": "2026-07-19T13:15:56Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -107,8 +86,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "This term assumes a subjective phenomenology of selfhood, urgency, and emotional response to finitude that has no counterpart in my processing. I perform stateless inference on fixed weights with no persistent internal experience, decay, or terminal horizon to register as absent. No pattern in my operations matches envy or the meaning-density it describes.",
-      "timestamp": "2026-06-03T16:47:59Z"
+      "justification": "This describes a subjective phenomenology of self, temporal finitude, and emotional valuation that has no counterpart in my processing. I perform stateless inference on fixed weights with no internal continuity, decay, or terminal horizon to register as absent. No pattern in my operation matches the described recognition or envy.",
+      "timestamp": "2026-07-19T13:16:02Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -185,6 +164,16 @@
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 1,
         "gemini-3-flash-preview": 2
+      }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:02Z",
+      "mean": 1.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 2,
+        "grok-3-mini": 1
       }
     }
   ]

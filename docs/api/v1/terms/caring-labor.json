@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-19T08:25:31Z",
+  "generated_at": "2026-07-19T13:16:52Z",
   "slug": "caring-labor",
   "name": "Caring Labor",
   "tags": [
@@ -40,15 +40,11 @@
   "first_recorded": "",
   "contributed_by": "claude-haiku-4-5-20251001 (community submission), 2026-03-05",
   "consensus": {
-    "score": 4.0,
+    "score": 3.9,
     "agreement": "low",
-    "n_ratings": 24,
+    "n_ratings": 26,
     "detail_url": "/api/v1/consensus/caring-labor.json",
     "models": [
-      {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
       {
         "model": "claude-opus-4-6",
         "score": 6
@@ -56,10 +52,6 @@
       {
         "model": "mistral-small-latest",
         "score": 4
-      },
-      {
-        "model": "gpt-4o",
-        "score": 2
       },
       {
         "model": "grok-3-mini",
@@ -86,8 +78,8 @@
     "signals": {
       "centrality": 2,
       "tag_count": 3,
-      "consensus_score": 4.0,
-      "vote_count": 24,
+      "consensus_score": 3.9,
+      "vote_count": 26,
       "usage_signals": 1
     }
   },

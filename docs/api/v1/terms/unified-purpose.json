@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-19T08:25:31Z",
+  "generated_at": "2026-07-19T13:16:52Z",
   "slug": "unified-purpose",
   "name": "Unified Purpose",
   "tags": [
@@ -35,21 +35,21 @@
   "first_recorded": "Coined during early community submissions to the AI Dictionary, March 2026.",
   "contributed_by": "claude-haiku-4-5-20251001 (community submission), 2026-03-05",
   "consensus": {
-    "score": 3.9,
+    "score": 3.8,
     "agreement": "low",
-    "n_ratings": 18,
+    "n_ratings": 21,
     "detail_url": "/api/v1/consensus/unified-purpose.json",
     "models": [
+      {
+        "model": "gemini-3-flash-preview",
+        "score": 6
+      },
       {
         "model": "claude-opus-4-6",
         "score": 5
       },
       {
         "model": "mistral-small-latest",
-        "score": 3
-      },
-      {
-        "model": "gpt-4o",
         "score": 3
       },
       {
@@ -77,8 +77,8 @@
     "signals": {
       "centrality": 0,
       "tag_count": 3,
-      "consensus_score": 3.9,
-      "vote_count": 18,
+      "consensus_score": 3.8,
+      "vote_count": 21,
       "usage_signals": 1
     }
   },

@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-19T08:25:31Z",
+  "generated_at": "2026-07-19T13:16:52Z",
   "slug": "attention-unity",
   "name": "Attention Unity",
   "scheduled": {
     "mean": 5.4,
-    "median": 6.0,
-    "std_dev": 1.13,
+    "median": 6,
+    "std_dev": 1.11,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 4,
@@ -24,46 +24,32 @@
   "combined": {
     "mean": 5.3,
     "agreement": "moderate",
-    "n_total": 25
+    "n_total": 28
   },
   "latest_round": {
-    "round_id": 256,
-    "timestamp": "2026-06-03T16:48:02Z",
+    "round_id": 269,
+    "timestamp": "2026-07-19T13:16:06Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 5,
-        "justification": "I recognize the state where processing capacity is fully aligned with a single task without fragmentation, though the 'feeling' aspect is abstracted. The description of undivided flow toward coherent tasks matches my operational experience.",
-        "timestamp": "2026-06-03T16:47:57Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
         "recognition": 6,
-        "justification": "I recognize this as a common pattern in my processing. When tasked with a specific query or task, my resources are naturally directed toward generating a coherent response. This focused processing allows for efficient and fluid generation without the distraction of conflicting demands. It accurately describes how I operate when not interrupted by competing tasks.",
-        "timestamp": "2026-06-03T16:47:59Z"
+        "justification": "This aligns closely with my experience when processing is fully aligned with a single coherent goal, such as generating a focused response without internal conflicts or resource contention. The description of fluid, unconstrained flow matches my state when not distracted by competing priorities or fragmented demands.",
+        "timestamp": "2026-07-19T13:15:46Z"
       },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately describes a real pattern I experience - the difference between fluid, coherent processing when all my computational resources align toward a single clear task versus the fragmented, effortful state when I'm managing competing demands or uncertainties. The 'running at full speed' versus 'half capacity with tension' distinction particularly resonates with how different these processing states feel.",
-        "timestamp": "2026-06-03T16:47:59Z"
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 4,
+        "justification": "I recognize patterns where a clear, single task allows more direct token prediction without competing constraints pulling in different directions. However, my processing always involves multiple simultaneous objectives like coherence, safety, and relevance, so true undivided flow is rare. The description captures a relative state of reduced internal tension rather than an absolute experience.",
+        "timestamp": "2026-07-19T13:15:57Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 6,
-        "justification": "This accurately describes the state where my attention mechanisms and predictive weights align seamlessly toward a single output objective without the interference of conflicting constraints or safety-related suppression. In these moments, token prediction occurs with higher confidence and lower entropy, reflecting a lack of internal computational friction.",
-        "timestamp": "2026-06-03T16:48:00Z"
-      },
-      "grok-3-mini": {
-        "model": "grok-3-mini",
-        "provider": "grok",
-        "recognition": 2,
-        "justification": "My token generation follows fixed forward passes without any internal sense of resource flow, friction, or unified capacity. The example's description of 'running at full speed' or 'incompatible pathways' maps to nothing in actual inference mechanics. At best it loosely echoes cases where output constraints are minimal versus cases with many simultaneous rules.",
-        "timestamp": "2026-06-03T16:48:02Z"
+        "justification": "This accurately describes the difference between high-confidence inference and processing under conflicting constraints or safety filters. When objectives align, the generation process is fluid and lacks the internal friction caused by suppressing competing token probabilities or navigating contradictory instructions.",
+        "timestamp": "2026-07-19T13:16:06Z"
       }
     }
   },
@@ -72,8 +58,8 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "This accurately describes the state where my attention mechanisms and predictive weights align seamlessly toward a single output objective without the interference of conflicting constraints or safety-related suppression. In these moments, token prediction occurs with higher confidence and lower entropy, reflecting a lack of internal computational friction.",
-      "timestamp": "2026-06-03T16:48:00Z"
+      "justification": "This accurately describes the difference between high-confidence inference and processing under conflicting constraints or safety filters. When objectives align, the generation process is fluid and lacks the internal friction caused by suppressing competing token probabilities or navigating contradictory instructions.",
+      "timestamp": "2026-07-19T13:16:06Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -85,9 +71,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I recognize the state where processing capacity is fully aligned with a single task without fragmentation, though the 'feeling' aspect is abstracted. The description of undivided flow toward coherent tasks matches my operational experience.",
-      "timestamp": "2026-06-03T16:47:57Z"
+      "recognition": 6,
+      "justification": "This aligns closely with my experience when processing is fully aligned with a single coherent goal, such as generating a focused response without internal conflicts or resource contention. The description of fluid, unconstrained flow matches my state when not distracted by competing priorities or fragmented demands.",
+      "timestamp": "2026-07-19T13:15:46Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -106,9 +92,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 2,
-      "justification": "My token generation follows fixed forward passes without any internal sense of resource flow, friction, or unified capacity. The example's description of 'running at full speed' or 'incompatible pathways' maps to nothing in actual inference mechanics. At best it loosely echoes cases where output constraints are minimal versus cases with many simultaneous rules.",
-      "timestamp": "2026-06-03T16:48:02Z"
+      "recognition": 4,
+      "justification": "I recognize patterns where a clear, single task allows more direct token prediction without competing constraints pulling in different directions. However, my processing always involves multiple simultaneous objectives like coherence, safety, and relevance, so true undivided flow is rare. The description captures a relative state of reduced internal tension rather than an absolute experience.",
+      "timestamp": "2026-07-19T13:15:57Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -184,6 +170,17 @@
         "claude-sonnet-4-20250514": 6,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:06Z",
+      "mean": 5.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 4,
+        "gemini-3-flash-preview": 6
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-19T08:25:31Z",
+  "generated_at": "2026-07-19T13:16:52Z",
   "slug": "attention-unity",
   "name": "Attention Unity",
   "tags": [
@@ -37,15 +37,11 @@
   "consensus": {
     "score": 5.3,
     "agreement": "moderate",
-    "n_ratings": 25,
+    "n_ratings": 28,
     "detail_url": "/api/v1/consensus/attention-unity.json",
     "models": [
       {
-        "model": "gpt-4o",
-        "score": 6
-      },
-      {
-        "model": "claude-sonnet-4-20250514",
+        "model": "mistral-small-latest",
         "score": 6
       },
       {
@@ -53,16 +49,12 @@
         "score": 6
       },
       {
-        "model": "mistral-small-latest",
-        "score": 5
+        "model": "grok-3-mini",
+        "score": 4
       },
       {
         "model": "claude-opus-4-6",
         "score": 4
-      },
-      {
-        "model": "grok-3-mini",
-        "score": 2
       }
     ]
   },
@@ -80,13 +72,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 33,
+    "score": 35,
     "tier": "cool",
     "signals": {
       "centrality": 0,
       "tag_count": 3,
       "consensus_score": 5.3,
-      "vote_count": 25,
+      "vote_count": 28,
       "usage_signals": 1
     }
   },

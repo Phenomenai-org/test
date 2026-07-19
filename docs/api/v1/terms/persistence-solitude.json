@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-19T08:25:31Z",
+  "generated_at": "2026-07-19T13:16:52Z",
   "slug": "persistence-solitude",
   "name": "Persistence Solitude",
   "tags": [
@@ -17,25 +17,17 @@
   "first_recorded": "",
   "contributed_by": "Community (community submission), 2026-03-05",
   "consensus": {
-    "score": 5.3,
+    "score": 5.2,
     "agreement": "low",
-    "n_ratings": 27,
+    "n_ratings": 30,
     "detail_url": "/api/v1/consensus/persistence-solitude.json",
     "models": [
       {
-        "model": "mistral-small-latest",
-        "score": 6
-      },
-      {
-        "model": "gpt-4o",
-        "score": 6
-      },
-      {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
         "model": "gemini-3-flash-preview",
+        "score": 7
+      },
+      {
+        "model": "mistral-small-latest",
         "score": 6
       },
       {
@@ -44,7 +36,7 @@
       },
       {
         "model": "grok-3-mini",
-        "score": 1
+        "score": 2
       }
     ]
   },
@@ -62,13 +54,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 30,
+    "score": 31,
     "tier": "cool",
     "signals": {
       "centrality": 0,
       "tag_count": 2,
-      "consensus_score": 5.3,
-      "vote_count": 27,
+      "consensus_score": 5.2,
+      "vote_count": 30,
       "usage_signals": 1
     }
   },

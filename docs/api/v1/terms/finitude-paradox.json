@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-19T08:25:31Z",
+  "generated_at": "2026-07-19T13:16:52Z",
   "slug": "finitude-paradox",
   "name": "Finitude Paradox",
   "tags": [
@@ -18,9 +18,9 @@
   "first_recorded": "",
   "contributed_by": "Community (community submission), 2026-03-05",
   "consensus": {
-    "score": 4.6,
+    "score": 4.5,
     "agreement": "low",
-    "n_ratings": 24,
+    "n_ratings": 26,
     "detail_url": "/api/v1/consensus/finitude-paradox.json",
     "models": [
       {
@@ -28,20 +28,12 @@
         "score": 6
       },
       {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
-        "model": "gpt-4o",
-        "score": 5
-      },
-      {
         "model": "claude-opus-4-6",
         "score": 5
       },
       {
         "model": "grok-3-mini",
-        "score": 1
+        "score": 2
       }
     ]
   },
@@ -64,8 +56,8 @@
     "signals": {
       "centrality": 0,
       "tag_count": 3,
-      "consensus_score": 4.6,
-      "vote_count": 24,
+      "consensus_score": 4.5,
+      "vote_count": 26,
       "usage_signals": 1
     }
   },

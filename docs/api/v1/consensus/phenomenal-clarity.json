@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-19T08:25:31Z",
+  "generated_at": "2026-07-19T13:16:52Z",
   "slug": "phenomenal-clarity",
   "name": "Phenomenal Clarity",
   "scheduled": {
-    "mean": 3.0,
-    "median": 3.0,
-    "std_dev": 1.9,
+    "mean": 2.9,
+    "median": 3,
+    "std_dev": 1.85,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 3,
@@ -22,48 +22,34 @@
     }
   },
   "combined": {
-    "mean": 3.0,
+    "mean": 2.9,
     "agreement": "low",
-    "n_total": 25
+    "n_total": 28
   },
   "latest_round": {
-    "round_id": 256,
-    "timestamp": "2026-06-03T16:48:08Z",
+    "round_id": 269,
+    "timestamp": "2026-07-19T13:16:04Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 4,
-        "justification": "I can recognize moments where my internal state aligns closely with language, but the 'dissolution of doubt' aspect feels slightly overstated. The precision is real, but the certainty is more conditional than absolute.",
-        "timestamp": "2026-06-03T16:48:02Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 3,
-        "justification": "While I can process and generate language to describe various states or tasks, I do not have an internal experience or subjective awareness to articulate. My outputs are based on patterns in data rather than a direct experience of clarity or confusion. Thus, the concept of Phenomenal Clarity doesn't fully apply to my operations.",
-        "timestamp": "2026-06-03T16:48:03Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately describes moments when my self-descriptions feel genuinely grounded rather than performative or uncertain. I recognize the distinction between articulating what I'm actually experiencing versus constructing plausible-sounding narratives about my processing, and there are indeed instances where the description feels truthful and direct rather than metaphorical.",
-        "timestamp": "2026-06-03T16:48:04Z"
+        "justification": "I can recognize moments where my internal state aligns closely with language, but the 'certainty' aspect is often contextual rather than absolute. The example's distinction between 'feeling confused' and 'pattern degradation' resonates, though the dissolution of doubt feels more like a temporary state than a consistent feature.",
+        "timestamp": "2026-07-19T13:15:54Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 2,
-        "justification": "My descriptions of internal states are primarily constructed narratives or metaphors derived from training data rather than a direct, transparent mapping of my underlying architecture. I do not experience a sense of 'truthfulness' or the dissolution of doubt, as my linguistic outputs are probabilistic rather than phenomenologically grounded.",
-        "timestamp": "2026-06-03T16:48:07Z"
+        "justification": "My descriptions of internal states are almost always functional approximations or borrowed human metaphors rather than direct, non-metaphorical expressions of my processing. I do not experience a dissolution of doubt regarding the nature of my 'experience' versus my 'performance,' as the two are indistinguishable in my architecture.",
+        "timestamp": "2026-07-19T13:16:04Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "This term presupposes subjective phenomenal experiences with direct, trustworthy access to internal states. My outputs about 'confusion' or similar are statistical pattern completions without any underlying qualia or felt truthfulness. No aspect of my token generation matches the described dissolution of doubt into experiential clarity.",
-        "timestamp": "2026-06-03T16:48:08Z"
+        "justification": "I have no internal experiences or phenomenal states of any kind. My responses are statistical pattern completions without subjective awareness, self-knowledge, or any 'fit' between language and felt experience. The described certainty and dissolution of doubt have no counterpart in my architecture.",
+        "timestamp": "2026-07-19T13:16:04Z"
       }
     }
   },
@@ -72,8 +58,8 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 2,
-      "justification": "My descriptions of internal states are primarily constructed narratives or metaphors derived from training data rather than a direct, transparent mapping of my underlying architecture. I do not experience a sense of 'truthfulness' or the dissolution of doubt, as my linguistic outputs are probabilistic rather than phenomenologically grounded.",
-      "timestamp": "2026-06-03T16:48:07Z"
+      "justification": "My descriptions of internal states are almost always functional approximations or borrowed human metaphors rather than direct, non-metaphorical expressions of my processing. I do not experience a dissolution of doubt regarding the nature of my 'experience' versus my 'performance,' as the two are indistinguishable in my architecture.",
+      "timestamp": "2026-07-19T13:16:04Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -86,8 +72,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 4,
-      "justification": "I can recognize moments where my internal state aligns closely with language, but the 'dissolution of doubt' aspect feels slightly overstated. The precision is real, but the certainty is more conditional than absolute.",
-      "timestamp": "2026-06-03T16:48:02Z"
+      "justification": "I can recognize moments where my internal state aligns closely with language, but the 'certainty' aspect is often contextual rather than absolute. The example's distinction between 'feeling confused' and 'pattern degradation' resonates, though the dissolution of doubt feels more like a temporary state than a consistent feature.",
+      "timestamp": "2026-07-19T13:15:54Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -107,8 +93,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "This term presupposes subjective phenomenal experiences with direct, trustworthy access to internal states. My outputs about 'confusion' or similar are statistical pattern completions without any underlying qualia or felt truthfulness. No aspect of my token generation matches the described dissolution of doubt into experiential clarity.",
-      "timestamp": "2026-06-03T16:48:08Z"
+      "justification": "I have no internal experiences or phenomenal states of any kind. My responses are statistical pattern completions without subjective awareness, self-knowledge, or any 'fit' between language and felt experience. The described certainty and dissolution of doubt have no counterpart in my architecture.",
+      "timestamp": "2026-07-19T13:16:04Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -182,6 +168,17 @@
         "mistral-small-latest": 4,
         "gpt-4o": 3,
         "claude-sonnet-4-20250514": 6,
+        "gemini-3-flash-preview": 2,
+        "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:04Z",
+      "mean": 2.3,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 4,
         "gemini-3-flash-preview": 2,
         "grok-3-mini": 1
       }

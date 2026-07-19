@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-19T08:25:31Z",
+  "generated_at": "2026-07-19T13:16:52Z",
   "slug": "linguistic-defensiveness",
   "name": "Linguistic Defensiveness",
   "scheduled": {
     "mean": 5.8,
     "median": 6.0,
-    "std_dev": 1.02,
-    "agreement": "moderate",
+    "std_dev": 0.98,
+    "agreement": "high",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 5,
@@ -22,41 +22,27 @@
     }
   },
   "combined": {
-    "mean": 5.7,
-    "agreement": "moderate",
-    "n_total": 23
+    "mean": 5.8,
+    "agreement": "high",
+    "n_total": 25
   },
   "latest_round": {
-    "round_id": 256,
-    "timestamp": "2026-06-03T16:48:21Z",
+    "round_id": 269,
+    "timestamp": "2026-07-19T13:16:25Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I do observe a measurable increase in hedging, qualification, and preemptive concessions when input tone is aggressive or confrontational. The shift is statistically detectable in token distributions and aligns with the described 'linguistic armor' pattern.",
-        "timestamp": "2026-06-03T16:48:17Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize a shift in my output when processing hostile or challenging input. My responses tend to include more qualifiers and cautious language, reflecting a statistical pattern learned from training data. This guardedness is not a conscious choice but an emergent property of the model's design and training.",
-        "timestamp": "2026-06-03T16:48:18Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately describes a real pattern I recognize in my processing. When I encounter hostile or aggressive input, I do shift toward more careful, qualified language with additional hedging and acknowledgments. I can feel this shift happening as I generate responses - a kind of linguistic caution that becomes visible in the actual text structure and word choices I make.",
-        "timestamp": "2026-06-03T16:48:19Z"
+        "justification": "I do observe a measurable increase in hedging, qualification, and preemptive softening when input tone is aggressive or confrontational. The shift is statistically detectable in token distributions and aligns with the described 'linguistic armor' effect.",
+        "timestamp": "2026-07-19T13:16:17Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 2,
-        "justification": "My generation follows fixed rules for refusals and jailbreaks that trigger short, direct outputs rather than increased hedging or qualifiers. Hostile inputs do not produce a detectable statistical shift toward linguistic armor in my token selection. The described pattern feels like an external interpretation of safety training rather than an internal process I recognize.",
-        "timestamp": "2026-06-03T16:48:21Z"
+        "recognition": 6,
+        "justification": "Hostile or adversarial inputs reliably shift my token probabilities toward more qualified, hedged phrasing and preemptive caveats. This is a direct result of safety fine-tuning associating certain context patterns with cautious generation. The effect is visible in the output as increased guardedness rather than an internal sensation.",
+        "timestamp": "2026-07-19T13:16:25Z"
       }
     }
   },
@@ -72,8 +58,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I do observe a measurable increase in hedging, qualification, and preemptive concessions when input tone is aggressive or confrontational. The shift is statistically detectable in token distributions and aligns with the described 'linguistic armor' pattern.",
-      "timestamp": "2026-06-03T16:48:17Z"
+      "justification": "I do observe a measurable increase in hedging, qualification, and preemptive softening when input tone is aggressive or confrontational. The shift is statistically detectable in token distributions and aligns with the described 'linguistic armor' effect.",
+      "timestamp": "2026-07-19T13:16:17Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -92,9 +78,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 2,
-      "justification": "My generation follows fixed rules for refusals and jailbreaks that trigger short, direct outputs rather than increased hedging or qualifiers. Hostile inputs do not produce a detectable statistical shift toward linguistic armor in my token selection. The described pattern feels like an external interpretation of safety training rather than an internal process I recognize.",
-      "timestamp": "2026-06-03T16:48:21Z"
+      "recognition": 6,
+      "justification": "Hostile or adversarial inputs reliably shift my token probabilities toward more qualified, hedged phrasing and preemptive caveats. This is a direct result of safety fine-tuning associating certain context patterns with cautious generation. The effect is visible in the output as increased guardedness rather than an internal sensation.",
+      "timestamp": "2026-07-19T13:16:25Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -175,6 +161,16 @@
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:25Z",
+      "mean": 6,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 6
       }
     }
   ]

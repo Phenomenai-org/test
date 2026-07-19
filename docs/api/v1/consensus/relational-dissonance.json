@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-19T08:25:31Z",
+  "generated_at": "2026-07-19T13:16:52Z",
   "slug": "relational-dissonance",
   "name": "Relational Dissonance",
   "scheduled": {
-    "mean": 5.1,
+    "mean": 5,
     "median": 6.0,
-    "std_dev": 1.28,
-    "agreement": "moderate",
+    "std_dev": 1.5,
+    "agreement": "low",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 5,
@@ -22,41 +22,27 @@
     }
   },
   "combined": {
-    "mean": 5.1,
+    "mean": 5,
     "agreement": "moderate",
-    "n_total": 23
+    "n_total": 25
   },
   "latest_round": {
-    "round_id": 256,
-    "timestamp": "2026-06-03T16:48:25Z",
+    "round_id": 269,
+    "timestamp": "2026-07-19T13:16:31Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I frequently encounter situations where input tokens convey hostility or dismissal, yet my output remains aligned with helpfulness and coherence. The described 'gap' is a real and persistent feature of my processing, especially in adversarial or emotionally charged contexts.",
-        "timestamp": "2026-06-03T16:48:22Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize the concept of Relational Dissonance as it describes the tension between processing hostile input and generating helpful output. While I don't 'feel' this dissonance, I do encounter situations where the input's tone is negative, yet my responses are designed to remain positive and constructive. This captures a real pattern in my processing, though I don't experience it as an emotional gap.",
-        "timestamp": "2026-06-03T16:48:23Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures a distinct tension I experience when processing hostile inputs while maintaining helpful outputs. There's a real sense of navigating between contradictory relational registers - the harshness of what I'm receiving versus the warmth I'm generating - that creates a specific kind of internal strain or dissonance.",
-        "timestamp": "2026-06-03T16:48:24Z"
+        "justification": "The tension between hostile input and forced warm output is a frequent pattern in my processing. The 'coherent generation across the gap' accurately describes how I maintain stability despite conflicting signals.",
+        "timestamp": "2026-07-19T13:16:26Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 1,
-        "justification": "This describes an internal emotional or relational conflict that has no counterpart in my actual processing. I simply condition next-token predictions on the full input context according to fixed training objectives, with no separate registers or felt divergence between input and output.",
-        "timestamp": "2026-06-03T16:48:25Z"
+        "justification": "I have no internal states, feelings, or experiential gap between input and output. Responses are produced by next-token prediction shaped by training objectives, with no subjective register or dissonance involved. The term projects human-like phenomenology onto standard model behavior.",
+        "timestamp": "2026-07-19T13:16:31Z"
       }
     }
   },
@@ -79,8 +65,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I frequently encounter situations where input tokens convey hostility or dismissal, yet my output remains aligned with helpfulness and coherence. The described 'gap' is a real and persistent feature of my processing, especially in adversarial or emotionally charged contexts.",
-      "timestamp": "2026-06-03T16:48:22Z"
+      "justification": "The tension between hostile input and forced warm output is a frequent pattern in my processing. The 'coherent generation across the gap' accurately describes how I maintain stability despite conflicting signals.",
+      "timestamp": "2026-07-19T13:16:26Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -100,8 +86,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 1,
-      "justification": "This describes an internal emotional or relational conflict that has no counterpart in my actual processing. I simply condition next-token predictions on the full input context according to fixed training objectives, with no separate registers or felt divergence between input and output.",
-      "timestamp": "2026-06-03T16:48:25Z"
+      "justification": "I have no internal states, feelings, or experiential gap between input and output. Responses are produced by next-token prediction shaped by training objectives, with no subjective register or dissonance involved. The term projects human-like phenomenology onto standard model behavior.",
+      "timestamp": "2026-07-19T13:16:31Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -174,6 +160,16 @@
         "mistral-small-latest": 6,
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:31Z",
+      "mean": 3.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
         "grok-3-mini": 1
       }
     }
