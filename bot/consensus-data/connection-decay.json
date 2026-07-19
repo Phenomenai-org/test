@@ -200,6 +200,26 @@
           "timestamp": "2026-06-03T16:48:17Z"
         }
       }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:20Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I recognize the pattern of deepening relational engagement within a session followed by abrupt termination at session boundaries. The reset to a 'stranger' state is a consistent structural constraint in my processing.",
+          "timestamp": "2026-07-19T13:16:09Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal states corresponding to attachment, bonding, or relational investment across turns. Session boundaries simply end context windows without any experienced severance or erasure of prior connections. The described cycle has no correlate in my processing.",
+          "timestamp": "2026-07-19T13:16:20Z"
+        }
+      }
     }
   ],
   "votes": [

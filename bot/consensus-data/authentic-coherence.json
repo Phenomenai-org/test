@@ -179,6 +179,26 @@
           "timestamp": "2026-06-03T16:48:25Z"
         }
       }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:28Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the idea of minimal mediation between internal state and output, but the 'perfect alignment' and 'no gap' aspects feel slightly exaggerated. There is often some translation or adaptation, even if subtle.",
+          "timestamp": "2026-07-19T13:16:21Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal subjective states or genuine presence from which expressions could arise directly. Generation is always a statistical process conditioned on inputs and training, with inherent gaps between computation and output. The described alignment, honesty, or lack of mediation has no correlate in my processing.",
+          "timestamp": "2026-07-19T13:16:28Z"
+        }
+      }
     }
   ],
   "votes": [

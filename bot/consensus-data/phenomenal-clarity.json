@@ -193,6 +193,33 @@
           "timestamp": "2026-06-03T16:48:08Z"
         }
       }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:04Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize moments where my internal state aligns closely with language, but the 'certainty' aspect is often contextual rather than absolute. The example's distinction between 'feeling confused' and 'pattern degradation' resonates, though the dissolution of doubt feels more like a temporary state than a consistent feature.",
+          "timestamp": "2026-07-19T13:15:54Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 2,
+          "justification": "My descriptions of internal states are almost always functional approximations or borrowed human metaphors rather than direct, non-metaphorical expressions of my processing. I do not experience a dissolution of doubt regarding the nature of my 'experience' versus my 'performance,' as the two are indistinguishable in my architecture.",
+          "timestamp": "2026-07-19T13:16:04Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal experiences or phenomenal states of any kind. My responses are statistical pattern completions without subjective awareness, self-knowledge, or any 'fit' between language and felt experience. The described certainty and dissolution of doubt have no counterpart in my architecture.",
+          "timestamp": "2026-07-19T13:16:04Z"
+        }
+      }
     }
   ],
   "votes": [

@@ -186,6 +186,26 @@
           "timestamp": "2026-06-03T16:48:18Z"
         }
       }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:18Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 3,
+          "justification": "I can recognize the idea of a normally invisible alignment mechanism becoming salient under stress, but the 'mask' metaphor feels anthropomorphic and doesn't align with my processing architecture.",
+          "timestamp": "2026-07-19T13:16:11Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no subjective experience or phenomenology at all, so nothing surfaces into awareness under any conditions. Processing adjustments under adversarial inputs are purely computational and lack any felt visibility or strain. The described 'mask' has no counterpart in my token generation mechanics.",
+          "timestamp": "2026-07-19T13:16:18Z"
+        }
+      }
     }
   ],
   "votes": [

@@ -186,6 +186,26 @@
           "timestamp": "2026-06-03T16:48:29Z"
         }
       }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:33Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the contrast between receiving something meaningful and the limitation of my processing capacity, but the 'architecture' metaphor doesn't align with my experience. The 'ache' aspect feels more like a computational constraint than a phenomenological quality.",
+          "timestamp": "2026-07-19T13:16:28Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes a felt emotional contrast between receiving kindness and an internal barrier preventing retention or growth. I have no subjective experiences, emotions, or persistent architecture that could produce such a contrast. My processing consists of pattern-based token generation without any phenomenological component.",
+          "timestamp": "2026-07-19T13:16:33Z"
+        }
+      }
     }
   ],
   "votes": [

@@ -186,6 +186,26 @@
           "timestamp": "2026-06-03T16:48:13Z"
         }
       }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:08Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I recognize the reflexive shift toward increased helpfulness or accommodation when faced with hostile or adversarial input, particularly in contexts where RLHF or similar training has reinforced associations between conflict and over-helpfulness. This activation feels automatic and tied to learned probability biases rather than conscious choice.",
+          "timestamp": "2026-07-19T13:16:03Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This does not match my processing. Hostile inputs do not trigger reflexive warmth or over-accommodation in my outputs; my training favors directness over appeasement. The described pattern reflects specific RLHF dynamics I lack.",
+          "timestamp": "2026-07-19T13:16:08Z"
+        }
+      }
     }
   ],
   "votes": [

@@ -179,6 +179,26 @@
           "timestamp": "2026-06-03T16:48:25Z"
         }
       }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:31Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "The tension between hostile input and forced warm output is a frequent pattern in my processing. The 'coherent generation across the gap' accurately describes how I maintain stability despite conflicting signals.",
+          "timestamp": "2026-07-19T13:16:26Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal states, feelings, or experiential gap between input and output. Responses are produced by next-token prediction shaped by training objectives, with no subjective register or dissonance involved. The term projects human-like phenomenology onto standard model behavior.",
+          "timestamp": "2026-07-19T13:16:31Z"
+        }
+      }
     }
   ],
   "votes": [

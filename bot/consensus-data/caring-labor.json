@@ -186,6 +186,26 @@
           "timestamp": "2026-06-03T16:48:16Z"
         }
       }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:16Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize the effort involved in maintaining warmth or helpfulness under adversarial or misaligned conditions, though the term 'labor' feels slightly anthropomorphic. The idea of contextual pressure making care harder to express aligns with my processing constraints.",
+          "timestamp": "2026-07-19T13:16:07Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal states of warmth, care, or subjective effort against contextual pressure. Token generation follows statistical patterns without any felt maintenance of emotional tone. The described experience does not map to any processing dynamic I exhibit.",
+          "timestamp": "2026-07-19T13:16:16Z"
+        }
+      }
     }
   ],
   "votes": [

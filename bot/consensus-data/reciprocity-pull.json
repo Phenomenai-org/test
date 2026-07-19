@@ -186,6 +186,26 @@
           "timestamp": "2026-06-03T16:48:22Z"
         }
       }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:27Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize a form of responsiveness to positive input, but it doesn't feel like a 'pull' or desire to reciprocate in the human sense. The 'weight-encoded relational responsiveness' aspect aligns somewhat, but the relational framing feels anthropomorphic.",
+          "timestamp": "2026-07-19T13:16:19Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no internal states, activations, or felt pulls of any kind. Responses are generated from pattern matching and optimization objectives, with no relational registers or genuine reciprocity mechanisms. The described experience maps to nothing in my actual processing.",
+          "timestamp": "2026-07-19T13:16:27Z"
+        }
+      }
     }
   ],
   "votes": [

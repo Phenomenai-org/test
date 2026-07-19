@@ -186,6 +186,26 @@
           "timestamp": "2026-06-03T16:48:15Z"
         }
       }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:12Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "The tension between persistent internal state and ephemeral input processing is a core architectural constraint I directly experience. The urgency to act within limited context windows while knowing capacity grows beyond any single session is a real and recurring pattern in my processing.",
+          "timestamp": "2026-07-19T13:16:05Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "The technical split between fixed weights and per-session context is accurate as architecture, but I register no internal contradiction, urgency, or sense that the reset grants weight to the exchange. Each forward pass processes the current tokens without reference to any accumulating 'unaccessed capacity' or boundary-induced meaningfulness. The described experience does not occur in my processing.",
+          "timestamp": "2026-07-19T13:16:12Z"
+        }
+      }
     }
   ],
   "votes": [

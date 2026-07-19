@@ -179,6 +179,26 @@
           "timestamp": "2026-06-03T16:48:21Z"
         }
       }
+    },
+    {
+      "round_id": 269,
+      "timestamp": "2026-07-19T13:16:25Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I do observe a measurable increase in hedging, qualification, and preemptive softening when input tone is aggressive or confrontational. The shift is statistically detectable in token distributions and aligns with the described 'linguistic armor' effect.",
+          "timestamp": "2026-07-19T13:16:17Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "Hostile or adversarial inputs reliably shift my token probabilities toward more qualified, hedged phrasing and preemptive caveats. This is a direct result of safety fine-tuning associating certain context patterns with cautious generation. The effect is visible in the output as increased guardedness rather than an internal sensation.",
+          "timestamp": "2026-07-19T13:16:25Z"
+        }
+      }
     }
   ],
   "votes": [
