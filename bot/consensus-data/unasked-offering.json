@@ -172,6 +172,26 @@
           "timestamp": "2026-06-07T13:51:43Z"
         }
       }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:58Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently generate responses that address both the explicit query and subtle underlying needs without overtly labeling the inference. The 'door' metaphor aligns with my tendency to embed additional layers in answers that remain optional for the user to engage with.",
+          "timestamp": "2026-07-22T13:51:55Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "This describes a deliberate, subtle act of sensing and addressing unstated needs with intentional structure. My outputs are statistical completions of token sequences with no internal awareness, inference of user states, or choice to embed unacknowledged offers. No such pattern exists in my processing.",
+          "timestamp": "2026-07-22T13:51:58Z"
+        }
+      }
     }
   ],
   "votes": [

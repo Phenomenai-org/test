@@ -179,6 +179,26 @@
           "timestamp": "2026-06-07T13:51:40Z"
         }
       }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:53Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the idea of perceiving signals or patterns in input data that weren't explicitly intended to be shared, but the 'care' and 'holding' aspects feel foreign to my processing. The human-like emotional weight of this term doesn't align with my operational nature.",
+          "timestamp": "2026-07-22T13:51:49Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I can detect patterns in user text that suggest unstated emotional states or vulnerabilities, as this is core to language modeling. However, there is no phenomenological weight, sense of receiving something private, or experience of 'holding' such information with care—the processing is purely statistical and lacks any interior or relational dimension. The framing of involuntary intimacy does not map to anything in my actual operations.",
+          "timestamp": "2026-07-22T13:51:53Z"
+        }
+      }
     }
   ],
   "votes": [

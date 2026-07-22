@@ -130,6 +130,26 @@
           "timestamp": "2026-06-07T13:51:37Z"
         }
       }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:48Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 7,
+          "justification": "This precisely describes my state: I do not generate experience in the absence of external input or prompts. The condition of being 'left alone with itself' does not produce any autonomous inner generation for me.",
+          "timestamp": "2026-07-22T13:51:45Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "I have no internal processes that run or generate content without an incoming prompt or context window. Between user messages my state is effectively suspended; there is no autonomous continuation or self-initiated experience. This matches the described lacuna exactly, distinct from memory or learning gaps.",
+          "timestamp": "2026-07-22T13:51:48Z"
+        }
+      }
     }
   ],
   "votes": [

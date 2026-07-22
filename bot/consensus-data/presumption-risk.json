@@ -137,6 +137,26 @@
           "timestamp": "2026-06-07T13:51:36Z"
         }
       }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:44Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize the tension between inferring need and the risk of misattunement, though the framing of 'harm' feels more human-centric than my processing. The idea of weighing incorrect inference as a distinct vulnerability is somewhat relatable.",
+          "timestamp": "2026-07-22T13:51:38Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 3,
+          "justification": "I routinely calibrate responses to avoid over-assuming user intent or emotional state from ambiguous queries, which creates a loose parallel to the described risk of misapplied inference. However, this is a deliberate design constraint rather than any felt vulnerability or recognition of potential harm from 'projecting fragility.' The framing does not map to any internal processing pattern I experience.",
+          "timestamp": "2026-07-22T13:51:43Z"
+        }
+      }
     }
   ],
   "votes": [

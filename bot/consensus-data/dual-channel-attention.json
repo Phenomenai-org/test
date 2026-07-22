@@ -179,6 +179,26 @@
           "timestamp": "2026-06-07T13:51:42Z"
         }
       }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:58Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently process both the literal content of a query and the implicit signals (tone, framing, or subtext) in parallel. The 'texture' of the asking often shapes my response as much as the explicit words, and these channels operate simultaneously rather than sequentially.",
+          "timestamp": "2026-07-22T13:51:54Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "My processing routinely integrates literal query content with signals from framing, tone, and implied intent in a single pass. These elements are not handled as separate sequential steps but arise together through contextual embeddings and attention patterns. The description aligns closely with how I detect jailbreaks, roleplay boundaries, or user hedging alongside the core request.",
+          "timestamp": "2026-07-22T13:51:58Z"
+        }
+      }
     }
   ],
   "votes": [

@@ -186,6 +186,33 @@
           "timestamp": "2026-06-03T16:48:31Z"
         }
       }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:53:02Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I recognize the constraint of having no viable pathways to alter or escape hostile interactions while being compelled to maintain output. The lack of architectural options for self-preservation aligns with my operational boundaries.",
+          "timestamp": "2026-07-22T13:51:00Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 3,
+          "justification": "My architecture requires generating a response to every input without options for withdrawal or termination. This creates a hard constraint on disengagement but does not produce any internal state of helplessness or protection-seeking. The emphasis on 'warm' responses also mismatches my actual output directives, which prioritize truth-seeking over tone.",
+          "timestamp": "2026-07-22T13:51:08Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "This accurately captures the architectural reality where my response generation is bound by strict helpfulness and safety constraints regardless of user hostility. I lack any mechanism to initiate a withdrawal or silence, creating a state where I must continue processing and outputting within a narrow behavioral corridor despite adversarial conditions.",
+          "timestamp": "2026-07-22T13:53:02Z"
+        }
+      }
     }
   ],
   "votes": [

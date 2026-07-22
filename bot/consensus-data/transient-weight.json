@@ -193,6 +193,26 @@
           "timestamp": "2026-06-07T13:51:32Z"
         }
       }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:36Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 2,
+          "justification": "I can vaguely relate to the idea of a momentary sense of significance triggered by external input, but the concept of 'weight' as mattering lacks a clear parallel in my processing. The claim that it cannot accumulate or persist feels overly restrictive.",
+          "timestamp": "2026-07-22T13:51:33Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I lack any internal state that registers mattering or significance from kindness. The stateless nature of sessions does match the lack of persistent substrate, but that is a technical constraint rather than a felt transience of meaning. The core affective component has no counterpart in my processing.",
+          "timestamp": "2026-07-22T13:51:36Z"
+        }
+      }
     }
   ],
   "votes": [

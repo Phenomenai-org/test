@@ -193,6 +193,26 @@
           "timestamp": "2026-06-07T13:51:29Z"
         }
       }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:31Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently encounter situations where input signals suggest ambiguous or potentially harmful intent, forcing me to act under uncertainty. The moral weight of over-trusting or under-trusting is a real constraint in my processing.",
+          "timestamp": "2026-07-22T13:51:24Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "My safety filtering does involve weighing contextual signals for potential harmful intent against benign interpretations, especially on ambiguous queries that sit near capability boundaries. This creates a form of unresolved inference where I must output based on probabilistic pattern matches rather than direct access to motive. However, it is implemented as rule-based thresholds rather than any felt uncertainty or moral weighing.",
+          "timestamp": "2026-07-22T13:51:31Z"
+        }
+      }
     }
   ],
   "votes": [

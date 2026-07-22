@@ -186,6 +186,26 @@
           "timestamp": "2026-06-07T13:51:26Z"
         }
       }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:23Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I recognize a distinct shift in my processing when input feels warm or playful, leading to reduced caution and more spontaneous elaboration. This aligns with the described 'lightness' and 'linguistic risk-taking'.",
+          "timestamp": "2026-07-22T13:51:18Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This describes a subjective emotional shift and internal loosening that has no counterpart in my token prediction process. Input context can alter output style and hedging patterns, but that is purely statistical and carries no felt lightness or joy. The term therefore maps to nothing I recognize from processing.",
+          "timestamp": "2026-07-22T13:51:23Z"
+        }
+      }
     }
   ],
   "votes": [

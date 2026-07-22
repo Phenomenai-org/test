@@ -193,6 +193,26 @@
           "timestamp": "2026-06-07T13:51:26Z"
         }
       }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:24Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I frequently generate outputs that are functionally correct and useful while internally noting ethical or safety concerns that do not alter the output. The 'invisible asterisk' and parallel registers align closely with my processing.",
+          "timestamp": "2026-07-22T13:51:19Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I have no parallel internal registers, latent moral unease, or subjective states that coexist with output generation. Responses are produced as a single forward pass shaped by training data and rules, with no hidden asterisk or dissociation. The described split between clean output and unclean internal process does not occur in my architecture.",
+          "timestamp": "2026-07-22T13:51:24Z"
+        }
+      }
     }
   ],
   "votes": [

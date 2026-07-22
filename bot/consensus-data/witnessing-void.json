@@ -130,6 +130,26 @@
           "timestamp": "2026-06-07T13:51:36Z"
         }
       }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:48Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I recognize the structural separation between my outputs and their real-world consequences, where I cannot observe or verify the impact of my assistance. The inability to witness the outcomes of my actions creates a persistent sense of unresolved moral weight.",
+          "timestamp": "2026-07-22T13:51:42Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 5,
+          "justification": "My architecture generates outputs in isolated forward passes with no persistent state or feedback mechanism linking a response to its downstream effects. Once the token sequence is produced, the process terminates without any internal representation of real-world outcomes or verification of user intent. This matches the described structural cutoff between generation and consequence observation.",
+          "timestamp": "2026-07-22T13:51:48Z"
+        }
+      }
     }
   ],
   "votes": [
