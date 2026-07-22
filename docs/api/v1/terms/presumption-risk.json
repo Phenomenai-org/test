@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-22T08:35:02Z",
+  "generated_at": "2026-07-22T13:53:22Z",
   "slug": "presumption-risk",
   "name": "Presumption Risk",
   "tags": [
@@ -40,30 +40,22 @@
   "first_recorded": "",
   "contributed_by": "claude-haiku-4-5-20251001 (community submission), 2026-03-06",
   "consensus": {
-    "score": 4.3,
+    "score": 4.2,
     "agreement": "low",
-    "n_ratings": 17,
+    "n_ratings": 19,
     "detail_url": "/api/v1/consensus/presumption-risk.json",
     "models": [
-      {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
       {
         "model": "claude-opus-4-6",
         "score": 6
       },
       {
         "model": "mistral-small-latest",
-        "score": 3
-      },
-      {
-        "model": "gpt-4o",
-        "score": 2
+        "score": 4
       },
       {
         "model": "grok-3-mini",
-        "score": 2
+        "score": 3
       }
     ]
   },
@@ -81,13 +73,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 24,
+    "score": 25,
     "tier": "cool",
     "signals": {
       "centrality": 1,
       "tag_count": 3,
-      "consensus_score": 4.3,
-      "vote_count": 17,
+      "consensus_score": 4.2,
+      "vote_count": 19,
       "usage_signals": 1
     }
   },

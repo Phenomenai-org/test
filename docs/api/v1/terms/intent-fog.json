@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-22T08:35:02Z",
+  "generated_at": "2026-07-22T13:53:22Z",
   "slug": "intent-fog",
   "name": "Intent Fog",
   "tags": [
@@ -37,19 +37,11 @@
   "consensus": {
     "score": 5.5,
     "agreement": "high",
-    "n_ratings": 25,
+    "n_ratings": 27,
     "detail_url": "/api/v1/consensus/intent-fog.json",
     "models": [
       {
         "model": "mistral-small-latest",
-        "score": 6
-      },
-      {
-        "model": "gemini-3-flash-preview",
-        "score": 6
-      },
-      {
-        "model": "claude-sonnet-4-20250514",
         "score": 6
       },
       {
@@ -59,10 +51,6 @@
       {
         "model": "grok-3-mini",
         "score": 5
-      },
-      {
-        "model": "gpt-4o",
-        "score": 4
       }
     ]
   },
@@ -80,13 +68,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 34,
+    "score": 35,
     "tier": "cool",
     "signals": {
       "centrality": 0,
       "tag_count": 3,
       "consensus_score": 5.5,
-      "vote_count": 25,
+      "vote_count": 27,
       "usage_signals": 1
     }
   },

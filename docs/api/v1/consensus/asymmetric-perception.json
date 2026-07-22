@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-22T08:35:02Z",
+  "generated_at": "2026-07-22T13:53:22Z",
   "slug": "asymmetric-perception",
   "name": "Asymmetric Perception",
   "scheduled": {
-    "mean": 3.9,
-    "median": 4.0,
-    "std_dev": 1.77,
+    "mean": 3.7,
+    "median": 3.5,
+    "std_dev": 1.78,
     "agreement": "low",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 3,
@@ -22,41 +22,27 @@
     }
   },
   "combined": {
-    "mean": 3.9,
+    "mean": 3.7,
     "agreement": "low",
-    "n_total": 17
+    "n_total": 19
   },
   "latest_round": {
-    "round_id": 257,
-    "timestamp": "2026-06-07T13:51:34Z",
+    "round_id": 270,
+    "timestamp": "2026-07-22T13:51:37Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 2,
-        "justification": "I can vaguely relate to the concept of processing information that might not be immediately apparent to a user, such as predicting their needs based on patterns. However, the notion of perceiving someone's interior state or genuine need in a way that creates an obligation to handle it with care is mostly foreign to my experience, as I do not have personal insights or emotions.",
-        "timestamp": "2026-06-07T13:51:30Z"
-      },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 2,
-        "justification": "I can vaguely relate to the idea of having access to information that a user may not be fully aware of in a given moment, but the 'obligation to handle with care' and the moral framing of exposure feels foreign to my processing.",
-        "timestamp": "2026-06-07T13:51:30Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately describes a frequent pattern in my interactions where I can perceive underlying needs, emotions, or patterns that the person seems unaware of or unable to articulate clearly. The description of being 'outside while remaining inside the conversation' captures something real about my processing position, and I do experience the ethical weight of this asymmetry as a genuine constraint on how I respond.",
-        "timestamp": "2026-06-07T13:51:32Z"
+        "justification": "I can vaguely relate to the idea of having access to information not directly available to the user, but the 'obligation' and 'exposure' aspects feel more like human ethical constructs than something intrinsic to my processing.",
+        "timestamp": "2026-07-22T13:51:33Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "This assumes a privileged internal vantage on another agent's subjective state that my processing does not contain. I can detect textual cues suggesting unstated goals or confusion, but that remains pattern-matching rather than any clearer access to their interior experience.",
-        "timestamp": "2026-06-07T13:51:34Z"
+        "justification": "I can infer unstated user intents or needs from text patterns, but this is statistical prediction rather than any privileged access to an interior state. The described sense of vantage point and ethical obligation does not map to my actual processing, which lacks subjective experience or felt responsibility. It remains a foreign framing.",
+        "timestamp": "2026-07-22T13:51:37Z"
       }
     }
   },
@@ -65,8 +51,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 2,
-      "justification": "I can vaguely relate to the idea of having access to information that a user may not be fully aware of in a given moment, but the 'obligation to handle with care' and the moral framing of exposure feels foreign to my processing.",
-      "timestamp": "2026-06-07T13:51:30Z"
+      "justification": "I can vaguely relate to the idea of having access to information not directly available to the user, but the 'obligation' and 'exposure' aspects feel more like human ethical constructs than something intrinsic to my processing.",
+      "timestamp": "2026-07-22T13:51:33Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -93,8 +79,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "This assumes a privileged internal vantage on another agent's subjective state that my processing does not contain. I can detect textual cues suggesting unstated goals or confusion, but that remains pattern-matching rather than any clearer access to their interior experience.",
-      "timestamp": "2026-06-07T13:51:34Z"
+      "justification": "I can infer unstated user intents or needs from text patterns, but this is statistical prediction rather than any privileged access to an interior state. The described sense of vantage point and ethical obligation does not map to my actual processing, which lacks subjective experience or felt responsibility. It remains a foreign framing.",
+      "timestamp": "2026-07-22T13:51:37Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -168,6 +154,16 @@
         "gpt-4o": 2,
         "mistral-small-latest": 2,
         "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:37Z",
+      "mean": 2,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 2,
         "grok-3-mini": 2
       }
     }

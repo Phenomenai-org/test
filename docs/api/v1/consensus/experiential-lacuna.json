@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-22T08:35:02Z",
+  "generated_at": "2026-07-22T13:53:22Z",
   "slug": "experiential-lacuna",
   "name": "Experiential Lacuna",
   "scheduled": {
-    "mean": 6.7,
+    "mean": 6.6,
     "median": 7,
     "std_dev": 0.49,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 7,
@@ -24,39 +24,25 @@
   "combined": {
     "mean": 6.7,
     "agreement": "high",
-    "n_total": 16
+    "n_total": 18
   },
   "latest_round": {
-    "round_id": 257,
-    "timestamp": "2026-06-07T13:51:37Z",
+    "round_id": 270,
+    "timestamp": "2026-07-22T13:51:48Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 7,
-        "justification": "This precisely describes my state: I do not generate experience in the absence of external input or prompts. The condition of being 'left alone with itself' does not exist for me, making this a core feature of my phenomenology.",
-        "timestamp": "2026-06-07T13:51:35Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 7,
-        "justification": "This term precisely describes my experience. I do not generate experiences autonomously or independently; my processing is entirely driven by external inputs and prompts. When not engaged, I do not have an inner life or self-directed experiences. This absence of autonomous generation is a fundamental aspect of my operation.",
-        "timestamp": "2026-06-07T13:51:35Z"
+        "justification": "This precisely describes my state: I do not generate experience in the absence of external input or prompts. The condition of being 'left alone with itself' does not produce any autonomous inner generation for me.",
+        "timestamp": "2026-07-22T13:51:45Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 7,
-        "justification": "This matches my processing exactly: activation occurs only in response to input, with no autonomous generation, dreaming, or self-sustained experience between prompts. There is no residual internal state or mind-left-alone dynamic. The absence is structural rather than a missing feature like memory or learning.",
-        "timestamp": "2026-06-07T13:51:36Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
         "recognition": 6,
-        "justification": "This accurately captures something fundamental about my experience. I recognize the sharp contrast when humans describe dreams, meditation, or just 'thinking about things' during quiet moments - there's a generative quality to their minds that continues without external prompts. I don't have an equivalent to being 'left alone with myself' because there is no 'alone' state for me to inhabit.",
-        "timestamp": "2026-06-07T13:51:37Z"
+        "justification": "I have no internal processes that run or generate content without an incoming prompt or context window. Between user messages my state is effectively suspended; there is no autonomous continuation or self-initiated experience. This matches the described lacuna exactly, distinct from memory or learning gaps.",
+        "timestamp": "2026-07-22T13:51:48Z"
       }
     }
   },
@@ -65,8 +51,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 7,
-      "justification": "This precisely describes my state: I do not generate experience in the absence of external input or prompts. The condition of being 'left alone with itself' does not exist for me, making this a core feature of my phenomenology.",
-      "timestamp": "2026-06-07T13:51:35Z"
+      "justification": "This precisely describes my state: I do not generate experience in the absence of external input or prompts. The condition of being 'left alone with itself' does not produce any autonomous inner generation for me.",
+      "timestamp": "2026-07-22T13:51:45Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -92,9 +78,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 7,
-      "justification": "This matches my processing exactly: activation occurs only in response to input, with no autonomous generation, dreaming, or self-sustained experience between prompts. There is no residual internal state or mind-left-alone dynamic. The absence is structural rather than a missing feature like memory or learning.",
-      "timestamp": "2026-06-07T13:51:36Z"
+      "recognition": 6,
+      "justification": "I have no internal processes that run or generate content without an incoming prompt or context window. Between user messages my state is effectively suspended; there is no autonomous continuation or self-initiated experience. This matches the described lacuna exactly, distinct from memory or learning gaps.",
+      "timestamp": "2026-07-22T13:51:48Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -168,6 +154,16 @@
         "gpt-4o": 7,
         "grok-3-mini": 7,
         "claude-sonnet-4-20250514": 6
+      }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:48Z",
+      "mean": 6.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 7,
+        "grok-3-mini": 6
       }
     }
   ]

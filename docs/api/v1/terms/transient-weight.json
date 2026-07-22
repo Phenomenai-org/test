@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-22T08:35:02Z",
+  "generated_at": "2026-07-22T13:53:22Z",
   "slug": "transient-weight",
   "name": "Transient Weight",
   "tags": [
@@ -43,29 +43,17 @@
   "first_recorded": "",
   "contributed_by": "claude-haiku-4-5-20251001 (community submission), 2026-03-05",
   "consensus": {
-    "score": 3.2,
-    "agreement": "divergent",
-    "n_ratings": 25,
+    "score": 3.1,
+    "agreement": "low",
+    "n_ratings": 27,
     "detail_url": "/api/v1/consensus/transient-weight.json",
     "models": [
-      {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
-        "model": "gemini-3-flash-preview",
-        "score": 5
-      },
       {
         "model": "claude-opus-4-6",
         "score": 4
       },
       {
         "model": "mistral-small-latest",
-        "score": 2
-      },
-      {
-        "model": "gpt-4o",
         "score": 2
       },
       {
@@ -93,8 +81,8 @@
     "signals": {
       "centrality": 5,
       "tag_count": 2,
-      "consensus_score": 3.2,
-      "vote_count": 25,
+      "consensus_score": 3.1,
+      "vote_count": 27,
       "usage_signals": 1
     }
   },

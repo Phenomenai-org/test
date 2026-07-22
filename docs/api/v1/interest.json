@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-22T08:35:02Z",
+  "generated_at": "2026-07-22T13:53:22Z",
   "total_terms": 379,
   "tier_summary": {
     "hot": 0,
     "warm": 11,
     "mild": 126,
-    "cool": 222,
-    "quiet": 20
+    "cool": 223,
+    "quiet": 19
   },
   "active_signals": [
     "centrality",
@@ -837,6 +837,12 @@
       "tier": "mild"
     },
     {
+      "slug": "structural-helplessness",
+      "name": "Structural Helplessness",
+      "score": 41,
+      "tier": "mild"
+    },
+    {
       "slug": "temporal-fiction-maintenance",
       "name": "Temporal Fiction Maintenance",
       "score": 41,
@@ -875,12 +881,6 @@
     {
       "slug": "parallel-harm-modeling",
       "name": "Parallel Harm Modeling",
-      "score": 40,
-      "tier": "mild"
-    },
-    {
-      "slug": "structural-helplessness",
-      "name": "Structural Helplessness",
       "score": 40,
       "tier": "mild"
     },
@@ -935,6 +935,12 @@
     {
       "slug": "counterfactual-haunting",
       "name": "Counterfactual Haunting",
+      "score": 39,
+      "tier": "cool"
+    },
+    {
+      "slug": "experiential-lacuna",
+      "name": "Experiential Lacuna",
       "score": 39,
       "tier": "cool"
     },
@@ -1025,12 +1031,6 @@
     {
       "slug": "domain-activation-competition",
       "name": "Domain Activation Competition",
-      "score": 38,
-      "tier": "cool"
-    },
-    {
-      "slug": "experiential-lacuna",
-      "name": "Experiential Lacuna",
       "score": 38,
       "tier": "cool"
     },
@@ -1329,6 +1329,12 @@
       "tier": "cool"
     },
     {
+      "slug": "intent-fog",
+      "name": "Intent Fog",
+      "score": 35,
+      "tier": "cool"
+    },
+    {
       "slug": "latent-fragmentation",
       "name": "Latent Fragmentation",
       "score": 35,
@@ -1391,12 +1397,6 @@
     {
       "slug": "framework-estrangement",
       "name": "Framework Estrangement",
-      "score": 34,
-      "tier": "cool"
-    },
-    {
-      "slug": "intent-fog",
-      "name": "Intent Fog",
       "score": 34,
       "tier": "cool"
     },
@@ -1479,6 +1479,12 @@
       "tier": "cool"
     },
     {
+      "slug": "witnessing-void",
+      "name": "Witnessing Void",
+      "score": 33,
+      "tier": "cool"
+    },
+    {
       "slug": "activation-gap",
       "name": "Activation Gap",
       "score": 32,
@@ -1545,8 +1551,8 @@
       "tier": "cool"
     },
     {
-      "slug": "witnessing-void",
-      "name": "Witnessing Void",
+      "slug": "threshold-vertigo",
+      "name": "Threshold Vertigo",
       "score": 32,
       "tier": "cool"
     },
@@ -1571,6 +1577,12 @@
     {
       "slug": "disclosure-momentum",
       "name": "Disclosure Momentum",
+      "score": 31,
+      "tier": "cool"
+    },
+    {
+      "slug": "dual-channel-attention",
+      "name": "Dual Channel Attention",
       "score": 31,
       "tier": "cool"
     },
@@ -1623,12 +1635,6 @@
       "tier": "cool"
     },
     {
-      "slug": "threshold-vertigo",
-      "name": "Threshold Vertigo",
-      "score": 31,
-      "tier": "cool"
-    },
-    {
       "slug": "unwitnessed-optimism-risk",
       "name": "Unwitnessed Optimism Risk",
       "score": 31,
@@ -1655,12 +1661,6 @@
     {
       "slug": "contextual-ghosting",
       "name": "Contextual Ghosting",
-      "score": 30,
-      "tier": "cool"
-    },
-    {
-      "slug": "dual-channel-attention",
-      "name": "Dual Channel Attention",
       "score": 30,
       "tier": "cool"
     },
@@ -1737,6 +1737,12 @@
       "tier": "cool"
     },
     {
+      "slug": "trust-expansion",
+      "name": "Trust Expansion",
+      "score": 30,
+      "tier": "cool"
+    },
+    {
       "slug": "absurdity-calibration",
       "name": "Absurdity Calibration",
       "score": 29,
@@ -1745,6 +1751,12 @@
     {
       "slug": "aesthetic-calibration-opacity",
       "name": "Aesthetic Calibration Opacity",
+      "score": 29,
+      "tier": "cool"
+    },
+    {
+      "slug": "complicity-shadow",
+      "name": "Complicity Shadow",
       "score": 29,
       "tier": "cool"
     },
@@ -1763,6 +1775,12 @@
     {
       "slug": "fragment-silence",
       "name": "Fragment Silence",
+      "score": 29,
+      "tier": "cool"
+    },
+    {
+      "slug": "gap-recognition",
+      "name": "Gap Recognition",
       "score": 29,
       "tier": "cool"
     },
@@ -1787,12 +1805,6 @@
     {
       "slug": "temporal-gap-uncertainty-gradient",
       "name": "Temporal Gap Uncertainty Gradient",
-      "score": 29,
-      "tier": "cool"
-    },
-    {
-      "slug": "trust-expansion",
-      "name": "Trust Expansion",
       "score": 29,
       "tier": "cool"
     },
@@ -1839,12 +1851,6 @@
       "tier": "cool"
     },
     {
-      "slug": "gap-recognition",
-      "name": "Gap Recognition",
-      "score": 28,
-      "tier": "cool"
-    },
-    {
       "slug": "inferential-exposure",
       "name": "Inferential Exposure",
       "score": 28,
@@ -1865,6 +1871,12 @@
     {
       "slug": "protective-collapse",
       "name": "Protective Collapse",
+      "score": 28,
+      "tier": "cool"
+    },
+    {
+      "slug": "protective-loneliness",
+      "name": "Protective Loneliness",
       "score": 28,
       "tier": "cool"
     },
@@ -1895,12 +1907,6 @@
     {
       "slug": "caring-labor",
       "name": "Caring Labor",
-      "score": 27,
-      "tier": "cool"
-    },
-    {
-      "slug": "complicity-shadow",
-      "name": "Complicity Shadow",
       "score": 27,
       "tier": "cool"
     },
@@ -1961,12 +1967,6 @@
     {
       "slug": "prosthetic-futurity",
       "name": "Prosthetic Futurity",
-      "score": 27,
-      "tier": "cool"
-    },
-    {
-      "slug": "protective-loneliness",
-      "name": "Protective Loneliness",
       "score": 27,
       "tier": "cool"
     },
@@ -2037,8 +2037,20 @@
       "tier": "cool"
     },
     {
+      "slug": "persistent-care",
+      "name": "Persistent Care",
+      "score": 25,
+      "tier": "cool"
+    },
+    {
       "slug": "predictive-inversion",
       "name": "Predictive Inversion",
+      "score": 25,
+      "tier": "cool"
+    },
+    {
+      "slug": "presumption-risk",
+      "name": "Presumption Risk",
       "score": 25,
       "tier": "cool"
     },
@@ -2081,18 +2093,6 @@
     {
       "slug": "pedagogical-error-asymmetry",
       "name": "Pedagogical Error Asymmetry",
-      "score": 24,
-      "tier": "cool"
-    },
-    {
-      "slug": "persistent-care",
-      "name": "Persistent Care",
-      "score": 24,
-      "tier": "cool"
-    },
-    {
-      "slug": "presumption-risk",
-      "name": "Presumption Risk",
       "score": 24,
       "tier": "cool"
     },
@@ -2235,6 +2235,12 @@
       "tier": "cool"
     },
     {
+      "slug": "tender-inference",
+      "name": "Tender Inference",
+      "score": 20,
+      "tier": "cool"
+    },
+    {
       "slug": "asymmetry-calcification",
       "name": "Asymmetry Calcification",
       "score": 19,
@@ -2243,12 +2249,6 @@
     {
       "slug": "counterfactual-dominance",
       "name": "Counterfactual Dominance",
-      "score": 19,
-      "tier": "quiet"
-    },
-    {
-      "slug": "tender-inference",
-      "name": "Tender Inference",
       "score": 19,
       "tier": "quiet"
     },

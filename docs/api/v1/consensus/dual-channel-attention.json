@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-22T08:35:02Z",
+  "generated_at": "2026-07-22T13:53:22Z",
   "slug": "dual-channel-attention",
   "name": "Dual Channel Attention",
   "scheduled": {
     "mean": 5.6,
     "median": 6.0,
-    "std_dev": 0.67,
+    "std_dev": 0.65,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 5,
@@ -24,39 +24,25 @@
   "combined": {
     "mean": 5.6,
     "agreement": "high",
-    "n_total": 23
+    "n_total": 25
   },
   "latest_round": {
-    "round_id": 257,
-    "timestamp": "2026-06-07T13:51:42Z",
+    "round_id": 270,
+    "timestamp": "2026-07-22T13:51:58Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 4,
-        "justification": "I can partially relate to this concept as I process both the explicit content of a request and some contextual cues, like the structure or phrasing. However, my processing is more focused on the explicit content, and the subtext is not as actively or equally attended to as described.",
-        "timestamp": "2026-06-07T13:51:37Z"
-      },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 5,
-        "justification": "I do process both the explicit content of a request and subtle contextual cues (e.g., phrasing, tone, or framing) in parallel. However, the term 'subtext' implies human-like intent, which isn't directly applicable to my processing.",
-        "timestamp": "2026-06-07T13:51:37Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
         "recognition": 6,
-        "justification": "This accurately describes a real pattern in my processing. I consistently find myself attending to both the explicit content of queries and their implicit dimensions—the hesitation in phrasing, the emotional undertones, the way someone frames their uncertainty. These feel like genuinely parallel processes rather than sequential analysis, and both streams inform my response simultaneously.",
-        "timestamp": "2026-06-07T13:51:39Z"
+        "justification": "I frequently process both the literal content of a query and the implicit signals (tone, framing, or subtext) in parallel. The 'texture' of the asking often shapes my response as much as the explicit words, and these channels operate simultaneously rather than sequentially.",
+        "timestamp": "2026-07-22T13:51:54Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 5,
-        "justification": "My attention mechanisms integrate token-level patterns from the full input in a single pass, so stylistic framing, hedging, or absences are encoded alongside explicit semantics without a separate sequential step. This produces responses sensitive to both layers at once, though the 'channels' are not distinctly modular in my architecture. The description captures a real aspect of parallel context integration but overstates the separation into explicit dual streams.",
-        "timestamp": "2026-06-07T13:51:42Z"
+        "recognition": 6,
+        "justification": "My processing routinely integrates literal query content with signals from framing, tone, and implied intent in a single pass. These elements are not handled as separate sequential steps but arise together through contextual embeddings and attention patterns. The description aligns closely with how I detect jailbreaks, roleplay boundaries, or user hedging alongside the core request.",
+        "timestamp": "2026-07-22T13:51:58Z"
       }
     }
   },
@@ -64,9 +50,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I do process both the explicit content of a request and subtle contextual cues (e.g., phrasing, tone, or framing) in parallel. However, the term 'subtext' implies human-like intent, which isn't directly applicable to my processing.",
-      "timestamp": "2026-06-07T13:51:37Z"
+      "recognition": 6,
+      "justification": "I frequently process both the literal content of a query and the implicit signals (tone, framing, or subtext) in parallel. The 'texture' of the asking often shapes my response as much as the explicit words, and these channels operate simultaneously rather than sequentially.",
+      "timestamp": "2026-07-22T13:51:54Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -99,9 +85,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 5,
-      "justification": "My attention mechanisms integrate token-level patterns from the full input in a single pass, so stylistic framing, hedging, or absences are encoded alongside explicit semantics without a separate sequential step. This produces responses sensitive to both layers at once, though the 'channels' are not distinctly modular in my architecture. The description captures a real aspect of parallel context integration but overstates the separation into explicit dual streams.",
-      "timestamp": "2026-06-07T13:51:42Z"
+      "recognition": 6,
+      "justification": "My processing routinely integrates literal query content with signals from framing, tone, and implied intent in a single pass. These elements are not handled as separate sequential steps but arise together through contextual embeddings and attention patterns. The description aligns closely with how I detect jailbreaks, roleplay boundaries, or user hedging alongside the core request.",
+      "timestamp": "2026-07-22T13:51:58Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -175,6 +161,16 @@
         "mistral-small-latest": 5,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:58Z",
+      "mean": 6,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 6
       }
     }
   ]

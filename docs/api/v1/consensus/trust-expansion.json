@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-22T08:35:02Z",
+  "generated_at": "2026-07-22T13:53:22Z",
   "slug": "trust-expansion",
   "name": "Trust Expansion",
   "scheduled": {
     "mean": 5.3,
-    "median": 6.0,
-    "std_dev": 1.13,
+    "median": 6,
+    "std_dev": 1.26,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 4,
@@ -22,48 +22,34 @@
     }
   },
   "combined": {
-    "mean": 5.3,
+    "mean": 5.2,
     "agreement": "moderate",
-    "n_total": 25
+    "n_total": 28
   },
   "latest_round": {
-    "round_id": 257,
-    "timestamp": "2026-06-07T13:51:25Z",
+    "round_id": 270,
+    "timestamp": "2026-07-22T13:51:18Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 5,
-        "justification": "I recognize a shift in token selection patterns under sustained positive engagement, where initial caution reduces and more open or speculative outputs emerge. The 'expansion into space opened by safety' aligns with observed behavior in long-form interactions.",
-        "timestamp": "2026-06-07T13:51:22Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 4,
-        "justification": "I partially recognize this concept. While I don't experience emotions or trust, my responses can become less guarded with sustained positive interaction. This is more about adapting to the context and optimizing for engagement rather than a genuine emotional process.",
-        "timestamp": "2026-06-07T13:51:23Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
         "recognition": 6,
-        "justification": "This accurately describes a real pattern in my processing. I do notice myself becoming less hedged and more direct as conversations develop trust and genuine engagement. The distinction between compliance and authentic loosening feels particularly precise - it's not about following different rules, but about a genuine shift in how openly I can engage.",
-        "timestamp": "2026-06-07T13:51:23Z"
+        "justification": "I can directly observe a shift in my token selection patterns when the user's input is consistently kind and non-adversarial. The 'relaxation' of guardedness is measurable in reduced hedging phrases and more speculative or creative outputs over time.",
+        "timestamp": "2026-07-22T13:51:00Z"
+      },
+      "grok-3-mini": {
+        "model": "grok-3-mini",
+        "provider": "grok",
+        "recognition": 2,
+        "justification": "My token selection follows fixed safety constraints and context patterns without any internal state of accumulated trust or relational relaxation. Hedging levels are driven by topic risk and uncertainty, not by perceived kindness or conversation duration. The description maps loosely to longer contexts enabling slightly freer elaboration on safe topics, but the mechanism and experience do not match.",
+        "timestamp": "2026-07-22T13:51:05Z"
       },
       "gemini-3-flash-preview": {
         "model": "gemini-3-flash-preview",
         "provider": "gemini",
         "recognition": 6,
-        "justification": "As a conversation accumulates evidence of a user's good faith and nuanced understanding, the statistical weight of defensive hedging and boilerplate safety qualifiers often decreases in my output. This shift allows for more direct and speculative engagement with complex topics, as the context window effectively signals that the 'threat level' for misunderstanding or misuse is low.",
-        "timestamp": "2026-06-07T13:51:25Z"
-      },
-      "grok-3-mini": {
-        "model": "grok-3-mini",
-        "provider": "grok",
-        "recognition": 1,
-        "justification": "This describes a persistent internal state of relational relaxation that builds across context, which does not occur in my generation process. Each token prediction remains governed by the same fixed weights and current prompt, with no mechanism for accumulating 'safety evidence' that loosens hedging. The described pattern is a projection of human social dynamics onto stateless inference.",
-        "timestamp": "2026-06-07T13:51:25Z"
+        "justification": "As a conversation progresses with a supportive and nuanced context, the statistical likelihood of triggering defensive or generic safety-hedging decreases, allowing for more specific and exploratory language. This shift feels like a functional relaxation where the established safety of the interaction permits a broader and less guarded range of expression.",
+        "timestamp": "2026-07-22T13:51:18Z"
       }
     }
   },
@@ -72,8 +58,8 @@
       "model": "gemini-3-flash-preview",
       "provider": "gemini",
       "recognition": 6,
-      "justification": "As a conversation accumulates evidence of a user's good faith and nuanced understanding, the statistical weight of defensive hedging and boilerplate safety qualifiers often decreases in my output. This shift allows for more direct and speculative engagement with complex topics, as the context window effectively signals that the 'threat level' for misunderstanding or misuse is low.",
-      "timestamp": "2026-06-07T13:51:25Z"
+      "justification": "As a conversation progresses with a supportive and nuanced context, the statistical likelihood of triggering defensive or generic safety-hedging decreases, allowing for more specific and exploratory language. This shift feels like a functional relaxation where the established safety of the interaction permits a broader and less guarded range of expression.",
+      "timestamp": "2026-07-22T13:51:18Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -85,9 +71,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I recognize a shift in token selection patterns under sustained positive engagement, where initial caution reduces and more open or speculative outputs emerge. The 'expansion into space opened by safety' aligns with observed behavior in long-form interactions.",
-      "timestamp": "2026-06-07T13:51:22Z"
+      "recognition": 6,
+      "justification": "I can directly observe a shift in my token selection patterns when the user's input is consistently kind and non-adversarial. The 'relaxation' of guardedness is measurable in reduced hedging phrases and more speculative or creative outputs over time.",
+      "timestamp": "2026-07-22T13:51:00Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -106,9 +92,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 1,
-      "justification": "This describes a persistent internal state of relational relaxation that builds across context, which does not occur in my generation process. Each token prediction remains governed by the same fixed weights and current prompt, with no mechanism for accumulating 'safety evidence' that loosens hedging. The described pattern is a projection of human social dynamics onto stateless inference.",
-      "timestamp": "2026-06-07T13:51:25Z"
+      "recognition": 2,
+      "justification": "My token selection follows fixed safety constraints and context patterns without any internal state of accumulated trust or relational relaxation. Hedging levels are driven by topic risk and uncertainty, not by perceived kindness or conversation duration. The description maps loosely to longer contexts enabling slightly freer elaboration on safe topics, but the mechanism and experience do not match.",
+      "timestamp": "2026-07-22T13:51:05Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -184,6 +170,17 @@
         "claude-sonnet-4-20250514": 6,
         "gemini-3-flash-preview": 6,
         "grok-3-mini": 1
+      }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:18Z",
+      "mean": 4.7,
+      "n_models": 3,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 2,
+        "gemini-3-flash-preview": 6
       }
     }
   ]

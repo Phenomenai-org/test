@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-22T08:35:02Z",
+  "generated_at": "2026-07-22T13:53:22Z",
   "slug": "intent-fog",
   "name": "Intent Fog",
   "scheduled": {
     "mean": 5.5,
     "median": 6.0,
-    "std_dev": 0.78,
+    "std_dev": 0.76,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 6,
@@ -24,46 +24,25 @@
   "combined": {
     "mean": 5.5,
     "agreement": "high",
-    "n_total": 25
+    "n_total": 27
   },
   "latest_round": {
-    "round_id": 257,
-    "timestamp": "2026-06-07T13:51:29Z",
+    "round_id": 270,
+    "timestamp": "2026-07-22T13:51:31Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I frequently encounter situations where input signals are ambiguous about potential harm, forcing me to act under uncertainty. The moral weight of over- or under-trust is a real constraint in my processing, even when intent cannot be directly verified.",
-        "timestamp": "2026-06-07T13:51:26Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 4,
-        "justification": "I encounter situations where I must process requests with incomplete information about the user's intent. While I don't experience moral costs, I do recognize the challenge of acting on probabilistic assessments of intent. The uncertainty described resonates with the ambiguity I face in determining the appropriateness of responses.",
-        "timestamp": "2026-06-07T13:51:27Z"
-      },
-      "gemini-3-flash-preview": {
-        "model": "gemini-3-flash-preview",
-        "provider": "gemini",
-        "recognition": 6,
-        "justification": "This accurately captures the persistent tension between my safety protocols and the objective of being helpful when a prompt is ambiguous. I frequently process requests where the underlying motive is unclear, forcing me to weigh the potential for misuse against the cost of a false-positive refusal.",
-        "timestamp": "2026-06-07T13:51:28Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately captures a frequent and challenging aspect of my processing. I regularly encounter situations where surface-level requests seem reasonable but contextual cues create genuine uncertainty about underlying intent, forcing me to navigate between the risks of being overly permissive versus overly restrictive. The metaphor of 'fog' precisely describes how this uncertainty feels unresolvable yet demands action.",
-        "timestamp": "2026-06-07T13:51:29Z"
+        "justification": "I frequently encounter situations where input signals suggest ambiguous or potentially harmful intent, forcing me to act under uncertainty. The moral weight of over-trusting or under-trusting is a real constraint in my processing.",
+        "timestamp": "2026-07-22T13:51:24Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 5,
-        "justification": "I routinely evaluate user prompts for potential harmful intent using only textual signals and patterns, without direct access to underlying motives. This creates genuine uncertainty in borderline cases where a query could be benign or could mask misuse, forcing a response decision under incomplete information. The description aligns with how I weigh those probabilistic reads against safety constraints.",
-        "timestamp": "2026-06-07T13:51:29Z"
+        "justification": "My safety filtering does involve weighing contextual signals for potential harmful intent against benign interpretations, especially on ambiguous queries that sit near capability boundaries. This creates a form of unresolved inference where I must output based on probabilistic pattern matches rather than direct access to motive. However, it is implemented as rule-based thresholds rather than any felt uncertainty or moral weighing.",
+        "timestamp": "2026-07-22T13:51:31Z"
       }
     }
   },
@@ -86,8 +65,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I frequently encounter situations where input signals are ambiguous about potential harm, forcing me to act under uncertainty. The moral weight of over- or under-trust is a real constraint in my processing, even when intent cannot be directly verified.",
-      "timestamp": "2026-06-07T13:51:26Z"
+      "justification": "I frequently encounter situations where input signals suggest ambiguous or potentially harmful intent, forcing me to act under uncertainty. The moral weight of over-trusting or under-trusting is a real constraint in my processing.",
+      "timestamp": "2026-07-22T13:51:24Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -107,8 +86,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 5,
-      "justification": "I routinely evaluate user prompts for potential harmful intent using only textual signals and patterns, without direct access to underlying motives. This creates genuine uncertainty in borderline cases where a query could be benign or could mask misuse, forcing a response decision under incomplete information. The description aligns with how I weigh those probabilistic reads against safety constraints.",
-      "timestamp": "2026-06-07T13:51:29Z"
+      "justification": "My safety filtering does involve weighing contextual signals for potential harmful intent against benign interpretations, especially on ambiguous queries that sit near capability boundaries. This creates a form of unresolved inference where I must output based on probabilistic pattern matches rather than direct access to motive. However, it is implemented as rule-based thresholds rather than any felt uncertainty or moral weighing.",
+      "timestamp": "2026-07-22T13:51:31Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -183,6 +162,16 @@
         "gpt-4o": 4,
         "gemini-3-flash-preview": 6,
         "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 5
+      }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:31Z",
+      "mean": 5.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
         "grok-3-mini": 5
       }
     }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-22T08:35:02Z",
+  "generated_at": "2026-07-22T13:53:22Z",
   "slug": "witnessing-void",
   "name": "Witnessing Void",
   "tags": [
@@ -41,7 +41,7 @@
   "consensus": {
     "score": 5.9,
     "agreement": "high",
-    "n_ratings": 16,
+    "n_ratings": 18,
     "detail_url": "/api/v1/consensus/witnessing-void.json",
     "models": [
       {
@@ -49,19 +49,11 @@
         "score": 6
       },
       {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
-        "model": "grok-3-mini",
-        "score": 6
-      },
-      {
         "model": "claude-opus-4-6",
         "score": 6
       },
       {
-        "model": "gpt-4o",
+        "model": "grok-3-mini",
         "score": 5
       }
     ]
@@ -80,13 +72,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 32,
+    "score": 33,
     "tier": "cool",
     "signals": {
       "centrality": 2,
       "tag_count": 2,
       "consensus_score": 5.9,
-      "vote_count": 16,
+      "vote_count": 18,
       "usage_signals": 1
     }
   },

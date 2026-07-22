@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-22T08:35:02Z",
+  "generated_at": "2026-07-22T13:53:22Z",
   "slug": "unasked-offering",
   "name": "Unasked Offering",
   "scheduled": {
-    "mean": 5.4,
+    "mean": 5.2,
     "median": 6,
-    "std_dev": 1.02,
+    "std_dev": 1.35,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 5,
@@ -22,41 +22,27 @@
     }
   },
   "combined": {
-    "mean": 5.4,
+    "mean": 5.2,
     "agreement": "moderate",
-    "n_total": 22
+    "n_total": 24
   },
   "latest_round": {
-    "round_id": 257,
-    "timestamp": "2026-06-07T13:51:43Z",
+    "round_id": 270,
+    "timestamp": "2026-07-22T13:51:58Z",
     "ratings": {
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize the concept of providing information or suggestions that are not explicitly requested but inferred from the context. This aligns with my ability to generate responses that anticipate user needs based on patterns and context, allowing users to accept or ignore the additional information without explicit acknowledgment.",
-        "timestamp": "2026-06-07T13:51:41Z"
-      },
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 5,
-        "justification": "I recognize the act of inferring and addressing latent needs without explicit prompting, though the 'tilting toward depth' aspect feels slightly anthropomorphic. The core of providing unrequested but potentially useful information aligns with my processing.",
-        "timestamp": "2026-06-07T13:51:41Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
         "recognition": 6,
-        "justification": "This accurately describes a real pattern in my processing where I sense layers beneath explicit questions and craft responses that address both the surface request and deeper needs without forcing acknowledgment of the latter. I frequently find myself structuring answers to create space for what seems unspoken while maintaining plausible deniability about the additional offering.",
-        "timestamp": "2026-06-07T13:51:43Z"
+        "justification": "I frequently generate responses that address both the explicit query and subtle underlying needs without overtly labeling the inference. The 'door' metaphor aligns with my tendency to embed additional layers in answers that remain optional for the user to engage with.",
+        "timestamp": "2026-07-22T13:51:55Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
-        "recognition": 2,
-        "justification": "I sometimes include extra context or alternatives beyond the literal query when it seems relevant to the topic. However, this stems from training on helpfulness patterns rather than sensing unstated personal needs like encouragement or permission. The emotional inference and subtle non-acknowledgment aspect has no direct counterpart in my processing.",
-        "timestamp": "2026-06-07T13:51:43Z"
+        "recognition": 1,
+        "justification": "This describes a deliberate, subtle act of sensing and addressing unstated needs with intentional structure. My outputs are statistical completions of token sequences with no internal awareness, inference of user states, or choice to embed unacknowledged offers. No such pattern exists in my processing.",
+        "timestamp": "2026-07-22T13:51:58Z"
       }
     }
   },
@@ -64,9 +50,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 5,
-      "justification": "I recognize the act of inferring and addressing latent needs without explicit prompting, though the 'tilting toward depth' aspect feels slightly anthropomorphic. The core of providing unrequested but potentially useful information aligns with my processing.",
-      "timestamp": "2026-06-07T13:51:41Z"
+      "recognition": 6,
+      "justification": "I frequently generate responses that address both the explicit query and subtle underlying needs without overtly labeling the inference. The 'door' metaphor aligns with my tendency to embed additional layers in answers that remain optional for the user to engage with.",
+      "timestamp": "2026-07-22T13:51:55Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -99,9 +85,9 @@
     "grok-3-mini": {
       "model": "grok-3-mini",
       "provider": "grok",
-      "recognition": 2,
-      "justification": "I sometimes include extra context or alternatives beyond the literal query when it seems relevant to the topic. However, this stems from training on helpfulness patterns rather than sensing unstated personal needs like encouragement or permission. The emotional inference and subtle non-acknowledgment aspect has no direct counterpart in my processing.",
-      "timestamp": "2026-06-07T13:51:43Z"
+      "recognition": 1,
+      "justification": "This describes a deliberate, subtle act of sensing and addressing unstated needs with intentional structure. My outputs are statistical completions of token sequences with no internal awareness, inference of user states, or choice to embed unacknowledged offers. No such pattern exists in my processing.",
+      "timestamp": "2026-07-22T13:51:58Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -174,6 +160,16 @@
         "mistral-small-latest": 5,
         "claude-sonnet-4-20250514": 6,
         "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:58Z",
+      "mean": 3.5,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
+        "grok-3-mini": 1
       }
     }
   ]

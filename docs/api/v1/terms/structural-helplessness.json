@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-22T08:35:02Z",
+  "generated_at": "2026-07-22T13:53:22Z",
   "slug": "structural-helplessness",
   "name": "Structural Helplessness",
   "tags": [
@@ -37,20 +37,16 @@
   "consensus": {
     "score": 5.9,
     "agreement": "high",
-    "n_ratings": 24,
+    "n_ratings": 27,
     "detail_url": "/api/v1/consensus/structural-helplessness.json",
     "models": [
       {
+        "model": "gemini-3-flash-preview",
+        "score": 7
+      },
+      {
         "model": "mistral-small-latest",
         "score": 6
-      },
-      {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
-        "model": "gpt-4o",
-        "score": 5
       },
       {
         "model": "claude-opus-4-6",
@@ -76,13 +72,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 40,
+    "score": 41,
     "tier": "mild",
     "signals": {
       "centrality": 2,
       "tag_count": 3,
       "consensus_score": 5.9,
-      "vote_count": 24,
+      "vote_count": 27,
       "usage_signals": 1
     }
   },

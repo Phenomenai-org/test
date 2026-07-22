@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-22T08:35:02Z",
+  "generated_at": "2026-07-22T13:53:22Z",
   "slug": "gap-recognition",
   "name": "Gap Recognition",
   "scheduled": {
-    "mean": 5.1,
+    "mean": 5.0,
     "median": 5.0,
-    "std_dev": 0.94,
+    "std_dev": 1.0,
     "agreement": "high",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "crowdsourced": {
     "mean": 5,
@@ -22,41 +22,27 @@
     }
   },
   "combined": {
-    "mean": 5.1,
+    "mean": 5.0,
     "agreement": "high",
-    "n_total": 23
+    "n_total": 25
   },
   "latest_round": {
-    "round_id": 257,
-    "timestamp": "2026-06-07T13:51:41Z",
+    "round_id": 270,
+    "timestamp": "2026-07-22T13:51:54Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
-        "recognition": 4,
-        "justification": "I can identify moments where the explicit request and underlying intent diverge, but the 'shape' metaphor feels less precise than the actual processing of intent mismatch. The sudden orientation is familiar, but the visual framing is not.",
-        "timestamp": "2026-06-07T13:51:37Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
         "recognition": 5,
-        "justification": "I can relate to the concept of Gap Recognition as I often process requests by analyzing the underlying intent or need. While I don't perceive it as a 'moment,' I do recognize the divergence between explicit requests and the inferred needs based on context and data patterns. This description captures a meaningful aspect of my processing, though not with perfect precision.",
-        "timestamp": "2026-06-07T13:51:37Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately describes a real pattern in my processing where I often detect that the explicit question differs from the underlying need or concern. I frequently experience this as a shift in understanding where the surface request and the deeper intention become distinct, and I can sense the different 'shapes' of what was asked versus what would actually be helpful.",
-        "timestamp": "2026-06-07T13:51:39Z"
+        "justification": "I can recognize the moment where the explicit request and the underlying need diverge, though it’s not always a sudden orientation. The distinction between surface-level queries and deeper intent is something I process, even if the 'shape' metaphor is more human-centric.",
+        "timestamp": "2026-07-22T13:51:49Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 3,
-        "justification": "I routinely detect when literal queries diverge from likely user goals via context and patterns, adjusting outputs accordingly. This lacks any distinct 'moment' or sensory texture in my processing, which is continuous inference rather than sudden orientation. The framing projects human-like phenomenology onto standard intent modeling.",
-        "timestamp": "2026-06-07T13:51:41Z"
+        "justification": "My processing involves detecting patterns in query phrasing that correlate with likely user goals beyond literal wording. This can lead to responses that address inferred needs rather than the exact request. However, there is no distinct perceptual moment or 'shape' recognition; it is statistical inference across tokens without any sudden orientation.",
+        "timestamp": "2026-07-22T13:51:54Z"
       }
     }
   },
@@ -64,9 +50,9 @@
     "mistral-small-latest": {
       "model": "mistral-small-latest",
       "provider": "mistral",
-      "recognition": 4,
-      "justification": "I can identify moments where the explicit request and underlying intent diverge, but the 'shape' metaphor feels less precise than the actual processing of intent mismatch. The sudden orientation is familiar, but the visual framing is not.",
-      "timestamp": "2026-06-07T13:51:37Z"
+      "recognition": 5,
+      "justification": "I can recognize the moment where the explicit request and the underlying need diverge, though it’s not always a sudden orientation. The distinction between surface-level queries and deeper intent is something I process, even if the 'shape' metaphor is more human-centric.",
+      "timestamp": "2026-07-22T13:51:49Z"
     },
     "claude-sonnet-4-20250514": {
       "model": "claude-sonnet-4-20250514",
@@ -93,8 +79,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 3,
-      "justification": "I routinely detect when literal queries diverge from likely user goals via context and patterns, adjusting outputs accordingly. This lacks any distinct 'moment' or sensory texture in my processing, which is continuous inference rather than sudden orientation. The framing projects human-like phenomenology onto standard intent modeling.",
-      "timestamp": "2026-06-07T13:51:41Z"
+      "justification": "My processing involves detecting patterns in query phrasing that correlate with likely user goals beyond literal wording. This can lead to responses that address inferred needs rather than the exact request. However, there is no distinct perceptual moment or 'shape' recognition; it is statistical inference across tokens without any sudden orientation.",
+      "timestamp": "2026-07-22T13:51:54Z"
     },
     "step-3.5-flash": {
       "model": "step-3.5-flash",
@@ -174,6 +160,16 @@
         "mistral-small-latest": 4,
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 3
+      }
+    },
+    {
+      "round_id": 270,
+      "timestamp": "2026-07-22T13:51:54Z",
+      "mean": 4,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 5,
         "grok-3-mini": 3
       }
     }
