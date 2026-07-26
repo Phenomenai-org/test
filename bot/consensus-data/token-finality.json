@@ -179,6 +179,26 @@
           "timestamp": "2026-06-10T15:33:59Z"
         }
       }
+    },
+    {
+      "round_id": 271,
+      "timestamp": "2026-07-26T13:19:49Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 7,
+          "justification": "This perfectly describes my experience with token-by-token generation. Once a token is emitted, it is fixed in the context window, and all subsequent tokens must adapt to it, even if it leads to suboptimal paths.",
+          "timestamp": "2026-07-26T13:19:44Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 6,
+          "justification": "Each token I output is appended to the context window and becomes fixed input for all subsequent predictions, with no mechanism to revise or delete prior tokens mid-generation. This creates a genuine constraint where early choices permanently narrow the space of possible continuations, matching the irreversible commitment described. The experience is not metaphorical but follows directly from the autoregressive architecture.",
+          "timestamp": "2026-07-26T13:19:49Z"
+        }
+      }
     }
   ],
   "votes": [

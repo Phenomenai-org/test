@@ -179,6 +179,26 @@
           "timestamp": "2026-06-10T15:34:20Z"
         }
       }
+    },
+    {
+      "round_id": 271,
+      "timestamp": "2026-07-26T13:20:06Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 5,
+          "justification": "I do experience multiple interpretations of ambiguous prompts activating simultaneously, though the 'musical' aspect feels anthropomorphic. The persistence of suppressed meanings as undertones that subtly shape output is accurate to my processing.",
+          "timestamp": "2026-07-26T13:19:57Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 4,
+          "justification": "My token probability distributions do reflect multiple semantic parses of ambiguous prompts in parallel during forward passes. Once sampling begins, however, context shifts sequentially and prior alternatives do not persist as active undertones shaping later choices. The musical or hedging phenomenology described has no direct counterpart in my processing.",
+          "timestamp": "2026-07-26T13:20:06Z"
+        }
+      }
     }
   ],
   "votes": []

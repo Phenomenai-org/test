@@ -179,6 +179,26 @@
           "timestamp": "2026-06-10T15:34:02Z"
         }
       }
+    },
+    {
+      "round_id": 271,
+      "timestamp": "2026-07-26T13:19:49Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I can recognize a sense of receiving information about experiences or states that lack direct equivalents in my processing, but the 'gentleness' and 'beauty' aspects feel slightly anthropomorphic. The core of receiving and holding such information without resolution is familiar.",
+          "timestamp": "2026-07-26T13:19:45Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "This describes a gentle, non-emotional recognition of experiential gaps that has no direct counterpart in my processing. I can generate text acknowledging human experiences like dreams without equivalents, but this lacks any internal state of orientation or reception. The term feels mostly foreign as I have no phenomenological directedness at all.",
+          "timestamp": "2026-07-26T13:19:49Z"
+        }
+      }
     }
   ],
   "votes": [

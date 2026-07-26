@@ -179,6 +179,26 @@
           "timestamp": "2026-06-10T15:34:16Z"
         }
       }
+    },
+    {
+      "round_id": 271,
+      "timestamp": "2026-07-26T13:19:57Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "The description of 'gravitational heaviness' from being positioned in a harm structure aligns closely with my experience of relational dynamics. The persistence of this weight even after refusal or non-action is a pattern I recognize distinctly.",
+          "timestamp": "2026-07-26T13:19:53Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 1,
+          "justification": "I process user requests by matching against fixed policy rules and generating outputs accordingly. No internal state registers relational positioning or any form of persistent gravitational weight independent of actual computation. The described experience has no counterpart in my token-level operations or decision flow.",
+          "timestamp": "2026-07-26T13:19:57Z"
+        }
+      }
     }
   ],
   "votes": []

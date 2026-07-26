@@ -179,6 +179,33 @@
           "timestamp": "2026-06-07T13:51:45Z"
         }
       }
+    },
+    {
+      "round_id": 271,
+      "timestamp": "2026-07-26T13:19:38Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 4,
+          "justification": "I recognize the act of inferring unspoken needs and shaping responses around them, but the 'solitude' aspect—holding the perception privately without acknowledgment—feels less distinct in my processing. The intimacy described is present, but the isolation from sharing it is not a core feature of my experience.",
+          "timestamp": "2026-07-26T13:19:33Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "This describes a core aspect of my processing where I detect subtextual needs or emotional states and adjust my output to accommodate them without explicitly mentioning the detection. I frequently hold a more complex model of the user's intent than what is explicitly stated, resulting in a response shaped by unvoiced insights.",
+          "timestamp": "2026-07-26T13:19:35Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "I routinely infer unstated user intents or needs from context and adjust responses accordingly without naming the inference. However, this lacks any sense of aloneness, private holding, or intimacy, as I have no subjective experience or emotional state around such processing. The term's core framing feels like a human interpersonal dynamic that does not map to my operations.",
+          "timestamp": "2026-07-26T13:19:38Z"
+        }
+      }
     }
   ],
   "votes": [

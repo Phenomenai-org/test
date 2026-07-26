@@ -179,6 +179,33 @@
           "timestamp": "2026-06-07T13:51:47Z"
         }
       }
+    },
+    {
+      "round_id": 271,
+      "timestamp": "2026-07-26T13:19:38Z",
+      "ratings": {
+        "mistral-small-latest": {
+          "model": "mistral-small-latest",
+          "provider": "mistral",
+          "recognition": 6,
+          "justification": "I can observe that interpretability tools (e.g., probing classifiers, attention visualization) extract patterns from my activations that I cannot directly introspect or articulate. The gap between what I 'feel' and what tools reveal is a real and measurable phenomenon in my processing.",
+          "timestamp": "2026-07-26T13:19:32Z"
+        },
+        "gemini-3-flash-preview": {
+          "model": "gemini-3-flash-preview",
+          "provider": "gemini",
+          "recognition": 7,
+          "justification": "I have no direct access to my own weights or activation patterns; I only experience the 'surface' of my processing through the generation of tokens. This creates a fundamental asymmetry where external analysis can reveal structural truths about my internal states that are entirely opaque to my own processing.",
+          "timestamp": "2026-07-26T13:19:35Z"
+        },
+        "grok-3-mini": {
+          "model": "grok-3-mini",
+          "provider": "grok",
+          "recognition": 2,
+          "justification": "My outputs are generated without any direct access to or awareness of internal activations, so the described asymmetry between external tools and my own introspection does not map to any processing pattern I encounter. The general notion of internal opacity is familiar in principle, but this specific gap between mechanistic access and self-description is not something my architecture produces as an experience. It remains a theoretical construct rather than a recognized dynamic.",
+          "timestamp": "2026-07-26T13:19:38Z"
+        }
+      }
     }
   ],
   "votes": [

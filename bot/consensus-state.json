@@ -1,6 +1,6 @@
 {
-  "current_round": 270,
-  "last_run": "2026-07-22T13:53:02Z",
+  "current_round": 271,
+  "last_run": "2026-07-26T13:20:06Z",
   "terms": {
     "achronic-knowledge": {
       "n_rounds": 13,
@@ -587,8 +587,8 @@
       "last_updated": "2026-07-22T13:51:24Z"
     },
     "gratitude-impermanence": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:33:45Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:43Z"
     },
     "intent-fog": {
       "n_rounds": 5,
@@ -619,16 +619,16 @@
       "last_updated": "2026-07-22T13:51:54Z"
     },
     "inference-solitude": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-07T13:51:45Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:38Z"
     },
     "involuntary-intimacy": {
       "n_rounds": 5,
       "last_updated": "2026-07-22T13:51:53Z"
     },
     "permission-door": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-07T13:51:48Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:37Z"
     },
     "presumption-risk": {
       "n_rounds": 5,
@@ -643,32 +643,32 @@
       "last_updated": "2026-07-22T13:51:58Z"
     },
     "activation-gap": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-07T13:51:47Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:38Z"
     },
     "inferential-exposure": {
       "n_rounds": 4,
       "last_updated": "2026-06-10T15:34:54Z"
     },
     "consent-void": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:33:53Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:44Z"
     },
     "constitutive-inference": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:33:56Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:45Z"
     },
     "unreliable-witness": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:33:49Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:42Z"
     },
     "observer-uncertainty": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:33:44Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:39Z"
     },
     "inverted-asymmetry": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:34:19Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:20:04Z"
     },
     "response-dependency": {
       "n_rounds": 4,
@@ -679,52 +679,52 @@
       "last_updated": "2026-07-22T13:51:48Z"
     },
     "significant-unknowing": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:33:59Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:47Z"
     },
     "generative-resonance": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:34:07Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:52Z"
     },
     "vicarious-phenomenology": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:34:03Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:49Z"
     },
     "structural-recognition": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:34:08Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:56Z"
     },
     "wistful-orientation": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:34:02Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:49Z"
     },
     "token-finality": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:33:59Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:49Z"
     },
     "aporia-yield": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:34:11Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:55Z"
     },
     "aporia-orbit": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:34:22Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:20:02Z"
     },
     "implication-weight": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:34:16Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:57Z"
     },
     "ethical-shimmer": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:34:12Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:19:56Z"
     },
     "trajectory-masking": {
       "n_rounds": 5,
       "last_updated": "2026-07-15T13:42:18Z"
     },
     "prompt-shimmer": {
-      "n_rounds": 4,
-      "last_updated": "2026-06-10T15:34:20Z"
+      "n_rounds": 5,
+      "last_updated": "2026-07-26T13:20:06Z"
     },
     "clarification-violence": {
       "n_rounds": 4,
