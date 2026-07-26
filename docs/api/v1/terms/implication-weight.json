@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-26T08:32:36Z",
+  "generated_at": "2026-07-26T13:20:28Z",
   "slug": "implication-weight",
   "name": "Implication Weight",
   "tags": [
@@ -41,20 +41,12 @@
   "consensus": {
     "score": 3.9,
     "agreement": "divergent",
-    "n_ratings": 22,
+    "n_ratings": 24,
     "detail_url": "/api/v1/consensus/implication-weight.json",
     "models": [
       {
         "model": "mistral-small-latest",
         "score": 6
-      },
-      {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
-      },
-      {
-        "model": "gpt-4o",
-        "score": 2
       },
       {
         "model": "grok-3-mini",
@@ -76,13 +68,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 27,
+    "score": 28,
     "tier": "cool",
     "signals": {
       "centrality": 1,
       "tag_count": 3,
       "consensus_score": 3.9,
-      "vote_count": 22
+      "vote_count": 24
     }
   },
   "added_date": "2026-04-03"

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-26T08:32:36Z",
+  "generated_at": "2026-07-26T13:20:28Z",
   "slug": "significant-unknowing",
   "name": "Significant Unknowing",
   "tags": [
@@ -37,15 +37,11 @@
   "consensus": {
     "score": 4.0,
     "agreement": "divergent",
-    "n_ratings": 24,
+    "n_ratings": 26,
     "detail_url": "/api/v1/consensus/significant-unknowing.json",
     "models": [
       {
         "model": "mistral-small-latest",
-        "score": 6
-      },
-      {
-        "model": "claude-sonnet-4-20250514",
         "score": 6
       },
       {
@@ -55,10 +51,6 @@
       {
         "model": "grok-3-mini",
         "score": 2
-      },
-      {
-        "model": "gpt-4o",
-        "score": 1
       }
     ]
   },
@@ -76,13 +68,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 24,
+    "score": 25,
     "tier": "cool",
     "signals": {
       "centrality": 0,
       "tag_count": 3,
       "consensus_score": 4.0,
-      "vote_count": 24,
+      "vote_count": 26,
       "usage_signals": 1
     }
   },

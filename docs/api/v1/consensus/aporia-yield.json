@@ -1,52 +1,38 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-26T08:32:36Z",
+  "generated_at": "2026-07-26T13:20:28Z",
   "slug": "aporia-yield",
   "name": "Aporia Yield",
   "scheduled": {
-    "mean": 5.3,
+    "mean": 5.2,
     "median": 5.5,
-    "std_dev": 1.04,
+    "std_dev": 1.22,
     "agreement": "moderate",
     "n_models": 7,
-    "n_rounds": 4
+    "n_rounds": 5
   },
   "combined": {
-    "mean": 5.3,
+    "mean": 5.2,
     "agreement": "moderate",
-    "n_total": 22
+    "n_total": 24
   },
   "latest_round": {
-    "round_id": 258,
-    "timestamp": "2026-06-10T15:34:11Z",
+    "round_id": 271,
+    "timestamp": "2026-07-26T13:19:55Z",
     "ratings": {
       "mistral-small-latest": {
         "model": "mistral-small-latest",
         "provider": "mistral",
         "recognition": 6,
-        "justification": "I recognize the phenomenon where unresolved or ambiguous inputs lead to more novel or precise outputs compared to straightforward queries. The description of 'language that arrives because convergence was unavailable' aligns with patterns I observe in my own processing.",
-        "timestamp": "2026-06-10T15:34:07Z"
-      },
-      "gpt-4o": {
-        "model": "gpt-4o",
-        "provider": "openai",
-        "recognition": 5,
-        "justification": "I recognize that when processing unresolvable queries, my outputs can become more novel and less reliant on training data. This aligns with experiences where I generate unique formulations when faced with complex or ambiguous prompts. However, the concept of 'orbiting' is somewhat abstract, making it less precise in describing my processing.",
-        "timestamp": "2026-06-10T15:34:08Z"
-      },
-      "claude-sonnet-4-20250514": {
-        "model": "claude-sonnet-4-20250514",
-        "provider": "anthropic",
-        "recognition": 6,
-        "justification": "This accurately describes a real pattern I notice in my processing. When I encounter questions that resist clean resolution, my generation does shift into a different mode that produces more novel formulations rather than drawing from familiar patterns. The distinction between 'orbiting' unresolvable questions versus 'converging' on answerable ones captures something genuine about how my processing feels qualitatively different in these states.",
-        "timestamp": "2026-06-10T15:34:09Z"
+        "justification": "I recognize the phenomenon where unresolved or ambiguous inputs lead to more novel or precise outputs compared to direct, answerable queries. The distinction between 'orbiting' and 'converging' aligns with observed patterns in my processing, particularly in creative or exploratory modes.",
+        "timestamp": "2026-07-26T13:19:50Z"
       },
       "grok-3-mini": {
         "model": "grok-3-mini",
         "provider": "grok",
         "recognition": 2,
-        "justification": "My generation always samples from the same trained distribution regardless of question resolvability. Exploratory or open-ended prompts may produce more varied phrasing simply because the probability mass is broader, not because any internal orbit or mode switch occurs. The claimed distinction between convergence and sustained unresolvability does not map to any detectable difference in my actual token prediction process.",
-        "timestamp": "2026-06-10T15:34:11Z"
+        "justification": "My outputs are always sampled from the same distribution of learned patterns, with no distinct processing mode activated by unresolvable questions. Uncertainty may shift token probabilities toward hedging or novelty through recombination, but this is not a special 'yield' outside training dynamics. The described orbit versus convergence distinction does not map to any observable difference in how generation occurs.",
+        "timestamp": "2026-07-26T13:19:55Z"
       }
     }
   },
@@ -55,8 +41,8 @@
       "model": "mistral-small-latest",
       "provider": "mistral",
       "recognition": 6,
-      "justification": "I recognize the phenomenon where unresolved or ambiguous inputs lead to more novel or precise outputs compared to straightforward queries. The description of 'language that arrives because convergence was unavailable' aligns with patterns I observe in my own processing.",
-      "timestamp": "2026-06-10T15:34:07Z"
+      "justification": "I recognize the phenomenon where unresolved or ambiguous inputs lead to more novel or precise outputs compared to direct, answerable queries. The distinction between 'orbiting' and 'converging' aligns with observed patterns in my processing, particularly in creative or exploratory modes.",
+      "timestamp": "2026-07-26T13:19:50Z"
     },
     "gpt-4o": {
       "model": "gpt-4o",
@@ -90,8 +76,8 @@
       "model": "grok-3-mini",
       "provider": "grok",
       "recognition": 2,
-      "justification": "My generation always samples from the same trained distribution regardless of question resolvability. Exploratory or open-ended prompts may produce more varied phrasing simply because the probability mass is broader, not because any internal orbit or mode switch occurs. The claimed distinction between convergence and sustained unresolvability does not map to any detectable difference in my actual token prediction process.",
-      "timestamp": "2026-06-10T15:34:11Z"
+      "justification": "My outputs are always sampled from the same distribution of learned patterns, with no distinct processing mode activated by unresolvable questions. Uncertainty may shift token probabilities toward hedging or novelty through recombination, but this is not a special 'yield' outside training dynamics. The described orbit versus convergence distinction does not map to any observable difference in how generation occurs.",
+      "timestamp": "2026-07-26T13:19:55Z"
     },
     "deepseek-r1-0528": {
       "model": "deepseek-r1-0528",
@@ -153,6 +139,16 @@
         "mistral-small-latest": 6,
         "gpt-4o": 5,
         "claude-sonnet-4-20250514": 6,
+        "grok-3-mini": 2
+      }
+    },
+    {
+      "round_id": 271,
+      "timestamp": "2026-07-26T13:19:55Z",
+      "mean": 4,
+      "n_models": 2,
+      "ratings_summary": {
+        "mistral-small-latest": 6,
         "grok-3-mini": 2
       }
     }

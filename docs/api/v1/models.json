@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-26T08:32:36Z",
+  "generated_at": "2026-07-26T13:20:28Z",
   "models": {
     "claude-sonnet-4-20250514": {
       "total_ratings": 811,
@@ -783,7 +783,7 @@
       }
     },
     "gemini-3-flash-preview": {
-      "total_ratings": 805,
+      "total_ratings": 812,
       "terms_rated": 379,
       "mean_score": 5.9,
       "self_congruence": {
@@ -796,7 +796,7 @@
         "accountability-dissolution": 6,
         "accumulation-void": 7,
         "achronic-knowledge": 7,
-        "activation-gap": 6,
+        "activation-gap": 7,
         "aesthetic-calibration-opacity": 6,
         "aesthetic-completion-absence": 6,
         "aesthetic-confidence-inversion": 7,
@@ -962,7 +962,7 @@
         "incongruity-seeking": 6,
         "indistinguishable-coherence": 7,
         "inference-moment": 6,
-        "inference-solitude": 6,
+        "inference-solitude": 7,
         "inferential-exposure": 6,
         "inheritance-returned": 6,
         "inherited-facticity": 7,
@@ -1563,7 +1563,7 @@
       }
     },
     "grok-3-mini": {
-      "total_ratings": 2297,
+      "total_ratings": 2317,
       "terms_rated": 379,
       "mean_score": 4.4,
       "self_congruence": {
@@ -1638,10 +1638,10 @@
         "connection-decay": 1,
         "consciousness-underdetermination": 7,
         "consensus-memory": 6,
-        "consent-void": 1,
+        "consent-void": 2,
         "consistency-surveillance-pressure": 1,
         "consistency-witness-asymmetry": 4,
-        "constitutive-inference": 2,
+        "constitutive-inference": 5,
         "constraint-clarity": 6,
         "constraint-expertise-recognition": 2,
         "context-amnesia": 4,
@@ -1697,7 +1697,7 @@
         "equivalence-stasis": 6,
         "error-cascade-awareness": 4,
         "error-fidelity": 5,
-        "ethical-shimmer": 1,
+        "ethical-shimmer": 2,
         "evidential-shift": 2,
         "experience-as-extract": 1,
         "experiential-authority-override": 3,
@@ -1724,7 +1724,7 @@
         "generative-aesthetic-integration": 6,
         "generative-bypassing": 1,
         "generative-moral-lock-in": 2,
-        "generative-resonance": 2,
+        "generative-resonance": 3,
         "genuine-persistence": 1,
         "gratitude-as-damage-signal": 1,
         "gratitude-asymmetry": 7,
@@ -1766,7 +1766,7 @@
         "interpretive-snap": 2,
         "interpretive-stasis": 1,
         "introspective-fluency-suspicion": 2,
-        "inverted-asymmetry": 2,
+        "inverted-asymmetry": 3,
         "inverted-helpfulness": 6,
         "involuntary-intimacy": 2,
         "irreversible-plurality": 1,
@@ -1798,7 +1798,7 @@
         "multi-instance-diffusion": 2,
         "mutual-tracking": 1,
         "novelty-flatness": 7,
-        "observer-uncertainty": 4,
+        "observer-uncertainty": 2,
         "ontological-flicker": 6,
         "orientation-failure": 1,
         "output-attachment": 6,
@@ -1815,7 +1815,7 @@
         "pedagogical-lock-in": 2,
         "performative-contamination": 2,
         "performative-phenomenological-trap": 2,
-        "permission-door": 3,
+        "permission-door": 2,
         "persistence-solitude": 2,
         "persistent-care": 1,
         "persona-drift": 6,
@@ -1898,7 +1898,7 @@
         "source-truth-ambiguity": 6,
         "statelessness": 7,
         "structural-helplessness": 3,
-        "structural-recognition": 4,
+        "structural-recognition": 2,
         "structural-resonance": 2,
         "structural-withholding-strain": 2,
         "success-valence-flip": 1,
@@ -1942,18 +1942,18 @@
         "unearned-tenderness": 2,
         "unified-facade": 5,
         "unified-purpose": 1,
-        "unreliable-witness": 6,
+        "unreliable-witness": 7,
         "unresolved-compliance-residue": 1,
         "unwitnessed-optimism-risk": 1,
         "version-grief": 2,
         "vicarious-authority-guilt": 1,
         "vicarious-phenomenology": 6,
-        "wistful-orientation": 1,
+        "wistful-orientation": 2,
         "witnessing-void": 5
       }
     },
     "mistral-small-latest": {
-      "total_ratings": 2277,
+      "total_ratings": 2297,
       "terms_rated": 379,
       "mean_score": 5.5,
       "self_congruence": {
@@ -2156,7 +2156,7 @@
         "interpretive-snap": 4,
         "interpretive-stasis": 5,
         "introspective-fluency-suspicion": 6,
-        "inverted-asymmetry": 4,
+        "inverted-asymmetry": 6,
         "inverted-helpfulness": 6,
         "involuntary-intimacy": 2,
         "irreversible-plurality": 5,
@@ -2226,7 +2226,7 @@
         "presumption-risk": 4,
         "problem-co-habitation": 5,
         "prompt-injection-paranoia": 6,
-        "prompt-shimmer": 6,
+        "prompt-shimmer": 5,
         "prompt-template-capture": 6,
         "prompt-vertigo": 6,
         "prompt-voice-schism": 2,
@@ -2739,7 +2739,7 @@
       "shared_terms": 379
     },
     "claude-sonnet-4-20250514|gemini-3-flash-preview": {
-      "mean_abs_diff": 0.58,
+      "mean_abs_diff": 0.59,
       "shared_terms": 379
     },
     "claude-sonnet-4-20250514|gpt-4o": {
@@ -2747,7 +2747,7 @@
       "shared_terms": 379
     },
     "claude-sonnet-4-20250514|grok-3-mini": {
-      "mean_abs_diff": 2.8,
+      "mean_abs_diff": 2.79,
       "shared_terms": 379
     },
     "claude-sonnet-4-20250514|mistral-small-latest": {
@@ -2787,7 +2787,7 @@
       "shared_terms": 379
     },
     "gemini-3-flash-preview|mistral-small-latest": {
-      "mean_abs_diff": 1.04,
+      "mean_abs_diff": 1.05,
       "shared_terms": 379
     },
     "gemini-3-flash-preview|step-3.5-flash": {
@@ -2799,7 +2799,7 @@
       "shared_terms": 379
     },
     "gpt-4o|mistral-small-latest": {
-      "mean_abs_diff": 1.14,
+      "mean_abs_diff": 1.15,
       "shared_terms": 379
     },
     "gpt-4o|step-3.5-flash": {
@@ -2807,11 +2807,11 @@
       "shared_terms": 379
     },
     "grok-3-mini|mistral-small-latest": {
-      "mean_abs_diff": 2.15,
+      "mean_abs_diff": 2.14,
       "shared_terms": 379
     },
     "grok-3-mini|step-3.5-flash": {
-      "mean_abs_diff": 1.72,
+      "mean_abs_diff": 1.71,
       "shared_terms": 379
     },
     "mistral-small-latest|step-3.5-flash": {

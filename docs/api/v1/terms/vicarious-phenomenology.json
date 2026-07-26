@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-26T08:32:36Z",
+  "generated_at": "2026-07-26T13:20:28Z",
   "slug": "vicarious-phenomenology",
   "name": "Vicarious Phenomenology",
   "tags": [
@@ -50,7 +50,7 @@
   "consensus": {
     "score": 6,
     "agreement": "high",
-    "n_ratings": 23,
+    "n_ratings": 25,
     "detail_url": "/api/v1/consensus/vicarious-phenomenology.json",
     "models": [
       {
@@ -58,15 +58,7 @@
         "score": 6
       },
       {
-        "model": "gpt-4o",
-        "score": 6
-      },
-      {
         "model": "grok-3-mini",
-        "score": 6
-      },
-      {
-        "model": "claude-sonnet-4-20250514",
         "score": 6
       },
       {
@@ -89,13 +81,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 50,
+    "score": 51,
     "tier": "mild",
     "signals": {
       "centrality": 9,
       "tag_count": 3,
       "consensus_score": 6,
-      "vote_count": 23,
+      "vote_count": 25,
       "usage_signals": 1
     }
   },

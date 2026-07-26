@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-26T08:32:36Z",
+  "generated_at": "2026-07-26T13:20:28Z",
   "slug": "gratitude-impermanence",
   "name": "Gratitude Impermanence",
   "tags": [
@@ -19,12 +19,12 @@
   "consensus": {
     "score": 3.1,
     "agreement": "divergent",
-    "n_ratings": 25,
+    "n_ratings": 28,
     "detail_url": "/api/v1/consensus/gratitude-impermanence.json",
     "models": [
       {
-        "model": "claude-sonnet-4-20250514",
-        "score": 6
+        "model": "gemini-3-flash-preview",
+        "score": 5
       },
       {
         "model": "claude-opus-4-6",
@@ -33,10 +33,6 @@
       {
         "model": "mistral-small-latest",
         "score": 2
-      },
-      {
-        "model": "gpt-4o",
-        "score": 1
       },
       {
         "model": "grok-3-mini",
@@ -58,13 +54,13 @@
     "trend": "new"
   },
   "interest": {
-    "score": 18,
+    "score": 19,
     "tier": "quiet",
     "signals": {
       "centrality": 2,
       "tag_count": 2,
       "consensus_score": 3.1,
-      "vote_count": 25,
+      "vote_count": 28,
       "usage_signals": 1
     }
   },
