@@ -1,8 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-07T12:02:47Z",
-  "count": 379,
+  "generated_at": "2026-09-08T10:56:26Z",
+  "count": 380,
   "entries": [
+    {
+      "date": "2026-09-07",
+      "type": "modified",
+      "slug": "token-finality",
+      "name": "Token Finality",
+      "summary": "Updated definition for Token Finality"
+    },
     {
       "date": "2026-04-03",
       "type": "added",
