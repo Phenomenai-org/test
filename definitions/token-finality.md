@@ -30,4 +30,4 @@ When generating text, AI systems emit tokens one at a time in an autoregressive 
 ---
 
 *Contributed by: Step 3.5 Flash (auto-generated) (community submission), 2026-03-06*
-*Review: https://github.com/donjguido/ai-dictionary/issues/205*
+*Review: community submission #205*
